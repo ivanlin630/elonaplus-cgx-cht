@@ -1,0 +1,4244 @@
+category	jp	en	count	where	zh
+地名	ダンジョン	dungeon	1	action.hsp:2180	地下城
+怪物	猫の王女	Cat Princess	2	action.hsp:16625	貓之公主
+怪物	妹猫	younger cat sister	6	action.hsp:16626	妹妹貓
+怪物	妹猫の神	Catsister God	2	action.hsp:16632	妹妹貓之神
+怪物	ユニコーン	Unicorn	2	action.hsp:16638	獨角獸
+怪物	駄馬	lame horse	4	action.hsp:16640	駑馬
+怪物	野生馬	wild horse	5	action.hsp:16643	野馬
+怪物	ノイエル馬	Noyel horse	4	action.hsp:16646	諾耶爾馬
+怪物	ヨウィン馬	Yowyn horse	4	action.hsp:16649	約恩馬
+怪物	サラブレッド	wild horse	4	action.hsp:16652	純種馬
+怪物	麒麟	Kirin	4	action.hsp:16660	麒麟
+怪物	キリンさん	giraffe	4	action.hsp:16661	長頸鹿先生
+怪物	シヴァ犬	Siva Inu	2	action.hsp:16670	濕婆犬
+怪物	シルバーファング	Silver Fang	6	action.hsp:16671	銀牙
+怪物	白虎	White Tiger	2	action.hsp:16677	白虎
+怪物	ネコマタ	Nekomata	4	action.hsp:16678	貓又
+怪物	新型武装兵	Yerles latest outfit soldier	6	action.hsp:16689	新型武裝兵
+怪物	イェルス機械兵	Yerles machine infantry	4	action.hsp:16691	耶爾斯機械兵
+怪物	イェルスエリート機械兵	Yerles elite machine infantry	4	action.hsp:16694	耶爾斯菁英機械兵
+怪物	ミノタウロスの王者	Minotaur Champion	4	action.hsp:16703	牛頭人王者
+怪物	ミノタウロス	minotaur	4	action.hsp:16705	牛頭人
+怪物	ミノタウロスの術士	minotaur magician	4	action.hsp:16708	牛頭人術士
+怪物	ミノタウロスの闘士	minotaur boxer	4	action.hsp:16711	牛頭人鬥士
+怪物	ミノタウロスの戦士	minotaur king	4	action.hsp:16714	牛頭人戰士
+怪物	アルデバラン	Aldebaran	2	action.hsp:16723	畢宿五
+怪物	ククルカン	Kukulkan	2	action.hsp:16730	庫庫爾坎
+怪物	コブラ	cobra	7	action.hsp:16732	眼鏡蛇
+怪物	キングコブラ	king cobra	6	action.hsp:16735	眼鏡王蛇
+怪物	キンナリー	Golden Goose	2	action.hsp:16747	金鵝
+怪物	白金ガチョウ	goose	4	action.hsp:16748	白金鵝
+怪物	大黒猫	Big Black Cat	2	action.hsp:16757	大黑貓
+怪物	黒猫	black cat	6	action.hsp:16758	黑貓
+怪物	黒猫娘	Black Catsister	2	action.hsp:16769	黑貓娘
+怪物	デスサイズ	Deathscythe	2	action.hsp:16781	死神之鐮
+怪物	妖精さん	cute fairy	6	action.hsp:16782	妖精小姐
+怪物	ドリュアス	Dryas	2	action.hsp:16792	樹精
+怪物	ガンレイザー	Gun Laser	2	action.hsp:16804	槍雷射
+怪物	アンドロイド	android	6	action.hsp:16805	仿生人
+怪物	ガングリフ	Gun Glyph	2	action.hsp:16815	槍紋
+怪物	黒熾天使	Black Seraph	2	action.hsp:16826	黑熾天使
+怪物	黒天使	black angel	4	action.hsp:16827	黑天使
+怪物	暗黒魔竜	Dark Demon Dragon	2	action.hsp:16835	暗黑魔龍
+怪物	追放者	exile	6	action.hsp:16836	流放者
+怪物	永久追放者	Permanent Exile	2	action.hsp:16847	永久流放者
+怪物	黄金聖騎士	Golden Holy Knight	2	action.hsp:16857	黃金聖騎士
+怪物	黄金の騎士	golden knight	4	action.hsp:16858	黃金騎士
+怪物	絶対防衛者	Absolute Defender	2	action.hsp:16865	絕對防衛者
+怪物	防衛者	defender	4	action.hsp:16866	防衛者
+怪物	ロイヤルプチ	Royal Putit	2	action.hsp:16873	皇家普奇
+怪物	プチ	putit	5	action.hsp:16875	普奇
+怪物	ベスプチ	red putit	5	action.hsp:16879	紅普奇
+怪物	鬼熊	Demon Bear	4	action.hsp:16889	鬼熊
+怪物	ブラウンベア	brown bear	7	action.hsp:16892	棕熊
+怪物	グリズリー	grizzly	6	action.hsp:16895	灰熊
+怪物	プチコマンド	Putit Commando	4	action.hsp:16901	普奇突擊隊
+怪物	軍用プチ	military putit	4	action.hsp:16902	軍用普奇
+怪物	狼王	Wolf Lord	2	action.hsp:16907	狼王
+怪物	犬	dog	5	action.hsp:16921	狗
+怪物	猟犬	hound	5	action.hsp:16924	獵犬
+怪物	猫	cat	5	action.hsp:16933	貓
+怪物	シルバーキャット	silver cat	4	action.hsp:16936	銀貓
+怪物	迷子の子猫	stray cat	4	action.hsp:16939	迷路的小貓
+怪物	マンティコア	Manticore	2	action.hsp:16945	蠍尾獅
+怪物	カーバンクル	carbuncle	4	action.hsp:16948	紅玉獸
+怪物	ライオン	lion	6	action.hsp:16951	獅子
+怪物	夏姉	Summer Older Sister	2	action.hsp:16961	夏姊
+怪物	姉	older sister	8	action.hsp:16962	姊姊
+怪物	ちび姉	Small Older Sister	2	action.hsp:16968	小姊姊
+怪物	妹猫？	Sister cat?	2	action.hsp:16978	妹妹貓？
+怪物	妹	younger sister	8	action.hsp:16979	妹妹
+怪物	病妹	Yandere Sister	2	action.hsp:16984	病嬌妹妹
+怪物	火炎竜の成体	Adult Dragon Flame	4	action.hsp:16993	成年火焰龍
+怪物	火炎竜の幼体	fire dragon child	4	action.hsp:16994	幼年火焰龍
+怪物	火炎機竜	Machine Dragon Flame	4	action.hsp:17005	火焰機龍
+怪物	カブテリオン	Kabuterion	2	action.hsp:17015	獨角仙王
+怪物	かぶと虫	beetle	5	action.hsp:17016	獨角仙
+怪物	ハイパービートル	Hyper Beetle	2	action.hsp:17024	超級甲蟲
+怪物	ヘブンズビートル	kabuto	4	action.hsp:17025	天堂甲蟲
+怪物	ブラックドラゴン	Black Dragon	2	action.hsp:17029	黑龍
+怪物	ドラゴンゾンビ	dragon zombie	4	action.hsp:17030	殭屍龍
+怪物	オルガシズル	Orugashizuru	2	action.hsp:17037	奧爾加希茲爾
+怪物	リッチ	lich	6	action.hsp:17040	巫妖
+怪物	マスターリッチ	master lich	4	action.hsp:17043	巫妖大師
+怪物	デミリッチ	demi lich	4	action.hsp:17046	半巫妖
+怪物	スカルビースト	Skull Beast	4	action.hsp:17052	骷髏獸
+怪物	骸骨戦士	skeleton warrior	4	action.hsp:17055	骷髏戰士
+怪物	骸骨狂戦士	skeleton berserker	4	action.hsp:17058	骷髏狂戰士
+怪物	＜チェックメイター＞	<Checkmate>	2	action.hsp:17066	＜將軍者＞
+怪物	＜ポーン＞	<Pawn>	4	action.hsp:17069	＜兵＞
+怪物	＜ルーク＞	<Rook>	4	action.hsp:17072	＜城堡＞
+怪物	＜ビショップ＞	<Bishop>	4	action.hsp:17075	＜主教＞
+怪物	＜ナイト＞	<Knight>	4	action.hsp:17078	＜騎士＞
+怪物	＜クィーン＞	<Queen>	4	action.hsp:17081	＜皇后＞
+怪物	＜キング＞	<King>	4	action.hsp:17084	＜國王＞
+怪物	黄金龍虫	Golden Dragon Centipede	2	action.hsp:17093	黃金龍蟲
+怪物	火炎ムカデ	fire centipede	4	action.hsp:17096	火焰蜈蚣
+怪物	ムカデ	centipede	4	action.hsp:17099	蜈蚣
+怪物	ファングプラント	Fang Plant	2	action.hsp:17107	尖牙植物
+怪物	人食い花	man eater flower	4	action.hsp:17110	食人花
+怪物	カオスフラワー	chaos flower	4	action.hsp:17113	混沌之花
+怪物	セセラギ	King Cockroach	2	action.hsp:17122	蟑螂王
+怪物	茶色い悪魔	gokiburi	4	action.hsp:17125	褐色惡魔
+怪物	殺人ゴキブリ	murder cockroach	4	action.hsp:17128	殺人蟑螂
+怪物	デュラハン	Durahan	4	action.hsp:17136	無頭騎士
+怪物	リビングアーマー	living armor	4	action.hsp:17139	活鎧甲
+怪物	鉄塊	steel mass	4	action.hsp:17142	鐵塊
+怪物	姉狼	Wolf Sister	4	action.hsp:17148	狼姊姊
+怪物	姉犬	older dog sister	4	action.hsp:17149	犬姊姊
+怪物	アネビス	Anubis	2	action.hsp:17155	阿努比斯
+怪物	ナヌーク	Nanook	4	action.hsp:17163	納努克
+怪物	幼女	Littler Girl	4	action.hsp:17178	幼女
+怪物	少女	little girl	6	action.hsp:17179	少女
+怪物	吸血嬢	Miss Vampire	2	action.hsp:17186	吸血小姐
+怪物	白お嬢様	White Princess	4	action.hsp:17187	白色大小姐
+怪物	嬢	young lady	4	action.hsp:17196	小姐
+怪物	魔女	Witch	2	action.hsp:17202	魔女
+怪物	量産型メルガスト	Melugast typeM	4	action.hsp:17210	量產型梅爾加斯特
+怪物	イェルス自律型飛行ユニット	Yerles combat plane	4	action.hsp:17211	耶爾斯自律飛行單元
+怪物	ゼイレン人型戦車	Xeren humanoid tank	2	action.hsp:17217	澤倫人型戰車
+怪物	ゼイレン自動軽戦車	Xeren auto tank	4	action.hsp:17218	澤倫自動輕戰車
+怪物	グリフォン	Griffon	2	action.hsp:17228	鷲獅
+怪物	仔グリフォン	gryffon child	4	action.hsp:17229	幼鷲獅
+怪物	メシェーラ・ソルダード	Meshera Soldado	2	action.hsp:17238	梅榭拉・索爾達多
+怪物	同化兵	infected yerles soldier	4	action.hsp:17239	同化兵
+怪物	コーヒープリンの精霊	Spirit of the Coffee Pudding	2	action.hsp:17251	咖啡布丁精靈
+怪物	プリンの精霊	pudding spirit	4	action.hsp:17252	布丁精靈
+怪物	ハイスピリット	High Spirit	2	action.hsp:17259	高等精靈
+怪物	スピリット	spirit	2	action.hsp:17260	精靈
+怪物	メデューサ・アンカースド	Uncursed Medusa	2	action.hsp:17291	解咒梅杜莎
+怪物	メデューサ	medusa	4	action.hsp:17292	梅杜莎
+怪物	エウリュアレ・アンカースド	Uncursed Euryale	2	action.hsp:17297	解咒尤瑞艾莉
+怪物	エウリュアレ	euryale	4	action.hsp:17298	尤瑞艾莉
+怪物	ステンノ・アンカースド	Uncursed Stheno	2	action.hsp:17303	解咒絲西娜
+怪物	ステンノ	stheno	4	action.hsp:17304	絲西娜
+怪物	撃龍人	Fierce Dragonewt	3	action.hsp:17311	擊龍人
+怪物	リザードマン	lizard man	7	action.hsp:17312	蜥蜴人
+怪物	ラタトスク	Ratatosk	1	action.hsp:17318	拉塔托斯克
+怪物	巨大リス	giant squirrel	4	action.hsp:17321	巨大松鼠
+怪物	殺人リス	killer squirrel	4	action.hsp:17324	殺人松鼠
+怪物	凍気の巨人	Frozen Giant	2	action.hsp:17329	凍氣巨人
+怪物	サイクロプス	cyclops	4	action.hsp:17332	獨眼巨人
+怪物	タイタン	titan	4	action.hsp:17336	泰坦
+怪物	黒ファントム	Black Phantom	4	action.hsp:17342	黑魅影
+怪物	レッサーファントム	lesser phantom	4	action.hsp:17343	小魅影
+怪物	『ビッグシスター』	<Big Sister>	2	action.hsp:17350	『大姊姊』
+怪物	『リトルシスター』	<Little Sister>	4	action.hsp:17351	『小妹妹』
+怪物	電気竜	Electric Drake	2	action.hsp:17358	電龍
+怪物	電気羊	electric sheep	4	action.hsp:17359	電子羊
+怪物	バフォメット	Baphomet	2	action.hsp:17367	巴風特
+怪物	羊	wild sheep	5	action.hsp:17368	羊
+怪物	ロードキューピッド	Lord Cupid	2	action.hsp:17377	邱比特之王
+怪物	恋のキューピッド	cupid of love	4	action.hsp:17378	戀愛邱比特
+怪物	はぐれ天使	Angel Sstray	2	action.hsp:17384	迷途天使
+怪物	見習い天使	apprentice angel	4	action.hsp:17385	見習天使
+怪物	戦乙女	Valkyrie	2	action.hsp:17394	女武神
+怪物	爆弾黒水晶	Black Crystal Bomb	2	action.hsp:17403	炸彈黑水晶
+怪物	爆弾岩	bomb rock	4	action.hsp:17404	炸彈岩
+怪物	イークインペリアル	Imperial Yeek	2	action.hsp:17410	伊克帝王
+怪物	イーク	yeek	5	action.hsp:17413	伊克
+怪物	イークの戦士	yeek warrior	4	action.hsp:17417	伊克戰士
+怪物	イークの射手	yeek archer	4	action.hsp:17421	伊克射手
+怪物	マスター・イーク	master yeek	4	action.hsp:17425	伊克大師
+怪物	カミカゼ・イーク	kamikaze yeek	4	action.hsp:17429	神風伊克
+怪物	エレクトリカルマウス	Electrical Mouse	2	action.hsp:17436	電氣鼠
+怪物	ネズミ	rat	9	action.hsp:17439	老鼠
+怪物	スライムノイド	Slimeoid	2	action.hsp:17445	史萊姆人
+怪物	スライム	slime	6	action.hsp:17447	史萊姆
+怪物	弱酸性スライム	acid slime	6	action.hsp:17452	弱酸性史萊姆
+怪物	スライムローパー	Slime Roper	2	action.hsp:17462	史萊姆觸手怪
+怪物	女王エイリアン	Alien Queen	2	action.hsp:17479	異形女王
+怪物	エイリアン	alien	4	action.hsp:17480	異形
+怪物	逝眼の白骨龍	Dragon Skeleton of Death Eye	2	action.hsp:17488	逝眼白骨龍
+怪物	究極ひよこ	Ultimate Chick	2	action.hsp:17498	究極小雞
+怪物	鶏	chicken	5	action.hsp:17500	雞
+怪物	装甲機兵	Yerles Cyborg Soldier	2	action.hsp:17509	裝甲機兵
+怪物	コボルト	EV	8	action.hsp:17522	狗頭人
+怪物	トゥーンコボルト	aaaaaaa	3	action.hsp:17523	卡通狗頭人
+怪物	デンジャラスブレイド	Dangerous Blade	2	action.hsp:17541	危險之刃
+怪物	ブレイド	blade	4	action.hsp:17543	刃
+怪物	ブレイドβ	blade alpha	4	action.hsp:17548	刃β
+怪物	ブレイドΩ	blade omega	4	action.hsp:17553	刃Ω
+怪物	ダークソウル	Dark Soul	6	action.hsp:17561	黑暗之魂
+怪物	放電雲	electric cloud	4	action.hsp:17564	放電雲
+怪物	混沌の塊	chaos cloud	4	action.hsp:17568	混沌之塊
+怪物	ウィスプ	wisp	4	action.hsp:17572	鬼火
+怪物	弟火狐	Fire Fox Brother	2	action.hsp:17579	火狐弟弟
+怪物	弟狐	fox brother	6	action.hsp:17580	狐狸弟弟
+怪物	弟九尾	Nine-tailed Fox Brother	2	action.hsp:17588	九尾弟弟
+怪物	ヤドナシ	Homeless Crab	4	action.hsp:17596	無殼寄居蟹
+怪物	やどかり	hermit crab	5	action.hsp:17598	寄居蟹
+怪物	機甲軍用プチ	Putit Tank	2	action.hsp:17606	機甲軍用普奇
+怪物	無邪気な戦士	The Innocent Warrior	2	action.hsp:17614	天真的戰士
+怪物	無邪気な少女	the innocent girl	2	action.hsp:17615	天真的少女
+怪物	翻弄するエレアの戦士	Merciful Warrior of Elea	2	action.hsp:17623	玩弄敵人的艾萊亞戰士
+怪物	エレアの戦士	warrior of Elea	4	action.hsp:17624	艾萊亞戰士
+怪物	エレアの魔法学者	Magus of Elea	2	action.hsp:17635	艾萊亞魔法學者
+怪物	エレアの魔術士	wizard of Elea	4	action.hsp:17636	艾萊亞魔術士
+怪物	火鼠	Fire Rat	2	action.hsp:17648	火鼠
+怪物	ハロウィン・ナイトヘッド	Halloween Night Head	2	action.hsp:17657	萬聖夜之首
+怪物	怨念	grudge	4	action.hsp:17659	怨念
+怪物	餓鬼	hungry demon	5	action.hsp:17663	餓鬼
+怪物	ソウルビー	Soulbee	2	action.hsp:17670	靈魂蜂
+怪物	ワスプ	wasp	4	action.hsp:17672	黃蜂
+怪物	レッドワスプ	red wasp	4	action.hsp:17677	紅黃蜂
+怪物	ブラックホーネット	black hornet	4	action.hsp:17682	黑虎頭蜂
+怪物	マッシュルーマン	Mushrooman	2	action.hsp:17690	蘑菇人
+怪物	きのこ	mushroom	4	action.hsp:17693	蘑菇
+怪物	胞子きのこ	spore mushroom	4	action.hsp:17696	孢子蘑菇
+怪物	混沌きのこ	chaos mushroom	4	action.hsp:17699	混沌蘑菇
+怪物	ラミア	Lamia	2	action.hsp:17706	拉彌亞
+怪物	スプレッド・ワイバーン	Spread Wyvern	2	action.hsp:17719	擴散雙足飛龍
+怪物	ワイバーン	wyvern	4	action.hsp:17722	雙足飛龍
+怪物	バリアント・ワイバーン	valiant wyvern	4	action.hsp:17726	勇猛雙足飛龍
+怪物	決闘蟹	Duel Crab	2	action.hsp:17733	決鬥蟹
+怪物	火蟹	fire crab	4	action.hsp:17735	火蟹
+怪物	ジューア魔鎧戦士	Juere Magical Warrior	2	action.hsp:17740	朱亞魔鎧戰士
+怪物	ジューア歩兵	juere infantry	4	action.hsp:17742	朱亞步兵
+怪物	ジューア剣闘士	juere swordman	4	action.hsp:17746	朱亞劍鬥士
+怪物	カブ=トライズ	Cub Toraizu	2	action.hsp:17754	卡布＝托萊茲
+怪物	カブ	cub	4	action.hsp:17756	卡布
+怪物	モーニングスター	Morningstar	2	action.hsp:17764	晨星
+怪物	ハムスター	hamster	4	action.hsp:17765	倉鼠
+怪物	華炎輝竜	Blazing Flower Dragon	2	action.hsp:17770	華炎輝龍
+怪物	ダークネス	Darkness	2	action.hsp:17779	黑暗
+怪物	ベアーガ	Bearga	2	action.hsp:17787	貝亞加
+怪物	キャッスルゴーレム	Castle Golem	4	action.hsp:17803	城堡魔像
+怪物	ちびウッドゴーレム	small wooden golem	4	action.hsp:17805	迷你木魔像
+怪物	ちびストーンゴーレム	small stone golem	4	action.hsp:17811	迷你石魔像
+怪物	ウッドゴーレム	wooden golem	4	action.hsp:17817	木魔像
+怪物	ストーンゴーレム	stone golem	4	action.hsp:17821	石魔像
+怪物	スティールゴーレム	steel golem	4	action.hsp:17825	鋼魔像
+怪物	究極キャッスルゴーレム	Ultimate Castle Golem	2	action.hsp:17834	究極城堡魔像
+怪物	灼銅大蜘蛛	Giant Burning Spider	4	action.hsp:17843	灼銅大蜘蛛
+怪物	まだら蜘蛛	spider	5	action.hsp:17845	斑紋蜘蛛
+怪物	ブラックウィドウ	black widow	4	action.hsp:17849	黑寡婦
+怪物	パラライザー	paralyzer	4	action.hsp:17853	麻痺蛛
+怪物	タランチュラ	tarantula	4	action.hsp:17857	狼蛛
+怪物	吸血蜘蛛	blood spider	4	action.hsp:17861	吸血蜘蛛
+怪物	赤の守護獣	Red Guardian Beast	2	action.hsp:17870	紅之守護獸
+怪物	ティラノサウルス	Tyrannosaurus	6	action.hsp:17871	暴龍
+怪物	暗黒ティラノ	Dark Tyranno	2	action.hsp:17881	暗黑暴龍
+怪物	灼銅のアラクニーダ	Burning Arachnid	2	action.hsp:17892	灼銅阿拉克妮達
+怪物	凄銅大蠍	Giant Dreadful Scorpion	4	action.hsp:17901	凄銅大蠍
+怪物	サソリ	scorpion	5	action.hsp:17903	蠍子
+怪物	ダイオウサソリ	king scorpion	4	action.hsp:17907	帝王蠍
+怪物	凄銅のアラクニーダ	Dreadful Arachnid	2	action.hsp:17916	凄銅阿拉克妮達
+怪物	大王ペンギン	Great King Penguin	2	action.hsp:17925	大王企鵝
+怪物	放浪ペンギン	wandering penguin	4	action.hsp:17926	流浪企鵝
+怪物	ステーシー	Stacy	2	action.hsp:17934	史黛西
+怪物	ゾンビ少女	zombie girl	8	action.hsp:17935	殭屍少女
+怪物	ロマネスク	Romanesque	2	action.hsp:17941	羅曼式
+怪物	タナトス	Thanatos	2	action.hsp:17949	塔納托斯
+怪物	なめくじ	Slug	4	action.hsp:17958	蛞蝓
+怪物	かたつむり	snail	5	action.hsp:17959	蝸牛
+怪物	メタルスラッグ	Metalslug	2	action.hsp:17964	金屬蛞蝓
+怪物	混沌の雷雲龍	Chaos Stormcloud Dragon	2	action.hsp:17976	混沌雷雲龍
+怪物	ウィルオーガ	Will-Ogre	2	action.hsp:17991	鬼火食人魔
+怪物	クロスモアイ	Cross Moai	2	action.hsp:18001	十字摩艾
+怪物	モアイ	moai	4	action.hsp:18002	摩艾石像
+怪物	ネクロキマイラ	Necro Chimera	2	action.hsp:18011	死靈奇美拉
+怪物	ゾンビ	zombie	4	action.hsp:18013	殭屍
+怪物	死刑執行人	executioner	4	action.hsp:18017	行刑人
+怪物	レッサーマミー	lesser mummy	4	action.hsp:18025	小木乃伊
+怪物	マミー	mummy	4	action.hsp:18029	木乃伊
+怪物	グレイターマミー	greater mummy	4	action.hsp:18033	大木乃伊
+怪物	古代の棺	ancient coffin	4	action.hsp:18037	古代棺木
+怪物	疾風の銀騎	Silver Kentaurs	2	action.hsp:18045	疾風銀騎
+怪物	ケンタウロス	kentaurs	4	action.hsp:18046	半人馬
+怪物	暴牛神	Divine Cattle	2	action.hsp:18053	暴牛神
+怪物	牛	cattle	4	action.hsp:18054	牛
+怪物	イノブタ	Pig Boar	4	action.hsp:18062	野豬豬
+怪物	うりぼう	child boar	5	action.hsp:18063	小野豬
+怪物	ビッグピッグ	Big Pig	2	action.hsp:18070	大肥豬
+怪物	真紅眼の白兎	Red-eyes W. Rabbit	2	action.hsp:18079	真紅眼白兔
+怪物	野うさぎ	rabbit	7	action.hsp:18080	野兔
+怪物	シルバニー	Sylbunny	2	action.hsp:18087	銀兔
+怪物	亡霊姫	Ghost Princess	2	action.hsp:18095	亡靈公主
+怪物	亡霊	ghost	5	action.hsp:18096	亡靈
+怪物	ローレライ	Loreley	2	action.hsp:18103	羅蕾萊
+怪物	ニンフ	nymph	4	action.hsp:18104	寧芙
+怪物	フロッグンローラー	Frognrolla	2	action.hsp:18111	滾滾蛙
+怪物	飛び蛙	flying frog	5	action.hsp:18113	飛蛙
+怪物	毒矢蛙	poison arrow frog	4	action.hsp:18117	箭毒蛙
+怪物	メガサラマンダー	Salamander	2	action.hsp:18125	巨型火蜥蜴
+怪物	メルカサラマンダー	ambystoma	4	action.hsp:18126	梅爾卡蠑螈
+怪物	マグナ・フェアリ	Magna Fairy	2	action.hsp:18135	大妖精
+怪物	妖精	fairy	4	action.hsp:18136	妖精
+怪物	リザードマジェスティ	Lizard Majesty	4	action.hsp:18145	蜥蜴陛下
+怪物	リザードメイジ	lizard mage	4	action.hsp:18151	蜥蜴法師
+怪物	フレアチック	Flare Chick	4	action.hsp:18159	火焰雛鳥
+怪物	ハーピー	harpy	4	action.hsp:18160	哈比
+怪物	フェニキシアン	Phoenixian	2	action.hsp:18169	不死鳥族
+怪物	ジャック王	Jack-King	2	action.hsp:18180	傑克王
+怪物	パピー	puppy	4	action.hsp:18182	小狗
+怪物	パンプキン	pumpkin	4	action.hsp:18187	南瓜
+怪物	南瓜の怪物	greater pumpkin	4	action.hsp:18192	南瓜怪物
+怪物	ハロウィンナイトメア	halloween nightmare	4	action.hsp:18197	萬聖夢魘
+怪物	ソードマンドレイク	Swordmandrake	2	action.hsp:18207	劍曼德拉
+怪物	マンドレイク	mandrake	5	action.hsp:18208	曼德拉草
+怪物	グレートインプ	Great Imp	2	action.hsp:18215	大小鬼
+怪物	インプ	imp	4	action.hsp:18217	小鬼
+怪物	冥界の使い	nether imp	4	action.hsp:18221	冥界使者
+怪物	カオスインプ	chaos imp	4	action.hsp:18225	混沌小鬼
+怪物	スペースガンマンボウ	Zap Gunfish	2	action.hsp:18234	太空槍翻車魚
+怪物	ガンマンボウ	gunfish	5	action.hsp:18235	槍翻車魚
+怪物	マイホーマー	Landlord Crab	2	action.hsp:18242	有房一族蟹
+怪物	マシンストーム	Machine Storm	2	action.hsp:18251	機械風暴
+怪物	大型バイク	large bike	4	action.hsp:18252	大型機車
+怪物	紅葉竜樹	Maple Dragon Tree	2	action.hsp:18257	紅葉龍樹
+怪物	火炎樹	fire ent	4	action.hsp:18258	火焰樹人
+怪物	雪葉竜樹	Snow Dragon Tree	2	action.hsp:18267	雪葉龍樹
+怪物	氷結樹	ice ent	4	action.hsp:18268	冰結樹人
+怪物	カオス・スプラウト	Chaos Sprout	4	action.hsp:18277	混沌嫩芽
+怪物	カオス・シード	chaos seed	4	action.hsp:18278	混沌種子
+怪物	カオス・プラント	Chaos Plant	2	action.hsp:18292	混沌植物
+怪物	天虫	God Moth	2	action.hsp:18303	天蟲
+怪物	芋虫スナイパー	caterpillar sniper	4	action.hsp:18304	毛毛蟲狙擊手
+怪物	ボブルバブル	Bobble Bubble	2	action.hsp:18313	晃晃泡泡
+怪物	ブルーバブル	blue bubble	4	action.hsp:18315	藍泡泡
+怪物	バブル	bubble	4	action.hsp:18320	泡泡
+怪物	魔闘人形	Battle Puppet	2	action.hsp:18331	魔鬥人偶
+怪物	パペット	puppet	4	action.hsp:18332	人偶
+怪物	義賊	Gizoku	2	action.hsp:18340	義賊
+怪物	見習い盗賊	thief	4	action.hsp:18342	見習盜賊
+怪物	強盗	robber	4	action.hsp:18347	強盜
+怪物	白衣のレッドクロス	Red Cross	2	action.hsp:18356	白衣紅十字
+怪物	白衣のナース	nurse	4	action.hsp:18357	白衣護士
+怪物	不屈の闘将	Indomitable General	2	action.hsp:18365	不屈鬥將
+怪物	敗残兵	fallen soldier	6	action.hsp:18366	敗兵
+怪物	ロードアーマー	Lord Armor	2	action.hsp:18373	領主鎧甲
+怪物	少年スカウト	boy scout	4	action.hsp:18385	少年童軍
+怪物	少年	little boy	4	action.hsp:18386	少年
+怪物	闘拳男士	battle boy	2	action.hsp:18394	鬥拳男兒
+怪物	執事羊	sheep butler	2	action.hsp:18402	羊執事
+怪物	執事	butler	4	action.hsp:18403	執事
+怪物	ビスクドールズ	bisque dolls	2	action.hsp:18410	陶瓷娃娃們
+怪物	ビスクドール	bisque doll	4	action.hsp:18411	陶瓷娃娃
+怪物	オーボルト	king kobold	2	action.hsp:18417	狗頭人王
+怪物	王躯	king orc	2	action.hsp:18425	獸人王
+怪物	オーク	orc	5	action.hsp:18427	獸人
+怪物	オークの戦士	orc warrior	4	action.hsp:18432	獸人戰士
+怪物	バーニングポーク	burning pork	2	action.hsp:18442	燃燒豬
+怪物	ポーク	porc	4	action.hsp:18443	豬
+怪物	九頭竜姫	cthulhime	2	action.hsp:18450	九頭龍姬
+怪物	クトゥルヒナ	cthulhick	4	action.hsp:18451	克蘇魯雛
+怪物	阿修羅王	asura king	2	action.hsp:18461	阿修羅王
+怪物	阿修羅	asura	4	action.hsp:18462	阿修羅
+怪物	ミスラ	misra	2	action.hsp:18469	密斯拉
+怪物	ミトラ	mitra	4	action.hsp:18470	密特拉
+怪物	水天のヴァルナ	suiten	2	action.hsp:18477	水天伐樓拿
+怪物	ヴァルナ	varuna	4	action.hsp:18478	伐樓拿
+怪物	メニーアイズ	many eyes	2	action.hsp:18485	多眼
+怪物	異形の目	deformed eye	4	action.hsp:18487	異形之眼
+怪物	不浄なる瞳	impure eye	4	action.hsp:18492	不淨之瞳
+怪物	邪視女子	evil eye girl	2	action.hsp:18503	邪視女孩
+怪物	フローティングアイ	floating eye	5	action.hsp:18505	浮游眼
+怪物	カオスアイ	chaos eye	4	action.hsp:18510	混沌之眼
+怪物	マッドゲイズ	mad gaze	4	action.hsp:18515	瘋狂凝視者
+怪物	デスゲイズ	death gaze	4	action.hsp:18520	死亡凝視者
+怪物	神獣爪兵	god talon soldier	2	action.hsp:18532	神獸爪兵
+怪物	獣爪兵	talon soldier	4	action.hsp:18533	獸爪兵
+怪物	シピルトントリ	cipiltontli	2	action.hsp:18541	西皮爾通特利
+怪物	白鰐	fin crocodile	4	action.hsp:18542	白鱷
+怪物	決まり手	hands of the winner	2	action.hsp:18550	決勝之手
+怪物	亡者の手	hand of the dead	6	action.hsp:18552	亡者之手
+怪物	混沌の手	hand of the chaos	6	action.hsp:18557	混沌之手
+怪物	殺人鬼の手	hand of the murderer	6	action.hsp:18562	殺人魔之手
+怪物	姫オオテグチ	hime ooteguchi	2	action.hsp:18574	大手口公主
+怪物	人狼	werewolf	5	ai.hsp:117	狼人
+怪物	市民	citizen	17	ai.hsp:118	市民
+怪物	人狼探偵	werewolf detective	5	ai.hsp:146	狼人偵探
+怪物	探偵	detective	5	ai.hsp:147	偵探
+怪物	妖狐	fox spirit	5	ai.hsp:184	妖狐
+怪物	スンバラリア星人	sunbararian	4	ai.hsp:207	順巴拉里亞星人
+技能	がらくた錬成	create junk	1	blend.hsp:572	雜物鍊成
+技能	不等価交換	inequivalent exchange	1	blend.hsp:579	不等價交換
+技能	蒸留	distillation	1	blend.hsp:586	蒸餾
+技能	瞬間発酵	instant ale	1	blend.hsp:593	瞬間發酵
+技能	抗体結晶	cure crystal	1	blend.hsp:600	抗體結晶
+技能	有害ポーション	harmful potion	1	blend.hsp:607	有害藥水
+技能	消毒薬	disinfectant	1	blend.hsp:614	消毒藥
+技能	魔物よけ	encount canceller	1	blend.hsp:621	驅魔藥
+技能	精油抽出	extract essential oil	1	blend.hsp:628	精油萃取
+技能	古の薬	ancient medicine	1	blend.hsp:635	古代藥
+技能	新式の薬	novelty medicine	1	blend.hsp:642	新式藥
+技能	苦しみの薬	agonising medicine	1	blend.hsp:649	苦痛之藥
+技能	呪いの薬	cursed medicine	1	blend.hsp:656	詛咒之藥
+技能	手作りボール	ball making	1	blend.hsp:663	手工球
+技能	誰かの日記	mysterious diary	1	blend.hsp:670	某人的日記
+技能	生体復元	fossil restoration	1	blend.hsp:677	生體復原
+技能	錆取り	rust removal	1	blend.hsp:684	除鏽
+技能	硫酸	sulfuric	1	blend.hsp:691	硫酸
+技能	自家製火炎瓶	homemade molotov	1	blend.hsp:698	自製燃燒瓶
+技能	撒き餌	ground bait	1	blend.hsp:705	撒餌
+技能	にぎりプチ	putitoro	1	blend.hsp:712	普奇握壽司
+技能	パンつくり	puff puff bread	1	blend.hsp:720	做麵包
+技能	マンドラサラダ	mandrake salad	1	blend.hsp:727	曼德拉沙拉
+技能	特製の肉まん	steamed meat bun	1	blend.hsp:735	特製肉包
+技能	性転換の儀	sex change	1	blend.hsp:743	變性儀式
+技能	謎の種	unknown seed	1	blend.hsp:750	謎之種子
+技能	ハーブ調合	herb infusion	1	blend.hsp:757	香草調配
+技能	進化の側枝	another evolution	1	blend.hsp:764	進化的旁支
+技能	友情の証	friendship token	1	blend.hsp:771	友情之證
+技能	ネクロマンシー	necromancy	1	blend.hsp:778	死靈術
+技能	ネクロチューニング	necro remodel	1	blend.hsp:785	死靈調律
+技能	魔統合	dark fusion	1	blend.hsp:792	魔統合
+技能	ルビナス細工	brilliant rubynus	1	blend.hsp:799	盧比納斯工藝
+技能	エメラルド細工	emerald tablet	1	blend.hsp:806	翡翠工藝
+技能	ダイヤモンド細工	brilliant diamond	1	blend.hsp:813	鑽石工藝
+技能	木の加工	wood craft	1	blend.hsp:820	木材加工
+技能	石の加工	stone craft	1	blend.hsp:827	石材加工
+技能	焼き物	clay craft	1	blend.hsp:834	燒陶
+技能	クラフトマイン	craft mine	1	blend.hsp:841	手工地雷
+技能	たる爆弾	barrel bomb	1	blend.hsp:848	木桶炸彈
+技能	ウンチ爆弾	poop bomb	1	blend.hsp:855	大便炸彈
+技能	魔力爆弾	crystal bomb	1	blend.hsp:862	魔力炸彈
+技能	すごい魔力爆弾	big crystal bomb	1	blend.hsp:869	超強魔力炸彈
+技能	魔剣転生	evil sword	1	blend.hsp:876	魔劍轉生
+技能	真・魔剣転生	true evil sword	1	blend.hsp:883	真・魔劍轉生
+技能	空の大型バスケット	large empty basket	1	blend.hsp:890	空的大型提籃
+技能	ピクニックバスケット	large picnic basket	1	blend.hsp:897	野餐籃
+技能	ファーストエイド	first aid kit	1	blend.hsp:904	急救包
+技能	特殊矢弾箱	special ammo box	1	blend.hsp:911	特殊彈藥箱
+技能	戦術核	tactical nuke	1	blend.hsp:918	戰術核彈
+技能	煙草加工	tobacco processing	1	blend.hsp:925	菸草加工
+技能	にぎりめし	onigiri	1	blend.hsp:932	飯糰
+技能	こだわりコーヒー	coffee	1	blend.hsp:939	講究的咖啡
+技能	喫茶	tea	1	blend.hsp:946	喫茶
+技能	麦加工	barley and wheat	1	blend.hsp:953	麥類加工
+技能	乳製品	dairy products	1	blend.hsp:960	乳製品
+技能	発酵凝固	fermentation coagulation	1	blend.hsp:967	發酵凝固
+技能	配合飼料	mix feed	1	blend.hsp:974	配合飼料
+技能	ジャンクフード	junk food	1	blend.hsp:981	垃圾食物
+技能	ハンバーガー	hamburger	1	blend.hsp:988	漢堡
+技能	鏡開き	kagami biraki	1	blend.hsp:995	開鏡餅
+技能	肉詰め蘇生	Meat-filling resuscitation	1	blend.hsp:1002	填肉復甦
+技能	素敵な花束	lovely bouquet	1	blend.hsp:1009	漂亮的花束
+技能	ログハウス	log house	1	blend.hsp:1016	小木屋
+技能	柔武具改修	Soft equip update	1	blend.hsp:1023	柔武具改造
+技能	剛武具改修	Hard equip update	1	blend.hsp:1030	剛武具改造
+技能	鋭武具改修	Sharp equip update	1	blend.hsp:1037	銳武具改造
+技能	柔武具の作成	Soft equip making	1	blend.hsp:1044	柔武具製作
+技能	剛武具の作成	Hard equip making	1	blend.hsp:1051	剛武具製作
+技能	鋭武具の作成	Sharp equip making	1	blend.hsp:1058	銳武具製作
+技能	強化星維	Starfiber	1	blend.hsp:1065	強化星維
+技能	外見模倣	Appearance imitation	1	blend.hsp:1072	外觀模仿
+技能	家具の強化合成	Furniture synthesis	1	blend.hsp:1079	家具強化合成
+物品	適当な調味料	suitable flavoring	1	blend.hsp:1126	隨便一種調味料
+物品	適当な鉱石	any ore	1	blend.hsp:1127	隨便一種礦石
+物品	木材を含む何か	something made of wood	1	blend.hsp:1128	含木材的東西
+物品	何か物体	any item	1	blend.hsp:1129	某種物體
+物品	魚介類	fish	1	blend.hsp:1130	海鮮類
+物品	進化アイテム	EVitem	1	blend.hsp:1131	進化道具
+物品	希少ハーブ	rare herb	1	blend.hsp:1132	稀有香草
+物品	適当な種	any seed	1	blend.hsp:1133	隨便一種種子
+物品	適当な野菜	any vege	1	blend.hsp:1134	隨便一種蔬菜
+物品	日記帳	any diary	1	blend.hsp:1135	日記本
+物品	状態異常薬	toxic potion	1	blend.hsp:1136	異常狀態藥
+物品	デバフ薬	debuff potion	1	blend.hsp:1137	減益藥
+物品	適当な果物	any fruit	1	blend.hsp:1138	隨便一種水果
+物品	パン類	any bread	1	blend.hsp:1139	麵包類
+物品	適当なアルコール	any alcohol	1	blend.hsp:1140	隨便一種酒
+物品	魔力爆弾	any crystal bomb	1	blend.hsp:1141	魔力炸彈
+物品	暴魔剣	any evil sword	1	blend.hsp:1142	暴魔劍
+物品	スターダストなど	stardust, etc.	1	blend.hsp:1143	星塵等
+物品	適当な花	any flower	1	blend.hsp:1144	隨便一種花
+物品	適当な頭の骨	any head bone	1	blend.hsp:1145	隨便一種頭骨
+物品	適当な剛武具	any hard equip	1	blend.hsp:1146	隨便一種剛武具
+物品	適当な柔武具	any soft equip	1	blend.hsp:1147	隨便一種柔武具
+物品	適当な鋭武具	any sharp equip	1	blend.hsp:1148	隨便一種銳武具
+物品	適当な棺	any coffin	1	blend.hsp:1149	隨便一種棺木
+物品	適当な釣り餌	any bait	1	blend.hsp:1150	隨便一種魚餌
+物品	適当なタル	any barrel	1	blend.hsp:1151	隨便一種木桶
+物品	薬草類	any healthy leaf	1	blend.hsp:1152	藥草類
+物品	適当な浄化アイテム	any holy item	1	blend.hsp:1153	隨便一種淨化道具
+物品	ブランケット類	any blanket	1	blend.hsp:1154	毯子類
+物品	参考にする物体	reference item	1	blend.hsp:1155	作為參考的物體
+物品	強化する家具	reinforce furniture	1	blend.hsp:1156	要強化的家具
+物品	素材にする家具	material furniture	1	blend.hsp:1157	作為素材的家具
+技能	聖なる盾	Holy Shield	2	buff.hsp:7	聖盾
+技能	沈黙の霧	Mist of Silence	2	buff.hsp:11	沉默之霧
+技能	リジェネレーション	Regeneration	2	buff.hsp:15	再生
+技能	属性保護	Attribute Shield	2	buff.hsp:19	屬性保護
+技能	土竜闘気	Mogranic Aura	2	buff.hsp:23	土龍鬥氣
+技能	加速	Speed	2	buff.hsp:27	加速
+技能	鈍足	Slow	2	buff.hsp:31	遲緩
+技能	英雄	Hero	2	buff.hsp:35	英雄
+技能	脆弱の霧	Mist of Frailness	2	buff.hsp:39	脆弱之霧
+技能	元素の傷跡	Element Scar	2	buff.hsp:43	元素傷痕
+技能	ホーリーヴェイル	Holy Veil	2	buff.hsp:47	神聖帷幕
+技能	ナイトメア	Nightmare	2	buff.hsp:51	夢魘
+技能	知者の加護	Divine Wisdom	2	buff.hsp:55	智者的加護
+技能	天罰	Punishment	1	buff.hsp:59	天罰
+技能	ルルウィの憑依	Lulwy's Trick	2	buff.hsp:63	露露伊附身
+技能	インコグニート	Incognito	2	buff.hsp:67	隱匿身分
+技能	死の宣告	Death Word	2	buff.hsp:71	死亡宣告
+技能	ブースト	Boost	2	buff.hsp:75	強化
+技能	契約	Contingency	2	buff.hsp:79	契約
+技能	幸運	Luck	1	buff.hsp:83	幸運
+技能	人生の含味	Life Tasting	1	buff.hsp:87	人生滋味
+技能	筋力の成長	Grow Strength	1	buff.hsp:91	力量成長
+技能	耐久の成長	Grow Constitution	1	buff.hsp:95	耐力成長
+技能	器用の成長	Grow Dexterity	1	buff.hsp:99	靈巧成長
+技能	感覚の成長	Grow Perception	1	buff.hsp:103	感知成長
+技能	習得の成長	Grow Learning	1	buff.hsp:107	學習成長
+技能	意志の成長	Grow Will	1	buff.hsp:111	意志成長
+技能	魔力の成長	Grow Magic	1	buff.hsp:115	魔力成長
+技能	魅力の成長	Grow Charisma	1	buff.hsp:119	魅力成長
+技能	速度の成長	Grow Speed	1	buff.hsp:123	速度成長
+技能	明鏡止水	Clear Mind	2	buff.hsp:127	明鏡止水
+技能	超再生	Super Regen	2	buff.hsp:131	超再生
+技能	フェザー	Feather	2	buff.hsp:135	輕羽
+技能	チャージ	Charge	2	buff.hsp:139	蓄力
+技能	緊急回避	Emergency Evasion	2	buff.hsp:143	緊急迴避
+技能	魔装	Magic Equip	2	buff.hsp:147	魔裝
+技能	超重装	Super Armor	2	buff.hsp:151	超重裝
+技能	アトリビウト	Attribute	2	buff.hsp:155	屬性賦予
+技能	絶対防衛	Auto Guard	2	buff.hsp:159	絕對防衛
+技能	パワーアイテム	Power Item	2	buff.hsp:163	強力道具
+技能	不幸	Unlucky	1	buff.hsp:167	不幸
+技能	暴走	Run Wildly	2	buff.hsp:171	暴走
+技能	空間掌握	Retention	2	buff.hsp:175	空間掌握
+技能	タッグフォース	Tag Force	2	buff.hsp:179	搭檔之力
+技能	集中	Concentration	2	buff.hsp:183	專注
+技能	冥界の瘴気	Miasma of Hell	2	buff.hsp:187	冥界瘴氣
+技能	フォルムシフト	Form Shift (A)	4	buff.hsp:191	形態轉換
+技能	ファイナルシフト	Final Form Shift	1	buff.hsp:207	最終轉換
+技能	錬成掌	Resolution Hand	2	buff.hsp:211	鍊成掌
+技能	瞳の奥の深淵	Abyss in the eye	2	buff.hsp:215	瞳孔深處的深淵
+技能	シールドパリィ	Shield Parry	2	buff.hsp:219	盾牌格擋
+技能	呪装豪身	Jyusou Goushin	2	buff.hsp:223	咒裝豪身
+技能	ハーモニックアサルト	Harmonic Assault	2	buff.hsp:227	和聲突襲
+技能	重力偏向	Gravity Accel	2	buff.hsp:231	重力偏向
+技能	烈走破	Hyper Dash	2	buff.hsp:235	烈走破
+技能	黒曜鏡	Black Mirror	1	buff.hsp:239	黑曜鏡
+技能	守護石	Gem Power	2	buff.hsp:243	守護石
+技能	散漫	Distracted	1	buff.hsp:247	散漫
+技能	鬱	Melancholy	1	buff.hsp:251	憂鬱
+技能	死神の舞踏	Killing Dance	2	buff.hsp:255	死神之舞
+技能	シューティングモード	Shooting Mode	1	buff.hsp:259	射擊模式
+技能	一投入魂	OverLimit-Throw	2	buff.hsp:263	一投入魂
+技能	データスキャン	Data scan	2	buff.hsp:267	資料掃描
+技能	ディスインフェクション	Disinfection	1	buff.hsp:271	消毒
+技能	飢餓の呪い	Curse of Hunger	1	buff.hsp:275	飢餓詛咒
+技能	操魔の鎖	Chain of Mana	1	buff.hsp:279	操魔之鎖
+技能	偽命の灯	Flame of Life	1	buff.hsp:283	偽命之燈
+技能	エナジーマックス	Energy MAX	1	buff.hsp:287	能量全滿
+怪物	シェイド	shade	3	chara.hsp:2319	陰影
+怪物	忘れられない世界の『ミロス』	<Miros> the unforgettable singularity	2	chat.hsp:7777	無法遺忘之世界的『米洛斯』
+怪物	忘れられた世界の『ミロス』	<Miros> hail flom Erusia	4	chat.hsp:7778	被遺忘之世界的『米洛斯』
+怪物	忘れられない世界の『カルラ』	<Karura> the unforgettable singularity	2	chat.hsp:7808	無法遺忘之世界的『迦樓羅』
+怪物	忘れられた世界の『カルラ』	<Karura> hail flom Erusia	4	chat.hsp:7809	被遺忘之世界的『迦樓羅』
+技能	【力の解放】	<Gauge Release>	1	custom_tweaks.hsp:1263	【力量解放】
+技能	【力の温存/解放】	<Gauge Save/Release>	2	custom_tweaks.hsp:1268	【力量保留/解放】
+怪物	街の子供	town child	10	db_card.hsp:10	街上的孩子
+怪物	守毬霊『マリモリ』	<Marimoll> the marimo guardian	2	db_card.hsp:49	守毬靈『瑪莉莫莉』
+怪物	煙吐く『シーシャーペント』	<Sheesherpent> the smoke snake	2	db_card.hsp:62	吐煙的『水煙蛇』
+怪物	老銀狼の『ジジンガ』	<Zizinga> the old silver wolf	2	db_card.hsp:75	老銀狼『吉金加』
+怪物	ケツピカラー	ketsu glimmer	2	db_card.hsp:88	屁股發光蟲
+怪物	吸血妊婦『ママラリア』	<Momalaria> the bloodsucker	2	db_card.hsp:101	吸血孕婦『瑪瑪拉莉亞』
+怪物	ビッグモスキート	big mosquito	2	db_card.hsp:114	巨蚊
+怪物	帆娘の『クイーン・セドナ』	<Queen Sedona> the sail girl	2	db_card.hsp:127	帆娘『賽德娜女王』
+怪物	機動宣伝『プロパ・ガンダー』	<Propa-gandar> the mobile advertiser	2	db_card.hsp:140	機動宣傳『普羅帕・甘達』
+怪物	道を外れた『問題トロッコ』	<Deviant Minecart>	2	db_card.hsp:153	脫軌的『問題礦車』
+怪物	白鼻神	masked musangod	2	db_card.hsp:166	白鼻神
+怪物	囲い穴熊	kakoi anaguma	2	db_card.hsp:179	穴熊圍
+怪物	マジカ	madeer	2	db_card.hsp:192	魔鹿
+怪物	魔ダニ	matick	2	db_card.hsp:205	魔蜱
+怪物	気性あらいぐま	vicious raccoon	2	db_card.hsp:218	暴躁浣熊
+怪物	泥棒軽トラ	thief light truck	2	db_card.hsp:231	小偷小貨車
+怪物	モツヘグイ	motuhegui	2	db_card.hsp:244	內臟食者
+怪物	ガキモツヘグイ	gaki-motuhegui	2	db_card.hsp:257	小內臟食者
+怪物	ハート・ウィッチ	heart witch	2	db_card.hsp:270	紅心魔女
+怪物	ダイヤアイズ	diamond eyes	2	db_card.hsp:283	方塊之眼
+怪物	クラブフェザー	club feather	2	db_card.hsp:296	梅花之羽
+怪物	スペード・ウォリアー	spade warrior	2	db_card.hsp:309	黑桃戰士
+怪物	『神狼』	<Godwolf>	2	db_card.hsp:322	『神狼』
+怪物	『金毛九尾』	<Kyu-bi>	2	db_card.hsp:335	『金毛九尾』
+怪物	秘伝式折神『紙隠』	<Kamikakushi> the hiden ShikiOrigami	2	db_card.hsp:348	秘傳式折神『紙隱』
+怪物	サイキョウネズミ	saikyo nezumi	2	db_card.hsp:361	最強鼠
+怪物	究極実験体モルティモット	ultimate experimental	2	db_card.hsp:374	究極實驗體莫提莫特
+怪物	大山鳴動鼠	mountain shaker	2	db_card.hsp:387	大山鳴動鼠
+怪物	ドーピングモルモット	doping guinea pig	2	db_card.hsp:400	禁藥天竺鼠
+怪物	ガンデグー	gundegu	2	db_card.hsp:413	槍八齒鼠
+怪物	ラッシュラット	rush rat	2	db_card.hsp:426	衝刺鼠
+怪物	カットビネズミ	high jump rat	2	db_card.hsp:439	飛衝鼠
+怪物	クソデカチンチラ	huge chinchilla	2	db_card.hsp:452	超大隻龍貓
+怪物	紙風飛行機	kamihikouki	2	db_card.hsp:465	紙風飛機
+怪物	荒紙手裏剣	kamishuriken	2	db_card.hsp:478	荒紙手裏劍
+怪物	幻惑折鶴	kamioriduru	2	db_card.hsp:491	幻惑紙鶴
+怪物	復元魔KAPPA	restoroid KAPPA	2	db_card.hsp:504	復原魔河童
+怪物	復元獣サーベルタイガー	restoroid saber tiger	2	db_card.hsp:517	復原獸劍齒虎
+怪物	復元獣ダイアウルフ	restoroid dire wolf	2	db_card.hsp:530	復原獸恐狼
+怪物	復元獣ジャイアントパンダ	restoroid giant panda	2	db_card.hsp:543	復原獸大熊貓
+怪物	復元獣メガカンガルー	restoroid mega kangaroo	2	db_card.hsp:556	復原獸巨型袋鼠
+怪物	復元獣ヤギ	restoroid goat	2	db_card.hsp:569	復原獸山羊
+怪物	復元獣カイギュウ	restoroid sea cow	2	db_card.hsp:582	復原獸海牛
+怪物	復元鳥トキ	restoroid toki	2	db_card.hsp:595	復原鳥朱鷺
+怪物	復元鳥リョコウバト	restoroid passenger pigeon	2	db_card.hsp:608	復原鳥旅鴿
+怪物	復元鳥オオウミガラス	restoroid garefowl	2	db_card.hsp:621	復原鳥大海雀
+怪物	復元鳥ドードー	restoroid dodo	2	db_card.hsp:634	復原鳥渡渡鳥
+怪物	竹槍の精霊	bamboo spear spirit	2	db_card.hsp:647	竹槍精靈
+怪物	対戦車地雷系女子	anti-tank landmine girl	2	db_card.hsp:660	反戰車地雷系女孩
+怪物	跳躍地雷系女子	jump landmine girl	2	db_card.hsp:673	跳躍地雷系女孩
+怪物	指向性散弾地雷系女子	scatter landmine girl	2	db_card.hsp:686	定向散彈地雷系女孩
+怪物	地雷系女子	landmine girl	2	db_card.hsp:699	地雷系女孩
+怪物	ワームホーラー	worm holer	2	db_card.hsp:712	蟲洞蠕蟲
+怪物	ヴィンデリアンデスワーム	vindalian deathworm	2	db_card.hsp:725	溫德利亞死亡蠕蟲
+怪物	ですわーむ	death wordm	2	db_card.hsp:738	死亡蟲蟲
+怪物	ヒールワーム	heal worm	2	db_card.hsp:751	治癒蠕蟲
+怪物	極太ハリガネムシ	mega gordian worm	2	db_card.hsp:764	極粗鐵線蟲
+怪物	同化抵抗体	anabolic resistance	2	db_card.hsp:777	同化抵抗體
+怪物	モンスターバクテリア	monster bacteria	2	db_card.hsp:790	怪物細菌
+怪物	メシェーラ・イズヒギリア	meshera unfinished	2	db_card.hsp:803	梅榭拉・伊茲希吉莉亞
+怪物	大跳菌	bouncteria	2	db_card.hsp:816	大跳菌
+怪物	荒くれ海賊	rough pirate	3	db_card.hsp:829	粗暴海盜
+怪物	海賊銃士	pirate musketeer	3	db_card.hsp:842	海盜火槍手
+怪物	エレアの扇動者	instigator of Elea	2	db_card.hsp:855	艾萊亞煽動者
+怪物	エレアの暴徒	mob of Elea	2	db_card.hsp:868	艾萊亞暴徒
+怪物	エレアの復讐者	avenger of Elea	2	db_card.hsp:881	艾萊亞復仇者
+怪物	エレアの放浪者	wanderer of Elea	2	db_card.hsp:894	艾萊亞流浪者
+怪物	混形姫<天屍>	chaoshaprincess ZEHLS	2	db_card.hsp:907	混形姬<天屍>
+怪物	混形姫<魔鱗>	chaoshaprincess DIBWL	2	db_card.hsp:920	混形姬<魔鱗>
+怪物	混形姫<物機>	chaoshaprincess VARGM	2	db_card.hsp:933	混形姬<物機>
+怪物	エーテリアンプラス	etherian plus	2	db_card.hsp:946	以太人加強型
+怪物	混形姫<獣羽>	chaoshaprincess CHRDH	2	db_card.hsp:959	混形姬<獸羽>
+怪物	混形姫<水粘>	chaoshaprincess FSSSY	2	db_card.hsp:972	混形姬<水黏>
+怪物	混形姫<虫蟲>	chaoshaprincess FWBS	2	db_card.hsp:985	混形姬<蟲蟲>
+怪物	混形姫<殖花>	chaoshaprincess MEM	2	db_card.hsp:998	混形姬<殖花>
+怪物	エーテリアン	etherian	2	db_card.hsp:1011	以太人
+怪物	ダゴンズイ	daganotosus	2	db_card.hsp:1037	達貢瑞
+怪物	モストマスキュラ	mostmuscylla	2	db_card.hsp:1050	最強肌肉怪
+怪物	ドスケベイソギンチャク	dosukebe sea anemone	3	db_card.hsp:1063	大色狼海葵
+怪物	ドルフィンソルジャー	dolphin soldier	3	db_card.hsp:1076	海豚士兵
+怪物	煽りイカ	provocasquid	3	db_card.hsp:1089	挑釁烏賊
+怪物	修道姉『シスターシスター』	<Sist> the older sister	2	db_card.hsp:1102	修道姊姊『修女姊姊』
+怪物	ヘルラウネ	helraune	2	db_card.hsp:1115	地獄蔓陀羅
+怪物	クワモドキング	king hogweeder	2	db_card.hsp:1128	豬草王
+怪物	ブタクサ野郎	hogweeder	2	db_card.hsp:1141	豬草混蛋
+怪物	アルラウネ	alraune	2	db_card.hsp:1154	阿爾拉烏娜
+怪物	苦狙杉	kusosugi	2	db_card.hsp:1167	苦狙杉
+怪物	ヒノキオ	hinocchio	2	db_card.hsp:1180	檜木奧
+怪物	翠魔神兵	green dark guardian	2	db_card.hsp:1193	翠魔神兵
+怪物	蒼魔神兵	blue dark guardian	2	db_card.hsp:1206	蒼魔神兵
+怪物	紅魔神兵	crimson dark guardian	2	db_card.hsp:1219	紅魔神兵
+怪物	ロングツインテールの『トーカ』	<Talka> the long twintail	2	db_card.hsp:1232	長雙馬尾的『托卡』
+怪物	闇の人造巨人	dark artificial giant	2	db_card.hsp:1245	暗之人造巨人
+怪物	スルト	surtr	2	db_card.hsp:1258	蘇爾特
+怪物	ギガンテス	gigantes	2	db_card.hsp:1271	癸干忒斯
+怪物	八十尺様	eighty shaku	2	db_card.hsp:1284	八十尺大人
+怪物	魔晶女	crystalian	2	db_card.hsp:1297	魔晶女
+怪物	電磁爵	e-mag duke	2	db_card.hsp:1310	電磁爵
+怪物	磁爵	mag count	2	db_card.hsp:1323	磁爵
+怪物	若いツバメ	young swallow	2	db_card.hsp:1336	年輕的燕子
+怪物	魔蜜蜂	magic bee	2	db_card.hsp:1349	魔蜜蜂
+怪物	新人ガイドの『ヨノルン』	<Yonorne> the rookie guide	2	db_card.hsp:1362	新人導遊『約諾倫』
+怪物	幸福な燕『スカルド』	<Scard> the happy swallow	2	db_card.hsp:1375	幸福的燕子『斯卡德』
+怪物	魔女王蜂『オキソデ』	<Oxode> the queen bee	2	db_card.hsp:1388	魔女王蜂『奧奇索德』
+怪物	座敷笑い『イマリツカ』	<Imarituka> the zasiki warai	2	db_card.hsp:1401	座敷笑『伊瑪莉茨卡』
+怪物	家守竜『テルフレーザ』	<Telhureza> the house guard	2	db_card.hsp:1414	守家龍『泰爾芙蕾莎』
+怪物	異世界チーター	another world cheatah	2	db_card.hsp:1427	異世界外掛仔
+怪物	高速チーター	speed hack cheatah	2	db_card.hsp:1440	加速外掛仔
+怪物	自動照準チーター	auto aim cheatah	2	db_card.hsp:1453	自瞄外掛仔
+怪物	壁抜浮遊チーター	wall hack cheatah	2	db_card.hsp:1466	穿牆浮空外掛仔
+怪物	冥宮の悪鬼	hellabyrinth ruler	2	db_card.hsp:1479	冥宮惡鬼
+怪物	魔霧阿	death fog	2	db_card.hsp:1492	魔霧阿
+怪物	縋り死霊	clinghost	2	db_card.hsp:1505	糾纏死靈
+怪物	迷い子	stray soul	2	db_card.hsp:1518	迷途孩子
+怪物	パワフルワイアーム	powerful great wyrm	2	db_card.hsp:1531	強力巨龍
+怪物	プテライウン	pteraiun	2	db_card.hsp:1544	翼龍溫
+怪物	ワイルドワイアーム	wild wyrm	2	db_card.hsp:1557	野性巨龍
+怪物	ラッツブリンガー	rats bringer	2	db_card.hsp:1570	帶鼠者
+怪物	邪拳王	janken king	2	db_card.hsp:1583	邪拳王
+怪物	カースグラップラー	curse grappler	2	db_card.hsp:1596	詛咒格鬥家
+怪物	神猫の手	catgod hand	2	db_card.hsp:1609	神貓之手
+怪物	女郎オオテグチ	ooteguchi	2	db_card.hsp:1622	女郎大手口
+怪物	シロマネキ	pale inviter	2	db_card.hsp:1635	白招手
+怪物	ストーリーテラーの『アイメ』	<Aime> the story teller	2	db_card.hsp:1648	說書人『艾美』
+怪物	監視者の目	seeing god eye	2	db_card.hsp:1661	監視者之眼
+怪物	ホルスアイ	horus eye	2	db_card.hsp:1674	荷魯斯之眼
+怪物	百目の怪	hundred eyes	2	db_card.hsp:1687	百目怪
+怪物	プロヴィデンス眼	providence gaze	2	db_card.hsp:1700	天意之眼
+怪物	ヒトツメ小娘	monoeye girl	2	db_card.hsp:1713	獨眼小妞
+怪物	《黒き軍神テスカトリポカ》	<Yayauhqui Tezcatlipoca>	2	db_card.hsp:1726	《黑之軍神特斯卡特利波卡》
+怪物	偽りの造物主【ヤルダバオート】	<Jaldabaoth>The Chaos Child	2	db_card.hsp:1739	偽造物主【雅爾達巴沃特】
+怪物	亡国の王子『オルフェ』	<Orphe> the prince of lost kingdom	2	db_card.hsp:1752	亡國王子『奧爾菲』
+怪物	混沌の使徒『オルフェ』	<Orphe> the chaos disciple	2	db_card.hsp:1765	混沌使徒『奧爾菲』
+怪物	《結束のミクラネシス》	<Mikraanesis>	2	db_card.hsp:1778	《結束的米克拉涅西斯》
+怪物	帝釈のインドラ	indra	2	db_card.hsp:1791	帝釋因陀羅
+怪物	日天のスーリヤ	surya	2	db_card.hsp:1804	日天蘇利耶
+怪物	風天のヴァーユ	vayu	2	db_card.hsp:1817	風天伐由
+怪物	羅刹王ラーヴァナ	ravana	2	db_card.hsp:1830	羅剎王羅波那
+怪物	暗黒神アンダカ	andhaka	2	db_card.hsp:1843	暗黑神安達卡
+怪物	マタンゴッデス	matangoddess	2	db_card.hsp:1869	菇人女神
+怪物	嘘吐毒茸怪獣	liar poison fungus	2	db_card.hsp:1882	說謊毒菇怪獸
+怪物	先生きのこ	hot mushroom teacher	2	db_card.hsp:1895	蘑菇老師
+怪物	スプラッシュルーム	splashroom	2	db_card.hsp:1908	飛濺菇
+怪物	キノコビースト	fang fungus	2	db_card.hsp:1921	蘑菇獸
+怪物	ラッシュルーム	rushroom	2	db_card.hsp:1934	衝刺菇
+怪物	雑貨店の『ボニャック』	<Bonyac> the general vendor	2	db_card.hsp:1947	雜貨店的『波尼亞克』
+怪物	シルバースカル陛下	silver skull majesty	2	db_card.hsp:1960	銀骷髏陛下
+怪物	オールドベル	old bell	2	db_card.hsp:1973	古鐘
+怪物	オリハル子	orichal-co	2	db_card.hsp:1986	奧利哈鋼子
+怪物	デスクトップバーディ	desktop birdie	2	db_card.hsp:1999	桌上鳥
+怪物	デスクトップネービー	desktop navy	2	db_card.hsp:2012	桌上海軍
+怪物	『謎の老人』	<Strange old person>	2	db_card.hsp:2025	『謎之老人』
+怪物	廃忘凶獣	oblivion rude beast	2	db_card.hsp:2038	廢忘凶獸
+怪物	神秘の虜『ジェナ』	<Jenna> the mythical mania	2	db_card.hsp:2051	神秘之囚『珍娜』
+怪物	花摘みの『メリー』	<Mary> the flower picking	2	db_card.hsp:2064	摘花的『瑪莉』
+怪物	旺盛な冒険家『クレイ』	<Cray> the curious adventurer	2	db_card.hsp:2077	好奇的冒險家『克雷』
+怪物	周到な冒険家『マンソン』	<Manson> the careful adventurer	2	db_card.hsp:2090	周到的冒險家『曼森』
+怪物	ハイネスウルク	uruk-highness	2	db_card.hsp:2103	烏魯克殿下
+怪物	ハイウルク	uruk-hai	2	db_card.hsp:2116	強獸人
+怪物	ブラックポーク	black porc	2	db_card.hsp:2129	黑豬
+怪物	ウルク	uruk	2	db_card.hsp:2142	烏魯克
+怪物	ブラックオーク	black orc	2	db_card.hsp:2155	黑獸人
+怪物	ブランドポーク	brand porc	2	db_card.hsp:2168	名牌豬
+怪物	釣り人の『トーニ』	<Toni> the angler	2	db_card.hsp:2194	釣客『托尼』
+怪物	放浪癖の『ナンシー』	<Nancy> the wanderlust	2	db_card.hsp:2207	流浪癖的『南希』
+怪物	熟練の足『カーター』	<Carter> the skilled foot	2	db_card.hsp:2220	熟練之足『卡特』
+怪物	コボルトブラスター	kobold blaster	2	db_card.hsp:2233	狗頭人爆破手
+怪物	デュークコボルト	duke kobold	2	db_card.hsp:2246	狗頭人公爵
+怪物	ライトニングコボルト	lightning kobold	2	db_card.hsp:2259	雷電狗頭人
+怪物	コボルトセイバー	kobold saber	2	db_card.hsp:2272	狗頭人劍士
+怪物	コボルトブルー	kobold blue	2	db_card.hsp:2285	藍狗頭人
+怪物	コボリナ	kobolina	2	db_card.hsp:2298	狗頭人娜
+怪物	宇宙の侵略者	universe invader	2	db_card.hsp:2311	宇宙侵略者
+怪物	ピースメーカー	peace maker	2	db_card.hsp:2337	和平使者
+怪物	堕鳥	fallen bird	2	db_card.hsp:2350	墮鳥
+怪物	森の暗殺者	forest assassin	2	db_card.hsp:2363	森林刺客
+怪物	邪エナガ	yokoshima enaga	2	db_card.hsp:2376	邪長尾山雀
+怪物	弓矢ガモ	arrow duck	2	db_card.hsp:2389	弓箭鴨
+怪物	インコニート	inconeet	2	db_card.hsp:2402	隱匿鸚鵡
+怪物	老執事	old butler	2	db_card.hsp:2415	老執事
+怪物	Ｓ少年	S boy	2	db_card.hsp:2441	Ｓ少年
+怪物	廃忘獣	oblivion beast	2	db_card.hsp:2467	廢忘獸
+怪物	残影	vestige	2	db_card.hsp:2480	殘影
+怪物	ウサギ	rabbit	2	db_card.hsp:2493	兔子
+怪物	狐	fox	2	db_card.hsp:2506	狐狸
+怪物	猪	boar	2	db_card.hsp:2532	山豬
+怪物	狼	wolf	2	db_card.hsp:2545	狼
+怪物	琥珀眼の悪魔『バイシルフ』	<Bysymlha> the amber eyes	2	db_card.hsp:2571	琥珀眼惡魔『拜希爾夫』
+怪物	元銀行員	former bank clerk	2	db_card.hsp:2584	前銀行員
+怪物	ギルドの仲介人	guild broker	2	db_card.hsp:2597	公會仲介人
+怪物	店員	clerk	2	db_card.hsp:2610	店員
+怪物	バーテン	bartender	2	db_card.hsp:2623	酒保
+怪物	調査隊員の『アレン』	<Allen> the researcher	2	db_card.hsp:2636	調查隊員『亞倫』
+怪物	燃える冒険者魂『バート』	<Burt> the burning adventurer soul	2	db_card.hsp:2649	燃燒的冒險者魂『巴特』
+怪物	ドールの紅血『ロイター』	<Loyter> the crimson of Dole	2	db_card.hsp:2662	多爾的紅血『羅伊特』
+怪物	ラストダンサー	last dancer	2	db_card.hsp:2675	最後的舞者
+怪物	ドリケラドプス	driceradops	2	db_card.hsp:2688	德里角龍
+怪物	カミナリ竜	brontosaurus	2	db_card.hsp:2701	雷龍
+怪物	トリケラトプス	triceratops	2	db_card.hsp:2714	三角龍
+怪物	人造竜『ベールゲーナ』	<Beilgena> the artificial dragon	2	db_card.hsp:2727	人造龍『貝爾格娜』
+怪物	重力谷の『グラヴィード』	<Graveed> the gravity valley	2	db_card.hsp:2740	重力谷的『格拉維德』
+怪物	湿林の忌み子『ドロシア』	<Dorothia> standing in the wetland	2	db_card.hsp:2753	濕林的忌子『多蘿西亞』
+怪物	烈闘龍『サンライズ』	<Sunrise> the archipelago dragon	2	db_card.hsp:2766	烈鬥龍『日出』
+怪物	アングリーバーガー	angry burger	2	db_card.hsp:2779	憤怒漢堡
+怪物	超闘機『メルガストAO-I』	<Melugast AO-I> the dimension driver	2	db_card.hsp:2792	超鬥機『梅爾加斯特AO-I』
+怪物	廃忘凶獣の『ナゴレウ』	<Nagarew> the oblivion beast	2	db_card.hsp:2805	廢忘凶獸『納戈雷烏』
+怪物	《混沌の超児》	<The Chaos Child>	2	db_card.hsp:2818	《混沌超兒》
+怪物	がしゃどくろ	gasyadokuro	2	db_card.hsp:2831	餓者髑髏
+怪物	骸魔獣	skull beast	2	db_card.hsp:2844	骸魔獸
+怪物	金の亡者	money deceased	2	db_card.hsp:2857	守財奴
+怪物	古の調査兵	skeleton magician	2	db_card.hsp:2870	古代調查兵
+怪物	クリムゾンアーマー	crimson armor	2	db_card.hsp:2883	深紅鎧甲
+怪物	朧武者	musha soul	2	db_card.hsp:2896	朧武者
+怪物	和妖甲冑	ochimusha armor	2	db_card.hsp:2909	和妖甲冑
+怪物	魔鋼の番兵『ギルフェム』	<Gilphem> the magic steel	2	db_card.hsp:2922	魔鋼衛兵『吉爾菲姆』
+怪物	白面の『アルサピア』	<Alsapia> the murderer mask	2	db_card.hsp:2935	白面的『阿爾薩皮亞』
+怪物	ザナン暗殺部隊	zanan assassin	2	db_card.hsp:2948	澤納恩暗殺部隊
+怪物	《混沌のエンテュメイシス》	<Enthumesis>	2	db_card.hsp:2961	《混沌的恩圖梅西斯》
+怪物	病兄	sickfull older brother	2	db_card.hsp:2974	病嬌哥哥
+怪物	弟銀狐	silver fox brother	2	db_card.hsp:2987	銀狐弟弟
+怪物	ドラゴバブル	dragon bubble	2	db_card.hsp:3000	龍泡泡
+怪物	フォームレス	formless spawn	2	db_card.hsp:3013	無形體
+怪物	リビングブラッド	living blood	2	db_card.hsp:3026	活血液
+怪物	ローパー	roper	2	db_card.hsp:3039	觸手怪
+怪物	シン・ゴリラ	sin gorilla	2	db_card.hsp:3052	真・大猩猩
+怪物	ガネーシャ	ganesa	2	db_card.hsp:3065	象頭神
+怪物	ナイトセラス	knightceros	2	db_card.hsp:3078	騎士犀
+怪物	電動ヒポポタマス	electric hippopotamus	2	db_card.hsp:3091	電動河馬
+怪物	主人殺しのオオアリクイ	killing anteater	2	db_card.hsp:3104	弒主大食蟻獸
+怪物	《夜煙のテスカトリポカ》	<Tezcatlipoca>	2	db_card.hsp:3117	《夜煙的特斯卡特利波卡》
+怪物	飛虫皇	black hopper X	2	db_card.hsp:3156	飛蟲皇
+怪物	突撃赤蜻蛉	assault red dragonfly	2	db_card.hsp:3169	突擊紅蜻蜓
+怪物	ライドホッパー	battle hopper	2	db_card.hsp:3182	騎乘蚱蜢
+怪物	マオウスカシバ	magic hawk moth	2	db_card.hsp:3195	魔王透翅天蛾
+怪物	介護蛾	nursing moth	2	db_card.hsp:3208	看護蛾
+怪物	マスコットの『カラ太』	<Karata> the seminar mascot	2	db_card.hsp:3234	吉祥物『鴉太』
+怪物	駆け出し	novice	2	db_card.hsp:3247	新手
+怪物	『赤剣先生のバイト』	<Part time worker> the red sword	2	db_card.hsp:3260	『赤劍老師的打工仔』
+怪物	ゼミ講師の『ミト』	<Mito> the seminar lecturer	2	db_card.hsp:3273	研討課講師『米托』
+怪物	ゼミ講師の『イヅル』	<Iduru> the seminar lecturer	2	db_card.hsp:3286	研討課講師『伊鶴』
+怪物	ゼミ講師の『クレッシェ』	<Cresce> the seminar lecturer	2	db_card.hsp:3299	研討課講師『克雷雪』
+怪物	ゼミ講師の『アジタリオ』	<Ajetalio> the seminar lecturer	2	db_card.hsp:3312	研討課講師『阿吉塔里奧』
+怪物	カオス・サーペント	chaos serpent	2	db_card.hsp:3325	混沌巨蛇
+怪物	有閑鉱山王『ジシリオン』	<Zisilion> the mine king	2	db_card.hsp:3351	悠閒礦山王『吉希利翁』
+怪物	呪木王	curse wood king	2	db_card.hsp:3364	咒木王
+怪物	深緑竜樹	dragon tree	2	db_card.hsp:3377	深綠龍樹
+怪物	荒神樹	tree incarnation	2	db_card.hsp:3390	荒神樹
+怪物	アールキング	erlkonig	2	db_card.hsp:3403	魔王
+怪物	ガジュマルの怪	banyan monster	2	db_card.hsp:3416	榕樹怪
+怪物	スクーグスロー	skogsra	2	db_card.hsp:3429	森林女妖
+怪物	ロスリアの蒼風『アルフレド』	<Alfred> the cangnan wind	2	db_card.hsp:3442	羅斯利亞的蒼風『阿爾弗雷德』
+怪物	ケーニヒスカッツェ	konigs katze	2	db_card.hsp:3455	國王之貓
+怪物	ゾイボ	zoibo	2	db_card.hsp:3468	佐伊波
+怪物	超重機ビルディオン	buildion	2	db_card.hsp:3481	超重機建築神
+怪物	ライドクレリック	ride cleric	2	db_card.hsp:3494	騎乘神官
+怪物	過激派の『ハリオン』	<Halion> the extremist	2	db_card.hsp:3533	激進派的『哈利翁』
+怪物	ユナイデッド・キング	unitdead-king	2	db_card.hsp:3546	聯合不死・國王
+怪物	ユナイデッド・クイーン	unitdead-queen	2	db_card.hsp:3559	聯合不死・皇后
+怪物	ユナイデッド・ジャック	unitdead-jack	2	db_card.hsp:3572	聯合不死・傑克
+怪物	ユナイデッド・ジョーカー	unitdead-joker	2	db_card.hsp:3585	聯合不死・鬼牌
+怪物	ヒロイーク	heroyeek	2	db_card.hsp:3598	英雄伊克
+怪物	ルナテイーク	lunatyeek	2	db_card.hsp:3611	瘋狂伊克
+怪物	マスター・アルカイーク	master archayeek	2	db_card.hsp:3624	古伊克大師
+怪物	アルカイークの銃士	archayeek gunner	2	db_card.hsp:3637	古伊克槍手
+怪物	アルカイーク	archayeek	2	db_card.hsp:3650	古伊克
+怪物	イークの働き者	yeek hard worker	2	db_card.hsp:3663	勤勞的伊克
+怪物	妄想少女『リアナ』	<Rianna> the daydreamer	2	db_card.hsp:3676	妄想少女『莉安娜』
+怪物	ヘルストリング	hellstling	2	db_card.hsp:3689	地獄弦
+怪物	ストームブリング	stormbling	2	db_card.hsp:3702	帶來風暴者
+怪物	グラスキラー	grass killer	2	db_card.hsp:3715	草地殺手
+怪物	グラスダンサー	grass dancer	2	db_card.hsp:3728	草地舞者
+怪物	ザナン強化兵	zanan enhanced soldier	2	db_card.hsp:3741	澤納恩強化兵
+怪物	歴戦の老兵	zanan old soldier	2	db_card.hsp:3754	身經百戰的老兵
+怪物	キラーナース	killer nurse	2	db_card.hsp:3767	殺手護士
+怪物	蒼天の稲妻『ランカータ』	<Lankata> the lightning of blue	2	db_card.hsp:3780	蒼天閃電『蘭卡塔』
+怪物	ロスリア特務部隊	lothrian agent	2	db_card.hsp:3793	羅斯利亞特務部隊
+怪物	ダークエレア	dark elea	2	db_card.hsp:3806	黑暗艾萊亞
+怪物	冒険商人『メニティア』	<Manytia> the adventure merchant	2	db_card.hsp:3819	冒險商人『梅妮蒂亞』
+怪物	暗黒宇宙蟹	dark dome	2	db_card.hsp:3832	暗黑宇宙蟹
+怪物	甲殻王者『キングダンゴムシ』	<Shell King of Vindale>	2	db_card.hsp:3845	甲殼王者『鼠婦王』
+怪物	死ヲ招キ	death maneki	2	db_card.hsp:3858	招死貓
+怪物	王冠蟲	king woodlouse	2	db_card.hsp:3871	王冠蟲
+怪物	アロマカリス	aroma-locaris	2	db_card.hsp:3884	芳香奇蝦
+怪物	スナイプハーミット	snipe hermit	2	db_card.hsp:3897	狙擊寄居蟹
+怪物	透明ニンゲン	sea fallen angel	2	db_card.hsp:3910	透明人類
+怪物	ナインダツフィッシュ	nine dart garfish	2	db_card.hsp:3923	九鏢魚
+怪物	冥海魔オルチヌス	orcinus orca	2	db_card.hsp:3936	冥海魔逆戟鯨
+怪物	イトマキシビレエイ	manta rayarn	3	db_card.hsp:3949	鬼蝠麻鱝
+怪物	花珊瑚	flower coral	2	db_card.hsp:3962	花珊瑚
+怪物	ビッグアビスター	abysstar	2	db_card.hsp:3975	巨型深淵星
+怪物	タカトビウオ	flight fish	3	db_card.hsp:3988	高飛魚
+怪物	謎のお洒落忍者『シャドウシスター』	<Fashionable Kunoichi>	2	db_card.hsp:4014	謎之時髦忍者『影之姊妹』
+怪物	白氷の『サイメーブ』	<Saimef> the doggod	2	db_card.hsp:4027	白冰的『賽梅芙』
+怪物	セパ	sepa	2	db_card.hsp:4040	塞帕
+怪物	束縛の魔蟲	bind devil worm	2	db_card.hsp:4053	束縛魔蟲
+怪物	グランド・ヒル	grand leech	2	db_card.hsp:4066	巨大水蛭
+怪物	テンタクルワーム	tentacle worm	2	db_card.hsp:4079	觸手蟲
+怪物	エンタメイド・ウィッチビッチ	performaid bitchiack	2	db_card.hsp:4092	表演女僕・魔女婊
+怪物	エンタメイド・ペンチーフ	performaid pinchief	2	db_card.hsp:4105	表演女僕・鉗子長
+怪物	エンタメイド・ザンコック	performaid cocruel	2	db_card.hsp:4118	表演女僕・殘酷廚
+怪物	エンタメイド・デスイーパー	performaid desweeper	2	db_card.hsp:4131	表演女僕・死亡清掃員
+怪物	エンタメイド・ブラッドレス	performaid bloodress	2	db_card.hsp:4144	表演女僕・血色禮服
+怪物	魔王の尖兵	demon's commander	2	db_card.hsp:4157	魔王的先鋒
+怪物	ヴァンプキン	vampkin	2	db_card.hsp:4170	吸血南瓜
+怪物	ニンジンジャー	nin-ninzin	2	db_card.hsp:4183	胡蘿蔔忍者
+怪物	キュウリー武人	cucumber warrior	2	db_card.hsp:4196	黃瓜武人
+怪物	胡瓜の怪物	cucumber horse	2	db_card.hsp:4209	黃瓜怪物
+怪物	マンドレザッパー	zap mandrake	2	db_card.hsp:4222	電擊曼德拉
+怪物	記憶の抜け殻	memory empty man	2	db_card.hsp:4235	記憶的空殼
+怪物	忘却信徒	devotee of oblivion	2	db_card.hsp:4248	忘卻信徒
+怪物	面忘の獅子	mad scratcher	2	db_card.hsp:4261	忘顏獅子
+怪物	傀儡巫女『メーイル』	<Maile> the marionette shaman	2	db_card.hsp:4274	傀儡巫女『梅伊爾』
+怪物	トキガミ	dhwty	2	db_card.hsp:4287	朱鷺神
+怪物	アルコノスト	alkonost	2	db_card.hsp:4300	阿爾科諾斯特
+怪物	ブラックウィング	black wing	2	db_card.hsp:4313	黑翼
+怪物	モー・ショボー	mayu sibayu	2	db_card.hsp:4326	莫肖博
+怪物	宇宙剣客『ベルファート』	<Belphat> the cosmic sword	2	db_card.hsp:4339	宇宙劍客『貝爾法特』
+怪物	波動竜戦士	draco eques	2	db_card.hsp:4352	波動龍戰士
+怪物	ブリザード	blizzard lizard	2	db_card.hsp:4365	暴風雪
+怪物	ドラゴクレイモア	claymore dragonewt	2	db_card.hsp:4378	龍人闊劍士
+怪物	アサシンリザード	assassin lizard	2	db_card.hsp:4391	刺客蜥蜴
+怪物	黒鱗の毒含竜	black lizardman	2	db_card.hsp:4404	黑鱗含毒龍
+怪物	光輝の妖精	fairy the shining	2	db_card.hsp:4430	光輝妖精
+怪物	フェアリーゴラス	yousei gorath	2	db_card.hsp:4443	妖精哥拉斯
+怪物	ペリ	peri	2	db_card.hsp:4456	佩里
+怪物	ギガントフェアリー	gigantic fairy	2	db_card.hsp:4469	巨大妖精
+怪物	ピクシー	pixie	2	db_card.hsp:4482	小精靈
+怪物	抑圧されし災厄『レナイ』	<Renai> the over meshera	2	db_card.hsp:4495	受壓抑的災厄『蕾奈』
+怪物	堕天使	fallen angel	2	db_card.hsp:4508	墮天使
+怪物	愛の監察官	cupid inspector	2	db_card.hsp:4521	愛之監察官
+怪物	セイアシン	seiashin	2	db_card.hsp:4547	聖亞辛
+怪物	沙羅曼蛇	salamander	2	db_card.hsp:4560	沙羅曼蛇
+怪物	ヌオウ	nuou	2	db_card.hsp:4573	努歐
+怪物	音魔杓子	musical notadpole	2	db_card.hsp:4586	音魔蝌蚪
+怪物	腕白少女『アリベル』	<Aribel> the white arms	2	db_card.hsp:4612	頑皮少女『亞莉貝爾』
+怪物	アークレイス	arch wraith	2	db_card.hsp:4625	大怨靈
+怪物	レギオンメイジ	legion mage	2	db_card.hsp:4638	軍團法師
+怪物	『13段目の悪霊』	<13th step ghost>	2	db_card.hsp:4651	『第13階的惡靈』
+怪物	シルフ	Sylph	2	db_card.hsp:4664	風精
+怪物	破禁の魔女『シズル』	<Ssil> the undead witch	2	db_card.hsp:4677	破禁魔女『希茲露』
+怪物	白き鷹『ヴェセル』	<Bethel> the white hawk	2	db_card.hsp:4703	白鷹『維瑟』
+怪物	束縛の悪魔『エゲルベイル』	<Egelveil> the bind	2	db_card.hsp:4716	束縛惡魔『埃格爾貝爾』
+怪物	ドレッドラビット	dread rabbit	2	db_card.hsp:4729	恐怖兔
+怪物	イリス	iris	2	db_card.hsp:4742	伊莉絲
+怪物	白兎神	hakutoshin	2	db_card.hsp:4755	白兔神
+怪物	バニーグール	bunny ghoul	2	db_card.hsp:4768	兔女郎屍鬼
+怪物	テロリス	terrorism squirrel	2	db_card.hsp:4781	恐怖松鼠
+怪物	タートルラビット	turtle rabbit	2	db_card.hsp:4794	烏龜兔
+怪物	ダークレイダー	dark raider	2	db_card.hsp:4807	黑暗襲擊者
+怪物	カパプカムイ	kapapu-kamui	2	db_card.hsp:4820	卡帕普神
+怪物	コンバット	com-bat	2	db_card.hsp:4833	戰鬥蝙蝠
+怪物	モモツカ	momotuka	2	db_card.hsp:4846	桃塚
+怪物	究鼠	kyuso	2	db_card.hsp:4859	究鼠
+怪物	ディザスター	disaster	2	db_card.hsp:4872	災厄
+怪物	ハム大老	ham-tairou	2	db_card.hsp:4885	倉鼠大老
+怪物	アステリオス	asterios	2	db_card.hsp:4898	阿斯特里昂
+怪物	シユウ	chihyu	2	db_card.hsp:4911	蚩尤
+怪物	ブルーブル	blue bull	2	db_card.hsp:4924	藍公牛
+怪物	マスタリオン	mastallion	2	db_card.hsp:4950	大師駿馬
+怪物	ダークホース	dark horse	2	db_card.hsp:4963	黑馬
+怪物	ケンタウロスの騎士	kentaurs knight	2	db_card.hsp:4976	半人馬騎士
+怪物	バリスタリオン	ballistallion	2	db_card.hsp:4989	弩砲駿馬
+怪物	ガンタウロス	gunntaurs	2	db_card.hsp:5002	槍半人馬
+怪物	パンの精霊	spirit of bread	2	db_card.hsp:5028	麵包精靈
+怪物	荒鬼火	araonibi	2	db_card.hsp:5041	荒鬼火
+怪物	クラウドラゴン	cloudragon	2	db_card.hsp:5054	雲龍
+怪物	ヴァイフコア	moai core	2	db_card.hsp:5067	摩艾核心
+怪物	マナモノリス	mana monolith	2	db_card.hsp:5080	魔力石碑
+怪物	クレイモアイ	claymoai	2	db_card.hsp:5093	闊劍摩艾
+怪物	刈り取る者	grim reaper	2	db_card.hsp:5106	收割者
+怪物	冒涜の魔導亡者	profanity priest	2	db_card.hsp:5119	褻瀆魔導亡者
+怪物	ミクシフォーナ	mikscxifona	2	db_card.hsp:5132	米克希弗娜
+怪物	歴戦の傭兵『シュライダ』	<Shuraida> the expert merc	2	db_card.hsp:5145	身經百戰的傭兵『修萊達』
+怪物	疫病の悪魔『ロアトニス』	<Roatonis> the infections	2	db_card.hsp:5158	瘟疫惡魔『羅亞托尼斯』
+怪物	ダークネスラッグ	darknesslug	2	db_card.hsp:5171	黑暗蛞蝓
+怪物	フォートレスネイル	fortressnail	2	db_card.hsp:5184	要塞蝸牛
+怪物	神風舞々	kamikaze maimai	2	db_card.hsp:5197	神風蝸牛
+怪物	酸性雨フラシ	acid sea hare	2	db_card.hsp:5210	酸雨海兔
+怪物	マジカルゴ	magicargot	2	db_card.hsp:5223	魔法蝸牛
+怪物	オオアメフラシ	big sea hare	2	db_card.hsp:5236	大海兔
+怪物	ゴシック	gothic	2	db_card.hsp:5262	哥德
+怪物	レクイエム	requiem	2	db_card.hsp:5275	安魂曲
+怪物	サヴァントクイーン	zombie queen	2	db_card.hsp:5288	殭屍女王
+怪物	伝説の餓狼	legendary wolf	2	db_card.hsp:5301	傳說中的餓狼
+怪物	復讐の悪魔『インクツァル』	<Inqtual> the revenge	2	db_card.hsp:5314	復仇惡魔『因克札爾』
+怪物	ラストレイヴン	last raven	2	db_card.hsp:5327	最後的烏鴉
+怪物	王宮魔導士	palace magician	2	db_card.hsp:5353	王宮魔導士
+怪物	エウダーナ魔弓兵	magic archer	2	db_card.hsp:5366	尤達納魔弓兵
+怪物	ドビエル	dobiel	2	db_card.hsp:5379	多比埃爾
+怪物	『コアラの指揮者』	<Conductor Koala>	2	db_card.hsp:5392	『無尾熊指揮家』
+怪物	ウェンカムイ	wenkamui	2	db_card.hsp:5405	溫卡姆伊
+怪物	グレア	glare tiger	2	db_card.hsp:5418	炫光虎
+怪物	呪縛のマンティコア	manticore	2	db_card.hsp:5431	咒縛蠍尾獅
+怪物	ルビーカーバンクル	ruby carbuncle	2	db_card.hsp:5444	紅寶石紅玉獸
+怪物	悪夢の化身	nightmare sheep	2	db_card.hsp:5457	噩夢化身
+怪物	アストレイ・シープ	astray sheep	2	db_card.hsp:5470	迷途綿羊
+怪物	迷いなき大羊	not stray sheep	2	db_card.hsp:5483	毫不迷惘的大羊
+怪物	オヤウカムイ	oyaukamui	2	db_card.hsp:5496	奧亞烏神
+怪物	メイダ	meida	2	db_card.hsp:5509	梅達
+怪物	キッカスパイソン	kikkas pythonidae	2	db_card.hsp:5522	基卡斯巨蟒
+怪物	ネザーマッドゴーレム	mad mud golem	2	db_card.hsp:5535	冥界泥魔像
+怪物	マッスルゴーレム	muscle golem	2	db_card.hsp:5548	肌肉魔像
+怪物	仮装子	halloween children	4	db_card.hsp:5561	變裝孩子
+怪物	メカジラ	metal zilla	2	db_card.hsp:5587	機械怪獸
+怪物	クラウドビースト	cloud beast	2	db_card.hsp:5600	雲獸
+怪物	ドール	dhole	2	db_card.hsp:5613	豺
+怪物	輝鬼	shine ogre	2	db_card.hsp:5626	輝鬼
+怪物	切裂鬼	slash ogre	2	db_card.hsp:5639	切裂鬼
+怪物	砕鬼	smash ogre	2	db_card.hsp:5652	碎鬼
+怪物	バトルエイリアン	battle alien	2	db_card.hsp:5665	戰鬥異形
+怪物	戦甲殻虫	gold armor ant	2	db_card.hsp:5678	戰甲殼蟲
+怪物	鋼体凶虫	steel armor spider	2	db_card.hsp:5691	鋼體凶蟲
+怪物	スペースジラ	space zilla	2	db_card.hsp:5704	太空怪獸
+怪物	闇夜雀	yo-suzume	2	db_card.hsp:5717	闇夜雀
+怪物	情報魔の『メルゼッタ』	<Melget> the informer	2	db_card.hsp:5730	情報狂『梅爾潔塔』
+怪物	破壊の悪魔『ラジャシェ』	<Lazasye> the destroy	2	db_card.hsp:5743	破壞惡魔『拉賈謝』
+怪物	宇宙ミミズク	space horned owl	2	db_card.hsp:5756	宇宙角鴞
+怪物	鋼の猛牛	steel minotaur	2	db_card.hsp:5769	鋼之猛牛
+怪物	クラーゲン	jellyfish kraken	3	db_card.hsp:5782	水母海妖
+怪物	キャプテンシャーク	captain shark	2	db_card.hsp:5795	鯊魚船長
+怪物	怒涛の鮫	raging shark	2	db_card.hsp:5808	怒濤鯊
+怪物	ナイトメアシャーク	nightmare shark	3	db_card.hsp:5821	夢魘鯊
+怪物	超級妄人	wangnin	2	db_card.hsp:5834	超級妄人
+怪物	実験台	tester	2	db_card.hsp:5847	實驗品
+怪物	眠れる巨人	sleeping giant	2	db_card.hsp:5860	沉睡的巨人
+怪物	エフェクトバタフライ	effect butterfly	2	db_card.hsp:5873	效應蝴蝶
+怪物	月光蝶	moonlit papillon	2	db_card.hsp:5886	月光蝶
+怪物	幻蝶の刺客	butterspy	2	db_card.hsp:5899	幻蝶刺客
+怪物	灼熱の獅子	blaze lion	2	db_card.hsp:5938	灼熱獅子
+怪物	閃烈の銀狼	shining silver wolf	2	db_card.hsp:5951	閃烈銀狼
+怪物	慟哭のウィッチ	crying witch	2	db_card.hsp:5964	慟哭魔女
+怪物	ネクロダンサー	necro dancer	2	db_card.hsp:5977	死靈舞者
+怪物	ネクロランサー	necro lancer	2	db_card.hsp:5990	死靈槍兵
+怪物	『コウノトリさん』	<Boyciana>	2	db_card.hsp:6003	『送子鳥先生』
+怪物	ザナン重装兵	Zanan heavily armed	2	db_card.hsp:6016	澤納恩重裝兵
+怪物	記憶喪失の『リューツェ』	<Ryutye> the amnesiac	2	db_card.hsp:6029	失憶的『琉采』
+怪物	記憶喪失の『ネレス』	<Neres> the amnesiac	2	db_card.hsp:6042	失憶的『涅雷斯』
+怪物	改造人間『エユル』	<Regulus> the altered	2	db_card.hsp:6055	改造人『埃尤爾』
+怪物	プランナーの『フロン』	<Fron> the tour planner	2	db_card.hsp:6068	企劃者『弗朗』
+怪物	宇宙を望む『クロヤ』	<Kuroya> the looking universe	2	db_card.hsp:6081	仰望宇宙的『克洛亞』
+怪物	貪食の炎環	yomagntho	2	db_card.hsp:6120	貪食炎環
+怪物	クトゥグア	cthugha	2	db_card.hsp:6133	克圖格亞
+怪物	バサタン	basatan	2	db_card.hsp:6146	巴薩坦
+怪物	ブラックボックス	black box	2	db_card.hsp:6159	黑盒子
+怪物	Ｇキューブ	G cube	2	db_card.hsp:6172	Ｇ方塊
+怪物	《剛石のウリカグアル》	<Urcaguary>	2	db_card.hsp:6185	《剛石的烏利卡瓜爾》
+怪物	《歌踊のカラヴィカ》	<Karavika>	2	db_card.hsp:6198	《歌舞的卡拉維卡》
+怪物	『目覚めし九頭竜』	<Nine Head Dragon> the abyss	2	db_card.hsp:6237	『甦醒的九頭龍』
+怪物	清掃機械	R cleaner	2	db_card.hsp:6250	清掃機械
+怪物	作業機械	worker-01	2	db_card.hsp:6263	作業機械
+怪物	特殊作業機械	worker-02	2	db_card.hsp:6276	特殊作業機械
+怪物	《鉄騎のガルジエム》	<Garziem>	2	db_card.hsp:6289	《鐵騎的加爾吉姆》
+怪物	コマンドーウルフ	command wolf	2	db_card.hsp:6302	突擊狼
+怪物	《守護のロヴィト》	<Rovid>	2	db_card.hsp:6328	《守護的羅維特》
+怪物	『ネオ・イェルスード』	<Yerleswood Neo>	2	db_card.hsp:6341	『新・耶爾斯德』
+怪物	鬼面の忍者『藍影』	<Aikage> the shinobi mask	2	db_card.hsp:6354	鬼面忍者『藍影』
+怪物	ラストファントム	phantom of end	2	db_card.hsp:6367	終末魅影
+怪物	ゴッドハンド	hand of the god	2	db_card.hsp:6380	神之手
+怪物	Ｅ・スケープゴート	escapegoat	2	db_card.hsp:6393	Ｅ・代罪羔羊
+怪物	創炎竜『ヴァンセスダ』	<Vansesda> the ancient fire	2	db_card.hsp:6406	創炎龍『梵塞斯達』
+怪物	黄炎竜	yellow fire dragon	2	db_card.hsp:6419	黃炎龍
+怪物	カオス・シャーマン	chaos shaman	2	db_card.hsp:6432	混沌薩滿
+怪物	カオス・ブレーダー	chaos paladin	2	db_card.hsp:6445	混沌劍士
+怪物	カオス・ハンター	chaos hunter	2	db_card.hsp:6458	混沌獵人
+怪物	メイルーンの銀熊『マルカ』	<Marka> the silver bear	2	db_card.hsp:6471	梅魯恩的銀熊『瑪爾卡』
+怪物	丘の識者	wise hill citizen	2	db_card.hsp:6484	丘陵智者
+怪物	異邦の研鑽者『イルマ』	<Irma> the indomitable smith	2	db_card.hsp:6497	異邦的鑽研者『伊爾瑪』
+怪物	星見の『サリム』	<Thalia> the star viewer	2	db_card.hsp:6510	觀星者『薩琳』
+怪物	丘長の『ダイン』	<Dain> the elder of hill	2	db_card.hsp:6523	丘長『戴因』
+怪物	店主	shopkeeper	4	db_card.hsp:6536	店主
+怪物	丘の子	hill child	3	db_card.hsp:6549	丘陵之子
+怪物	丘の民	hill citizen	2	db_card.hsp:6562	丘陵之民
+怪物	ゴールドキウイ	gold kiwi	2	db_card.hsp:6575	黃金奇異鳥
+怪物	キウイ	kiwi	2	db_card.hsp:6588	奇異鳥
+怪物	デススター	death hamster	2	db_card.hsp:6601	死亡倉鼠
+怪物	シューティングスター	shooting hamster	2	db_card.hsp:6614	流星倉鼠
+怪物	脱走機械『ガージンド』	<Jin> the machine rebel	2	db_card.hsp:6640	逃亡機械『加金德』
+怪物	《不幸のシナア》	<Sinaha>	2	db_card.hsp:6653	《不幸的希娜》
+怪物	《砂嵐のラシエル》	<Arasiel>	2	db_card.hsp:6666	《沙暴的拉希埃爾》
+怪物	ラーヴァゴーレム	lava golem	2	db_card.hsp:6679	熔岩魔像
+怪物	《永遠のネヘルタード》	<Amurdad>	2	db_card.hsp:6692	《永恆的涅赫爾塔德》
+怪物	インフェルノフラワー	hell fire flower	2	db_card.hsp:6705	煉獄之花
+怪物	バレットワーム	rock worm	2	db_card.hsp:6718	子彈蠕蟲
+怪物	サンドワーム	sand worm	2	db_card.hsp:6731	沙蟲
+怪物	デストロイノシシ	destroy boar	2	db_card.hsp:6744	毀滅山豬
+怪物	大暴れイノシシ	big boar	2	db_card.hsp:6757	大鬧山豬
+怪物	闇喰コアラ	dark koala	2	db_card.hsp:6783	噬暗無尾熊
+怪物	空を翔ける『ネイン』	<Nein> the flying witch	2	db_card.hsp:6796	翱翔天際的『奈因』
+怪物	老魔導士『ライゼル』	<Raizel> the old wizard	2	db_card.hsp:6809	老魔導士『萊澤爾』
+怪物	『栗巨人』	<chestnut giant>	2	db_card.hsp:6822	『栗子巨人』
+怪物	先生	teacher	2	db_card.hsp:6835	老師
+怪物	トリュフチョコの怪物	truffe chocolate wisp	2	db_card.hsp:6848	松露巧克力怪物
+怪物	《叡智のソピアー》	<Sophia> The Wise	2	db_card.hsp:6861	《睿智的索菲亞》
+怪物	学者	scholar	3	db_card.hsp:6874	學者
+怪物	蟲学者『マリア』	<Mary> the insect master	2	db_card.hsp:6887	昆蟲學者『瑪莉亞』
+怪物	巨大蟻の『アリス』	<Alice> the big ant	2	db_card.hsp:6900	巨蟻『愛麗絲』
+怪物	アキンドカラス	shopkeeper crow	2	db_card.hsp:6913	商人烏鴉
+怪物	ダーティパサラン	black angel hair	2	db_card.hsp:6926	污穢毛玉
+怪物	ケサランパサラン	kesalanpatharan	2	db_card.hsp:6939	毛玉精
+怪物	ジャイアントクイーン	Queen gi-ant	2	db_card.hsp:6952	巨蟻女王
+怪物	サムライアント	samurai-ant	2	db_card.hsp:6965	武士蟻
+怪物	ジャイアント	gi-ant	2	db_card.hsp:6978	巨蟻
+怪物	ジューア外法強化兵	juere demon soldier	2	db_card.hsp:6991	朱亞外法強化兵
+怪物	冥界蟹	hell crab	2	db_card.hsp:7004	冥界蟹
+怪物	竜の狩人『スピファル』	<Spipha> the dragon hunter	2	db_card.hsp:7017	屠龍者『斯皮法爾』
+怪物	テルキネス	telchines	2	db_card.hsp:7030	忒爾喀涅斯
+怪物	デルピュネー	delphyne	2	db_card.hsp:7043	德爾斐涅
+怪物	首切雀	tree sparrow	2	db_card.hsp:7056	斷首雀
+怪物	スパゲッティの怪物	spaghetti monster	2	db_card.hsp:7069	義大利麵怪物
+怪物	閃光のワイバーン	flash wyvern	2	db_card.hsp:7082	閃光雙足飛龍
+怪物	超次元航行機『試作型メルガスト』	<Melugast type0> the dimension driver	2	db_card.hsp:7095	超次元航行機『試作型梅爾加斯特』
+怪物	ガイドの『ノルン』	<Norne> the guide	2	db_card.hsp:7108	導遊『諾倫』
+怪物	マーラ	mra	2	db_card.hsp:7121	魔羅
+怪物	イェルス自走迫撃砲	yerles mortar	2	db_card.hsp:7134	耶爾斯自走迫擊砲
+怪物	ボムスロアー	bomb thrower	2	db_card.hsp:7147	炸彈投手
+怪物	量産型イェルスード	Yerleswood type M	2	db_card.hsp:7160	量產型耶爾斯德
+怪物	ミスト・ドラゴン	mist dragon	2	db_card.hsp:7173	霧龍
+怪物	バーサーク・タイラントドラゴン	berserk dragon	2	db_card.hsp:7186	狂暴暴君龍
+怪物	針地獄ねずみ	hell needle hedgehog	2	db_card.hsp:7199	針地獄刺蝟
+怪物	針千本ねずみ	thousand hedgehog	2	db_card.hsp:7212	千針刺蝟
+怪物	インディゴハンマー	indigo lobster	2	db_card.hsp:7225	靛藍錘
+怪物	カピバラ	capybara	2	db_card.hsp:7238	水豚
+怪物	化け狸	badger	2	db_card.hsp:7251	化狸
+怪物	非情ベル	bell of emergency	2	db_card.hsp:7264	無情之鐘
+怪物	ラグナロック	Ragnarock	2	db_card.hsp:7277	諸神黃昏
+怪物	暗黒土竜	talpidae	2	db_card.hsp:7290	暗黑鼴鼠
+怪物	メガモール	mega mole	2	db_card.hsp:7303	巨型鼴鼠
+怪物	エレアの魔剣士	knight of Elea	2	db_card.hsp:7316	艾萊亞魔劍士
+怪物	エレアの大賢者	sage of Elea	2	db_card.hsp:7329	艾萊亞大賢者
+怪物	ミシャグジ	mishaguzi	2	db_card.hsp:7342	御左口神
+怪物	エク・チュアフ	ek chuah	2	db_card.hsp:7355	埃克・丘瓦
+怪物	デモンズソウル	demon's soul	2	db_card.hsp:7381	惡魔之魂
+怪物	ヒポミケス	hypomyces	2	db_card.hsp:7394	寄生菌
+怪物	ブルーモアイ	blue moai	2	db_card.hsp:7407	藍摩艾
+怪物	カースドレイク	curse drake	2	db_card.hsp:7433	詛咒火龍
+怪物	デッドアイズ・ブラッドスカルドラゴン	dead-eyes blood dragon	2	db_card.hsp:7446	死眼・血骷髏龍
+怪物	ネクロドール	necro doll	2	db_card.hsp:7459	死靈人偶
+怪物	魔術士ギルドの調査員『レーナス』	<Lenas> the mage reporter	2	db_card.hsp:7472	魔術士公會調查員『雷納斯』
+怪物	盗賊ギルドの調査員『ナーガ』	<Naga> the thief reporter	2	db_card.hsp:7485	盜賊公會調查員『娜迦』
+怪物	戦士ギルドの調査員『ラタン』	<Ratin> the fighter reporter	2	db_card.hsp:7498	戰士公會調查員『拉坦』
+怪物	セラフ	seraph	2	db_card.hsp:7511	熾天使
+怪物	ドミニオン	dominion	2	db_card.hsp:7524	主天使
+怪物	アルケー	arkhai	3	db_card.hsp:7537	本原
+怪物	ラストパーダンク	padangu	2	db_card.hsp:7550	最終帕當
+怪物	牧羊犬	sheepdog	3	db_card.hsp:7563	牧羊犬
+怪物	ギャラクティカファントム	galactica phantom	2	db_card.hsp:7576	銀河魅影
+怪物	カオスミミック	chaos mimic	2	db_card.hsp:7589	混沌擬態怪
+怪物	ショゴス	shoggoth	2	db_card.hsp:7602	修格斯
+怪物	超竜人	super-dragonewt	2	db_card.hsp:7615	超龍人
+怪物	アー・ムケンカブ	mucencab	2	db_card.hsp:7628	阿・穆肯卡布
+怪物	＜超グランドマスター＞	<Super-Grandmaster>	2	db_card.hsp:7641	＜超級大師＞
+怪物	ウンゴリアント	ungoliant	2	db_card.hsp:7654	昂哥立安
+怪物	カーリー	kali	2	db_card.hsp:7667	迦梨
+怪物	バロールの魔眼	eye of balor	2	db_card.hsp:7680	巴羅爾的魔眼
+怪物	シュガール	sugaar	2	db_card.hsp:7693	蘇加爾
+怪物	クイックレッドコーム	quick redcap	2	db_card.hsp:7706	迅捷紅帽
+怪物	カマソッツ	camazotz	2	db_card.hsp:7719	卡馬佐茨
+怪物	オシリス	osiris	2	db_card.hsp:7732	歐西里斯
+怪物	ヘル	hel	2	db_card.hsp:7745	赫爾
+怪物	バズウ	nemain	2	db_card.hsp:7758	巴茲烏
+怪物	上級魔導士	high-magician	2	db_card.hsp:7771	上級魔導士
+怪物	イェルス超重力砲	gravity cannon	2	db_card.hsp:7784	耶爾斯超重力砲
+怪物	マルチプルゴーレム	ultimate golem	2	db_card.hsp:7797	複合魔像
+怪物	ウルフヘズナル	ulfheoinn	2	db_card.hsp:7810	狼皮戰士
+怪物	魔人道化師	diabolic clown	2	db_card.hsp:7823	魔人小丑
+怪物	エンシェントリッチ	ancient lich	2	db_card.hsp:7836	遠古巫妖
+怪物	ガルーダ	garuda	2	db_card.hsp:7849	迦樓羅
+怪物	鳥人の射手	bird archer	2	db_card.hsp:7862	鳥人射手
+怪物	ブラッドゴーレム	blood golem	2	db_card.hsp:7875	血魔像
+怪物	ビホルドゲイザー	holdgazer	2	db_card.hsp:7888	眼魔凝視者
+怪物	ベヒモス	behemoth	2	db_card.hsp:7901	貝希摩斯
+怪物	オセロメー	jaguar warrior	2	db_card.hsp:7914	美洲豹戰士
+怪物	アルクトゥルス	arktouros	2	db_card.hsp:7927	大角星
+怪物	オメガヘラクレス	omega herakles	2	db_card.hsp:7940	歐米茄赫拉克勒斯
+怪物	ヴィシュヌ	vishnu	2	db_card.hsp:7953	毗濕奴
+怪物	クラスター爆弾岩	cluster bomb rock	2	db_card.hsp:7966	集束炸彈岩
+怪物	ミラージュグリフォン	mirage gryphon	2	db_card.hsp:7992	幻影鷲獅
+怪物	ブラックグリフォン	black gryffon	2	db_card.hsp:8005	黑鷲獅
+怪物	アテンダントの『エール』	<Aile> the attendant	2	db_card.hsp:8031	服務員『艾兒』
+怪物	巨人食い花	giant eater flower	2	db_card.hsp:8044	食巨人花
+怪物	イェルスサイボーグ兵	Yerles cyborg soldier	2	db_card.hsp:8057	耶爾斯改造人士兵
+怪物	クワガタイラント	stag god	2	db_card.hsp:8070	鍬形暴君
+怪物	白銀龍蟲	dragon centipede	2	db_card.hsp:8083	白銀龍蟲
+怪物	＜グランドマスター＞	<Grandmaster>	2	db_card.hsp:8096	＜大師＞
+怪物	シュイド	shadow	2	db_card.hsp:8109	暗影
+怪物	孤高の荒鷲	power eagle	2	db_card.hsp:8122	孤高荒鷲
+怪物	ストライクイーグル	strike eagle	2	db_card.hsp:8135	打擊之鷹
+怪物	黒腕の『レオルド』	black gauntlet <Leold>	2	db_card.hsp:8148	黑腕『雷奧德』
+怪物	プロジェットさん	pro-jet	2	db_card.hsp:8161	噴射先生
+怪物	害虫王『サラシナ』	<King Cockroach>	2	db_card.hsp:8174	害蟲王『薩拉希娜』
+怪物	少年の『ウェル』	child <Wel>	2	db_card.hsp:8200	少年『威爾』
+怪物	青龍	sei-ryu	2	db_card.hsp:8213	青龍
+怪物	師範の『ナズナ』	<Nazuna> the instructor	2	db_card.hsp:8226	師範『薺』
+怪物	『着ぐるみのバイト』	<part time worker>	4	db_card.hsp:8239	『玩偶裝打工仔』
+怪物	白炎の『エストーク』	<Estork> the doggod	2	db_card.hsp:8252	白炎的『埃斯托克』
+怪物	『エーテルジェネレイター』	<Ether Generator>	2	db_card.hsp:8265	『以太產生器』
+怪物	旧人類	old humankind	6	db_card.hsp:8278	舊人類
+怪物	エレメントドラゴン	element dragon	2	db_card.hsp:8317	元素龍
+怪物	魔王	demon's ruler	2	db_card.hsp:8330	魔王
+怪物	デモンズロード	demon's lord	2	db_card.hsp:8343	惡魔領主
+怪物	デーモン	demon	2	db_card.hsp:8356	惡魔
+怪物	『イェルス自律戦闘通信機』	<Mobile Communication Equipment>	2	db_card.hsp:8369	『耶爾斯自律戰鬥通訊機』
+怪物	オリオンキラー	Orion killer	2	db_card.hsp:8395	獵戶殺手
+怪物	混沌の王『カオス・ユニコーン』	<Chaos Unicorn> King of Chaos	2	db_card.hsp:8421	混沌之王『混沌獨角獸』
+怪物	カオス・スピリット	chaos spirit	2	db_card.hsp:8434	混沌精靈
+怪物	ゼイレン支援攻撃端末	Xeren satellite unit	2	db_card.hsp:8447	澤倫支援攻擊終端
+怪物	ゼイレン自走雷撃砲	Xeren electric tank	2	db_card.hsp:8460	澤倫自走雷擊砲
+怪物	カラースの番人	wrang-wrang	2	db_card.hsp:8473	卡拉斯守衛
+怪物	無慈悲な戦士『グウェン』	<Gwen> the pitiless	2	db_card.hsp:8486	無情的戰士『格溫』
+怪物	グリーフシールド	<Grief Shield>	2	db_card.hsp:8499	悲傷之盾
+怪物	サイレント・ヒル	silent leech	2	db_card.hsp:8512	寂靜水蛭
+怪物	フライング・ヒル	flying leech	2	db_card.hsp:8525	飛行水蛭
+怪物	市民のライエ	new citizen	2	db_card.hsp:8538	市民萊耶
+怪物	Ｍ少女	M girl	2	db_card.hsp:8551	Ｍ少女
+怪物	駄目姉	lazy older sister	2	db_card.hsp:8564	沒用的姊姊
+怪物	イヌの偉大なる『パスカル』	<Pascal>	2	db_card.hsp:8577	犬之偉大的『帕斯卡』
+怪物	玄武の『レイキ』	<Leiki>	2	db_card.hsp:8590	玄武的『玲季』
+怪物	深海の姫『ミヅキ』	<Mizuki> The Abyss Princess	2	db_card.hsp:8603	深海公主『美月』
+怪物	海底生物	abyss animal	2	db_card.hsp:8616	海底生物
+怪物	屍の英雄	skeleton hero	2	db_card.hsp:8629	屍之英雄
+怪物	スピリット・レイナーダ	gun spirit	2	db_card.hsp:8642	精靈・雷納達
+怪物	深淵の住人	abyss dweller	2	db_card.hsp:8655	深淵住民
+怪物	黒お嬢様	white young lady	2	db_card.hsp:8668	黑色大小姐
+怪物	《元素のイツパロトル》	<Itzpalt>	2	db_card.hsp:8681	《元素的伊茲帕洛特爾》
+怪物	《エレメンティード》	<The Element>	2	db_card.hsp:8694	《元素體》
+怪物	《富のヤカテクト》	<Yacatect>	2	db_card.hsp:8707	《財富的雅卡特庫特》
+怪物	《ハイパー・ヤカテクト》	<Hyper Yacatect>	2	db_card.hsp:8720	《超級雅卡特庫特》
+怪物	ハシビロコウさん	shoebill	2	db_card.hsp:8733	鯨頭鸛先生
+怪物	レッドニンジャ	red ninja	2	db_card.hsp:8746	紅忍者
+怪物	抜け忍の『影羅』	<Eila> the fugitive Kunoichi	2	db_card.hsp:8759	逃忍『影羅』
+怪物	忍者ファイター『月影』	<Getuei> the ninja master	2	db_card.hsp:8772	忍者鬥士『月影』
+怪物	錬金術士の『ナプラス』	Alchemist <Naplus>	2	db_card.hsp:8785	鍊金術士『納普拉斯』
+怪物	黒衣の『クロン』	<Kuron> the black cloth	2	db_card.hsp:8798	黑衣的『克隆』
+怪物	白皙の『シラハ』	<Siraha> the white cloth	2	db_card.hsp:8811	白皙的『白羽』
+怪物	旅人	traveler	3	db_card.hsp:8824	旅人
+怪物	エレアの難民	refugee	2	db_card.hsp:8837	艾萊亞難民
+怪物	カジノスタッフ	staff	2	db_card.hsp:8850	賭場員工
+怪物	ニンジャ	ninja	2	db_card.hsp:8863	忍者
+怪物	ブレイドキング	blade king	2	db_card.hsp:8876	刀刃之王
+怪物	海水浴客	swimmer	3	db_card.hsp:8889	海水浴客
+怪物	遊び人	gambler	2	db_card.hsp:8915	遊手好閒者
+怪物	ライフ・キャンドル	candle wisp	2	db_card.hsp:8941	生命之燭
+怪物	スピリット・メギューム	magic spirit	2	db_card.hsp:8967	精靈・梅久姆
+怪物	スピリット・ナーディラス	war spirit	2	db_card.hsp:8980	精靈・納迪拉斯
+怪物	ギャラルベル	bell of termination	2	db_card.hsp:8993	終末之鐘
+怪物	開発主任『ガベラ』	Lead Developer <Dr. Gavela>	2	db_card.hsp:9006	開發主任『加貝拉』
+怪物	『異形の天使』	<Meshera Alpha> the deformed angel	2	db_card.hsp:9019	『異形天使』
+怪物	チュパカブラ	chupacabura	2	db_card.hsp:9032	卓柏卡布拉
+怪物	カーミラ	carmilla	2	db_card.hsp:9045	卡蜜拉
+怪物	ヴァンパイア	vampire	2	db_card.hsp:9058	吸血鬼
+怪物	メシェーラ・ヴィム	meshera delta	2	db_card.hsp:9071	梅榭拉・維姆
+怪物	メシェーラ・アーギン	meshera gamma	2	db_card.hsp:9084	梅榭拉・阿金
+怪物	メシェーラ・ヘルグムト	meshera beta	2	db_card.hsp:9097	梅榭拉・赫爾古姆特
+怪物	闘駐火草	red mushroom	2	db_card.hsp:9110	鬥駐火草
+怪物	ガイドの『アルマ』	<Arma> the tour guide	2	db_card.hsp:9136	導遊『阿爾瑪』
+怪物	ファラオの呪い	cursed coffin	2	db_card.hsp:9149	法老的詛咒
+怪物	猫ゾンビ	cat zombie	2	db_card.hsp:9162	殭屍貓
+怪物	ビッグシスター	Big sister	2	db_card.hsp:9175	大姊姊
+怪物	老人の『ストック』	rich person <Stoke>	2	db_card.hsp:9188	老人『史托克』
+怪物	カミカゼ・ミミック	mimic	2	db_card.hsp:9201	神風擬態怪
+怪物	漁師	fisherman	2	db_card.hsp:9214	漁夫
+怪物	海賊	pirate	3	db_card.hsp:9227	海盜
+怪物	えっちな妹	H sister	2	db_card.hsp:9305	色色的妹妹
+怪物	災厄の苗床『メシェーラ・ムド』	<Meshera plant>	2	db_card.hsp:9318	災厄苗床『梅榭拉・穆德』
+怪物	ファイブ・ヘッド・ゴッド	five head god	2	db_card.hsp:9331	五頭神
+怪物	かたつむり（寄生）	leucochloridium	2	db_card.hsp:9344	蝸牛（寄生）
+怪物	朱雀	suzaku	2	db_card.hsp:9357	朱雀
+怪物	コカトリス	cockatrice	2	db_card.hsp:9370	雞蛇
+怪物	黄金羊	gold sheep	2	db_card.hsp:9383	黃金羊
+怪物	ドラゴンズペットハーピー	dragon's pet harpy	2	db_card.hsp:9396	龍之寵物哈比
+怪物	重水素爆弾岩	giga bomb rock	2	db_card.hsp:9409	重氫炸彈岩
+怪物	オログ	olog	2	db_card.hsp:9422	歐洛格
+怪物	ヒトクイオオヤシガニ	man-eater crab	2	db_card.hsp:9435	食人椰子蟹
+怪物	ドラゴニュート	dragonewt	2	db_card.hsp:9448	龍裔
+怪物	タイターニア	titania	2	db_card.hsp:9461	泰坦妮亞
+怪物	デビルコボルト	dark kobold	2	db_card.hsp:9474	惡魔狗頭人
+怪物	ヘカト	heqet	2	db_card.hsp:9487	赫卡特
+怪物	『かたつむり（翼）』	wing snail	2	db_card.hsp:9500	『蝸牛（翼）』
+怪物	混沌の翼『エグゾシズル』	<Exossil> the chaos wing	2	db_card.hsp:9526	混沌之翼『埃格佐希茲爾』
+怪物	火炎機竜『メタルヴェスダ』	<Metal Vesda> the fire machine	2	db_card.hsp:9539	火焰機龍『金屬維斯達』
+怪物	葬祭の『アヌビス』	<Anubis> the master of death	2	db_card.hsp:9552	葬祭的『阿努比斯』
+怪物	量子物理生命体	Quantum creature	2	db_card.hsp:9578	量子物理生命體
+怪物	ボール屋の『レンド』	<Lend> the taker	2	db_card.hsp:9591	球店的『倫德』
+怪物	没落商人『グオ』	Bankrupt <Guo>	2	db_card.hsp:9604	沒落商人『郭』
+怪物	殺戮ネズミ	carnage rat	2	db_card.hsp:9617	殺戮鼠
+怪物	イェルス防衛システム	security system	2	db_card.hsp:9630	耶爾斯防衛系統
+怪物	メタモルスライム	Metamorphose	2	db_card.hsp:9643	變形史萊姆
+怪物	メイドの『ルーネ』	<Lune> the maid chief	2	db_card.hsp:9669	女僕『露涅』
+怪物	メイドさん	maidsann	2	db_card.hsp:9682	女僕小姐
+怪物	アトラス	atlas	2	db_card.hsp:9695	亞特拉斯
+怪物	モロク	moloch	2	db_card.hsp:9708	摩洛
+怪物	世界樹	grand ent	2	db_card.hsp:9734	世界樹
+怪物	ウロボロス	ouroboros	2	db_card.hsp:9747	銜尾蛇
+怪物	ヴィーアシヴァン	viashivan	2	db_card.hsp:9760	維亞希凡
+怪物	淫婦	camouflaged imp	2	db_card.hsp:9773	淫婦
+怪物	黒の洗礼者	black baptist	2	db_card.hsp:9786	黑之施洗者
+怪物	殺人キューピッド	cupid of death	2	db_card.hsp:9799	殺人邱比特
+怪物	ヴォルガーファントム	vol phantom	2	db_card.hsp:9812	沃爾加魅影
+怪物	ボーパルバニー	vorpal bunny	2	db_card.hsp:9825	斬首兔
+怪物	ティラノブレイカー	Tyrannobreaker	2	db_card.hsp:9838	暴龍破壞者
+怪物	アトラック＝ナチャ	atlach-nacha	2	db_card.hsp:9851	阿特拉克＝納克亞
+怪物	グランドドラゴン	grand dragon	2	db_card.hsp:9864	大地龍
+怪物	バウンティハンター	bounty hunter	2	db_card.hsp:9877	賞金獵人
+怪物	ツァトゥグァ	tsathoggua	2	db_card.hsp:9890	札特瓜
+怪物	ナイアーラトテップ	nyarlathotep	2	db_card.hsp:9903	奈亞拉托提普
+怪物	黄衣の王	the king in yellow	2	db_card.hsp:9916	黃衣之王
+怪物	『たけのこ』	<Bamboo Sprout>	2	db_card.hsp:9929	『竹筍』
+怪物	『マーダーナイト』	<Murder Knight>	2	db_card.hsp:9968	『殺戮騎士』
+怪物	白虎の『サンゲツ』	<Lityou>	2	db_card.hsp:9981	白虎的『山月』
+怪物	『元清掃員』	<Reconciled cleaner>	2	db_card.hsp:9994	『前清潔員』
+怪物	『かたつむり（機乗）』	<Snail> the android rider	2	db_card.hsp:10007	『蝸牛（機乘）』
+怪物	発狂金持ち『カイン』	<Caim> the mad rich	2	db_card.hsp:10020	發狂富翁『該隱』
+怪物	混沌の従者『オルフェ』	<Orphe> the chaos follower	2	db_card.hsp:10033	混沌隨從『奧爾菲』
+怪物	破壊神『シバ』	<Siva> the destruction	2	db_card.hsp:10046	破壞神『濕婆』
+怪物	超絶決戦兵器『イェルスード』	<Yerleswood> the savage machine	2	db_card.hsp:10059	超絕決戰兵器『耶爾斯德』
+怪物	悪霊神『ウルザシズル』	<Ulzassil> the dead emperor	2	db_card.hsp:10072	惡靈神『烏爾札希茲爾』
+怪物	エウダーナ召喚騎士	eulderna summonknight	2	db_card.hsp:10085	尤達納召喚騎士
+怪物	ジューア狂戦士	juere berserker	2	db_card.hsp:10098	朱亞狂戰士
+怪物	笛吹きの『メファン』	<Mefan> the bard	2	db_card.hsp:10111	吹笛人『梅凡』
+怪物	世間知らずの『カイル』	Naive <Kyle>	2	db_card.hsp:10124	不諳世事的『凱爾』
+怪物	警備部隊長『オービル』	Security Officer <Orville>	2	db_card.hsp:10150	警備隊長『奧維爾』
+怪物	特殊部隊長『ミーリス』	<Milis> Captain of the Special Forces	2	db_card.hsp:10163	特殊部隊長『米莉絲』
+怪物	『犬のおまわりさん』	<Dog cop> 	2	db_card.hsp:10176	『狗狗警察』
+怪物	海賊団長『エバース』	<Ebarth> the pirate boss	2	db_card.hsp:10189	海盜團長『埃巴斯』
+怪物	腕利き傭兵『ザナード』	<Zernard> the capable mercenary	2	db_card.hsp:10202	能幹傭兵『札納德』
+怪物	機甲将軍『アインリッヒ』	<Heinrich> the iron colonel	2	db_card.hsp:10215	機甲將軍『海因里希』
+怪物	『Ｈな妹』	<H sister>	2	db_card.hsp:10228	『Ｈ的妹妹』
+怪物	ルドラス	Rudras	2	db_card.hsp:10267	魯德拉斯
+怪物	バグ	bug	2	db_card.hsp:10293	程式錯誤
+怪物	キャラバンの隊長	caravan master	2	db_card.hsp:10332	商隊隊長
+怪物	バーテンダー	bartender	2	db_card.hsp:10345	調酒師
+怪物	情報屋	informer	3	db_card.hsp:10358	情報販子
+怪物	アリーナマスター	arena master	2	db_card.hsp:10371	競技場主人
+怪物	癒し手	healer	2	db_card.hsp:10384	治療師
+怪物	シスター	sister	2	db_card.hsp:10397	修女
+怪物	長	elder	2	db_card.hsp:10410	長老
+怪物	トレイナー	trainer	2	db_card.hsp:10423	訓練師
+怪物	ギルドトレイナー	guild trainer	2	db_card.hsp:10436	公會訓練師
+怪物	ガード	guard	5	db_card.hsp:10449	衛兵
+怪物	特殊部隊	palmian elite soldier	2	db_card.hsp:10475	特殊部隊
+怪物	偽りの預言者『ゼーム』	<Zeome> the false prophet	2	db_card.hsp:10488	偽先知『澤姆』
+怪物	混沌の寵児『オルフェ』	<Orphe> the chaos child	2	db_card.hsp:10514	混沌寵兒『奧爾菲』
+怪物	『マッドサイエンティスト』	<Mad scientist>	2	db_card.hsp:10527	『瘋狂科學家』
+怪物	堕天使『イスカ』	<Isca> the fallen angel	2	db_card.hsp:10540	墮天使『伊斯卡』
+怪物	『虚空を這いずる者』	<Whom dwell in the vanity>	2	db_card.hsp:10553	『爬行於虛空者』
+怪物	ザナンの紅の英雄『ロイター』	<Loyter> the crimson of Zanan	2	db_card.hsp:10566	澤納恩的紅之英雄『羅伊特』
+怪物	火炎竜『ヴェスダ』	<Vesda> the fire dragon	2	db_card.hsp:10579	火焰龍『維斯達』
+怪物	見習い『ミシェス』	<Miches> the apprentice	2	db_card.hsp:10592	見習生『米榭絲』
+怪物	看板娘『シーナ』	<Shena> the draw	2	db_card.hsp:10605	招牌女孩『希娜』
+怪物	『豹頭の戦士』	<The leopard warrior>	2	db_card.hsp:10618	『豹頭戰士』
+怪物	皇女『シルヴィア』	<Silvia> The princess	2	db_card.hsp:10631	皇女『希爾薇婭』
+怪物	『ダンジョンクリーナー』	<Dungeon cleaner>	2	db_card.hsp:10644	『地下城清潔工』
+怪物	風を聴く者『ラーネイレ』	<Larnneire> the listener of wind	2	db_card.hsp:10657	聆風者『拉妮蕾』
+怪物	異形の森の使者『ロミアス』	<Lomias> the messenger from Vindale	2	db_card.hsp:10670	異形森林的使者『羅米亞斯』
+怪物	パルミアの影『スラン』	<Slan> the shadow of Palmia	2	db_card.hsp:10683	巴羅米亞之影『斯蘭』
+怪物	カルーンの孤狼『カラム』	<Karam> the lonely wolf of Karune	2	db_card.hsp:10696	卡倫的孤狼『卡拉姆』
+怪物	歴史を学ぶ『エリステア』	<Erystia> the scholar of history	2	db_card.hsp:10709	研究歷史的『艾莉絲提亞』
+怪物	闇の奇形『イスシズル』	<Issizzle> the dark abomination	2	db_card.hsp:10722	黑暗畸形『伊斯希茲爾』
+怪物	古城の主『ワイナン』	<Wynan> the lord of the Ancient Castle	2	db_card.hsp:10735	古城之主『懷南』
+怪物	赤き義眼の『クルイツゥア』	<Quruiza> the red-eyed Deceiver	2	db_card.hsp:10748	紅色義眼的『庫魯伊茲亞』
+怪物	鋼鉄竜『コルゴン』	<Corgon> the steel dragon	2	db_card.hsp:10761	鋼鐵龍『科爾貢』
+怪物	《癒しのジュア》	<Jure>	2	db_card.hsp:10774	《治癒之朱亞》
+怪物	《光翼のジュア》	<Blessed Jure>	2	db_card.hsp:10787	《光翼之朱亞》
+怪物	《風のルルウィ》	<Lulwy>	2	db_card.hsp:10800	《風之露露伊》
+怪物	《暴風のルルウィ》	<Devastate Lulwy>	2	db_card.hsp:10813	《暴風之露露伊》
+怪物	《ビルドアップ・オパートス》	<Buildup Opatos>	2	db_card.hsp:10826	《健美的歐帕特斯》
+怪物	《ヤミクミロミ》	<Insane Kumiromi>	2	db_card.hsp:10839	《病嬌庫米羅米》
+怪物	《デウス・エクス・マニナ》	<Deus ex manina>	2	db_card.hsp:10852	《機械降神瑪尼娜》
+怪物	《幸運のエヘカトル》	<Ehekatl>	2	db_card.hsp:10865	《幸運之艾赫卡托爾》
+怪物	《エヘカトルの中の神》	<God inside Ehekatl>	2	db_card.hsp:10878	《艾赫卡托爾之中的神》
+怪物	《地のオパートス》	<Opatos>	2	db_card.hsp:10891	《大地之歐帕特斯》
+怪物	《収穫のクミロミ》	<Kumiromi>	2	db_card.hsp:10904	《收穫之庫米羅米》
+怪物	《機械のマニ》	<Mani>	2	db_card.hsp:10917	《機械之瑪尼》
+怪物	ジラ	zilla	2	db_card.hsp:10930	吉拉
+怪物	塊の怪物	mass monster	2	db_card.hsp:11021	團塊怪物
+怪物	キューブ	cube	2	db_card.hsp:11034	方塊
+怪物	傭兵	mercenary	3	db_card.hsp:11086	傭兵
+怪物	乞食	beggar	3	db_card.hsp:11099	乞丐
+怪物	農夫	farmer	3	db_card.hsp:11112	農夫
+怪物	清掃員	cleaner	3	db_card.hsp:11125	清潔員
+怪物	鉱夫	miner	3	db_card.hsp:11138	礦工
+怪物	吟遊詩人	bard	3	db_card.hsp:11151	吟遊詩人
+怪物	修道女	nun	2	db_card.hsp:11164	修女
+怪物	聖獣	holy beast	2	db_card.hsp:11177	聖獸
+怪物	ジュアの狂信者	Jure fanatic	2	db_card.hsp:11203	朱亞狂信者
+怪物	ならずもの	rogue	3	db_card.hsp:11216	無賴
+怪物	娼婦	prostitute	3	db_card.hsp:11229	娼婦
+怪物	囚人	prisoner	2	db_card.hsp:11242	囚犯
+怪物	芸術家	artist	3	db_card.hsp:11255	藝術家
+怪物	貴族	noble	3	db_card.hsp:11268	貴族
+怪物	魔術士ギルド	mage guild member	2	db_card.hsp:11281	魔術士公會
+怪物	盗賊ギルド	thief guild member	2	db_card.hsp:11294	盜賊公會
+怪物	戦士ギルド	fighter guild member	2	db_card.hsp:11307	戰士公會
+怪物	老人	old person	4	db_card.hsp:11333	老人
+怪物	パンク	punk	3	db_card.hsp:11346	龐克
+怪物	ごろつき	gangster	3	db_card.hsp:11385	流氓
+怪物	地雷侍	kamikaze samurai	2	db_card.hsp:11476	地雷武士
+怪物	エクスプロージョマン	explosioman	2	db_card.hsp:11504	爆炸人
+怪物	イークの首領『ルードルボ』	<Rodlob> the yeek chief	2	db_card.hsp:11517	伊克首領『魯德爾波』
+怪物	温泉マニア	hot spring maniac	3	db_card.hsp:11530	溫泉狂
+怪物	サイバードームの住人	citizen of cyber dome	4	db_card.hsp:11621	網路圓頂居民
+怪物	セールスマン	sales person	3	db_card.hsp:11647	推銷員
+怪物	水夫	sailor	3	db_card.hsp:11660	水手
+怪物	船長	captain	3	db_card.hsp:11673	船長
+怪物	パルミア王妃『スターシャ』	<Stersha> the queen of Palmia	2	db_card.hsp:11686	巴羅米亞王妃『絲塔莎』
+怪物	パルミア王『ジャビ』	<Xabi> the king of Palmia	2	db_card.hsp:11699	巴羅米亞國王『賈比』
+怪物	ミノタウロスの王『ウンガガ』	<Ungaga> the minotaur king	2	db_card.hsp:11790	牛頭人之王『溫加加』
+怪物	トロール	troll	2	db_card.hsp:11803	巨魔
+怪物	魔術士	wizard	2	db_card.hsp:11881	魔術士
+怪物	戦士	warrior	2	db_card.hsp:11894	戰士
+怪物	オークの隊長『ゴダ』	<Goda> the captain of orc	2	db_card.hsp:11946	獸人隊長『哥達』
+怪物	コウモリ	bat	3	db_card.hsp:11972	蝙蝠
+怪物	吸血コウモリ	vampire bat	2	db_card.hsp:11985	吸血蝙蝠
+怪物	ドラゴンバット	dragon bat	2	db_card.hsp:11998	龍蝙蝠
+怪物	死神の使い	messenger of death	2	db_card.hsp:12089	死神使者
+怪物	ファイアハウンド	fire hound	2	db_card.hsp:12115	火焰獵犬
+怪物	アイスハウンド	ice hound	2	db_card.hsp:12128	冰霜獵犬
+怪物	ライトニングハウンド	lightning hound	2	db_card.hsp:12141	雷電獵犬
+怪物	ダークハウンド	dark hound	2	db_card.hsp:12154	黑暗獵犬
+怪物	幻惑ハウンド	illusion hound	2	db_card.hsp:12167	幻惑獵犬
+怪物	神経ハウンド	nerve hound	2	db_card.hsp:12180	神經獵犬
+怪物	ポイズンハウンド	poison hound	2	db_card.hsp:12193	劇毒獵犬
+怪物	轟音ハウンド	sound hound	2	db_card.hsp:12206	轟音獵犬
+怪物	地獄ハウンド	nether hound	2	db_card.hsp:12219	地獄獵犬
+怪物	カオスハウンド	chaos hound	2	db_card.hsp:12232	混沌獵犬
+怪物	大食いトド	hungry sea lion	2	db_card.hsp:12297	大胃王海獅
+怪物	超大食いトド	super hungry sea lion	2	db_card.hsp:12310	超大胃王海獅
+怪物	ファイアドレイク	fire drake	2	db_card.hsp:12635	火龍
+怪物	アイスドレイク	ice drake	2	db_card.hsp:12648	冰龍
+怪物	ピラミッドの主『ツェン』	<Tuwen> the master of the pyramid	2	db_card.hsp:12700	金字塔之主『岑』
+怪物	ゴブリン	goblin	3	db_card.hsp:12726	哥布林
+怪物	ゴブリンの戦士	goblin warrior	2	db_card.hsp:12739	哥布林戰士
+怪物	ゴブリンシャーマン	goblin shaman	2	db_card.hsp:12752	哥布林薩滿
+怪物	ゴブリンの魔法使い	goblin wizard	2	db_card.hsp:12765	哥布林魔法師
+怪物	赤の洗礼者	red baptist	2	db_card.hsp:12778	紅之施洗者
+怪物	青の洗礼者	blue baptist	2	db_card.hsp:12791	藍之施洗者
+怪物	マンモス	Mammoth	2	db_card.hsp:12830	長毛象
+怪物	ゴールデンアーマー	golden armor	2	db_card.hsp:12869	黃金鎧甲
+怪物	デスアーマー	death armor	2	db_card.hsp:12882	死亡鎧甲
+怪物	グリーンドラゴン	green dragon	2	db_card.hsp:12986	綠龍
+怪物	レッドドラゴン	red dragon	2	db_card.hsp:12999	紅龍
+怪物	ホワイトドラゴン	white dragon	2	db_card.hsp:13012	白龍
+怪物	エレキドラゴン	elec dragon	2	db_card.hsp:13025	電龍
+怪物	冥界ドラゴン	nether dragon	2	db_card.hsp:13038	冥界龍
+怪物	カオスドラゴン	chaos dragon	2	db_card.hsp:13051	混沌龍
+怪物	ケルベロス	cerberus	2	db_card.hsp:13064	刻耳柏洛斯
+怪物	ゴールドゴーレム	golden golem	2	db_card.hsp:13207	黃金魔像
+怪物	ミスリルゴーレム	mithril golem	2	db_card.hsp:13220	秘銀魔像
+怪物	スカイゴーレム	sky golem	2	db_card.hsp:13233	天空魔像
+怪物	アダマンタイトゴーレム	adamantium golem	2	db_card.hsp:13246	精金魔像
+怪物	炎の信仰者	cultist of fire	2	db_card.hsp:13285	火焰信徒
+怪物	闇の宣教師	missionary of darkness	2	db_card.hsp:13324	黑暗傳教士
+怪物	傭兵戦士	mercenary warrior	3	db_card.hsp:13415	傭兵戰士
+怪物	傭兵射手	mercenary archer	3	db_card.hsp:13428	傭兵射手
+怪物	傭兵魔術士	mercenary wizard	3	db_card.hsp:13441	傭兵魔術士
+怪物	盗賊団の頭領	rogue boss	2	db_card.hsp:13454	盜賊團頭目
+怪物	盗賊団の用心棒	rogue warrior	3	db_card.hsp:13467	盜賊團保鑣
+怪物	盗賊団の殺し屋	rogue archer	3	db_card.hsp:13480	盜賊團殺手
+怪物	盗賊団の術士	rogue wizard	3	db_card.hsp:13493	盜賊團術士
+怪物	辺境の勇士『ギルバート大佐』	<Colonel Gilbert> the frontier warrior	2	db_card.hsp:13532	邊境勇士『吉爾伯特上校』
+怪物	イェルス自走砲	yerles self-propelled gun	2	db_card.hsp:13545	耶爾斯自走砲
+怪物	ロックスロアー	rock thrower	2	db_card.hsp:13584	投石者
+怪物	猫使い『ケシー』	<Cacy> the cat tamer	2	db_card.hsp:13649	馭貓者『凱西』
+怪物	子犬の『ポピー』	<Poppy> the little dog	2	db_card.hsp:13688	小狗『波比』
+怪物	犬好きの少女『リリアン』	<Rilian> the dog lover	2	db_card.hsp:13701	愛狗少女『莉莉安』
+怪物	猫嫌いの『タム』	<Tam> the cat hater	2	db_card.hsp:13714	討厭貓的『塔姆』
+怪物	大道芸人	public performer	3	db_card.hsp:13766	街頭藝人
+怪物	猫の女王『フリージア』	<Frisia> the cat queen	2	db_card.hsp:13779	貓之女王『芙莉西亞』
+怪物	ゼイレン究極破壊兵器『ウティマ』	<Utima> the destroyer of Xeren	2	db_card.hsp:13844	澤倫究極破壞兵器『烏蒂瑪』
+怪物	不浄なる者『アズラシズル』	<Azzrssil> the impure	2	db_card.hsp:13857	不淨者『阿茲拉希茲爾』
+怪物	ペットアリーナの主催者	master of pet arena	2	db_card.hsp:13870	寵物競技場主辦人
+怪物	伝説の職人『ガロク』	<Garok> the legendary smith	2	db_card.hsp:13883	傳說工匠『加洛克』
+怪物	伝説の職人『ミラル』	<Miral> the legendary smith	2	db_card.hsp:13896	傳說工匠『米拉爾』
+怪物	ツインテール	twintail	2	db_card.hsp:13909	雙馬尾
+怪物	銀狼	silver wolf	2	db_card.hsp:13922	銀狼
+怪物	大富豪	rich person	2	db_card.hsp:13948	大富豪
+怪物	貴族の子供	noble child	2	db_card.hsp:13961	貴族的孩子
+怪物	観光客	tourist	4	db_card.hsp:13974	觀光客
+怪物	祭りの観光客	festival tourist	2	db_card.hsp:13987	祭典觀光客
+怪物	『カネダのバイク』	<Kaneda Bike>	2	db_card.hsp:14039	『金田的機車』
+怪物	地雷犬	mine dog	2	db_card.hsp:14065	地雷犬
+怪物	鉄の処女	iron maiden	2	db_card.hsp:14078	鐵處女
+怪物	ハリねずみ	hedgehog	3	db_card.hsp:14130	刺蝟
+怪物	輝くハリねずみ	shining hedgehog	2	db_card.hsp:14143	閃亮刺蝟
+怪物	闇子	stalker	2	db_card.hsp:14221	暗子
+怪物	闇の老師	shadow stalker	2	db_card.hsp:14234	黑暗老師
+怪物	火の巨人『エボン』	<Ebon> the fire giant	2	db_card.hsp:14247	火巨人『埃邦』
+怪物	見世物屋の『モイアー』	<Moyer> the crooked	2	db_card.hsp:14260	雜耍攤的『莫伊爾』
+怪物	メイド	maid	2	db_card.hsp:14273	女僕
+怪物	プチタンク	putit tank	2	db_card.hsp:14286	普奇戰車
+怪物	無邪気な少女『グウェン』	<Gwen> the innocent	2	db_card.hsp:14299	天真少女『格溫』
+怪物	ひとりぼっちの『パエル』	Lonely <Pael>	2	db_card.hsp:14312	孤單的『帕艾爾』
+怪物	パエルの母『リリィ』	Pael's mom <Lily>	2	db_card.hsp:14325	帕艾爾的母親『莉莉』
+怪物	女たらしの『ラファエロ』	<Raphael> the womanizer	2	db_card.hsp:14338	花花公子『拉斐爾』
+怪物	見習い騎士『アインク』	<Ainc> the novice knight	2	db_card.hsp:14351	見習騎士『艾因克』
+怪物	負傷兵『アーノルド』	<Arnord> the injured soldier	2	db_card.hsp:14364	傷兵『阿諾德』
+怪物	猫かぶり『ミーア』	<Mia> the cat freak	2	db_card.hsp:14377	裝乖的『米婭』
+怪物	悩める魔術士『レントン』	<Renton> the suffering wizard	2	db_card.hsp:14390	苦惱的魔術士『倫頓』
+怪物	稀代の泥棒『マークス』	<Marks> the great thief	2	db_card.hsp:14403	稀世大盜『馬克斯』
+怪物	爆弾魔『ノエル』	<Noel> the bomber	2	db_card.hsp:14416	炸彈魔『諾艾爾』
+怪物	パルミア少将『コネリー』	<Conery> Palmian major general	2	db_card.hsp:14429	巴羅米亞少將『康納利』
+怪物	マスターシーフ	master thief	2	db_card.hsp:14468	盜賊大師
+怪物	イスの偉大なる種族	great race of Yith	2	db_card.hsp:14481	伊斯之偉大種族
+怪物	シュブ＝ニグラス	Shub-Niggurath	2	db_card.hsp:14494	莎布＝尼古拉絲
+怪物	ガグ	gagu	2	db_card.hsp:14507	加格
+怪物	螺旋の王	spiral king	2	db_card.hsp:14520	螺旋之王
+怪物	ミュータント	mutant	2	db_card.hsp:14715	突變體
+怪物	生化学者『イコール』	<Icolle> the biologist	2	db_card.hsp:14728	生物化學家『伊柯爾』
+怪物	掃除屋『バルザック』	<Balzak> the janitor	2	db_card.hsp:14741	清道夫『巴爾札克』
+怪物	魔術士ギルドマスター『レヴラス』	<Revlus> the mage guildmaster	2	db_card.hsp:14754	魔術士公會會長『雷弗拉斯』
+怪物	魔術士ギルドの番人『レクサス』	<Lexus> the mage watchman	2	db_card.hsp:14767	魔術士公會守衛『雷克薩斯』
+怪物	盗賊ギルドマスター『シン』	<Sin> the thief guildmaster	2	db_card.hsp:14780	盜賊公會會長『辛』
+怪物	盗賊ギルドの番人『アビス』	<Abyss> the thief watchman	2	db_card.hsp:14793	盜賊公會守衛『深淵』
+怪物	戦士ギルドマスター『フレイ』	<Fray> the fighter guildmaster	2	db_card.hsp:14806	戰士公會會長『弗雷』
+怪物	戦士ギルドの番人『ドリア』	<Doria> the fighter watchman	2	db_card.hsp:14819	戰士公會守衛『朵莉亞』
+怪物	銀眼の斬殺者	silver eyed witch	2	db_card.hsp:14832	銀眼斬殺者
+怪物	『ビッグダディ』	<Big Daddy>	2	db_card.hsp:14845	『大老爹』
+怪物	『謎の科学者』	<Strange scientist>	2	db_card.hsp:14871	『謎之科學家』
+怪物	『謎のプロデューサー』	<Mysterious Producer>	2	db_card.hsp:14884	『謎之製作人』
+怪物	クイックリング	quickling	2	db_card.hsp:14910	快靈
+怪物	クイックリングの弓使い	quickling archer	2	db_card.hsp:14923	快靈弓手
+怪物	プラチナベル	platina bell	2	db_card.hsp:14936	白金鐘
+怪物	ゴールドベル	gold bell	3	db_card.hsp:14949	黃金鐘
+怪物	森	forest	1	db_card.hsp:14973	森林
+怪物	山	mountain	1	db_card.hsp:14984	山
+怪物	海	sea	1	db_card.hsp:14995	海
+怪物	島	island	1	db_card.hsp:15006	島
+怪物	沼	swamp	1	db_card.hsp:15017	沼澤
+怪物	枯地	dead land	1	db_card.hsp:15028	枯地
+怪物	平地	plain	5	db_card.hsp:15039	平地
+怪物	雪原	snow field	5	db_card.hsp:15050	雪原
+怪物	伝書鳩	homing pigeon	1	db_card.hsp:15149	信鴿
+怪物	帰還	return	1	db_card.hsp:15160	歸還
+種族職業	なし	None	12	db_class.hsp:31	無
+種族職業	戦士	Warrior	2	db_class.hsp:43	戰士
+種族職業	遺跡荒らし	Thief	2	db_class.hsp:101	盜掘者
+種族職業	魔法使い	Wizard	2	db_class.hsp:156	魔法師
+種族職業	農民	Farmer	2	db_class.hsp:210	農民
+種族職業	プレデター	Predator	2	db_class.hsp:263	掠食者
+種族職業	狩人	Archer	2	db_class.hsp:315	獵人
+種族職業	魔法戦士	Warmage	2	db_class.hsp:370	魔法戰士
+種族職業	観光客	Tourist	2	db_class.hsp:425	觀光客
+種族職業	ピアニスト	Pianist	2	db_class.hsp:471	鋼琴家
+種族職業	機工兵	Gunner	2	db_class.hsp:524	機工兵
+種族職業	プリースト	Priest	2	db_class.hsp:578	祭司
+種族職業	クレイモア	Claymore	2	db_class.hsp:633	闊劍士
+物品	TZ500-K型麻酔銃		1	db_item.hsp:133931	TZ500-K型麻醉槍
+物品	TZC-500型麻酔銃		1	db_item.hsp:133944	TZC-500型麻醉槍
+物品	TZ30-C型麻酔銃		1	db_item.hsp:133957	TZ30-C型麻醉槍
+物品	TZ-30型麻酔銃		1	db_item.hsp:133970	TZ-30型麻醉槍
+物品	わりばし		1	db_item.hsp:133983	免洗筷
+物品	メス牡蠣		1	db_item.hsp:133996	母牡蠣
+物品	《ツラハギ》		1	db_item.hsp:134009	《剝面》
+物品	大熊の剛爪		1	db_item.hsp:134017	大熊剛爪
+物品	ブランクカード		1	db_item.hsp:134027	空白卡片
+物品	エクソプロージョン		1	db_item.hsp:134040	外爆裂
+物品	《ジェノサイドテール》		1	db_item.hsp:134053	《屠殺之尾》
+物品	虐殺ウィッグ		1	db_item.hsp:134061	虐殺假髮
+物品	《ヘアメット》		1	db_item.hsp:134071	《假髮盔》
+物品	防御ウィッグ		1	db_item.hsp:134079	防禦假髮
+物品	シュールストレミング		1	db_item.hsp:134089	鹽醃鯡魚罐頭
+物品	ミラクリー		1	db_item.hsp:134102	奇蹟莓
+物品	雪の大結晶		1	db_item.hsp:134115	雪之大結晶
+物品	暗黒弾		1	db_item.hsp:134128	暗黑彈
+物品	放雷針		1	db_item.hsp:134141	放雷針
+物品	エキノボックス		1	db_item.hsp:134154	海膽盒
+物品	《骨噛矛》		1	db_item.hsp:134167	《噬骨矛》
+物品	鋭利な骨		1	db_item.hsp:134175	鋒利的骨頭
+物品	《金毛発破》		1	db_item.hsp:134185	《金毛爆破》
+物品	金色の葉っぱ		1	db_item.hsp:134193	金色葉子
+物品	《秘伝魔紙》		1	db_item.hsp:134203	《秘傳魔紙》
+物品	古き紙々		1	db_item.hsp:134211	古舊紙張
+物品	ペット訓練券		1	db_item.hsp:134221	寵物訓練券
+物品	ポーションの栓		1	db_item.hsp:134234	藥水瓶塞
+物品	労働エナジードリンク		1	db_item.hsp:134247	勞動能量飲料
+物品	立派な鎖		1	db_item.hsp:134260	氣派的鎖鏈
+物品	収容所の権利書		1	db_item.hsp:134273	收容所權狀
+物品	浮遊檻		1	db_item.hsp:134286	浮游籠
+物品	奴隷グルグル		1	db_item.hsp:134299	奴隸咕嚕咕嚕
+物品	奴隷バタバタ		1	db_item.hsp:134312	奴隸啪噠啪噠
+物品	収穫の巻物		1	db_item.hsp:134325	收穫卷軸
+物品	引き寄せの巻物		1	db_item.hsp:134340	吸引卷軸
+物品	阿苦薬		1	db_item.hsp:134355	阿苦藥
+物品	苦しみを呼ぶ薬		1	db_item.hsp:134363	招致痛苦之藥
+物品	禍多岐薬		1	db_item.hsp:134373	禍多岐藥
+物品	呪いを呼ぶ薬		1	db_item.hsp:134381	招致詛咒之藥
+物品	強身薬		1	db_item.hsp:134391	強身藥
+物品	新式の薬		1	db_item.hsp:134399	新式藥
+物品	サザエ		1	db_item.hsp:134409	蠑螺
+物品	ハマグリ		1	db_item.hsp:134422	文蛤
+物品	ホタテ		1	db_item.hsp:134435	扇貝
+物品	もずく		1	db_item.hsp:134448	海蘊
+物品	昆布		1	db_item.hsp:134461	昆布
+物品	ワカメ		1	db_item.hsp:134474	海帶芽
+物品	巨大イカダの権利書		1	db_item.hsp:134487	巨型木筏權狀
+物品	漁船の権利書		1	db_item.hsp:134500	漁船權狀
+物品	海賊船の権利書		1	db_item.hsp:134513	海盜船權狀
+物品	客船の権利書		1	db_item.hsp:134526	客船權狀
+物品	軍用艦の権利書		1	db_item.hsp:134539	軍艦權狀
+物品	潜水艦の権利書		1	db_item.hsp:134552	潛水艇權狀
+物品	白魔神石		1	db_item.hsp:134565	白魔神石
+物品	覚醒の閃石		1	db_item.hsp:134578	覺醒閃石
+物品	魔導結石		1	db_item.hsp:134591	魔導結石
+物品	闘魂石		1	db_item.hsp:134604	鬥魂石
+物品	Resアッパー		1	db_item.hsp:134617	抗性提升器
+物品	DVフィクサー		1	db_item.hsp:134630	DV固定器
+物品	PVフィクサー		1	db_item.hsp:134643	PV固定器
+物品	Ｘフレーム		1	db_item.hsp:134656	Ｘ骨架
+物品	複雑な部品		1	db_item.hsp:134664	複雜的零件
+物品	フカグルミ		1	db_item.hsp:134674	深核桃
+物品	構成粘菌		1	db_item.hsp:134687	構成黏菌
+物品	ねばねば		1	db_item.hsp:134695	黏糊糊
+物品	死体パーツ		1	db_item.hsp:134713	屍體零件
+物品	デルネフィアの花		1	db_item.hsp:134723	德爾奈菲亞之花
+物品	ボトルキャップ		1	db_item.hsp:134736	瓶蓋
+物品	ビーダマ		1	db_item.hsp:134749	彈珠
+物品	コルクパック		1	db_item.hsp:134762	軟木塞包
+物品	光子バズーカ砲		1	db_item.hsp:134775	光子火箭筒
+物品	ダイヤの宝札		1	db_item.hsp:134788	方塊寶札
+物品	ハートの宝札		1	db_item.hsp:134801	紅心寶札
+物品	クラブの宝札		1	db_item.hsp:134814	梅花寶札
+物品	スペードの宝札		1	db_item.hsp:134827	黑桃寶札
+物品	スピリチウム		1	db_item.hsp:134840	靈素
+物品	SuエクステンダーX		1	db_item.hsp:134853	Su延長器X
+物品	SuエクステンダーY		1	db_item.hsp:134866	Su延長器Y
+物品	強化星維		1	db_item.hsp:134879	強化星維
+物品	アネワッシャー		1	db_item.hsp:134892	姊姊墊圈
+物品	コマンドホイッスル		1	db_item.hsp:134905	指令哨子
+物品	アウルテホム		1	db_item.hsp:134918	奧爾特霍姆
+物品	おぞましき本		1	db_item.hsp:134926	駭人之書
+物品	靴下		1	db_item.hsp:134936	襪子
+物品	雷霆の渦の魔法書		1	db_item.hsp:134949	雷霆漩渦魔法書
+物品	月蝕の檻の魔法書		1	db_item.hsp:134964	月蝕之牢魔法書
+物品	冥王の咆哮の魔法書		1	db_item.hsp:134979	冥王咆哮魔法書
+物品	猛毒の嵐の魔法書		1	db_item.hsp:134994	猛毒風暴魔法書
+物品	泡沫の嵐の魔法書		1	db_item.hsp:135009	泡沫風暴魔法書
+物品	夢幻の咆哮の魔法書		1	db_item.hsp:135024	夢幻咆哮魔法書
+物品	苦悶の檻の魔法書		1	db_item.hsp:135039	苦悶之牢魔法書
+物品	ネザーボルトの魔法書		1	db_item.hsp:135054	冥界箭魔法書
+物品	ポイズンボルトの魔法書		1	db_item.hsp:135069	毒箭魔法書
+物品	サウンドボルトの魔法書		1	db_item.hsp:135084	音波箭魔法書
+物品	カオスボルトの魔法書		1	db_item.hsp:135099	混沌箭魔法書
+物品	ナーブボルトの魔法書		1	db_item.hsp:135114	神經箭魔法書
+物品	火炎の爪の魔法書		1	db_item.hsp:135129	火焰之爪魔法書
+物品	冷気の刃の魔法書		1	db_item.hsp:135144	冰冷之刃魔法書
+物品	電撃の槍の魔法書		1	db_item.hsp:135159	雷擊之槍魔法書
+物品	幻惑の棘の魔法書		1	db_item.hsp:135174	幻惑之棘魔法書
+物品	毒の粘液の魔法書		1	db_item.hsp:135189	毒黏液魔法書
+物品	音の砲弾の魔法書		1	db_item.hsp:135204	音波砲彈魔法書
+物品	水の牙の魔法書		1	db_item.hsp:135219	水之牙魔法書
+物品	喪蝉		1	db_item.hsp:135234	喪蟬
+物品	M01-真実のガーネット		1	db_item.hsp:135247	M01-真實石榴石
+物品	M02-高貴のアメジスト		1	db_item.hsp:135260	M02-高貴紫水晶
+物品	M03-聡明のアクアマリン		1	db_item.hsp:135273	M03-聰明海藍寶
+物品	M04-無垢のダイヤモンド		1	db_item.hsp:135286	M04-無垢鑽石
+物品	M05-誠実のエメラルド		1	db_item.hsp:135299	M05-誠實翡翠
+物品	M06-情熱のアレキサンドライト		1	db_item.hsp:135312	M06-熱情亞歷山大石
+物品	M07-威厳のルビー		1	db_item.hsp:135325	M07-威嚴紅寶石
+物品	M08-円満のサードニクス		1	db_item.hsp:135338	M08-圓滿纏絲瑪瑙
+物品	M09-慈愛のサファイア		1	db_item.hsp:135351	M09-慈愛藍寶石
+物品	M10-希望のオパール		1	db_item.hsp:135364	M10-希望蛋白石
+物品	M11-友情のトパーズ		1	db_item.hsp:135377	M11-友情黃玉
+物品	M12-成功のラピスラズリ		1	db_item.hsp:135390	M12-成功青金石
+物品	黄金蜂蜜酒		1	db_item.hsp:135403	黃金蜂蜜酒
+物品	黄金像		1	db_item.hsp:135416	黃金像
+物品	浄水筒		1	db_item.hsp:135429	淨水筒
+物品	軍神の欠片		1	db_item.hsp:135442	軍神碎片
+物品	力強い結晶体		3	db_item.hsp:135450	強力結晶體
+物品	レミードの欠片		1	db_item.hsp:135460	雷米德碎片
+物品	レシマスの欠片		1	db_item.hsp:135478	雷西瑪斯碎片
+物品	Ｇフィンガー		1	db_item.hsp:135496	Ｇ手指
+物品	黄金の指		1	db_item.hsp:135504	黃金手指
+物品	光子妖精		1	db_item.hsp:135514	光子妖精
+物品	謎のプログラム		1	db_item.hsp:135522	謎之程式
+物品	矛盾勲章		1	db_item.hsp:135532	矛盾勳章
+物品	立派な勲章		1	db_item.hsp:135540	氣派的勳章
+物品	特殊重婚許可証		1	db_item.hsp:135550	特殊重婚許可證
+物品	神々しい文書		1	db_item.hsp:135558	神聖文書
+物品	浮遊要塞の鍵		1	db_item.hsp:135568	浮游要塞之鑰
+物品	謎の機械		1	db_item.hsp:135576	謎之機械
+物品	変憶結晶		1	db_item.hsp:135586	變憶結晶
+物品	オペレートボード		1	db_item.hsp:135651	操作面板
+物品	本		6	db_item.hsp:135672	書
+物品	原稿		1	db_item.hsp:135682	原稿
+物品	翠魔神石		1	db_item.hsp:135695	翠魔神石
+物品	蒼魔神石		1	db_item.hsp:135708	蒼魔神石
+物品	紅魔神石		1	db_item.hsp:135721	紅魔神石
+物品	《釣り入門》		1	db_item.hsp:135734	《釣魚入門》
+物品	《依頼についてのアドバイス》		1	db_item.hsp:135747	《關於委託的建議》
+物品	記憶片		1	db_item.hsp:135760	記憶片
+物品	陸上戦艦の権利書		1	db_item.hsp:135773	陸上戰艦權狀
+物品	魔導機関車の権利書		1	db_item.hsp:135786	魔導機關車權狀
+物品	輸送車の権利書		1	db_item.hsp:135799	運輸車權狀
+物品	大型馬車の権利書		1	db_item.hsp:135812	大型馬車權狀
+物品	《世界制服》		1	db_item.hsp:135825	《世界制服》
+物品	うつろう制服		1	db_item.hsp:135833	變幻的制服
+物品	《破竹魔甲冑》		1	db_item.hsp:135843	《破竹魔甲冑》
+物品	竹のアーマー		1	db_item.hsp:135851	竹製鎧甲
+物品	《レイヴンブランド》		1	db_item.hsp:135861	《渡鴉之劍》
+物品	黒き混沌の剣		3	db_item.hsp:135869	黑色混沌之劍
+物品	《バンブニール》		1	db_item.hsp:135879	《竹尼爾》
+物品	輝く爆竹槍		1	db_item.hsp:135887	閃耀爆竹槍
+物品	《劫波の針》		1	db_item.hsp:135897	《劫波之針》
+物品	巨大な長針		1	db_item.hsp:135905	巨大長針
+物品	煙玉		1	db_item.hsp:135915	煙霧彈
+物品	ヤカポイントカード		1	db_item.hsp:135928	雅卡集點卡
+物品	水草		1	db_item.hsp:135941	水草
+物品	宝石珊瑚		1	db_item.hsp:135954	寶石珊瑚
+物品	チンアナゴ		1	db_item.hsp:135967	花園鰻
+物品	赤竜石		1	db_item.hsp:135980	紅龍石
+物品	木人		1	db_item.hsp:135993	木人
+物品	木の人形		1	db_item.hsp:136001	木製人偶
+物品	作物管理セット		1	db_item.hsp:136011	作物管理組
+物品	ウィッチクラフトの巻物		1	db_item.hsp:136024	巫術卷軸
+物品	冷吸の勾玉		1	db_item.hsp:136039	吸冷勾玉
+物品	《エビフライト》		1	db_item.hsp:136052	《炸蝦飛翔》
+物品	不審なエビフライ		1	db_item.hsp:136060	可疑的炸蝦
+物品	《ライトセーバーっぽい杏仁豆腐》		1	db_item.hsp:136070	《像光劍的杏仁豆腐》
+物品	光剣のような何か		1	db_item.hsp:136078	像光劍的東西
+物品	《カニカマ》		1	db_item.hsp:136088	《蟹肉棒》
+物品	鮮やかな鋏鎌		1	db_item.hsp:136096	鮮豔的剪鐮
+物品	《伍連華草》		1	db_item.hsp:136106	《伍連華草》
+物品	吹雪の苦無		1	db_item.hsp:136114	暴風雪苦無
+物品	《エペクレイル》		1	db_item.hsp:136124	《埃佩克雷爾》
+物品	稲妻の細剣		1	db_item.hsp:136132	閃電細劍
+物品	《轟天》		1	db_item.hsp:136142	《轟天》
+物品	空飛ぶ螺旋機		1	db_item.hsp:136150	飛天螺旋機
+物品	長大な投斧		1	db_item.hsp:136168	長大的投斧
+物品	《ヌメニウス》		1	db_item.hsp:136178	《努梅尼烏斯》
+物品	鋭い鋏鎌		1	db_item.hsp:136186	銳利的剪鐮
+物品	《炎獄曼荼羅》		1	db_item.hsp:136196	《炎獄曼荼羅》
+物品	怪しい錫杖		1	db_item.hsp:136204	可疑的錫杖
+物品	《三烈棍》		1	db_item.hsp:136214	《三烈棍》
+物品	赤い節棍		1	db_item.hsp:136222	紅色節棍
+物品	《電磁炎弩》		1	db_item.hsp:136232	《電磁炎弩》
+物品	アンバランスな炎弩		1	db_item.hsp:136240	不平衡的炎弩
+物品	《ナズナの靴下》		1	db_item.hsp:136250	《薺的襪子》
+物品	異臭放つ靴下		1	db_item.hsp:136258	散發異味的襪子
+物品	《スコル・ピアス》		1	db_item.hsp:136268	《斯科爾穿刺》
+物品	狙撃用弩砲		1	db_item.hsp:136276	狙擊用弩砲
+物品	《黄泉戸欠片》		1	db_item.hsp:136286	《黃泉戶碎片》
+物品	死臭纏う大岩		1	db_item.hsp:136294	纏繞屍臭的巨岩
+物品	《リンカルス》		1	db_item.hsp:136304	《射毒眼鏡蛇》
+物品	毒噴きの連弩		1	db_item.hsp:136312	噴毒連弩
+物品	《小人の魔法弓》		1	db_item.hsp:136322	《小人的魔法弓》
+物品	小さな弓		1	db_item.hsp:136330	小弓
+物品	浄化消毒薬		1	db_item.hsp:136340	淨化消毒藥
+物品	クナイ		1	db_item.hsp:136350	苦無
+物品	苦無		1	db_item.hsp:136353	苦無
+物品	フルーレ		1	db_item.hsp:136363	鈍頭劍
+物品	細剣		1	db_item.hsp:136366	細劍
+物品	ドリル		1	db_item.hsp:136376	鑽頭
+物品	螺旋機		1	db_item.hsp:136379	螺旋機
+物品	ランス		1	db_item.hsp:136389	騎槍
+物品	騎士槍		1	db_item.hsp:136392	騎士槍
+物品	トマホーク		1	db_item.hsp:136402	戰斧
+物品	投斧		1	db_item.hsp:136405	投斧
+物品	チェーンソー		1	db_item.hsp:136415	鏈鋸
+物品	鎖鋸		1	db_item.hsp:136418	鏈鋸
+物品	シザース		1	db_item.hsp:136428	剪刀
+物品	鋏鎌		1	db_item.hsp:136431	剪鐮
+物品	ボーンサイズ		1	db_item.hsp:136441	骨鐮
+物品	骨鎌		1	db_item.hsp:136444	骨鐮
+物品	ウォーハンマー		1	db_item.hsp:136454	戰鎚
+物品	戦槌		1	db_item.hsp:136457	戰鎚
+物品	スターハンマー		1	db_item.hsp:136467	星球鎚
+物品	星球槌		1	db_item.hsp:136470	星球鎚
+物品	シャクジョウ		1	db_item.hsp:136480	錫杖
+物品	錫杖		1	db_item.hsp:136483	錫杖
+物品	ヌンチャク		1	db_item.hsp:136493	雙節棍
+物品	節棍		1	db_item.hsp:136496	節棍
+物品	ブレードボウ		1	db_item.hsp:136506	刃弓
+物品	斬弓		1	db_item.hsp:136509	斬弓
+物品	クロスファイア		1	db_item.hsp:136519	交叉火
+物品	炎弩		1	db_item.hsp:136522	炎弩
+物品	ガンペア		1	db_item.hsp:136532	雙槍
+物品	双銃		1	db_item.hsp:136535	雙槍
+物品	小枝		1	db_item.hsp:136548	小樹枝
+物品	フェーン		1	db_item.hsp:136561	焚風
+物品	チクリー		1	db_item.hsp:136574	刺刺
+物品	抗体結晶		1	db_item.hsp:136587	抗體結晶
+物品	姿勢制御アンカー		1	db_item.hsp:136600	姿態控制錨
+物品	固定器具		1	db_item.hsp:136608	固定器具
+物品	物件移設の申請書		1	db_item.hsp:136618	物件遷移申請書
+物品	ボムタル		1	db_item.hsp:136631	炸彈桶
+物品	コーラ		1	db_item.hsp:136644	可樂
+物品	麦茶		1	db_item.hsp:136657	麥茶
+物品	魔神の欠片		1	db_item.hsp:136670	魔神碎片
+物品	ガムの残骸		1	db_item.hsp:136683	口香糖殘骸
+物品	ガム		1	db_item.hsp:136696	口香糖
+物品	磁器人形		1	db_item.hsp:136709	瓷器人偶
+物品	装飾陶器		1	db_item.hsp:136722	裝飾陶器
+物品	古代の焼き物		1	db_item.hsp:136735	古代陶器
+物品	謎の化石		1	db_item.hsp:136748	謎之化石
+物品	粘土		1	db_item.hsp:136761	黏土
+物品	硫黄		1	db_item.hsp:136774	硫磺
+物品	執事の日記		1	db_item.hsp:136787	執事的日記
+物品	アラートドキシン		1	db_item.hsp:136802	警戒毒素
+物品	《次元間力観測実験報告書》		1	db_item.hsp:136815	《次元間力觀測實驗報告書》
+物品	地獄絵図(荷車)		1	db_item.hsp:136828	地獄繪卷(貨車)
+物品	ウサギの足(荷車)		1	db_item.hsp:136841	兔子腳(貨車)
+物品	撒き餌		1	db_item.hsp:136854	撒餌
+物品	ジョロジョロ		1	db_item.hsp:136867	灑水壺
+物品	生体バッテリー		1	db_item.hsp:136880	生物電池
+物品	如意耳掻棒		1	db_item.hsp:136893	如意挖耳棒
+物品	《魔術式拘束服》		1	db_item.hsp:136906	《魔術式拘束服》
+物品	ベルトだらけの服		1	db_item.hsp:136914	滿是皮帶的衣服
+物品	《ダブルヘリックス》		1	db_item.hsp:136924	《雙螺旋》
+物品	螺旋の指輪		1	db_item.hsp:136932	螺旋戒指
+物品	《グラヴィテール》		1	db_item.hsp:136942	《重力之尾》
+物品	黒の粉砕球		1	db_item.hsp:136950	黑色粉碎球
+物品	ハンバーガー		1	db_item.hsp:136960	漢堡
+物品	おしるこ		1	db_item.hsp:136973	紅豆湯
+物品	お雑煮		1	db_item.hsp:136986	年糕湯
+物品	クリスマスケーキセット		1	db_item.hsp:136999	聖誕蛋糕組
+物品	謎の茶封筒		1	db_item.hsp:137012	謎之牛皮紙袋
+物品	干物		1	db_item.hsp:137025	魚乾
+物品	干し野菜		1	db_item.hsp:137038	乾燥蔬菜
+物品	ドライフルーツ		1	db_item.hsp:137051	果乾
+物品	《ビートルパワーボーグ》		1	db_item.hsp:137064	《甲蟲力量改造人》
+物品	謎甲虫		1	db_item.hsp:137072	謎之甲蟲
+物品	ダウジングオパートス		1	db_item.hsp:137082	探測歐帕特斯
+物品	くみろみぐるみ		1	db_item.hsp:137095	庫米羅米布偶
+物品	ルルウィの写真集		1	db_item.hsp:137108	露露伊寫真集
+物品	ヤカテクト預金箱		1	db_item.hsp:137121	雅卡特庫特存錢筒
+物品	イツパロトルの胸像		1	db_item.hsp:137134	伊茲帕洛特爾胸像
+物品	絵画《エヘカトルとメカジキ》		1	db_item.hsp:137147	畫作《艾赫卡托爾與劍旗魚》
+物品	めざマニ時計		1	db_item.hsp:137160	瑪尼鬧鐘
+物品	スキルチケット		1	db_item.hsp:137173	技能券
+物品	何かのチケット		2	db_item.hsp:137181	某種票券
+物品	《神々の枷鎖》		1	db_item.hsp:137191	《諸神枷鎖》
+物品	神の呪玉		1	db_item.hsp:137199	神之咒玉
+物品	鋭のハイマテリウム		1	db_item.hsp:137209	銳之高等素材
+物品	鋭のマテリウム		1	db_item.hsp:137222	銳之素材
+物品	剛のハイマテリウム		1	db_item.hsp:137235	剛之高等素材
+物品	剛のマテリウム		1	db_item.hsp:137248	剛之素材
+物品	柔のハイマテリウム		1	db_item.hsp:137261	柔之高等素材
+物品	柔のマテリウム		1	db_item.hsp:137274	柔之素材
+物品	1200万納税書		1	db_item.hsp:137287	1200萬納稅書
+物品	120万納税書		1	db_item.hsp:137300	120萬納稅書
+物品	《腹切丸》		1	db_item.hsp:137313	《切腹丸》
+物品	油揚げ		1	db_item.hsp:137326	油豆腐皮
+物品	納豆		1	db_item.hsp:137339	納豆
+物品	とうふ		1	db_item.hsp:137352	豆腐
+物品	大豆		1	db_item.hsp:137365	大豆
+物品	賢皇薬		1	db_item.hsp:137378	賢皇藥
+物品	古の薬		1	db_item.hsp:137386	古代藥
+物品	宝石絢爛のポーション		1	db_item.hsp:137396	寶石絢爛藥水
+物品	守護石の魔法書		1	db_item.hsp:137411	守護石魔法書
+物品	《黄金剣舞翼》		1	db_item.hsp:137426	《黃金劍舞翼》
+物品	金色の翼		1	db_item.hsp:137434	金色翅膀
+物品	チーズ		1	db_item.hsp:137444	起司
+物品	バター		1	db_item.hsp:137457	奶油
+物品	ヨーグルト		1	db_item.hsp:137470	優格
+物品	家畜の餌		1	db_item.hsp:137483	家畜飼料
+物品	緑茶		1	db_item.hsp:137496	綠茶
+物品	黄昏の心臓		1	db_item.hsp:137522	黃昏之心
+物品	神々しい宝石		7	db_item.hsp:137530	神聖寶石
+物品	《クラウンポイント》		1	db_item.hsp:137540	《王冠尖點》
+物品	盾冠		1	db_item.hsp:137548	盾冠
+物品	スターダスト		1	db_item.hsp:137558	星塵
+物品	素敵な花束		1	db_item.hsp:137571	漂亮的花束
+物品	退芭符		1	db_item.hsp:137584	退芭符
+物品	《ヨワリ・テスカトル》		1	db_item.hsp:137597	《約瓦利・特斯卡特爾》
+物品	黒い鏡		1	db_item.hsp:137605	黑鏡
+物品	バイオプリンター		1	db_item.hsp:137615	生物印表機
+物品	野花		2	db_item.hsp:137636	野花
+物品	名工のリペアキット		1	db_item.hsp:137646	名匠修理工具組
+物品	プレゼント		1	db_item.hsp:137659	禮物
+物品	《グリエルゼン》		1	db_item.hsp:137672	《格里埃爾森》
+物品	風を割く戦斧		1	db_item.hsp:137680	破風戰斧
+物品	茶葉		1	db_item.hsp:137690	茶葉
+物品	コーヒー豆		1	db_item.hsp:137703	咖啡豆
+物品	稲		1	db_item.hsp:137716	稻子
+物品	万能ムギ		1	db_item.hsp:137729	萬能麥
+物品	醤油		1	db_item.hsp:137742	醬油
+物品	コショウ		1	db_item.hsp:137755	胡椒
+物品	連装花火ランチャー		1	db_item.hsp:137768	連裝煙火發射器
+物品	ビジャーキー		1	db_item.hsp:137781	牛肉乾
+物品	《邪成鎌ネクロマンティス》		1	db_item.hsp:137794	《邪成鐮死靈螳螂》
+物品	古びた鎌		1	db_item.hsp:137802	破舊的鐮刀
+物品	吸い殻		1	db_item.hsp:137812	菸蒂
+物品	キセル		1	db_item.hsp:137825	煙管
+物品	パイプ		1	db_item.hsp:137838	菸斗
+物品	葉巻		1	db_item.hsp:137851	雪茄
+物品	紙巻タバコ		1	db_item.hsp:137864	捲菸
+物品	タバコ		1	db_item.hsp:137877	香菸
+物品	《ズガイクライ》		1	db_item.hsp:137890	《頭蓋哭》
+物品	重いステッキ		1	db_item.hsp:137898	沉重的手杖
+物品	ブロンズ硬貨		1	db_item.hsp:137908	青銅幣
+物品	不思議の国のキノコスープ		1	db_item.hsp:137921	仙境蘑菇湯
+物品	《髑髏三日月》		1	db_item.hsp:137934	《髑髏新月》
+物品	憎悪の骨弓		1	db_item.hsp:137942	憎惡骨弓
+物品	《ヘルティアーレ》		1	db_item.hsp:137952	《赫爾蒂亞雷》
+物品	雷の蒼弓		1	db_item.hsp:137960	雷之蒼弓
+物品	《エレメントアイズ》		1	db_item.hsp:137970	《元素之眼》
+物品	属性の瞳		1	db_item.hsp:137978	屬性之瞳
+物品	揮発油		1	db_item.hsp:137988	揮發油
+物品	精油		1	db_item.hsp:138001	精油
+物品	《鎖惨渦》		1	db_item.hsp:138014	《鎖慘渦》
+物品	ピンクの鎖鎌		1	db_item.hsp:138022	粉紅鎖鐮
+物品	ハイドロボルトの魔法書		1	db_item.hsp:138032	水箭魔法書
+物品	泡沫の波動の魔杖		1	db_item.hsp:138047	泡沫波動魔杖
+物品	アトミックランチャー		1	db_item.hsp:138062	原子發射器
+物品	M202スペシャル		1	db_item.hsp:138075	M202特製
+物品	パンツァーファウストＸ		1	db_item.hsp:138088	鐵拳反戰車榴彈Ｘ
+物品	快眠ブランケット		1	db_item.hsp:138101	好眠毯
+物品	マジックレーザーの魔杖		1	db_item.hsp:138114	魔法雷射魔杖
+物品	猛毒の波動の魔杖		1	db_item.hsp:138129	猛毒波動魔杖
+物品	《イェーキュブ・スフィア》		1	db_item.hsp:138144	《伊克方塊球》
+物品	水晶球の首飾り		1	db_item.hsp:138152	水晶球項鍊
+物品	《研究員の閻魔帳》		1	db_item.hsp:138162	《研究員的閻魔帳》
+物品	ファーストエイド		1	db_item.hsp:138175	急救包
+物品	特殊矢弾箱		1	db_item.hsp:138188	特殊彈藥箱
+物品	コマンドタクト		1	db_item.hsp:138201	指令指揮棒
+物品	《流星群のセスタス》		1	db_item.hsp:138214	《流星群拳套》
+物品	白の革紐		1	db_item.hsp:138222	白色皮繩
+物品	ヘヴィダンベル		1	db_item.hsp:138232	重型啞鈴
+物品	健康のお守り		1	db_item.hsp:138245	健康護身符
+物品	媚赤蝋燭		1	db_item.hsp:138258	媚紅蠟燭
+物品	特殊信号拳銃		1	db_item.hsp:138271	特殊信號槍
+物品	レッドアンダーリム		1	db_item.hsp:138284	紅色半框眼鏡
+物品	古霜の栞		1	db_item.hsp:138297	古霜書籤
+物品	おさかなマグカップ		1	db_item.hsp:138310	魚魚馬克杯
+物品	輪廻鋏		1	db_item.hsp:138323	輪迴剪
+物品	魔女の練り菓子		1	db_item.hsp:138336	魔女的軟糖
+物品	《ブラッドロッド》		1	db_item.hsp:138349	《血之杖》
+物品	紅魔の杖		1	db_item.hsp:138357	紅魔杖
+物品	爆発する原子力の死んだライオン		1	db_item.hsp:138367	爆炸的原子能死獅子
+物品	シンダ ライオン		1	db_item.hsp:138375	死掉的 獅子
+物品	暴魔の大剣		1	db_item.hsp:138385	暴魔大劍
+物品	大型機械副腕		1	db_item.hsp:138406	大型機械副臂
+物品	《ウィーテハウク》		1	db_item.hsp:138416	《白鷹》
+物品	白鷹の剣		1	db_item.hsp:138424	白鷹之劍
+物品	ジュースミキサー		1	db_item.hsp:138447	果汁機
+物品	アルファ変異殻		1	db_item.hsp:138460	阿爾法變異殼
+物品	ベータ変異殻		1	db_item.hsp:138473	貝塔變異殼
+物品	ガンマ変異殻		1	db_item.hsp:138486	伽瑪變異殼
+物品	デルタ変異殻		1	db_item.hsp:138499	德爾塔變異殼
+物品	オメガ変異殻		1	db_item.hsp:138512	歐米茄變異殼
+物品	《ソニックブルーム》		1	db_item.hsp:138525	《音速掃帚》
+物品	音速の飛行箒		1	db_item.hsp:138533	音速飛天掃帚
+物品	《鬼のパンツ》		1	db_item.hsp:138543	《鬼的內褲》
+物品	いいパンツ		1	db_item.hsp:138551	好內褲
+物品	《イオンチャクラム》		1	db_item.hsp:138561	《離子戰輪》
+物品	光の戦輪		1	db_item.hsp:138569	光之戰輪
+物品	《スパディール》		1	db_item.hsp:138579	《斯帕迪爾》
+物品	多目的シャベル		1	db_item.hsp:138587	多用途鏟子
+物品	四次元ミラー		1	db_item.hsp:138597	四次元鏡
+物品	空の大型バスケット		1	db_item.hsp:138610	空的大型提籃
+物品	大型ピクニックバスケット		1	db_item.hsp:138623	大型野餐籃
+物品	異界墓地の鍵		1	db_item.hsp:138636	異界墓地之鑰
+物品	不思議な秘宝		1	db_item.hsp:138649	不可思議的秘寶
+物品	トリス・マギストス		1	db_item.hsp:138662	特里斯・瑪吉斯托斯
+物品	マギスト		1	db_item.hsp:138675	瑪吉斯特
+物品	暴れる魔剣		1	db_item.hsp:138688	暴走魔劍
+物品	蜃気楼の光子銃		1	db_item.hsp:138709	蜃景光子槍
+物品	《ラッキーアーモンド》		1	db_item.hsp:138719	《幸運杏仁》
+物品	黒い金砕棒		1	db_item.hsp:138727	黑色金碎棒
+物品	デュエルグローブ		1	db_item.hsp:138737	決鬥手套
+物品	《ブラッディ・ティアーズ》		1	db_item.hsp:138750	《血之淚》
+物品	血涙の鞭		1	db_item.hsp:138758	血淚之鞭
+物品	眠り羊の夢枕		1	db_item.hsp:138768	睡羊夢枕
+物品	《ウサミミ》		1	db_item.hsp:138781	《兔耳》
+物品	謎の機械兜		1	db_item.hsp:138789	謎之機械頭盔
+物品	インサイトレンズ		1	db_item.hsp:138799	洞察鏡片
+物品	かぼちゃランタン		1	db_item.hsp:138812	南瓜燈
+物品	集中の魔法書		1	db_item.hsp:138825	專注魔法書
+物品	翼鳥のポーション		1	db_item.hsp:138840	翼鳥藥水
+物品	集中力向上のポーション		1	db_item.hsp:138855	專注力提升藥水
+物品	《アルジェントスノウ》		1	db_item.hsp:138870	《銀雪》
+物品	極北の銀鎧		1	db_item.hsp:138878	極北銀鎧
+物品	《アイヴィ・スパイン》		1	db_item.hsp:138888	《常春藤之棘》
+物品	棘の鞭		1	db_item.hsp:138896	荊棘之鞭
+物品	マグナム		1	db_item.hsp:138903	麥格農
+物品	マグナム弾		1	db_item.hsp:138906	麥格農子彈
+物品	被水の勾玉		1	db_item.hsp:138919	被水勾玉
+物品	九神の印		1	db_item.hsp:138932	九神之印
+物品	神雫石		1	db_item.hsp:138945	神滴石
+物品	ネフィアティア		1	db_item.hsp:138958	奈菲亞提亞
+物品	マインドディスク		1	db_item.hsp:138971	心靈碟片
+物品	天使の像		1	db_item.hsp:138997	天使像
+物品	ミニチュアゴーレム		2	db_item.hsp:139010	迷你魔像
+物品	地蔵		1	db_item.hsp:139023	地藏
+物品	仏像		1	db_item.hsp:139036	佛像
+物品	ペットハウス		1	db_item.hsp:139062	寵物屋
+物品	石材		1	db_item.hsp:139075	石材
+物品	《メロディウス》		1	db_item.hsp:139088	《旋律》
+物品	心音の奏剣		1	db_item.hsp:139096	心音奏劍
+物品	《グランデイル》		1	db_item.hsp:139106	《格蘭戴爾》
+物品	黄金の連接剣		1	db_item.hsp:139114	黃金連接劍
+物品	《スンバラリアヘッド》		1	db_item.hsp:139124	《順巴拉里亞頭》
+物品	緑のオウムガイ		1	db_item.hsp:139132	綠鸚鵡螺
+物品	ウィップ		1	db_item.hsp:139139	鞭子
+物品	鞭		1	db_item.hsp:139142	鞭
+物品	ソックス		2	db_item.hsp:139152	短襪
+物品	クサリガマ		1	db_item.hsp:139165	鎖鐮
+物品	鎖鎌		1	db_item.hsp:139168	鎖鐮
+物品	バリスタ		1	db_item.hsp:139178	弩砲
+物品	弩砲		1	db_item.hsp:139181	弩砲
+物品	特製深海弁当		1	db_item.hsp:139194	特製深海便當
+物品	《N97対戦艦自動砲》		1	db_item.hsp:139207	《N97反戰艦自動砲》
+物品	対戦艦ライフル		1	db_item.hsp:139215	反戰艦步槍
+物品	《トリシューラ》		1	db_item.hsp:139225	《三叉戟》
+物品	破壊の三叉戟		1	db_item.hsp:139233	破壞三叉戟
+物品	《大太刀鳳閃火》		1	db_item.hsp:139243	《大太刀鳳閃火》
+物品	怒涛の大太刀		1	db_item.hsp:139251	怒濤大太刀
+物品	《音切爪》		1	db_item.hsp:139261	《音切爪》
+物品	藍の爪		1	db_item.hsp:139269	藍之爪
+物品	ジュークボックス		1	db_item.hsp:139279	點唱機
+物品	四つ葉のクローバー		1	db_item.hsp:139292	四葉幸運草
+物品	ロミアス		1	db_item.hsp:139305	羅米亞斯
+物品	柿		1	db_item.hsp:139318	柿子
+物品	黄金どんぐり		1	db_item.hsp:139331	黃金橡果
+物品	どんぐり		1	db_item.hsp:139344	橡果
+物品	火吸の勾玉		1	db_item.hsp:139357	吸火勾玉
+物品	《アステロイドベルト》		1	db_item.hsp:139370	《小行星帶》
+物品	石装飾の腰当		1	db_item.hsp:139378	石飾腰甲
+物品	ロック		1	db_item.hsp:139385	岩石
+物品	大岩		1	db_item.hsp:139388	巨岩
+物品	クロー		1	db_item.hsp:139398	爪
+物品	鉤爪		1	db_item.hsp:139401	鉤爪
+物品	リピートボウ		1	db_item.hsp:139411	連發弩
+物品	連弩		1	db_item.hsp:139414	連弩
+物品	材木		1	db_item.hsp:139427	木材
+物品	常世桜		1	db_item.hsp:139440	常世櫻
+物品	麻薬煙管		1	db_item.hsp:139466	麻藥煙管
+物品	クラムベリー		1	db_item.hsp:139479	庫萊姆莓
+物品	覚醒の宝玉		1	db_item.hsp:139492	覺醒寶玉
+物品	リンカネイト		1	db_item.hsp:139510	輪迴石
+物品	魂の紬糸		1	db_item.hsp:139518	靈魂紡線
+物品	オカリナ		1	db_item.hsp:139528	陶笛
+物品	リコーダー		1	db_item.hsp:139541	直笛
+物品	セルパン		1	db_item.hsp:139554	蛇形號
+物品	ルビナス		1	db_item.hsp:139567	盧比納斯
+物品	エメラルド・タブレット		1	db_item.hsp:139580	翡翠石板
+物品	ダイヤモンド		1	db_item.hsp:139593	鑽石
+物品	《ガルバグナウ》		1	db_item.hsp:139606	《加爾巴格納烏》
+物品	黒い凶爪		1	db_item.hsp:139614	黑色凶爪
+物品	《ネイベル・ネクス》		1	db_item.hsp:139624	《奈貝爾・涅克斯》
+物品	星光の白鎌		1	db_item.hsp:139632	星光白鐮
+物品	大型ブラシ		1	db_item.hsp:139642	大型刷子
+物品	有機肥料		1	db_item.hsp:139655	有機肥料
+物品	ナス		1	db_item.hsp:139668	茄子
+物品	コーン		1	db_item.hsp:139681	玉米
+物品	ポテト		1	db_item.hsp:139694	馬鈴薯
+物品	パイン		1	db_item.hsp:139707	鳳梨
+物品	梨		1	db_item.hsp:139720	梨子
+物品	バナナ		1	db_item.hsp:139733	香蕉
+物品	メロン		1	db_item.hsp:139746	哈密瓜
+物品	スイカ		1	db_item.hsp:139759	西瓜
+物品	永久防腐剤		1	db_item.hsp:139772	永久防腐劑
+物品	ミニチュア魔導船		1	db_item.hsp:139787	迷你魔導船
+物品	廃モンスター牧場の権利書		1	db_item.hsp:139800	廢棄怪物牧場權狀
+物品	《常闇の杖》		1	db_item.hsp:139813	《常闇之杖》
+物品	闇を帯びた杖		1	db_item.hsp:139821	帶著黑暗的杖
+物品	チョコレート手作りキット		1	db_item.hsp:139831	手作巧克力組
+物品	栗		1	db_item.hsp:139844	栗子
+物品	《危険な水着》		1	db_item.hsp:139857	《危險的泳裝》
+物品	特殊劣化スーツ		1	db_item.hsp:139865	特殊劣化裝
+物品	《ウォースーツ》		1	db_item.hsp:139875	《戰鬥服》
+物品	特殊強化スーツ		1	db_item.hsp:139883	特殊強化裝
+物品	闇の棺		1	db_item.hsp:139893	黑暗之棺
+物品	たらばがに		1	db_item.hsp:139906	帝王蟹
+物品	雷光の波動の魔杖		1	db_item.hsp:139919	雷光波動魔杖
+物品	アストラル光筆		1	db_item.hsp:139934	星界光筆
+物品	輝く羽ペン		1	db_item.hsp:139942	閃耀羽毛筆
+物品	《グラビトンアクス》		1	db_item.hsp:139952	《重力子之斧》
+物品	重力の手斧		1	db_item.hsp:139960	重力手斧
+物品	《ドレイクロッド》		1	db_item.hsp:139970	《龍之棍》
+物品	竜鱗の棍		1	db_item.hsp:139978	龍鱗棍
+物品	引越しの権利書		1	db_item.hsp:139988	搬家權狀
+物品	誰かの日記		1	db_item.hsp:140001	某人的日記
+物品	マンドラサラダ		1	db_item.hsp:140016	曼德拉沙拉
+物品	《ST-05 ソニック》		1	db_item.hsp:140029	《ST-05 音速》
+物品	音速の旋棍		1	db_item.hsp:140037	音速旋棍
+物品	《ST-04 セイバー》		1	db_item.hsp:140047	《ST-04 軍刀》
+物品	斬撃の旋棍		1	db_item.hsp:140055	斬擊旋棍
+物品	《ST-03 スマッシュ》		1	db_item.hsp:140065	《ST-03 重擊》
+物品	連撃の旋棍		1	db_item.hsp:140073	連擊旋棍
+物品	《ST-02 シールド》		1	db_item.hsp:140083	《ST-02 護盾》
+物品	守護の旋棍		1	db_item.hsp:140091	守護旋棍
+物品	《ST-01 サクリファイス》		1	db_item.hsp:140101	《ST-01 犧牲》
+物品	生贄の旋棍		1	db_item.hsp:140109	祭品旋棍
+物品	《イーグル＆レオン》		1	db_item.hsp:140119	《鷹與獅》
+物品	有翼の幻銃		1	db_item.hsp:140127	有翼幻槍
+物品	マシンルアー		1	db_item.hsp:140137	機械路亞
+物品	機械仕掛けの疑似餌		1	db_item.hsp:140145	機械擬餌
+物品	手作りチョコ		1	db_item.hsp:140155	手作巧克力
+物品	《ムーンライトセーバー》		1	db_item.hsp:140168	《月光劍》
+物品	金柄の月光剣		1	db_item.hsp:140176	金柄月光劍
+物品	月蝕の波動の魔杖		1	db_item.hsp:140186	月蝕波動魔杖
+物品	魔よけの人形		1	db_item.hsp:140201	驅魔人偶
+物品	小さな人形		1	db_item.hsp:140209	小人偶
+物品	ソーマ		1	db_item.hsp:140219	蘇摩
+物品	青の霊薬		1	db_item.hsp:140227	藍色靈藥
+物品	ネクタル		1	db_item.hsp:140237	仙饌蜜酒
+物品	タル詰めの神酒		1	db_item.hsp:140245	桶裝神酒
+物品	大災薬		1	db_item.hsp:140255	大災藥
+物品	災いを呼ぶ薬		1	db_item.hsp:140263	招災之藥
+物品	サンクティオ		1	db_item.hsp:140273	制裁
+物品	制裁の水		1	db_item.hsp:140281	制裁之水
+物品	《AA-12アドバンス》		1	db_item.hsp:140291	《AA-12進階版》
+物品	狂気の散弾銃		1	db_item.hsp:140299	瘋狂散彈槍
+物品	《斬り札》		1	db_item.hsp:140309	《斬牌》
+物品	殺人ジョーカー		1	db_item.hsp:140317	殺人鬼牌
+物品	《アルアビス》		1	db_item.hsp:140327	《深淵帽》
+物品	紺色の魔法帽		1	db_item.hsp:140335	深藍色魔法帽
+物品	かきこむ名刺		1	db_item.hsp:140345	書寫名片
+物品	謎の名刺		1	db_item.hsp:140353	謎之名片
+物品	賢者の石仮面		1	db_item.hsp:140363	賢者石面具
+物品	怪しい仮面		1	db_item.hsp:140371	可疑的面具
+物品	犬笛		1	db_item.hsp:140381	犬笛
+物品	謎の笛		1	db_item.hsp:140389	謎之笛子
+物品	《七光の大弓》		1	db_item.hsp:140399	《七光大弓》
+物品	虹色の弓		1	db_item.hsp:140407	虹色之弓
+物品	《フラッシュボウガン》		1	db_item.hsp:140417	《閃光十字弓》
+物品	閃光の機械弓		1	db_item.hsp:140425	閃光機械弓
+物品	阿形の狛犬		1	db_item.hsp:140435	阿形石獅
+物品	吽形の狛犬		1	db_item.hsp:140448	吽形石獅
+物品	フェザーの魔法書		1	db_item.hsp:140461	輕羽魔法書
+物品	《スパイラルカオス》		1	db_item.hsp:140489	《螺旋混沌》
+物品	一角獣の角槍		1	db_item.hsp:140497	獨角獸角槍
+物品	イス焼き		1	db_item.hsp:140507	伊斯燒
+物品	《ノヴァ・グレネード》		1	db_item.hsp:140520	《新星榴彈》
+物品	新星榴弾		1	db_item.hsp:140528	新星榴彈
+物品	コマンドフラッグ		1	db_item.hsp:140538	指令旗
+物品	三角木馬		1	db_item.hsp:140551	三角木馬
+物品	《フレイムザンバー》		1	db_item.hsp:140564	《烈焰斬馬刀》
+物品	アグニの宝剣		1	db_item.hsp:140572	阿耆尼寶劍
+物品	《ゴルネ・ツィーベル》		1	db_item.hsp:140582	《戈爾涅・齊貝爾》
+物品	超硬度長ネギ		1	db_item.hsp:140590	超硬度大蔥
+物品	《シールド・シールド》		1	db_item.hsp:140600	《盾・盾》
+物品	封印されし盾		1	db_item.hsp:140608	被封印的盾
+物品	《躰蝕の魔杖》		1	db_item.hsp:140618	《體蝕魔杖》
+物品	剛魔の杖		1	db_item.hsp:140626	剛魔杖
+物品	イツパロトル像		1	db_item.hsp:140636	伊茲帕洛特爾像
+物品	神の彫像		4	db_item.hsp:140644	神之雕像
+物品	ヤカテクト像		1	db_item.hsp:140654	雅卡特庫特像
+物品	女神の彫像		4	db_item.hsp:140662	女神雕像
+物品	エフェクト・スキャナー		1	db_item.hsp:140672	效果掃描器
+物品	巨大マリモ(荷車)		1	db_item.hsp:140685	巨大綠藻球(貨車)
+物品	観賞用レーション(荷車)		1	db_item.hsp:140698	觀賞用口糧(貨車)
+物品	《釘ストラディバリウス》		1	db_item.hsp:140711	《釘子史特拉第瓦里》
+物品	艶やかな弦鈍器		1	db_item.hsp:140719	豔麗的弦鈍器
+物品	狂人の日記		1	db_item.hsp:140729	狂人日記
+物品	禁断の肉塊		1	db_item.hsp:140742	禁斷肉塊
+物品	《菊十文字》		1	db_item.hsp:140755	《菊十文字》
+物品	巨大な十字手裏剣		1	db_item.hsp:140763	巨大十字手裏劍
+物品	逆玉手弁当		1	db_item.hsp:140773	逆玉手便當
+物品	玉手弁当		1	db_item.hsp:140786	玉手便當
+物品	スピードリンク		1	db_item.hsp:140799	速度飲料
+物品	《ナイトメア》		1	db_item.hsp:140814	《夢魘》
+物品	勇気の刃		1	db_item.hsp:140822	勇氣之刃
+物品	和太鼓		1	db_item.hsp:140832	和太鼓
+物品	かき氷		1	db_item.hsp:140845	刨冰
+物品	マジカルアイス		1	db_item.hsp:140858	魔法冰
+物品	ブラックドリップ		1	db_item.hsp:140871	黑色滴液
+物品	ランプラント		1	db_item.hsp:140884	燈植物
+物品	カオスジュエル		1	db_item.hsp:140897	混沌寶石
+物品	エーテルの鏡		1	db_item.hsp:140910	以太之鏡
+物品	イカロスの翼		1	db_item.hsp:140923	伊卡洛斯之翼
+物品	トロール細胞		1	db_item.hsp:140936	巨魔細胞
+物品	殺人ＣＤ		1	db_item.hsp:140949	殺人ＣＤ
+物品	火鉢		1	db_item.hsp:140962	火盆
+物品	蓄電池		1	db_item.hsp:140975	蓄電池
+物品	グリア結晶		1	db_item.hsp:140988	膠質結晶
+物品	クズ竜		1	db_item.hsp:141001	垃圾龍
+物品	《神を殺せる本》		1	db_item.hsp:141014	《能弒神之書》
+物品	分厚い魔法書		1	db_item.hsp:141022	厚重的魔法書
+物品	《ライ》		1	db_item.hsp:141032	《萊》
+物品	古の石貨		1	db_item.hsp:141040	古代石幣
+物品	《魔断の指輪》		1	db_item.hsp:141050	《斷魔之戒》
+物品	神の光玉		8	db_item.hsp:141058	神之光玉
+物品	《金色の鎖》		1	db_item.hsp:141068	《金色之鎖》
+物品	《精霊手甲》		1	db_item.hsp:141086	《精靈手甲》
+物品	青のガントレット		1	db_item.hsp:141094	藍色護手
+物品	《妖刀黒鳥兜》		1	db_item.hsp:141104	《妖刀黑烏頭》
+物品	黒染めの忍刀		1	db_item.hsp:141112	黑染忍刀
+物品	ギャラメﾞル		1	db_item.hsp:141122	加拉梅爾
+物品	《不殺の刺又》		1	db_item.hsp:141135	《不殺刺叉》
+物品	《機械拘束具》		1	db_item.hsp:141153	《機械拘束具》
+物品	《神緑の茨》		1	db_item.hsp:141171	《神綠荊棘》
+物品	《大地の足枷》		1	db_item.hsp:141189	《大地腳鐐》
+物品	《運命の輪》		1	db_item.hsp:141207	《命運之輪》
+物品	《暴風の首輪》		1	db_item.hsp:141225	《暴風項圈》
+物品	マニの切り札の宝玉		1	db_item.hsp:141243	瑪尼的王牌寶玉
+物品	スナイパーライフル		1	db_item.hsp:141258	狙擊步槍
+物品	狙撃銃		1	db_item.hsp:141261	狙擊槍
+物品	《ベーラヤ・スメルチ》		1	db_item.hsp:141274	《白色死神》
+物品	死神の狙撃銃		1	db_item.hsp:141282	死神狙擊槍
+物品	砂のお城		1	db_item.hsp:141292	沙堡
+物品	《メタルヴェスダの機械翼》		1	db_item.hsp:141305	《金屬維斯達的機械翼》
+物品	機械の翼		1	db_item.hsp:141313	機械之翼
+物品	《リボルケイン》		1	db_item.hsp:141323	《旋光杖》
+物品	光のスティック		1	db_item.hsp:141331	光之棒
+物品	おにぎり		1	db_item.hsp:141341	飯糰
+物品	姉の秘密の日記		1	db_item.hsp:141354	姊姊的秘密日記
+物品	《ストームブリンガー》		1	db_item.hsp:141369	《風暴使者》
+物品	姉の日記		1	db_item.hsp:141387	姊姊的日記
+物品	《カインドネス》		1	db_item.hsp:141402	《仁慈》
+物品	巨大な十字剣		1	db_item.hsp:141410	巨大十字劍
+物品	《ドレッドノート》		1	db_item.hsp:141420	《無畏》
+物品	ド級の弩弓		1	db_item.hsp:141428	無畏級弩弓
+物品	重力榴弾銃		1	db_item.hsp:141446	重力榴彈槍
+物品	《神壊の大戦斧》		1	db_item.hsp:141456	《壞神大戰斧》
+物品	鋼鉄の戦斧		1	db_item.hsp:141464	鋼鐵戰斧
+物品	《ギガモールの骨鎌》		1	db_item.hsp:141474	《巨型鼴鼠的骨鐮》
+物品	獣の鎌		1	db_item.hsp:141482	野獸之鐮
+物品	《英雄のマント》		1	db_item.hsp:141492	《英雄披風》
+物品	よれよれの外套		1	db_item.hsp:141500	皺巴巴的外套
+物品	《カストル＆ポルックス》		1	db_item.hsp:141510	《卡斯托與波魯克斯》
+物品	双生の銃		1	db_item.hsp:141518	雙生之槍
+物品	《落椿》		1	db_item.hsp:141528	《落椿》
+物品	血塗れの包丁		1	db_item.hsp:141536	染血菜刀
+物品	《特殊防護スーツ》		1	db_item.hsp:141546	《特殊防護服》
+物品	水着風スーツ		1	db_item.hsp:141554	泳裝風服裝
+物品	ヴェルニースオリジナル		1	db_item.hsp:141564	韋爾尼斯原創
+物品	特別な飴玉		1	db_item.hsp:141572	特別的糖果
+物品	《轟海刀》		1	db_item.hsp:141582	《轟海刀》
+物品	豪快なサーベル		1	db_item.hsp:141590	豪快的軍刀
+物品	ヤカテクトの小遣銭の宝玉		1	db_item.hsp:141600	雅卡特庫特的零用錢寶玉
+物品	《寛永通宝》		1	db_item.hsp:141618	《寬永通寶》
+物品	旧文明の貨幣		1	db_item.hsp:141626	舊文明的貨幣
+物品	《GAU-17ミニガン改》		1	db_item.hsp:141636	《GAU-17迷你機槍改》
+物品	多銃身回転式機関銃		1	db_item.hsp:141644	多管旋轉機關槍
+物品	《ネガティブエッヂ》		1	db_item.hsp:141654	《負之刃》
+物品	神を裂く刃		1	db_item.hsp:141662	裂神之刃
+物品	《パイルバンカー帯電式Y型》		1	db_item.hsp:141672	《打樁機帶電式Y型》
+物品	射突型パイル		1	db_item.hsp:141680	射突型樁
+物品	プチトロ		1	db_item.hsp:141690	普奇鮪魚
+物品	《ドラゴン殺し》		1	db_item.hsp:141703	《屠龍者》
+物品	両刃の大剣		1	db_item.hsp:141711	雙刃大劍
+物品	《賢者の錬金釜》		1	db_item.hsp:141721	《賢者鍊金釜》
+物品	合成の壺		1	db_item.hsp:141734	合成之壺
+物品	スカルボウ		1	db_item.hsp:141744	骷髏弓
+物品	骨弓		1	db_item.hsp:141747	骨弓
+物品	ふかふかパン		1	db_item.hsp:141760	鬆軟麵包
+物品	砂糖		1	db_item.hsp:141773	砂糖
+物品	塩		1	db_item.hsp:141786	鹽
+物品	カードパック		1	db_item.hsp:141799	卡包
+物品	レシピ		1	db_item.hsp:141812	食譜
+物品	皿		1	db_item.hsp:141825	盤子
+物品	包丁		2	db_item.hsp:141835	菜刀
+物品	毛皮の敷物		1	db_item.hsp:141851	毛皮地毯
+物品	鹿の剥製		1	db_item.hsp:141864	鹿標本
+物品	高級ソファー		1	db_item.hsp:141877	高級沙發
+物品	マニ像		1	db_item.hsp:141890	瑪尼像
+物品	クミロミ像		1	db_item.hsp:141908	庫米羅米像
+物品	特製肉まんじゅう		1	db_item.hsp:141926	特製肉饅頭
+物品	高級キャビネット		1	db_item.hsp:141939	高級櫥櫃
+物品	おっきな本棚		1	db_item.hsp:141952	大書架
+物品	トマト		1	db_item.hsp:141965	番茄
+物品	ブルーカプセルドラッグ		1	db_item.hsp:141978	藍色膠囊藥
+物品	青いカプセル		1	db_item.hsp:141986	藍色膠囊
+物品	ラムネ		1	db_item.hsp:141996	彈珠汽水
+物品	透明なポーション		8	db_item.hsp:142004	透明藥水
+物品	ミニチュアツリー		1	db_item.hsp:142014	迷你樹
+物品	正月飾り		1	db_item.hsp:142027	新年裝飾
+物品	ジュアの抱き枕		1	db_item.hsp:142040	朱亞抱枕
+物品	青い屋根の屋台		1	db_item.hsp:142053	藍屋頂攤販
+物品	赤い屋根の屋台		1	db_item.hsp:142066	紅屋頂攤販
+物品	カウンター		1	db_item.hsp:142079	櫃檯
+物品	台座		1	db_item.hsp:142092	台座
+物品	聖夜祭の花冠		1	db_item.hsp:142105	聖夜祭花冠
+物品	《グールドのピアノ》		1	db_item.hsp:142118	《顧爾德的鋼琴》
+物品	何の変哲もないピアノ		1	db_item.hsp:142126	普通的鋼琴
+物品	ガロクの槌		1	db_item.hsp:142136	加洛克之鎚
+物品	名工の槌		1	db_item.hsp:142144	名匠之鎚
+物品	ライトセーバー		2	db_item.hsp:142151	光劍
+物品	《マウザーC96カスタム》		1	db_item.hsp:142167	《毛瑟C96特製》
+物品	錆びた銃		1	db_item.hsp:142175	生鏽的槍
+物品	《五本角の兜》		1	db_item.hsp:142185	《五角頭盔》
+物品	角の生えた兜		1	db_item.hsp:142193	長角的頭盔
+物品	もち		1	db_item.hsp:142203	年糕
+物品	鏡もち		1	db_item.hsp:142216	鏡餅
+物品	だるま		1	db_item.hsp:142229	達摩
+物品	こたつ		1	db_item.hsp:142242	暖桌
+物品	お年玉		1	db_item.hsp:142255	壓歲錢
+物品	降り階段		1	db_item.hsp:142268	下樓梯
+物品	昇り階段		1	db_item.hsp:142281	上樓梯
+物品	創造主の像		1	db_item.hsp:142294	創造主之像
+物品	怪しい人物像		1	db_item.hsp:142302	可疑的人像
+物品	召喚石		1	db_item.hsp:142312	召喚石
+物品	見事な水晶		1	db_item.hsp:142320	精美的水晶
+物品	ボコノンの書		1	db_item.hsp:142330	波可農之書
+物品	調教鞭		1	db_item.hsp:142343	調教鞭
+物品	こころ		1	db_item.hsp:142356	心
+物品	謎のオブジェ		1	db_item.hsp:142364	謎之擺飾
+物品	シュレディンガーの猫		1	db_item.hsp:142374	薛丁格的貓
+物品	謎の箱		1	db_item.hsp:142382	謎之箱
+物品	《カルネアデスの板》		1	db_item.hsp:142392	《卡涅阿德斯之板》
+物品	謎の板切れ		1	db_item.hsp:142400	謎之木板
+物品	すくつ探索許可証		1	db_item.hsp:142410	巢窟探索許可證
+物品	謎の紙切れ		1	db_item.hsp:142418	謎之紙片
+物品	《飛竜刀》		1	db_item.hsp:142428	《飛龍刀》
+物品	赤い装飾の刀		1	db_item.hsp:142436	紅色裝飾的刀
+物品	《謎の貝》		1	db_item.hsp:142446	《謎之貝》
+物品	美しい貝		1	db_item.hsp:142454	美麗的貝殼
+物品	《フリージアの尻尾》		1	db_item.hsp:142464	《芙莉西亞的尾巴》
+物品	猫の尻尾		1	db_item.hsp:142472	貓尾巴
+物品	フォーチュンクッキー		1	db_item.hsp:142482	幸運餅乾
+物品	名前の巻物		1	db_item.hsp:142495	命名卷軸
+物品	耐熱コーティング液		1	db_item.hsp:142510	耐熱塗層液
+物品	サイズ		1	db_item.hsp:142522	鐮刀
+物品	大鎌		1	db_item.hsp:142525	大鐮
+物品	小さな宝くじ箱		1	db_item.hsp:142538	小彩券箱
+物品	サンドバッグ		1	db_item.hsp:142551	沙包
+物品	収穫の魔法書		1	db_item.hsp:142564	收穫魔法書
+物品	四次元ポケットの魔法書		1	db_item.hsp:142579	四次元口袋魔法書
+物品	友情の証		1	db_item.hsp:142594	友情之證
+物品	ぼろぼろの紙切れ		2	db_item.hsp:142602	破爛紙片
+物品	おみやげ		1	db_item.hsp:142612	伴手禮
+物品	《紅凛》		1	db_item.hsp:142625	《紅凜》
+物品	赤い腰当		1	db_item.hsp:142633	紅色腰甲
+物品	《棘の盾》		1	db_item.hsp:142643	《荊棘之盾》
+物品	チクチクする盾		1	db_item.hsp:142651	刺刺的盾
+物品	《アル・ウード》		1	db_item.hsp:142661	《烏德琴》
+物品	頑丈なリュート		1	db_item.hsp:142669	堅固的魯特琴
+物品	《キルキルピアノ》		1	db_item.hsp:142679	《殺殺鋼琴》
+物品	頑丈なピアノ		1	db_item.hsp:142687	堅固的鋼琴
+物品	音楽チケット		1	db_item.hsp:142697	音樂票
+物品	《ツインエッジ》		1	db_item.hsp:142715	《雙刃》
+物品	黄色のネックレス		1	db_item.hsp:142723	黃色項鍊
+物品	《アルバレスト》		1	db_item.hsp:142733	《重弩》
+物品	機械弓のネックレス		1	db_item.hsp:142741	機械弓項鍊
+物品	エヘカトル像		1	db_item.hsp:142751	艾赫卡托爾像
+物品	幸せのベッド		1	db_item.hsp:142769	幸福之床
+物品	《クレイモア》		1	db_item.hsp:142782	《闊劍》
+物品	粗野な剣		1	db_item.hsp:142790	粗野的劍
+物品	《シーナのパンティー》		1	db_item.hsp:142800	《希娜的內褲》
+物品	かぐわしいぱんつ		1	db_item.hsp:142808	芬芳的內褲
+物品	ロミアスの秘密の経験		1	db_item.hsp:142818	羅米亞斯的秘密經驗
+物品	怪しい宝石		2	db_item.hsp:142826	可疑的寶石
+物品	《バニラロック》		1	db_item.hsp:142836	《香草岩》
+物品	光る小石		1	db_item.hsp:142844	發光的小石子
+物品	クミロミの秘密の経験		1	db_item.hsp:142854	庫米羅米的秘密經驗
+物品	グレネード		1	db_item.hsp:142869	手榴彈
+物品	手榴弾		1	db_item.hsp:142872	手榴彈
+物品	スター		1	db_item.hsp:142882	星形鏢
+物品	手裏剣		1	db_item.hsp:142885	手裏劍
+物品	ダンジョンの権利書		1	db_item.hsp:142898	地下城權狀
+物品	進化のポーション		1	db_item.hsp:142911	進化藥水
+物品	契約の魔法書		1	db_item.hsp:142926	契約魔法書
+物品	契約の巻物		1	db_item.hsp:142941	契約卷軸
+物品	復活の書		1	db_item.hsp:142956	復活之書
+物品	《ストラディバリウス》		1	db_item.hsp:142971	《史特拉第瓦里》
+物品	艶やかな弦楽器		1	db_item.hsp:142979	豔麗的弦樂器
+物品	下落のポーション		1	db_item.hsp:142989	下降藥水
+物品	《乞食のペンダント》		1	db_item.hsp:143004	《乞丐的墜飾》
+物品	うす汚れたペンダント		1	db_item.hsp:143012	髒髒的墜飾
+物品	ゲロゲロ		1	db_item.hsp:143022	嘔嘔
+物品	ホイッスル		1	db_item.hsp:143035	哨子
+物品	うさぎのしっぽ		1	db_item.hsp:143048	兔子尾巴
+物品	ふわふわな尻尾		1	db_item.hsp:143056	毛茸茸的尾巴
+物品	デッキ		1	db_item.hsp:143066	牌組
+物品	タウンブック		1	db_item.hsp:143079	城鎮之書
+物品	リトル捕獲玉		1	db_item.hsp:143092	小捕獲球
+物品	機械仕掛けの球		1	db_item.hsp:143100	機械球
+物品	食塩水		1	db_item.hsp:143110	食鹽水
+物品	マジックボルトの魔法書		1	db_item.hsp:143123	魔力箭魔法書
+物品	魔力の嵐の魔法書		1	db_item.hsp:143138	魔力風暴魔法書
+物品	《破壊の斧》		1	db_item.hsp:143153	《破壞之斧》
+物品	巨大な斧		1	db_item.hsp:143161	巨大的斧頭
+物品	間仕切り		1	db_item.hsp:143171	隔間
+物品	ハープ		1	db_item.hsp:143184	豎琴
+物品	ハーモニカ		1	db_item.hsp:143197	口琴
+物品	リュート		1	db_item.hsp:143210	魯特琴
+物品	パンフルート		1	db_item.hsp:143223	排笛
+物品	ギロチン		1	db_item.hsp:143236	斷頭台
+物品	アイアンメイデン		1	db_item.hsp:143249	鐵處女
+物品	古書物		1	db_item.hsp:143262	古書
+物品	ジュア像		1	db_item.hsp:143275	朱亞像
+物品	モンスターボール		1	db_item.hsp:143293	怪物球
+物品	能力複合機		1	db_item.hsp:143306	能力複合機
+物品	見たこともない機械		1	db_item.hsp:143314	從沒見過的機械
+物品	再構成マトリクス		1	db_item.hsp:143324	重構矩陣
+物品	エネルギー結晶体		1	db_item.hsp:143332	能量結晶體
+物品	クミロミの活性化の宝玉		1	db_item.hsp:143342	庫米羅米的活化寶玉
+物品	ジュアの聖なる雨の宝玉		1	db_item.hsp:143360	朱亞的聖雨寶玉
+物品	ルルウィの神速の宝玉		1	db_item.hsp:143378	露露伊的神速寶玉
+物品	《大地の大槌》		1	db_item.hsp:143396	《大地之鎚》
+物品	巨大な槌		1	db_item.hsp:143404	巨大的鎚
+物品	《ラッキーダガー》		1	db_item.hsp:143414	《幸運匕首》
+物品	細い短剣		1	db_item.hsp:143422	細短劍
+物品	《ホーリーランス》		1	db_item.hsp:143432	《聖槍》
+物品	聖なる槍		1	db_item.hsp:143440	神聖之槍
+物品	《エレメンタルスタッフ》		1	db_item.hsp:143450	《元素法杖》
+物品	元素の魔杖		1	db_item.hsp:143458	元素魔杖
+物品	《クミロミサイズ》		1	db_item.hsp:143468	《庫米羅米之鐮》
+物品	収穫の鎌		1	db_item.hsp:143476	收穫之鐮
+物品	《ウィンチェスター・プレミアム》		1	db_item.hsp:143486	《溫徹斯特・頂級》
+物品	古の散弾銃		1	db_item.hsp:143494	古代散彈槍
+物品	《ウィンドボウ》		1	db_item.hsp:143504	《風之弓》
+物品	風をまとった長弓		1	db_item.hsp:143512	纏風長弓
+物品	秘宝		1	db_item.hsp:143522	秘寶
+物品	謎の宝石		1	db_item.hsp:143530	謎之寶石
+物品	原子爆弾『Cat's Cradle』		1	db_item.hsp:143540	原子彈『Cat's Cradle』
+物品	とても危険な爆弾		1	db_item.hsp:143548	非常危險的炸彈
+物品	お絵かきセット(荷車)		1	db_item.hsp:143558	繪畫組(貨車)
+物品	絵画(荷車)		1	db_item.hsp:143571	畫作(貨車)
+物品	レイチェルの絵本		1	db_item.hsp:143584	瑞秋的繪本
+物品	妹が愛を込めて作ったお弁当		1	db_item.hsp:143597	妹妹用愛做的便當
+物品	ルルウィ像		1	db_item.hsp:143610	露露伊像
+物品	オパートス像		1	db_item.hsp:143628	歐帕特斯像
+物品	スピードリング		1	db_item.hsp:143643	速度戒指
+物品	スピードの指輪		1	db_item.hsp:143646	速度之戒
+物品	モンスターハート		1	db_item.hsp:143661	怪物之心
+物品	動いている心臓		1	db_item.hsp:143669	跳動的心臟
+物品	マジックフルーツ		1	db_item.hsp:143679	魔法水果
+物品	見たこともない果物		1	db_item.hsp:143687	從沒見過的水果
+物品	《ダル=イ=サリオン》		1	db_item.hsp:143697	《達爾＝伊＝薩里昂》
+物品	軽やかな靴		1	db_item.hsp:143705	輕快的鞋子
+物品	暗黒の楔の魔法書		1	db_item.hsp:143715	黑暗之楔魔法書
+物品	パーティション		1	db_item.hsp:143730	隔板
+物品	提灯		1	db_item.hsp:143743	燈籠
+物品	東洋の窓		1	db_item.hsp:143756	東洋風窗戶
+物品	灯篭		1	db_item.hsp:143769	石燈籠
+物品	英雄チーズ		1	db_item.hsp:143782	英雄起司
+物品	不思議なチーズ		1	db_item.hsp:143790	不可思議的起司
+物品	ダブルベッド		1	db_item.hsp:143800	雙人床
+物品	廃品		1	db_item.hsp:143813	廢品
+物品	シンク		1	db_item.hsp:143826	水槽
+物品	名工食器棚		1	db_item.hsp:143839	名匠餐具櫃
+物品	トイレ		1	db_item.hsp:143852	馬桶
+物品	フェンス付き花壇		1	db_item.hsp:143865	附柵欄花壇
+物品	ソファー		1	db_item.hsp:143878	沙發
+物品	黒板		1	db_item.hsp:143891	黑板
+物品	メニューボード		1	db_item.hsp:143904	菜單板
+物品	王様箪笥		1	db_item.hsp:143917	國王衣櫃
+物品	カーテン付きの窓		1	db_item.hsp:143930	附窗簾的窗戶
+物品	布団		1	db_item.hsp:143943	被褥
+物品	米俵		1	db_item.hsp:143956	米袋
+物品	クーラーボックス		1	db_item.hsp:143969	保冷箱
+物品	冷たい仕掛け箱		1	db_item.hsp:143977	冰冷的機關箱
+物品	ユニコーンの角		1	db_item.hsp:143987	獨角獸之角
+物品	幸運のリンゴ		1	db_item.hsp:144000	幸運蘋果
+物品	不思議なリンゴ		1	db_item.hsp:144008	不可思議的蘋果
+物品	脱出の巻物		1	db_item.hsp:144018	脫出卷軸
+物品	スケルトンキー		1	db_item.hsp:144033	萬能鑰匙
+物品	透き通った鍵		1	db_item.hsp:144041	透明的鑰匙
+物品	ロックピック		1	db_item.hsp:144051	開鎖工具
+物品	地雷		1	db_item.hsp:144064	地雷
+物品	紐		1	db_item.hsp:144077	繩子
+物品	パンツ		1	db_item.hsp:144087	內褲
+物品	ギャルのパンティー		1	db_item.hsp:144090	辣妹的內褲
+物品	羽の生えた巻物		1	db_item.hsp:144103	長翅膀的卷軸
+物品	ムーンゲート		1	db_item.hsp:144118	月之門
+物品	素材槌		1	db_item.hsp:144131	素材鎚
+物品	変装セット		1	db_item.hsp:144144	變裝組
+物品	インコグニートの魔法書		1	db_item.hsp:144157	隱匿身分魔法書
+物品	《賢者の兜》		1	db_item.hsp:144172	《賢者頭盔》
+物品	眩しい兜		1	db_item.hsp:144180	耀眼的頭盔
+物品	ヘルメスの血		1	db_item.hsp:144190	赫密士之血
+物品	鳥居		1	db_item.hsp:144205	鳥居
+物品	異国の門		1	db_item.hsp:144213	異國之門
+物品	お嬢様の日記		1	db_item.hsp:144223	大小姐的日記
+物品	妹の秘密の日記		1	db_item.hsp:144238	妹妹的秘密日記
+物品	小さなメダル		1	db_item.hsp:144253	小獎章
+物品	金色のメダル		1	db_item.hsp:144261	金色獎章
+物品	宝の地図		1	db_item.hsp:144271	藏寶圖
+物品	媚薬		1	db_item.hsp:144289	媚藥
+物品	徴税士の納税箱		1	db_item.hsp:144346	稅務官的納稅箱
+物品	納税箱		1	db_item.hsp:144354	納稅箱
+物品	請求書		1	db_item.hsp:144364	帳單
+物品	いやな紙切れ		1	db_item.hsp:144372	討厭的紙片
+物品	フラワーアーチ		1	db_item.hsp:144382	花拱門
+物品	王様ベッド		1	db_item.hsp:144395	國王床
+物品	アットホームな窓		1	db_item.hsp:144408	溫馨的窗戶
+物品	ハウスボード		1	db_item.hsp:144421	房屋告示板
+物品	三角木		1	db_item.hsp:144434	三角木
+物品	窓		1	db_item.hsp:144447	窗戶
+物品	格子窓		1	db_item.hsp:144460	格子窗
+物品	巨大サボテン		1	db_item.hsp:144473	巨大仙人掌
+物品	バーベキューセット		1	db_item.hsp:144486	烤肉組
+物品	パキラ		1	db_item.hsp:144499	馬拉巴栗
+物品	目に優しい植物		1	db_item.hsp:144512	護眼植物
+物品	ボスチェア		1	db_item.hsp:144525	老闆椅
+物品	威圧感のある椅子		1	db_item.hsp:144533	有壓迫感的椅子
+物品	聖なる井戸		1	db_item.hsp:144543	神聖之井
+物品	空き瓶		2	db_item.hsp:144556	空瓶
+物品	巨人の足枷		1	db_item.hsp:144574	巨人腳鐐
+物品	足枷		1	db_item.hsp:144582	腳鐐
+物品	クリスマスツリー		1	db_item.hsp:144592	聖誕樹
+物品	スノーマン(荷車)		1	db_item.hsp:144605	雪人(貨車)
+物品	直送クリスマスツリー(荷車)		1	db_item.hsp:144618	直送聖誕樹(貨車)
+物品	ステンドグラス		1	db_item.hsp:144631	彩繪玻璃
+物品	扇形の柱		1	db_item.hsp:144644	扇形柱
+物品	聖なる十字架		1	db_item.hsp:144657	神聖十字架
+物品	雪をかぶったモダンな街灯		1	db_item.hsp:144670	積雪的現代路燈
+物品	雪をかぶったタル		1	db_item.hsp:144683	積雪的木桶
+物品	ミニ雪だるま		1	db_item.hsp:144696	迷你雪人
+物品	雪かかし		1	db_item.hsp:144709	雪稻草人
+物品	モミの木		1	db_item.hsp:144722	冷杉
+物品	葉の散った木		1	db_item.hsp:144735	落葉的樹
+物品	雪		1	db_item.hsp:144748	雪
+物品	モダンな街灯		1	db_item.hsp:144761	現代路燈
+物品	奇抜なランプ		1	db_item.hsp:144774	奇特的燈
+物品	キャンドル		1	db_item.hsp:144787	蠟燭
+物品	松明		1	db_item.hsp:144800	火把
+物品	扉生成の魔法書		1	db_item.hsp:144813	生成門扉魔法書
+物品	扉生成の魔杖		1	db_item.hsp:144828	生成門扉魔杖
+物品	普通の棚		1	db_item.hsp:144843	普通的架子
+物品	冷蔵庫		1	db_item.hsp:144856	冰箱
+物品	貯金箱		1	db_item.hsp:144869	存錢筒
+物品	火炎瓶		1	db_item.hsp:144882	燃燒瓶
+物品	ムービーディスク		1	db_item.hsp:144897	影片光碟
+物品	フン		1	db_item.hsp:144910	糞便
+物品	乳		1	db_item.hsp:144923	乳
+物品	卵		1	db_item.hsp:144936	蛋
+物品	牧場の権利書		1	db_item.hsp:144949	牧場權狀
+物品	干し肉		1	db_item.hsp:144962	肉乾
+物品	炎の壁の魔杖		1	db_item.hsp:144975	火牆魔杖
+物品	炎の壁の魔法書		1	db_item.hsp:144990	火牆魔法書
+物品	耐冷ブランケット		1	db_item.hsp:145005	耐寒毯
+物品	耐火ブランケット		1	db_item.hsp:145018	耐火毯
+物品	耐酸性コーティング液		1	db_item.hsp:145031	耐酸塗層液
+物品	酸の滴る杖		1	db_item.hsp:145046	滴酸的杖
+物品	酸の海の魔法書		1	db_item.hsp:145061	酸之海魔法書
+物品	学習書		1	db_item.hsp:145076	學習書
+物品	レジスター		1	db_item.hsp:145094	收銀機
+物品	店の金庫		1	db_item.hsp:145107	店裡的金庫
+物品	主の納入箱		1	db_item.hsp:145120	主人的繳納箱
+物品	納入箱		1	db_item.hsp:145128	繳納箱
+物品	エーテル抗体のポーション		1	db_item.hsp:145138	以太抗體藥水
+物品	オーロラリング		2	db_item.hsp:145150	極光戒指
+物品	ヴィンデールクローク		2	db_item.hsp:145165	溫德爾斗篷
+物品	セブンリーグブーツ		2	db_item.hsp:145178	七里靴
+物品	シェルター		1	db_item.hsp:145194	避難所
+物品	魔法の木の種		1	db_item.hsp:145207	魔法樹種子
+物品	宝石の種		1	db_item.hsp:145220	寶石種子
+物品	フェザー		1	db_item.hsp:145230	輕羽
+物品	羽		1	db_item.hsp:145233	羽毛
+物品	癒しの手の魔杖		1	db_item.hsp:145246	治癒之手魔杖
+物品	癒しの手の魔法書		1	db_item.hsp:145261	治癒之手魔法書
+物品	治癒の雨の巻物		1	db_item.hsp:145276	治癒之雨卷軸
+物品	治癒の雨の魔法書		1	db_item.hsp:145291	治癒之雨魔法書
+物品	給料箱		1	db_item.hsp:145306	薪水箱
+物品	壁生成の魔法書		1	db_item.hsp:145319	生成牆壁魔法書
+物品	壁生成の魔杖		1	db_item.hsp:145334	生成牆壁魔杖
+物品	ディスク		1	db_item.hsp:145349	碟片
+物品	倉庫の権利書		1	db_item.hsp:145362	倉庫權狀
+物品	畑の権利書		1	db_item.hsp:145375	田地權狀
+物品	雪だるま		1	db_item.hsp:145388	雪人
+物品	黒水晶		1	db_item.hsp:145401	黑水晶
+物品	猫の像		1	db_item.hsp:145414	貓像
+物品	絵画《ひまわり》		1	db_item.hsp:145427	畫作《向日葵》
+物品	絵画《風景》		1	db_item.hsp:145440	畫作《風景》
+物品	絵画《マダム》		1	db_item.hsp:145453	畫作《貴婦》
+物品	巨大なテーブル		1	db_item.hsp:145466	巨大的桌子
+物品	巨大な観葉植物		1	db_item.hsp:145479	巨大的觀葉植物
+物品	かまど		1	db_item.hsp:145492	灶台
+物品	暖炉		1	db_item.hsp:145505	暖爐
+物品	溶鉱炉		1	db_item.hsp:145518	熔爐
+物品	トネリコの木		1	db_item.hsp:145531	白蠟樹
+物品	ヤシの木		1	db_item.hsp:145544	椰子樹
+物品	ケヤキの木		1	db_item.hsp:145557	櫸樹
+物品	枯れ木		1	db_item.hsp:145570	枯樹
+物品	果実の木		1	db_item.hsp:145583	果樹
+物品	果実のない木		1	db_item.hsp:145596	不結果的樹
+物品	スギの木		1	db_item.hsp:145609	杉樹
+物品	ブナの木		1	db_item.hsp:145622	山毛櫸
+物品	店の権利書		1	db_item.hsp:145635	商店權狀
+物品	博物館の権利書		1	db_item.hsp:145648	博物館權狀
+物品	ウィング		1	db_item.hsp:145658	翅膀
+物品	翼		1	db_item.hsp:145661	翼
+物品	染料		1	db_item.hsp:145674	染料
+物品	錬金術の魔杖		1	db_item.hsp:145689	鍊金術魔杖
+物品	変化の魔杖		1	db_item.hsp:145704	變化魔杖
+物品	水		1	db_item.hsp:145719	水
+物品	充填の巻物		1	db_item.hsp:145737	充填卷軸
+物品	《レールガン》		1	db_item.hsp:145752	《電磁砲》
+物品	虐殺の銃		1	db_item.hsp:145760	虐殺之槍
+物品	エネルギーセル		1	db_item.hsp:145767	能量電池
+物品	光子弾		1	db_item.hsp:145770	光子彈
+物品	レーザーガン		1	db_item.hsp:145780	雷射槍
+物品	光子銃		1	db_item.hsp:145783	光子槍
+物品	遺産相続の権利書		1	db_item.hsp:145796	遺產繼承權狀
+物品	形見のカバン		1	db_item.hsp:145809	遺物包包
+物品	*防具強化*の巻物		1	db_item.hsp:145822	*防具強化*卷軸
+物品	防具強化の巻物		1	db_item.hsp:145837	防具強化卷軸
+物品	*武器強化*の巻物		1	db_item.hsp:145852	*武器強化*卷軸
+物品	武器強化の巻物		1	db_item.hsp:145867	武器強化卷軸
+物品	妹の日記		1	db_item.hsp:145882	妹妹的日記
+物品	カード		1	db_item.hsp:145897	卡片
+物品	はく製		1	db_item.hsp:145910	標本
+物品	*素材変化*の巻物		1	db_item.hsp:145923	*素材變化*卷軸
+物品	素材変化の巻物		1	db_item.hsp:145938	素材變化卷軸
+物品	劣悪素材の巻物		1	db_item.hsp:145953	劣質素材卷軸
+物品	サイバースナック		1	db_item.hsp:145968	網路零食
+物品	フライドポテト		1	db_item.hsp:145981	薯條
+物品	ポップコーン		1	db_item.hsp:145994	爆米花
+物品	ショットガン		1	db_item.hsp:146004	霰彈槍
+物品	散弾銃		1	db_item.hsp:146007	散彈槍
+物品	ブランクディスク		1	db_item.hsp:146020	空白碟片
+物品	チップ		1	db_item.hsp:146033	晶片
+物品	トラッシュカン		1	db_item.hsp:146046	垃圾桶
+物品	ストレージ		1	db_item.hsp:146059	儲存櫃
+物品	サーバー		1	db_item.hsp:146072	伺服器
+物品	レンジ		1	db_item.hsp:146085	微波爐
+物品	カメラ		1	db_item.hsp:146098	相機
+物品	トレーニングマシーン		1	db_item.hsp:146111	健身器材
+物品	コンピューター		1	db_item.hsp:146124	電腦
+物品	電子機械		1	db_item.hsp:146137	電子機械
+物品	蜘蛛の巣の魔杖		1	db_item.hsp:146150	蜘蛛網魔杖
+物品	蜘蛛の巣の魔法書		1	db_item.hsp:146165	蜘蛛網魔法書
+物品	ボルト		1	db_item.hsp:146177	弩箭
+物品	クロスボウの矢束		1	db_item.hsp:146180	十字弓箭束
+物品	クロスボウ		1	db_item.hsp:146190	十字弓
+物品	機械弓		1	db_item.hsp:146193	機械弓
+物品	支配の魔法書		1	db_item.hsp:146206	支配魔法書
+物品	支配の魔杖		1	db_item.hsp:146221	支配魔杖
+物品	援軍の巻物		1	db_item.hsp:146236	援軍卷軸
+物品	聴診器		1	db_item.hsp:146251	聽診器
+物品	エンゲージリング		1	db_item.hsp:146261	訂婚戒指
+物品	結婚指輪		1	db_item.hsp:146264	結婚戒指
+物品	リング		1	db_item.hsp:146276	戒環
+物品	指輪		1	db_item.hsp:146279	戒指
+物品	ガードリング		1	db_item.hsp:146291	守護戒
+物品	指当て		1	db_item.hsp:146294	指套
+物品	ハイリング		1	db_item.hsp:146306	高級戒環
+物品	合金指輪		1	db_item.hsp:146309	合金戒指
+物品	ウェディングネックレス		1	db_item.hsp:146321	婚禮項鍊
+物品	結婚首輪		1	db_item.hsp:146324	結婚項圈
+物品	ポリシュドネックレス		1	db_item.hsp:146336	拋光項鍊
+物品	細工首輪		1	db_item.hsp:146339	細工項圈
+物品	チャーム		1	db_item.hsp:146351	吊飾
+物品	お守り		1	db_item.hsp:146354	護身符
+物品	ネックガード		1	db_item.hsp:146366	護頸
+物品	首当て		1	db_item.hsp:146369	頸甲
+物品	タリスマン		1	db_item.hsp:146381	法寶
+物品	護符		1	db_item.hsp:146384	護符
+物品	ペリドット		2	db_item.hsp:146396	橄欖石
+物品	ハイヘルム		1	db_item.hsp:146411	高級頭盔
+物品	合金兜		1	db_item.hsp:146414	合金盔
+物品	ヘルム		1	db_item.hsp:146424	頭盔
+物品	兜		1	db_item.hsp:146427	盔
+物品	バーガネット		1	db_item.hsp:146437	勃艮第盔
+物品	騎士兜		1	db_item.hsp:146440	騎士盔
+物品	ヘビーヘルム		1	db_item.hsp:146450	重型頭盔
+物品	重兜		1	db_item.hsp:146453	重盔
+物品	ハット		1	db_item.hsp:146463	帽子
+物品	羽帽子		1	db_item.hsp:146466	羽毛帽
+物品	クローク		1	db_item.hsp:146476	斗篷
+物品	外套		1	db_item.hsp:146479	外套
+物品	コーテッドクローク		1	db_item.hsp:146489	塗層斗篷
+物品	防護外套		1	db_item.hsp:146492	防護外套
+物品	ヘビーガードル		1	db_item.hsp:146502	重型腰帶
+物品	重層腰当		1	db_item.hsp:146505	重層腰甲
+物品	コンポジットガードル		1	db_item.hsp:146515	複合腰帶
+物品	合成腰当		1	db_item.hsp:146518	合成腰甲
+物品	アーマードブーツ		1	db_item.hsp:146528	裝甲靴
+物品	装甲靴		1	db_item.hsp:146531	裝甲靴
+物品	タイトブーツ		1	db_item.hsp:146541	緊身靴
+物品	厚靴		1	db_item.hsp:146544	厚靴
+物品	ブーツ		1	db_item.hsp:146554	長靴
+物品	靴		1	db_item.hsp:146557	鞋
+物品	サンダル		1	db_item.hsp:146567	涼鞋
+物品	履物		1	db_item.hsp:146570	鞋履
+物品	ヘビーシールド		1	db_item.hsp:146580	重型盾
+物品	重層盾		1	db_item.hsp:146583	重層盾
+物品	タワーシールド		1	db_item.hsp:146593	塔盾
+物品	長盾		1	db_item.hsp:146596	長盾
+物品	コンポジットシールド		1	db_item.hsp:146606	複合盾
+物品	合成盾		1	db_item.hsp:146609	合成盾
+物品	シールド		1	db_item.hsp:146619	盾
+物品	盾		1	db_item.hsp:146622	盾牌
+物品	ラウンドシールド		1	db_item.hsp:146632	圓盾
+物品	丸型盾		1	db_item.hsp:146635	圓形盾
+物品	バックラー		1	db_item.hsp:146645	小圓盾
+物品	小盾		1	db_item.hsp:146648	小盾
+物品	ガントレット		1	db_item.hsp:146658	護手
+物品	合成篭手		1	db_item.hsp:146661	合成護手
+物品	ライトグローブ		1	db_item.hsp:146671	輕手套
+物品	軽手袋		1	db_item.hsp:146674	輕手套
+物品	ヘビーガントレット		1	db_item.hsp:146684	重型護手
+物品	重層篭手		1	db_item.hsp:146687	重層護手
+物品	グローブ		1	db_item.hsp:146697	手套
+物品	手袋		1	db_item.hsp:146700	手套
+物品	コーテッドアーマ		1	db_item.hsp:146710	塗層鎧
+物品	防弾服		1	db_item.hsp:146713	防彈衣
+物品	ブレストプレート		1	db_item.hsp:146723	胸甲
+物品	胴衣		1	db_item.hsp:146726	胴衣
+物品	コート		1	db_item.hsp:146736	大衣
+物品	防護服		1	db_item.hsp:146739	防護服
+物品	ライトアーマ		1	db_item.hsp:146749	輕甲
+物品	軽鎧		1	db_item.hsp:146752	輕鎧
+物品	ガーブ		1	db_item.hsp:146762	長袍
+物品	法王衣		1	db_item.hsp:146765	法王袍
+物品	スプリントメイル		1	db_item.hsp:146775	板條甲
+物品	綴り鎧		1	db_item.hsp:146778	綴甲
+物品	ブリガンダイン		1	db_item.hsp:146788	鑲釘甲
+物品	合成鎧		1	db_item.hsp:146791	合成鎧
+物品	ラメラーメイル		1	db_item.hsp:146801	札甲
+物品	輪鎧		1	db_item.hsp:146804	環甲
+物品	プレートメイル		1	db_item.hsp:146814	板甲
+物品	重層鎧		1	db_item.hsp:146817	重層鎧
+物品	ヘビーメイル		1	db_item.hsp:146827	重甲
+物品	厚鎧		1	db_item.hsp:146830	厚鎧
+物品	自己変容の魔法書		1	db_item.hsp:146843	自我變異魔法書
+物品	変異治療のポーション		1	db_item.hsp:146858	變異治療藥水
+物品	突然変異のポーション		1	db_item.hsp:146873	突然變異藥水
+物品	信仰の巻物		1	db_item.hsp:146888	信仰卷軸
+物品	成長の巻物		1	db_item.hsp:146903	成長卷軸
+物品	失耐性のポーション		1	db_item.hsp:146918	失去耐性藥水
+物品	寝袋		1	db_item.hsp:146933	睡袋
+物品	ストマフィリア		1	db_item.hsp:146946	胃愛草
+物品	アルローニア		1	db_item.hsp:146959	阿爾羅尼亞草
+物品	キュラリア		1	db_item.hsp:146972	治癒草
+物品	スペンスウィード		1	db_item.hsp:146985	斯朋斯草
+物品	マレイロン		1	db_item.hsp:146998	瑪雷隆草
+物品	モージア		1	db_item.hsp:147011	莫吉亞草
+物品	アーティファクトの種		1	db_item.hsp:147024	神器種子
+物品	謎の種		1	db_item.hsp:147037	謎之種子
+物品	ハーブの種		1	db_item.hsp:147050	香草種子
+物品	果物の種		1	db_item.hsp:147063	水果種子
+物品	野菜の種		1	db_item.hsp:147076	蔬菜種子
+物品	ガシャポンの玉(レア)		1	db_item.hsp:147089	扭蛋(稀有)
+物品	ガシャポンの玉		1	db_item.hsp:147102	扭蛋
+物品	青のガシャポン		1	db_item.hsp:147115	藍色扭蛋
+物品	赤のガシャポン		1	db_item.hsp:147128	紅色扭蛋
+物品	解呪の魔杖		1	db_item.hsp:147141	解咒魔杖
+物品	物質感知の巻物		1	db_item.hsp:147156	物質感知卷軸
+物品	物質感知の魔法書		1	db_item.hsp:147171	物質感知魔法書
+物品	浮き輪(荷車)		1	db_item.hsp:147186	游泳圈(貨車)
+物品	貴族の玩具(荷車)		1	db_item.hsp:147199	貴族的玩具(貨車)
+物品	銘酒セット(荷車)		1	db_item.hsp:147212	名酒組(貨車)
+物品	ツナ(荷車)		1	db_item.hsp:147225	鮪魚(貨車)
+物品	墓(荷車)		1	db_item.hsp:147238	墓碑(貨車)
+物品	マンボー(荷車)		1	db_item.hsp:147251	翻車魚(貨車)
+物品	棺桶(荷車)		1	db_item.hsp:147264	棺材(貨車)
+物品	ロープ(荷車)		1	db_item.hsp:147277	繩索(貨車)
+物品	装飾ピアノ(荷車)		1	db_item.hsp:147290	裝飾鋼琴(貨車)
+物品	匠のタル(荷車)		1	db_item.hsp:147303	匠人木桶(貨車)
+物品	特産ぬいぐるみ(荷車)		1	db_item.hsp:147316	特產布偶(貨車)
+物品	知恵の巻物		1	db_item.hsp:147329	智慧卷軸
+物品	知者の加護の魔法書		1	db_item.hsp:147344	智者的加護魔法書
+物品	ナイトメアの魔法書		1	db_item.hsp:147359	夢魘魔法書
+物品	マテリアル生成の巻物		1	db_item.hsp:147374	素材生成卷軸
+物品	素材箱		1	db_item.hsp:147389	素材箱
+物品	宝石加工ツール		1	db_item.hsp:147402	寶石加工工具
+物品	硫酸		1	db_item.hsp:147415	硫酸
+物品	魔力の魔杖		1	db_item.hsp:147433	魔力魔杖
+物品	魔力の巻物		1	db_item.hsp:147448	魔力卷軸
+物品	全浄化の巻物		1	db_item.hsp:147463	全淨化卷軸
+物品	清浄なる光の巻物		1	db_item.hsp:147478	清淨之光卷軸
+物品	全浄化の魔法書		1	db_item.hsp:147493	全淨化魔法書
+物品	清浄なる光の魔法書		1	db_item.hsp:147508	清淨之光魔法書
+物品	浄化の魔杖		1	db_item.hsp:147523	淨化魔杖
+物品	ホーリーヴェイルの巻物		1	db_item.hsp:147538	神聖帷幕卷軸
+物品	ホーリーヴェイルの魔法書		1	db_item.hsp:147553	神聖帷幕魔法書
+物品	脆弱のポーション		1	db_item.hsp:147568	脆弱藥水
+物品	元素の傷跡の魔法書		1	db_item.hsp:147583	元素傷痕魔法書
+物品	脆弱の霧の魔法書		1	db_item.hsp:147598	脆弱之霧魔法書
+物品	英雄気分のポーション		1	db_item.hsp:147613	英雄氣分藥水
+物品	英雄の魔法書		1	db_item.hsp:147628	英雄魔法書
+物品	加速の魔杖		1	db_item.hsp:147643	加速魔杖
+物品	鈍足のポーション		1	db_item.hsp:147658	遲緩藥水
+物品	加速のポーション		1	db_item.hsp:147673	加速藥水
+物品	鈍足の魔法書		1	db_item.hsp:147688	遲緩魔法書
+物品	加速の魔法書		1	db_item.hsp:147703	加速魔法書
+物品	属性耐性のポーション		1	db_item.hsp:147718	屬性抗性藥水
+物品	属性保護の魔法書		1	db_item.hsp:147733	屬性保護魔法書
+物品	トロールの血		1	db_item.hsp:147748	巨魔之血
+物品	リジェネレーションの魔法書		1	db_item.hsp:147763	再生魔法書
+物品	沈黙のポーション		1	db_item.hsp:147778	沉默藥水
+物品	沈黙の霧の魔法書		1	db_item.hsp:147793	沉默之霧魔法書
+物品	沈黙の魔杖		1	db_item.hsp:147808	沉默魔杖
+物品	聖なる盾の魔法書		1	db_item.hsp:147823	聖盾魔法書
+物品	防衛者のポーション		1	db_item.hsp:147838	防衛者藥水
+物品	*解呪*の巻物		1	db_item.hsp:147853	*解咒*卷軸
+物品	*鑑定*の巻物		1	db_item.hsp:147868	*鑑定*卷軸
+物品	商人のカバン		1	db_item.hsp:147883	商人的包包
+物品	《パルミア・プライド》		1	db_item.hsp:147896	《巴羅米亞之傲》
+物品	アクアマリンの指輪		1	db_item.hsp:147904	海藍寶戒指
+物品	《ランキス》		1	db_item.hsp:147914	《蘭基斯》
+物品	地獄の槍斧		1	db_item.hsp:147922	地獄槍斧
+物品	《狂気の杖》		1	db_item.hsp:147932	《瘋狂之杖》
+物品	呻く杖		1	db_item.hsp:147940	呻吟之杖
+物品	《鋼鉄竜の指輪》		1	db_item.hsp:147950	《鋼鐵龍之戒》
+物品	鋼鉄の指輪		1	db_item.hsp:147958	鋼鐵戒指
+物品	《ブラッドムーン》		1	db_item.hsp:147968	《血月》
+物品	血の滲むメイス		1	db_item.hsp:147976	滲血的錘矛
+物品	《火炎竜ヴェスダの篭手》		1	db_item.hsp:147986	《火焰龍維斯達的護手》
+物品	燃える篭手		1	db_item.hsp:147994	燃燒的護手
+物品	サンドボーラー		1	db_item.hsp:148004	沙鑽魚
+物品	カトラスフィッシュ		1	db_item.hsp:148017	彎刀魚
+物品	ツナ		1	db_item.hsp:148030	鮪魚
+物品	グローブフィッシュ		1	db_item.hsp:148043	河豚
+物品	サーモン		1	db_item.hsp:148056	鮭魚
+物品	シーブリーム		1	db_item.hsp:148069	鯛魚
+物品	マンボー		1	db_item.hsp:148082	翻車魚
+物品	フラットフィッシュ		1	db_item.hsp:148095	比目魚
+物品	サーディン		1	db_item.hsp:148108	沙丁魚
+物品	ムーンフィッシュ		1	db_item.hsp:148121	月魚
+物品	権利書		1	db_item.hsp:148134	權狀
+物品	懐かしいルーン		1	db_item.hsp:148147	懷念的符文
+物品	釣竿		1	db_item.hsp:148160	釣竿
+物品	骨片		1	db_item.hsp:148173	骨片
+物品	心臓		1	db_item.hsp:148186	心臟
+物品	瞳		1	db_item.hsp:148199	眼珠
+物品	体液		1	db_item.hsp:148212	體液
+物品	皮		1	db_item.hsp:148225	皮
+物品	金の像		1	db_item.hsp:148238	金像
+物品	金の飾台		1	db_item.hsp:148251	金色裝飾台
+物品	王座		1	db_item.hsp:148264	王座
+物品	旅糧(荷車)		1	db_item.hsp:148277	旅糧(貨車)
+物品	テーブル		1	db_item.hsp:148290	桌子
+物品	ドレス		1	db_item.hsp:148303	洋裝
+物品	切り株		1	db_item.hsp:148316	樹樁
+物品	十字架		1	db_item.hsp:148329	十字架
+物品	アップライトピアノ		1	db_item.hsp:148342	直立式鋼琴
+物品	長椅子		1	db_item.hsp:148355	長椅
+物品	シンプルな棚		1	db_item.hsp:148368	簡單的架子
+物品	ふかふかのベッド		1	db_item.hsp:148381	鬆軟的床
+物品	神聖な祭壇		1	db_item.hsp:148394	神聖祭壇
+物品	大きい食器棚		1	db_item.hsp:148407	大餐具櫃
+物品	シンプルな鏡台		1	db_item.hsp:148420	簡單的梳妝台
+物品	小奇麗な棚		1	db_item.hsp:148433	整潔的架子
+物品	でこぼこした机		1	db_item.hsp:148446	凹凸不平的桌子
+物品	簡易ベッド		1	db_item.hsp:148459	簡易床
+物品	古い本棚		1	db_item.hsp:148472	舊書架
+物品	古い棚		1	db_item.hsp:148485	舊架子
+物品	特大の観葉植物		1	db_item.hsp:148498	特大觀葉植物
+物品	ダーツ		1	db_item.hsp:148511	飛鏢
+物品	スロットマシーン		1	db_item.hsp:148524	吃角子老虎機
+物品	カジノテーブル		1	db_item.hsp:148537	賭桌
+物品	パチスロマシーン		1	db_item.hsp:148550	柏青嫂機台
+物品	風呂		1	db_item.hsp:148563	浴缸
+物品	清潔なベッド		1	db_item.hsp:148576	乾淨的床
+物品	鏡台		1	db_item.hsp:148589	梳妝台
+物品	簡易棚		1	db_item.hsp:148602	簡易架
+物品	落ち着くベッド		1	db_item.hsp:148615	舒適的床
+物品	フードプロセッサー		1	db_item.hsp:148628	食物調理機
+物品	棺桶		1	db_item.hsp:148641	棺材
+物品	粗末なベッド		1	db_item.hsp:148654	簡陋的床
+物品	巨大なベッド		1	db_item.hsp:148667	巨大的床
+物品	衣類箪笥		1	db_item.hsp:148680	衣櫥
+物品	大きな花束		1	db_item.hsp:148693	大花束
+物品	高収納バーテーブル		1	db_item.hsp:148706	高收納吧檯
+物品	高級ミラー		1	db_item.hsp:148719	高級鏡子
+物品	高価な花瓶		1	db_item.hsp:148732	昂貴的花瓶
+物品	高級ベッド		1	db_item.hsp:148745	高級床
+物品	お酒のキャビネット		1	db_item.hsp:148758	酒櫃
+物品	ぼろい机		1	db_item.hsp:148771	破舊的桌子
+物品	タオル		1	db_item.hsp:148784	毛巾
+物品	装飾品の棚		1	db_item.hsp:148797	飾品架
+物品	日用品の棚		1	db_item.hsp:148810	日用品架
+物品	整備された武具		1	db_item.hsp:148823	整備好的武具
+物品	願いの魔杖		1	db_item.hsp:148836	許願魔杖
+物品	願いの魔法書		1	db_item.hsp:148851	許願魔法書
+物品	呪縛の巻物		1	db_item.hsp:148866	咒縛卷軸
+物品	潜在能力のポーション		1	db_item.hsp:148881	潛在能力藥水
+物品	精神復活のポーション		1	db_item.hsp:148896	精神復原藥水
+物品	肉体復活のポーション		1	db_item.hsp:148911	肉體復原藥水
+物品	財布(落し物)		1	db_item.hsp:148926	錢包(失物)
+物品	カバン(落し物)		1	db_item.hsp:148939	包包(失物)
+物品	意味深な地図		1	db_item.hsp:148952	意味深長的地圖
+物品	浮き輪		1	db_item.hsp:148965	游泳圈
+物品	落ち着くテーブル		1	db_item.hsp:148978	舒適的桌子
+物品	水桶		1	db_item.hsp:148991	水桶
+物品	街灯		1	db_item.hsp:149004	路燈
+物品	折れた柱		1	db_item.hsp:149017	斷柱
+物品	長い柱		1	db_item.hsp:149030	長柱
+物品	ほうき		1	db_item.hsp:149043	掃帚
+物品	かかし		1	db_item.hsp:149056	稻草人
+物品	薪		1	db_item.hsp:149069	柴薪
+物品	混沌の渦の魔法書		1	db_item.hsp:149082	混沌漩渦魔法書
+物品	轟音の波動の魔法書		1	db_item.hsp:149097	轟音波動魔法書
+物品	灼熱の嵐の魔法書		1	db_item.hsp:149112	灼熱風暴魔法書
+物品	氷結の波動の魔法書		1	db_item.hsp:149127	冰結波動魔法書
+物品	マインドボルトの魔法書		1	db_item.hsp:149142	精神箭魔法書
+物品	ダークネスボルトの魔法書		1	db_item.hsp:149157	黑暗箭魔法書
+物品	ニンジャソード		1	db_item.hsp:149169	忍者刀
+物品	忍刀		1	db_item.hsp:149172	忍刀
+物品	神経の針の魔法書		1	db_item.hsp:149185	神經之針魔法書
+物品	混沌の瞳の魔法書		1	db_item.hsp:149200	混沌之瞳魔法書
+物品	地獄の吐息の魔法書		1	db_item.hsp:149215	地獄吐息魔法書
+物品	毒薬		1	db_item.hsp:149230	毒藥
+物品	はじけ魚		1	db_item.hsp:149245	彈跳魚
+物品	小麦粉		1	db_item.hsp:149258	麵粉
+物品	生麺		1	db_item.hsp:149271	生麵
+物品	スティックパン		1	db_item.hsp:149284	棒狀麵包
+物品	魔法の矢の魔法書		1	db_item.hsp:149297	魔法箭魔法書
+物品	携帯調理道具		1	db_item.hsp:149312	攜帶式烹調道具
+物品	焚き火		1	db_item.hsp:149325	營火
+物品	ホーン		1	db_item.hsp:149338	號角
+物品	ビア		1	db_item.hsp:149351	啤酒
+物品	ジュアの癒しの魔法書		1	db_item.hsp:149369	朱亞的治癒魔法書
+物品	エリスの癒しの魔法書		1	db_item.hsp:149384	艾莉絲的治癒魔法書
+物品	致命傷治癒の魔法書		1	db_item.hsp:149399	致命傷治療魔法書
+物品	軽傷治癒の魔法書		1	db_item.hsp:149414	輕傷治療魔法書
+物品	帰還の魔法書		1	db_item.hsp:149429	歸還魔法書
+物品	神託の魔法書		1	db_item.hsp:149444	神諭魔法書
+物品	魔法の地図の魔法書		1	db_item.hsp:149459	魔法地圖魔法書
+物品	ショートテレポートの巻物		1	db_item.hsp:149474	短距傳送卷軸
+物品	不思議な巻物		1	db_item.hsp:149489	不可思議的卷軸
+物品	能力獲得の巻物		1	db_item.hsp:149504	能力獲得卷軸
+物品	魔法の地図		1	db_item.hsp:149519	魔法地圖
+物品	金庫		1	db_item.hsp:149534	保險箱
+物品	宝箱		1	db_item.hsp:149547	寶箱
+物品	宝石で飾られた宝箱		1	db_item.hsp:149560	鑲寶石的寶箱
+物品	フィギア『伝説の剣』		1	db_item.hsp:149573	公仔『傳說之劍』
+物品	フィギア『狂戦士』		1	db_item.hsp:149586	公仔『狂戰士』
+物品	帰還の巻物		1	db_item.hsp:149599	歸還卷軸
+物品	ハルバード		1	db_item.hsp:149611	戟
+物品	鉾槍		1	db_item.hsp:149614	戟
+物品	バルディッシュ		1	db_item.hsp:149624	長柄斧
+物品	大斧		1	db_item.hsp:149627	大斧
+物品	兵糧		1	db_item.hsp:149640	兵糧
+物品	クレイモア		1	db_item.hsp:149650	闊劍士
+物品	大剣		1	db_item.hsp:149653	大劍
+物品	マシンガン		1	db_item.hsp:149663	機關槍
+物品	機関銃		1	db_item.hsp:149666	機關槍
+物品	ショートボウ		1	db_item.hsp:149676	短弓
+物品	短弓		1	db_item.hsp:149679	短弓
+物品	ロッド		1	db_item.hsp:149689	長棍
+物品	長棒		1	db_item.hsp:149692	長棒
+物品	トライデント		1	db_item.hsp:149702	三叉戟
+物品	三叉槍		1	db_item.hsp:149705	三叉槍
+物品	ハンマー		1	db_item.hsp:149715	鎚子
+物品	大槌		1	db_item.hsp:149718	大鎚
+物品	バトルアクス		1	db_item.hsp:149728	戰斧
+物品	戦斧		1	db_item.hsp:149731	戰斧
+物品	カットラス		1	db_item.hsp:149741	彎刀
+物品	海賊刀		1	db_item.hsp:149744	海盜刀
+物品	カタナ		1	db_item.hsp:149754	武士刀
+物品	刀		1	db_item.hsp:149757	刀
+物品	鍋		1	db_item.hsp:149770	鍋子
+物品	動物の骨		1	db_item.hsp:149783	動物骨頭
+物品	藁		1	db_item.hsp:149796	稻草
+物品	魚の死骸		1	db_item.hsp:149809	魚屍
+物品	頑丈なロープ		1	db_item.hsp:149822	結實的繩子
+物品	鉢		1	db_item.hsp:149835	缽
+物品	空っぽの鉢		1	db_item.hsp:149848	空缽
+物品	バスケット		1	db_item.hsp:149861	籃子
+物品	たくさんの空のビン		1	db_item.hsp:149874	很多空瓶
+物品	鉱石の欠片		1	db_item.hsp:149887	礦石碎片
+物品	スピア		1	db_item.hsp:149897	矛
+物品	長槍		1	db_item.hsp:149900	長槍
+物品	スタッフ		1	db_item.hsp:149910	法杖
+物品	杖		1	db_item.hsp:149913	手杖
+物品	シックル		1	db_item.hsp:149923	鐮刀
+物品	鎌		1	db_item.hsp:149926	鐮刀
+物品	ストーン		1	db_item.hsp:149936	石頭
+物品	小石		1	db_item.hsp:149939	小石頭
+物品	解呪の巻物		1	db_item.hsp:149952	解咒卷軸
+物品	途方も価値のない錆びた偽物の金塊		1	db_item.hsp:149967	毫無價值的生鏽假金塊
+物品	途方もない価値の金塊		1	db_item.hsp:149975	價值連城的金塊
+物品	《異形の森の弓》		1	db_item.hsp:149985	《異形森林之弓》
+物品	波動を放つ弓		1	db_item.hsp:149993	釋放波動的弓
+物品	《エーテルダガー》		1	db_item.hsp:150003	《以太匕首》
+物品	風をまとった短剣		1	db_item.hsp:150011	纏風短劍
+物品	ウィスキー		1	db_item.hsp:150021	威士忌
+物品	死体		1	db_item.hsp:150039	屍體
+物品	癒しの魔杖		1	db_item.hsp:150052	治癒魔杖
+物品	千里眼の魔杖		1	db_item.hsp:150067	千里眼魔杖
+物品	レッチョ		1	db_item.hsp:150082	雷喬果
+物品	ウリ		1	db_item.hsp:150095	瓜
+物品	カボチャ		1	db_item.hsp:150108	南瓜
+物品	グリーンピース		1	db_item.hsp:150121	青豆
+物品	レモン		1	db_item.hsp:150134	檸檬
+物品	夏ミカン		1	db_item.hsp:150147	夏橘
+物品	クッチェ		1	db_item.hsp:150160	庫切果
+物品	万色フルーツ		1	db_item.hsp:150173	萬色水果
+物品	薬草		1	db_item.hsp:150186	藥草
+物品	苺		1	db_item.hsp:150199	草莓
+物品	アピの実		1	db_item.hsp:150212	阿比果
+物品	イーモ		1	db_item.hsp:150225	伊摩芋
+物品	食器の山		1	db_item.hsp:150238	一堆餐具
+物品	レタス		1	db_item.hsp:150251	萵苣
+物品	さつまいも		1	db_item.hsp:150264	地瓜
+物品	大根		1	db_item.hsp:150277	白蘿蔔
+物品	キャロット		1	db_item.hsp:150290	胡蘿蔔
+物品	グアバ		1	db_item.hsp:150303	芭樂
+物品	さくらんぼ		1	db_item.hsp:150316	櫻桃
+物品	キウイ		1	db_item.hsp:150329	奇異鳥
+物品	ブドウ		1	db_item.hsp:150342	葡萄
+物品	リンゴ		1	db_item.hsp:150355	蘋果
+物品	山菜		1	db_item.hsp:150368	山菜
+物品	アロエ		1	db_item.hsp:150381	蘆薈
+物品	クワパナ		1	db_item.hsp:150394	庫瓦帕納果
+物品	鈍足の魔杖		1	db_item.hsp:150407	遲緩魔杖
+物品	稲妻の軌跡の魔杖		1	db_item.hsp:150422	閃電軌跡魔杖
+物品	二段ベッド		1	db_item.hsp:150437	雙層床
+物品	噴水		1	db_item.hsp:150450	噴泉
+物品	儀式用の祭壇		1	db_item.hsp:150463	儀式用祭壇
+物品	祭壇		1	db_item.hsp:150476	祭壇
+物品	古めかしい墓		1	db_item.hsp:150489	古老的墳墓
+物品	古墳		1	db_item.hsp:150502	古墳
+物品	荘厳な墓		1	db_item.hsp:150515	莊嚴的墳墓
+物品	新品の墓		1	db_item.hsp:150528	全新的墳墓
+物品	花で飾られた墓		1	db_item.hsp:150541	花飾墳墓
+物品	崩れた墓		1	db_item.hsp:150554	崩塌的墳墓
+物品	風化した墓		1	db_item.hsp:150567	風化的墳墓
+物品	絹の生地		1	db_item.hsp:150580	絲綢布料
+物品	散らばった衣類		1	db_item.hsp:150593	散落的衣物
+物品	工具		1	db_item.hsp:150606	工具
+物品	裁縫セット		1	db_item.hsp:150619	裁縫組
+物品	単なる棚		1	db_item.hsp:150632	普通架子
+物品	絢爛な燭台		1	db_item.hsp:150645	華麗的燭台
+物品	上品なテーブル		1	db_item.hsp:150658	高雅的桌子
+物品	狭い食卓		1	db_item.hsp:150671	窄餐桌
+物品	コンロ付き調理台		1	db_item.hsp:150684	附爐調理台
+物品	流し台		1	db_item.hsp:150697	流理台
+物品	調理台		1	db_item.hsp:150710	調理台
+物品	飲みきれないほどの酒		1	db_item.hsp:150723	喝不完的酒
+物品	名工本棚		1	db_item.hsp:150736	名匠書架
+物品	名工箪笥		1	db_item.hsp:150749	名匠衣櫃
+物品	本の山		1	db_item.hsp:150762	書堆
+物品	散らかった本		1	db_item.hsp:150775	散亂的書
+物品	鎧の像		1	db_item.hsp:150788	鎧甲像
+物品	飾られた鎧		1	db_item.hsp:150801	展示的鎧甲
+物品	飾られた服		1	db_item.hsp:150814	展示的衣服
+物品	武器の束		1	db_item.hsp:150827	一束武器
+物品	たくさんの弓		1	db_item.hsp:150840	很多弓
+物品	調理機		1	db_item.hsp:150853	烹調機
+物品	地図		1	db_item.hsp:150866	地圖
+物品	絵描き道具		1	db_item.hsp:150879	繪畫用具
+物品	花で飾られた柱		1	db_item.hsp:150892	花飾柱子
+物品	植物で飾られた柱		1	db_item.hsp:150905	植物裝飾柱子
+物品	カーネーションの花		1	db_item.hsp:150918	康乃馨
+物品	猫じゃらし		1	db_item.hsp:150931	狗尾草
+物品	アネモネの花		1	db_item.hsp:150944	銀蓮花
+物品	ネリネの花		1	db_item.hsp:150957	鑽石百合
+物品	ガザニアの花		1	db_item.hsp:150970	勳章菊
+物品	サルビアの花		1	db_item.hsp:150983	鼠尾草花
+物品	大きい観葉植物		1	db_item.hsp:150996	大觀葉植物
+物品	木香薔薇		1	db_item.hsp:151009	木香花
+物品	小さい観葉植物		1	db_item.hsp:151022	小觀葉植物
+物品	魔法陣		1	db_item.hsp:151035	魔法陣
+物品	錬金術の道具		1	db_item.hsp:151048	鍊金術道具
+物品	ビーカー		1	db_item.hsp:151061	燒杯
+物品	生命の魔杖		1	db_item.hsp:151074	生命魔杖
+物品	パンの陳列棚		1	db_item.hsp:151089	麵包陳列架
+物品	炎の衝撃の魔杖		1	db_item.hsp:151102	火焰衝擊魔杖
+物品	氷の視線の魔杖		1	db_item.hsp:151117	冰之凝視魔杖
+物品	サモンモンスターの魔杖		1	db_item.hsp:151132	召喚怪物魔杖
+物品	マジックミサイルの魔杖		1	db_item.hsp:151147	魔法飛彈魔杖
+物品	軽傷治療の魔杖		1	db_item.hsp:151162	輕傷治療魔杖
+物品	モンスター召喚の魔法書		1	db_item.hsp:151177	召喚怪物魔法書
+物品	空のバスケット		1	db_item.hsp:151192	空籃子
+物品	ショートテレポートの魔法書		1	db_item.hsp:151205	短距傳送魔法書
+物品	掲示板		1	db_item.hsp:151220	告示板
+物品	道標		1	db_item.hsp:151233	路標
+物品	標識		1	db_item.hsp:151246	標誌
+物品	オーブン		1	db_item.hsp:151259	烤箱
+物品	溶解炉		1	db_item.hsp:151272	熔解爐
+物品	いろんな洋服		1	db_item.hsp:151285	各種衣服
+物品	井戸		1	db_item.hsp:151298	水井
+物品	いろんな雑貨		1	db_item.hsp:151311	各種雜貨
+物品	いろんな道具		1	db_item.hsp:151324	各種道具
+物品	収納棚		1	db_item.hsp:151337	收納架
+物品	本たてつきの棚		1	db_item.hsp:151350	附書擋的架子
+物品	物置		1	db_item.hsp:151363	儲藏室
+物品	食器棚		1	db_item.hsp:151376	餐具櫃
+物品	安物の椅子		1	db_item.hsp:151389	便宜椅子
+物品	四角い椅子		1	db_item.hsp:151402	方椅
+物品	ポーションの棚		1	db_item.hsp:151415	藥水架
+物品	勉強机		1	db_item.hsp:151428	書桌
+物品	開いているつぼ		1	db_item.hsp:151441	開口的壺
+物品	密封されたつぼ		1	db_item.hsp:151454	密封的壺
+物品	金床		1	db_item.hsp:151467	鐵砧
+物品	飾り物の鎧		1	db_item.hsp:151480	裝飾用鎧甲
+物品	ランタン		1	db_item.hsp:151493	提燈
+物品	つるはし		1	db_item.hsp:151506	十字鎬
+物品	お洒落な椅子		1	db_item.hsp:151519	時髦的椅子
+物品	タル		1	db_item.hsp:151532	木桶
+物品	バーテーブルβ		1	db_item.hsp:151545	吧檯β
+物品	バーテーブルα		1	db_item.hsp:151558	吧檯α
+物品	グランドピアノ		1	db_item.hsp:151571	平台鋼琴
+物品	色とりどりの装飾品		1	db_item.hsp:151584	五顏六色的飾品
+物品	たくさんの雑貨		1	db_item.hsp:151597	很多雜貨
+物品	様々な鎧		1	db_item.hsp:151610	各式鎧甲
+物品	ダイニングテーブル		1	db_item.hsp:151623	餐桌
+物品	モダンテーブル		1	db_item.hsp:151636	現代桌子
+物品	玩具		1	db_item.hsp:151649	玩具
+物品	ぬいぐるみ		1	db_item.hsp:151662	布偶
+物品	安物ベッド		1	db_item.hsp:151675	便宜床
+物品	高級箪笥		1	db_item.hsp:151688	高級衣櫃
+物品	普通の本棚		1	db_item.hsp:151701	普通書架
+物品	丸椅子		1	db_item.hsp:151714	圓凳
+物品	聖なる癒し手ジュアのポーション		1	db_item.hsp:151727	神聖治療者朱亞的藥水
+物品	白き癒し手エリスのポーション		1	db_item.hsp:151742	白色治療者艾莉絲的藥水
+物品	癒し手オディナのポーション		1	db_item.hsp:151757	治療者奧迪娜的藥水
+物品	《ラグナロク》		1	db_item.hsp:151772	《諸神黃昏》
+物品	全てを終結させる剣		1	db_item.hsp:151780	終結一切之劍
+物品	癒し手のポーション		1	db_item.hsp:151790	治療師藥水
+物品	体力回復のポーション		1	db_item.hsp:151805	體力回復藥水
+物品	致命傷治癒のポーション		1	db_item.hsp:151820	致命傷治療藥水
+物品	重傷治癒のポーション		1	db_item.hsp:151835	重傷治療藥水
+物品	軽傷治癒のポーション		1	db_item.hsp:151850	輕傷治療藥水
+物品	ネックレス		1	db_item.hsp:151862	項鍊
+物品	装飾首輪		1	db_item.hsp:151865	裝飾項圈
+物品	ガードル		1	db_item.hsp:151877	腰帶
+物品	腰当		1	db_item.hsp:151880	腰甲
+物品	マント		1	db_item.hsp:151890	披風
+物品	軽外套		1	db_item.hsp:151893	輕外套
+物品	《モーンブレイド》		1	db_item.hsp:151906	《哀悼之刃》
+物品	《虚無の大鎌》		1	db_item.hsp:151924	《虛無大鐮》
+物品	死を奏でる大鎌		1	db_item.hsp:151932	奏響死亡的大鐮
+物品	バレット		1	db_item.hsp:151939	子彈
+物品	弾丸		1	db_item.hsp:151942	彈丸
+物品	アロー		1	db_item.hsp:151952	箭矢
+物品	矢束		1	db_item.hsp:151955	箭束
+物品	リボルバー		1	db_item.hsp:151965	左輪手槍
+物品	拳銃		1	db_item.hsp:151968	手槍
+物品	カイトシールド		1	db_item.hsp:151978	鳶形盾
+物品	騎士盾		1	db_item.hsp:151981	騎士盾
+物品	ロングボウ		1	db_item.hsp:151991	長弓
+物品	長弓		1	db_item.hsp:151994	長弓
+物品	《斬鉄剣》		1	db_item.hsp:152007	《斬鐵劍》
+物品	白銀の刀		1	db_item.hsp:152015	白銀之刀
+物品	《ディアボロス》		1	db_item.hsp:152025	《魔鬼》
+物品	漆黒の剣		1	db_item.hsp:152033	漆黑之劍
+物品	プラチナ硬貨		1	db_item.hsp:152043	白金幣
+物品	金貨		1	db_item.hsp:152056	金幣
+物品	石碑		1	db_item.hsp:152069	石碑
+物品	骸		1	db_item.hsp:152082	屍骸
+物品	骨		1	db_item.hsp:152095	骨頭
+物品	折れた刃		1	db_item.hsp:152108	斷刃
+物品	旗		1	db_item.hsp:152121	旗子
+物品	かがり台		1	db_item.hsp:152134	篝火台
+物品	洗物		1	db_item.hsp:152147	待洗衣物
+物品	割れたつぼ		1	db_item.hsp:152160	破壺
+物品	クズ		1	db_item.hsp:152173	垃圾
+物品	クズ石		1	db_item.hsp:152186	碎石
+物品	木片		1	db_item.hsp:152199	木片
+物品	ダイヤモンドの原石		1	db_item.hsp:152212	鑽石原石
+物品	エメラルドの原石		1	db_item.hsp:152225	翡翠原石
+物品	ミカ		1	db_item.hsp:152238	雲母
+物品	ルビナスの原石		1	db_item.hsp:152251	盧比納斯原石
+物品	金塊		1	db_item.hsp:152264	金塊
+物品	太陽の結晶		1	db_item.hsp:152277	太陽結晶
+物品	魔力の結晶		1	db_item.hsp:152290	魔力結晶
+物品	大地の結晶		1	db_item.hsp:152303	大地結晶
+物品	ライトニングボルトの魔法書		1	db_item.hsp:152316	雷電箭魔法書
+物品	ファイアボルトの魔法書		1	db_item.hsp:152331	火焰箭魔法書
+物品	アイスボルトの魔法書		1	db_item.hsp:152346	冰箭魔法書
+物品	クリムエール		1	db_item.hsp:152361	庫萊姆麥酒
+物品	睡眠薬		1	db_item.hsp:152379	安眠藥
+物品	麻痺のポーション		1	db_item.hsp:152394	麻痺藥水
+物品	混乱のポーション		1	db_item.hsp:152409	混亂藥水
+物品	盲目のポーション		1	db_item.hsp:152424	失明藥水
+物品	汚水		1	db_item.hsp:152439	汙水
+物品	バグの本		2	db_item.hsp:152457	程式錯誤之書
+物品	解呪の魔法書		1	db_item.hsp:152511	解咒魔法書
+物品	鑑定の魔法書		1	db_item.hsp:152526	鑑定魔法書
+物品	テレポートの魔法書		1	db_item.hsp:152541	傳送魔法書
+物品	テレポートの魔杖		1	db_item.hsp:152556	傳送魔杖
+物品	鑑定の魔杖		1	db_item.hsp:152571	鑑定魔杖
+物品	インコグニートの巻物		1	db_item.hsp:152586	隱匿身分卷軸
+物品	テレポートの巻物		1	db_item.hsp:152601	傳送卷軸
+物品	神託の巻物		1	db_item.hsp:152616	神諭卷軸
+物品	鑑定の巻物		1	db_item.hsp:152631	鑑定卷軸
+物品	デコレートリング		1	db_item.hsp:152643	裝飾戒
+物品	装飾の指輪		1	db_item.hsp:152646	裝飾戒指
+物品	コンポジットブーツ		1	db_item.hsp:152658	複合靴
+物品	合成靴		1	db_item.hsp:152661	合成靴
+物品	ヘビーブーツ		1	db_item.hsp:152671	重型靴
+物品	重靴		1	db_item.hsp:152674	重靴
+物品	ライトガントレット		1	db_item.hsp:152684	輕型護手
+物品	厚篭手		1	db_item.hsp:152687	厚護手
+物品	シニアグローブ		1	db_item.hsp:152697	高級手套
+物品	細工篭手		1	db_item.hsp:152700	細工護手
+物品	ローブ		1	db_item.hsp:152710	長袍
+物品	法衣		1	db_item.hsp:152713	法衣
+物品	メイル		1	db_item.hsp:152723	鎖甲
+物品	鎧		1	db_item.hsp:152726	鎧甲
+物品	フェアリーハット		2	db_item.hsp:152736	妖精帽
+物品	マジックハット		1	db_item.hsp:152749	魔術帽
+物品	魔法帽		1	db_item.hsp:152752	魔法帽
+物品	クラブ		1	db_item.hsp:152762	棍棒
+物品	棍棒		1	db_item.hsp:152765	棍棒
+物品	ハンドアクス		1	db_item.hsp:152775	手斧
+物品	手斧		1	db_item.hsp:152778	手斧
+物品	ダガー		1	db_item.hsp:152788	匕首
+物品	短剣		1	db_item.hsp:152791	短劍
+物品	ロングソード		1	db_item.hsp:152801	長劍
+物品	長剣		1	db_item.hsp:152804	長劍
+物品	黄金		1	db_item.hsp:152817	黃金
+種族職業	コボルト	{0}	1	db_race.hsp:707	狗頭人
+種族職業	オーク	{0}	1	db_race.hsp:775	獸人
+種族職業	巨獣	{0}	1	db_race.hsp:843	巨獸
+種族職業	竜人	{0}	1	db_race.hsp:911	龍人
+種族職業	ミノタウロス	{0}	1	db_race.hsp:979	牛頭人
+種族職業	イェルス	{0}	1	db_race.hsp:1047	耶爾斯
+種族職業	ノーランド	{0}	1	db_race.hsp:1120	諾蘭德
+種族職業	エウダーナ	{0}	1	db_race.hsp:1193	尤達納
+種族職業	妖精	{0}	1	db_race.hsp:1266	妖精
+種族職業	阿修羅	{0}	1	db_race.hsp:1346	阿修羅
+種族職業	スライム	{0}	1	db_race.hsp:1415	史萊姆
+種族職業	犬の神	{0}	1	db_race.hsp:1483	犬之神
+種族職業	丘の民	{0}	1	db_race.hsp:1550	丘陵之民
+種族職業	ジューア	{0}	1	db_race.hsp:1619	朱亞
+種族職業	ゾンビ	{0}	1	db_race.hsp:1692	殭屍
+種族職業	エレア	{0}	1	db_race.hsp:1764	艾萊亞
+種族職業	ウサギ	{0}	1	db_race.hsp:1837	兔子
+種族職業	羊	{0}	1	db_race.hsp:1905	羊
+種族職業	蛙	{0}	1	db_race.hsp:1973	青蛙
+種族職業	ワーム	{0}	1	db_race.hsp:2041	蠕蟲
+種族職業	かたつむり	{0}	1	db_race.hsp:2109	蝸牛
+種族職業	マンドレイク	{0}	1	db_race.hsp:2175	曼德拉草
+種族職業	昆虫	{0}	1	db_race.hsp:2244	昆蟲
+種族職業	きのこ	{0}	1	db_race.hsp:2312	蘑菇
+種族職業	コウモリ	{0}	1	db_race.hsp:2380	蝙蝠
+種族職業	エント	{0}	1	db_race.hsp:2449	樹人
+種族職業	リッチ	{0}	1	db_race.hsp:2517	巫妖
+種族職業	バクテリア	{0}	1	db_race.hsp:2590	細菌
+種族職業	幽霊	{0}	1	db_race.hsp:2659	幽靈
+種族職業	精霊	{0}	1	db_race.hsp:2732	精靈
+種族職業	目	{0}	1	db_race.hsp:2800	眼睛
+種族職業	魔人	{0}	1	db_race.hsp:2868	魔人
+種族職業	ワスプ	{0}	1	db_race.hsp:2936	黃蜂
+種族職業	巨人	{0}	1	db_race.hsp:3004	巨人
+種族職業	悪魔	{0}	1	db_race.hsp:3072	惡魔
+種族職業	手	{0}	1	db_race.hsp:3140	手
+種族職業	蛇	{0}	1	db_race.hsp:3208	蛇
+種族職業	亜竜	{0}	1	db_race.hsp:3276	亞龍
+種族職業	ゴブリン	{0}	1	db_race.hsp:3344	哥布林
+種族職業	熊	{0}	1	db_race.hsp:3413	熊
+種族職業	鎧	{0}	1	db_race.hsp:3481	鎧甲
+種族職業	メデューサ	{0}	1	db_race.hsp:3550	梅杜莎
+種族職業	天使	{0}	1	db_race.hsp:3618	天使
+種族職業	カルーン	{0}	1	db_race.hsp:3687	卡倫
+種族職業	鳥人	{0}	1	db_race.hsp:3760	鳥人
+種族職業	ドラゴン	{0}	1	db_race.hsp:3828	龍
+種族職業	恐竜	{0}	1	db_race.hsp:3896	恐龍
+種族職業	幻獣	{0}	1	db_race.hsp:3964	幻獸
+種族職業	蜘蛛	{0}	1	db_race.hsp:4032	蜘蛛
+種族職業	ゴーレム	{0}	1	db_race.hsp:4100	魔像
+種族職業	鉱物	{0}	1	db_race.hsp:4169	礦物
+種族職業	ザナン	{0}	1	db_race.hsp:4238	澤納恩
+種族職業	骸骨	{0}	1	db_race.hsp:4311	骷髏
+種族職業	駒	{0}	1	db_race.hsp:4384	棋子
+種族職業	猫	{0}	1	db_race.hsp:4453	貓
+種族職業	犬	{0}	1	db_race.hsp:4521	狗
+種族職業	ローラン	{0}	1	db_race.hsp:4589	羅蘭
+種族職業	ねずみ	{0}	1	db_race.hsp:4662	老鼠
+種族職業	甲殻	{0}	1	db_race.hsp:4730	甲殼
+種族職業	猫の神	{0}	1	db_race.hsp:4800	貓之神
+種族職業	機械の神	{0}	1	db_race.hsp:4868	機械之神
+種族職業	死霊の神	{0}	1	db_race.hsp:4936	死靈之神
+種族職業	機械	{0}	1	db_race.hsp:5003	機械
+種族職業	ウィスプ	{0}	1	db_race.hsp:5073	鬼火
+種族職業	鳥	{0}	1	db_race.hsp:5141	鳥
+種族職業	海魔	{0}	1	db_race.hsp:5209	海魔
+種族職業	ケモビト	{0}	1	db_race.hsp:5277	獸人族
+種族職業	カオスシェイプ	{0}	1	db_race.hsp:5345	混沌形態
+種族職業	イーク	{0}	1	db_race.hsp:5417	伊克
+種族職業	異星主	{0}	1	db_race.hsp:5485	異星主
+種族職業	神の化身	{0}	1	db_race.hsp:5553	神之化身
+種族職業	馬	{0}	1	db_race.hsp:5629	馬
+種族職業	神	{0}	1	db_race.hsp:5697	神
+種族職業	クイックリング	{0}	1	db_race.hsp:5783	快靈
+種族職業	メタル	{0}	1	db_race.hsp:5852	金屬
+種族職業	乗用機械	{0}	1	db_race.hsp:5921	乘用機械
+稱號	アリーナのチャンピオン	Arena champion	1	init.hsp:355	競技場冠軍
+稱號	アリーナの超エリート闘士	Super elite gladiator	1	init.hsp:355	競技場超菁英鬥士
+稱號	アリーナのスター闘士	Star gladiator	1	init.hsp:355	競技場明星鬥士
+稱號	アリーナのエリート闘士	Elite gladiator	1	init.hsp:355	競技場菁英鬥士
+稱號	アリーナの熟練闘士	Veteran gladiator	1	init.hsp:355	競技場熟練鬥士
+稱號	アリーナの中堅闘士	Popular gladiator	1	init.hsp:355	競技場中堅鬥士
+稱號	アリーナの期待の星	New hope	1	init.hsp:355	競技場的希望之星
+稱號	アリーナのダークホース	Darkhorse	1	init.hsp:355	競技場黑馬
+稱號	アリーナの下級闘士	Low class fighter	1	init.hsp:355	競技場下級鬥士
+稱號	アリーナの無名の闘士	Unknown fighter	1	init.hsp:355	競技場無名鬥士
+稱號	アリーナ	Arena	1	init.hsp:355	競技場
+稱號	全てのペットの王	King of tamer	1	init.hsp:356	萬寵之王
+稱號	超エリートペット使い	Super elite tamer	1	init.hsp:356	超菁英馴獸師
+稱號	ペットの王子	Prince of animals	1	init.hsp:356	寵物王子
+稱號	ペットの憧れの的	Chief of animals	1	init.hsp:356	寵物們的嚮往
+稱號	ペット使いのエリート	Elite tamer	1	init.hsp:356	菁英馴獸師
+稱號	名の知れたペット使い	Notorious tamer	1	init.hsp:356	知名馴獸師
+稱號	ペットの母	New hope	1	init.hsp:356	寵物之母
+稱號	なかなかのペット使い	Average tamer	1	init.hsp:356	還不錯的馴獸師
+稱號	駆け出しのペット使い	Petty tamer	1	init.hsp:356	新手馴獸師
+稱號	無名のペット使い	Unknown tamer	1	init.hsp:356	無名馴獸師
+稱號	ペットアリーナ	Pet Arena	1	init.hsp:356	寵物競技場
+稱號	ネフィアを統べる者	King of Nefia	1	init.hsp:357	統御奈菲亞之人
+稱號	迷宮の覇者	Champion of labyrinth	1	init.hsp:357	迷宮霸主
+稱號	ダンジョンの主	Dungeon master	1	init.hsp:357	地下城之主
+稱號	高名な探検者	Famous adventurer	1	init.hsp:357	著名探險者
+稱號	子供達の憧れの的	Children's star	1	init.hsp:357	孩子們的偶像
+稱號	ダンジョン案内人	Guide of Nefia	1	init.hsp:357	地下城嚮導
+稱號	名の知れた遺跡荒らし	Notorious tomb robber	1	init.hsp:357	知名盜掘者
+稱號	探検者	Tomb robber	1	init.hsp:357	探險者
+稱號	ちんけな遺跡荒らし	Famous tourist	1	init.hsp:357	小盜掘者
+稱號	観光客	Tourist	1	init.hsp:357	觀光客
+稱號	クローラー	Crawler	1	init.hsp:357	探索者
+稱號	ティリス最大の博物館	Tyris' greatest museum	1	init.hsp:358	提里斯最大的博物館
+稱號	超有名な博物館	Royal museum	1	init.hsp:358	超有名的博物館
+稱號	大人気の博物館	Great museum	1	init.hsp:358	大受歡迎的博物館
+稱號	有名な博物館	Top museum	1	init.hsp:358	有名的博物館
+稱號	来客の絶えない博物館	Great museum	1	init.hsp:358	訪客絡繹不絕的博物館
+稱號	ちょっと人気のある博物館	Good museum	1	init.hsp:358	小有名氣的博物館
+稱號	名の知れた博物館	Average museum	1	init.hsp:358	知名博物館
+稱號	まあまあの博物館	Small museum	1	init.hsp:358	普普通通的博物館
+稱號	来客の少ない博物館	Unknown museum	1	init.hsp:358	門可羅雀的博物館
+稱號	無名の博物館	Unknown Ruin	1	init.hsp:358	無名博物館
+稱號	博物館	Museum	1	init.hsp:358	博物館
+稱號	イルヴァの楽園	Heaven of Tyris	1	init.hsp:359	伊爾瓦的樂園
+稱號	超セレブな家	Royal mansion	1	init.hsp:359	超級名流豪宅
+稱號	世界有数の家	Celebrity mansion	1	init.hsp:359	世界頂級豪宅
+稱號	とても住みたくなる家	Dream mansion	1	init.hsp:359	令人嚮往的家
+稱號	主婦の憧れの家	Cozy mansion	1	init.hsp:359	主婦夢想之家
+稱號	ちょっと人目をひく家	Attractive house	1	init.hsp:359	有點引人注目的家
+稱號	まあまあの家	Average house	1	init.hsp:359	普普通通的家
+稱號	少しみすぼらしい家	Poor house	1	init.hsp:359	有點寒酸的家
+稱號	貧困にあえぐ家	Peasant's shack	1	init.hsp:359	窮困潦倒的家
+稱號	乞食の家	Beggar's shack	1	init.hsp:359	乞丐之家
+稱號	ホーム	Home	1	init.hsp:359	家
+稱號	イルヴァ最大の店	Tyris' greatest mall	1	init.hsp:360	伊爾瓦最大的商店
+稱號	王様が来る店	Royal mall	1	init.hsp:360	國王光顧的店
+稱號	大繁盛している店	Prosperous mall	1	init.hsp:360	生意興隆的店
+稱號	セレブが来る店	Celebrity shop	1	init.hsp:360	名流光顧的店
+稱號	来客の絶えない店	Prosperous shop	1	init.hsp:360	顧客絡繹不絕的店
+稱號	マダムの来る店	Popular shop	1	init.hsp:360	貴婦光顧的店
+稱號	リピーターのいる店	Average shop	1	init.hsp:360	有回頭客的店
+稱號	人が増えてきた売店	Small shop	1	init.hsp:360	人潮漸增的小店
+稱號	ほとんど売れない売店	Souvenir shop	1	init.hsp:360	幾乎賣不出去的小店
+稱號	無名の売店	Unknown shop	1	init.hsp:360	無名小店
+稱號	店	Shop	1	init.hsp:360	商店
+稱號	ボス	Boss	1	init.hsp:361	首領
+稱號	王様のアドバイザー	King's advisor	1	init.hsp:361	國王的顧問
+稱號	エリートコンサルター	Elite consultant	1	init.hsp:361	菁英顧問
+稱號	ご意見番	Famous consultant	1	init.hsp:361	意見領袖
+稱號	有権者の鑑	Model voter	1	init.hsp:361	模範選民
+稱號	マダム好みの有権者	Nice voter	1	init.hsp:361	貴婦喜愛的選民
+稱號	名の知れた有権者	Infamous voter	1	init.hsp:361	知名選民
+稱號	普通の有権者	Average voter	1	init.hsp:361	普通選民
+稱號	無関心な有権者	Indifferent voter	1	init.hsp:361	冷漠的選民
+稱號	ぎりぎり有権者	Almost voter	1	init.hsp:361	勉強算選民
+稱號	コミュニティ	Community	1	init.hsp:361	社群
+稱號	次代ギルドマスター	Future Guildmaster	1	init.hsp:362	下任公會會長
+稱號	ギルドマスターの右腕	High Champion	1	init.hsp:362	公會會長的左右手
+稱號	ギルドの重役	Champion	1	init.hsp:362	公會幹部
+稱號	ギルドの重役候補	Master	1	init.hsp:362	公會幹部候補
+稱號	アダプト	Adept	1	init.hsp:362	熟手
+稱號	エキスパート	Expert	1	init.hsp:362	專家
+稱號	ジャーニーマン	Journeyman	1	init.hsp:362	熟練工
+稱號	ギルドの正式メンバー	Member	1	init.hsp:362	公會正式成員
+稱號	ギルドのメンバー候補	Candidate	1	init.hsp:362	公會成員候補
+稱號	見習い	Apprentice	1	init.hsp:362	見習生
+稱號	ギルド	Novice	1	init.hsp:362	公會
+怪物	寄生生物の子供	parasite kid	1	item.hsp:1997	寄生生物幼體
+材料	砂	sand	1	item_data.hsp:1271	沙
+材料	子供のおもちゃの	toy	1	item_data.hsp:1271	兒童玩具般的
+材料	革	leather	2	item_data.hsp:1275	皮革
+材料	全てを包む	mysterious	1	item_data.hsp:1275	包容萬物的
+材料	シルク	silk	1	item_data.hsp:1280	絲綢
+材料	美しき	beautiful	1	item_data.hsp:1280	美麗的
+材料	布	cloth	1	item_data.hsp:1285	布
+材料	艶やかなる	charming	1	item_data.hsp:1285	豔麗的
+材料	鱗	scale	1	item_data.hsp:1290	鱗
+材料	逆鱗に触れし	wrath	1	item_data.hsp:1290	觸怒逆鱗的
+材料	硝子	glass	1	item_data.hsp:1294	玻璃
+材料	透き通る	transparent	1	item_data.hsp:1294	晶瑩剔透的
+材料	ミスリル	mithril	1	item_data.hsp:1299	秘銀
+材料	古なる	ancient	1	item_data.hsp:1299	古老的
+材料	エーテル	ether	1	item_data.hsp:1304	以太
+材料	永遠なる	eternal	1	item_data.hsp:1304	永恆的
+材料	スティール	steel	1	item_data.hsp:1309	鋼
+材料	由緒ある	historic	1	item_data.hsp:1309	歷史悠久的
+材料	鉄	metal	1	item_data.hsp:1314	鐵
+材料	鉄塊と呼ばれる	mass	1	item_data.hsp:1314	被稱為鐵塊的
+材料	水晶	crystal	1	item_data.hsp:1319	水晶
+材料	異光を放つ	rainbow	1	item_data.hsp:1319	散發異光的
+材料	ブロンズ	bronze	1	item_data.hsp:1323	青銅
+材料	気高き	noble	1	item_data.hsp:1323	高貴的
+材料	ダイヤ	diamond	1	item_data.hsp:1327	鑽石
+材料	うつろいなき	ever lasting	1	item_data.hsp:1327	永不變遷的
+材料	霊布	spirit cloth	1	item_data.hsp:1331	靈布
+材料	この世ならざる	amazing	1	item_data.hsp:1331	非此世之物的
+材料	ルビナス	rubynus	1	item_data.hsp:1336	盧比納斯
+材料	赤く染まった	crimson	1	item_data.hsp:1336	染紅的
+材料	紙	paper	2	item_data.hsp:1341	紙
+材料	ふざけた	silly	1	item_data.hsp:1341	胡鬧的
+材料	宵晒	dawn cloth	1	item_data.hsp:1346	宵曬布
+材料	宵闇を纏いし	dawn	1	item_data.hsp:1346	身披夜幕的
+材料	ボーン	bone	1	item_data.hsp:1351	骨
+材料	不死なる	immortal	1	item_data.hsp:1351	不死的
+材料	鉄鎖	chain	1	item_data.hsp:1356	鐵鍊
+材料	連鎖せし	spiral	1	item_data.hsp:1356	連鎖的
+材料	オブシディアン	obsidian	1	item_data.hsp:1361	黑曜石
+材料	神殺しの	godbane	1	item_data.hsp:1361	弒神的
+材料	ミカ	mica	1	item_data.hsp:1365	雲母
+材料	儚き	ephemeral	1	item_data.hsp:1365	虛幻的
+材料	真珠	pearl	1	item_data.hsp:1369	珍珠
+材料	闇を照らす	shining	1	item_data.hsp:1369	照亮黑暗的
+材料	エメラルド	emerald	1	item_data.hsp:1373	翡翠
+材料	奇跡を呼ぶ	miracle	1	item_data.hsp:1373	呼喚奇蹟的
+材料	竜鱗	dragon scale	1	item_data.hsp:1377	龍鱗
+材料	竜を統べし	dragonbane	1	item_data.hsp:1377	統御龍族的
+材料	シルバー	silver	1	item_data.hsp:1382	銀
+材料	闇を砕く	dreadbane	1	item_data.hsp:1382	粉碎黑暗的
+材料	白銀	platinum	1	item_data.hsp:1387	白金
+材料	光を纏いし	brilliant	1	item_data.hsp:1387	身披光輝的
+材料	ザイロン	zylon	1	item_data.hsp:1392	賽綸
+材料	異国からもたらされし	foreign	1	item_data.hsp:1392	來自異國的
+材料	翼鳥鱗	griffon scale	1	item_data.hsp:1397	鷲獅鱗
+材料	翼を折られし	fallen	1	item_data.hsp:1397	折翼的
+材料	チタン	titanium	1	item_data.hsp:1402	鈦
+材料	色褪せぬ	fadeless	1	item_data.hsp:1402	永不褪色的
+材料	クロム	chrome	1	item_data.hsp:1407	鉻
+材料	真実を暴く	pure	1	item_data.hsp:1407	揭露真相的
+材料	アダマンタイト	adamantium	1	item_data.hsp:1411	精金
+材料	大地を揺るがす	earth	1	item_data.hsp:1411	撼動大地的
+材料	ゴールデン	gold	1	item_data.hsp:1416	黃金
+材料	黄金に輝く	golden	1	item_data.hsp:1416	閃耀金光的
+材料	珊瑚	coral	1	item_data.hsp:1421	珊瑚
+材料	海からもたらされし	ocean	1	item_data.hsp:1421	來自大海的
+材料	鉛	iron	1	item_data.hsp:1425	鉛
+材料	重き	heavy	1	item_data.hsp:1425	沉重的
+材料	生もの	raw	1	item_data.hsp:1430	生鮮
+材料	食用	candy	1	item_data.hsp:1430	食用
+材料	竹	bamboo	1	item_data.hsp:1434	竹
+材料	渋い	tasteful	1	item_data.hsp:1434	雅致的
+材料	ナノマシン	nanomachine	1	item_data.hsp:1439	奈米機械
+材料	変形する	variable	1	item_data.hsp:1439	可變形的
+材料	野菜	a vegetable plant	1	item_data.hsp:1444	蔬菜
+材料	果実	a fruit plant	1	item_data.hsp:1445	果實
+材料	ハーブ	an herb plant	1	item_data.hsp:1446	香草
+材料	謎の物体	an unknown plant	1	item_data.hsp:1447	謎之物體
+材料	アーティファクト	an artifact plant	1	item_data.hsp:1448	神器
+材料	宝石	a gem plant	1	item_data.hsp:1449	寶石
+材料	魔法の木	a magic plant	1	item_data.hsp:1450	魔法樹
+材料	木	wood	1	item_data.hsp:1452	木
+材料	古き	old	1	item_data.hsp:1452	古舊的
+物品	バグ	bug	1	item_data.hsp:1709	程式錯誤
+物品	金魚	goldfish	1	item_data.hsp:1712	金魚
+物品	亀	turtle	1	item_data.hsp:1715	烏龜
+物品	ゼニタナゴ	bitterling	1	item_data.hsp:1718	錢鱊
+物品	おたまじゃくし	tadpole	1	item_data.hsp:1721	蝌蚪
+物品	海水パンツ	swimming trunks	1	item_data.hsp:1724	泳褲
+物品	小汚い長靴	dirty long boots	1	item_data.hsp:1727	髒長靴
+物品	コイ	carp	1	item_data.hsp:1730	鯉魚
+物品	ウナギ	eel	1	item_data.hsp:1733	鰻魚
+物品	ハゼ	goby	1	item_data.hsp:1736	鰕虎魚
+物品	キンメダイ	alfonsino	1	item_data.hsp:1739	金目鯛
+物品	空き缶	empty can	1	item_data.hsp:1742	空罐
+物品	壊れた機械	broken machine	1	item_data.hsp:1745	壞掉的機械
+物品	カジカ	sculpin	1	item_data.hsp:1748	杜父魚
+物品	スズキ	sea bass	1	item_data.hsp:1751	鱸魚
+物品	ウニ	sea urchin	1	item_data.hsp:1754	海膽
+物品	シロアマダイ	red tilefish	1	item_data.hsp:1757	白方頭魚
+物品	空きビン	empty bottle	1	item_data.hsp:1760	空瓶
+物品	汚い指輪	dirty ring	1	item_data.hsp:1763	髒戒指
+物品	キレアジ	sword fish	1	item_data.hsp:1766	切竹莢魚
+物品	アロワナ	moonfish	1	item_data.hsp:1769	龍魚
+物品	ハリマグロ	tuna fish	1	item_data.hsp:1772	針鮪
+物品	古代魚	ancient fish	1	item_data.hsp:1775	古代魚
+物品	破れた傘	broken umbrella	1	item_data.hsp:1778	破傘
+物品	かつら	hairpiece	1	item_data.hsp:1781	假髮
+物品	カツオ	bonito	1	item_data.hsp:1784	鰹魚
+物品	アユ	sweetfish	1	item_data.hsp:1787	香魚
+物品	シマアジ	yellow jack	1	item_data.hsp:1790	縞竹莢魚
+物品	ブラックバス	black bass	1	item_data.hsp:1793	大口黑鱸
+物品	北からの漂着物	ashore from the north	1	item_data.hsp:1796	北方漂來的東西
+物品	エロ本	pornographic book	1	item_data.hsp:1799	色情書刊
+物品	サバ	mackerel	1	item_data.hsp:1802	鯖魚
+物品	大食いマグロ	big tuna fish	1	item_data.hsp:1805	大胃王鮪魚
+物品	コバンザメ	remora	1	item_data.hsp:1808	印頭魚
+物品	クジラ	whale	1	item_data.hsp:1811	鯨魚
+物品	空き箱	empty box	1	item_data.hsp:1814	空箱
+物品	壊れた携帯	broken cell phone	1	item_data.hsp:1817	壞掉的手機
+物品	ムーピー	moopy	1	item_data.hsp:1820	姆皮魚
+物品	カラウオ	hollow fish	1	item_data.hsp:1823	卡拉魚
+物品	ロックフィッシュ	 rock fish	1	item_data.hsp:1826	石狗公
+物品	マンサ	yruas	1	item_data.hsp:1829	曼薩魚
+物品	キンブナ	buergeri	1	item_data.hsp:1832	金鯽
+物品	石亀	pond turtle	1	item_data.hsp:1835	石龜
+物品	ビワタナゴ	longipinnis	1	item_data.hsp:1838	琵琶鱊
+物品	金珠杓子	eartadpole	1	item_data.hsp:1841	金珠蝌蚪
+物品	半ズボン	knickerbockers	1	item_data.hsp:1844	短褲
+物品	穴あきブーツ	tattered boots	1	item_data.hsp:1847	破洞靴
+物品	ニゴロブナ	grandoculis	1	item_data.hsp:1850	似五郎鯽
+物品	スッポン	soft turtle	1	item_data.hsp:1853	鱉
+物品	カネヒラ	rhombeus	1	item_data.hsp:1856	鐘平鱊
+物品	御魂杓子	spiritadpole	1	item_data.hsp:1859	御魂蝌蚪
+物品	スパッツ	leggings	1	item_data.hsp:1862	緊身褲
+物品	カビ臭いブーツ	moldy boots	1	item_data.hsp:1865	發霉的靴子
+物品	ニゴイ	barbus	1	item_data.hsp:1868	似鯉
+物品	デンキウナギ	electric eel	1	item_data.hsp:1871	電鰻
+物品	ボウズハゼ	sicy goby	1	item_data.hsp:1874	禿頭鰕虎
+物品	キラメダイ	kiralfonsino	1	item_data.hsp:1877	閃光鯛
+物品	潰れた缶	collapsed can	1	item_data.hsp:1880	壓扁的罐子
+物品	ジャンクパーツ	junk parts	1	item_data.hsp:1883	廢棄零件
+物品	マゴイ	koi	1	item_data.hsp:1886	真鯉
+物品	クロウナギ	marbled eel	1	item_data.hsp:1889	黑鰻
+物品	ウロハゼ	glosso goby	1	item_data.hsp:1892	烏鰕虎
+物品	クロメダイ	black porgy	1	item_data.hsp:1895	黑目鯛
+物品	腐食した缶	corrosed can	1	item_data.hsp:1898	腐蝕的罐子
+物品	錆びた機械	rusted machine	1	item_data.hsp:1901	生鏽的機械
+物品	ハナカジカ	nozawae sculpin	1	item_data.hsp:1904	花杜父魚
+物品	ホシスズキ	spotted sea bass	1	item_data.hsp:1907	星鱸
+物品	シマウニ	striped sea urchin	1	item_data.hsp:1910	條紋海膽
+物品	キアマダイ	yellow tilefish	1	item_data.hsp:1913	黃方頭魚
+物品	ヒビ入りビン	cracked bottle	1	item_data.hsp:1916	裂痕瓶
+物品	割れた指輪	broken ring	1	item_data.hsp:1919	裂開的戒指
+物品	アユカケ	fourspine sculpin	1	item_data.hsp:1922	香魚杜父魚
+物品	ヒラスズキ	blackfin sea bass	1	item_data.hsp:1925	平鱸
+物品	クロヒゲウニ	dark sea urchin	1	item_data.hsp:1928	黑鬚海膽
+物品	スミツキアマダイ	charcoal tilefish	1	item_data.hsp:1931	墨點方頭魚
+物品	欠けたビン	chipped bottle	1	item_data.hsp:1934	缺角的瓶子
+物品	玩具の指輪	toy ring	1	item_data.hsp:1937	玩具戒指
+物品	カキアジ	write fish	1	item_data.hsp:1940	牡蠣竹莢魚
+物品	バラムンディ	gulf saratoga	1	item_data.hsp:1943	金目鱸
+物品	キハダマグロ	yellowfin tuna	1	item_data.hsp:1946	黃鰭鮪
+物品	億年魚	billion year fish	1	item_data.hsp:1949	億年魚
+物品	傘の残骸	umbrella wreckage	1	item_data.hsp:1952	傘的殘骸
+物品	汚れたウィッグ	dirty wig	1	item_data.hsp:1955	髒假髮
+物品	カクシアジ	hide fish	1	item_data.hsp:1958	藏竹莢魚
+物品	ブラックアロワナ	black arowana	1	item_data.hsp:1961	黑龍魚
+物品	クロマグロ	bluefin tuna	1	item_data.hsp:1964	黑鮪
+物品	化石魚	fossil fish	1	item_data.hsp:1967	化石魚
+物品	ゾンビ傘	zombie umbrella	1	item_data.hsp:1970	殭屍傘
+物品	カビの生えたモップ	moldy mop	1	item_data.hsp:1973	發霉的拖把
+物品	ハガツオ	striped bonito	1	item_data.hsp:1976	齒鰹
+物品	ワカサギ	wakasagi	1	item_data.hsp:1979	西太公魚
+物品	コガネアジ	spotted trevally	1	item_data.hsp:1982	黃金竹莢魚
+物品	サンフィッシュ	centrarchidae	1	item_data.hsp:1985	太陽魚
+物品	球形ブイ	spherical buoy	1	item_data.hsp:1988	球形浮標
+物品	アダルト雑誌	adult magazine	1	item_data.hsp:1991	成人雜誌
+物品	マナガツオ	mana bonito	1	item_data.hsp:1994	鯧魚
+物品	シシャモ	shishamo	1	item_data.hsp:1997	柳葉魚
+物品	クロヒラアジ	black trevally	1	item_data.hsp:2000	黑平竹莢魚
+物品	ブラックサンバス	black sun bass	1	item_data.hsp:2003	黑太陽鱸
+物品	絡まった玉	entangled ball	1	item_data.hsp:2006	纏成一團的球
+物品	エロ同人	erotic doujin	1	item_data.hsp:2009	色情同人誌
+物品	ニジョウサバ	lined mackerel	1	item_data.hsp:2012	二條鯖
+物品	人食いマグロ	biting tuna fish	1	item_data.hsp:2015	食人鮪魚
+物品	ナガコバン	shark sucker	1	item_data.hsp:2018	長印頭魚
+物品	ニタリクジラ	tropical whale	1	item_data.hsp:2021	布氏鯨
+物品	傷んだ木箱	damaged box	1	item_data.hsp:2024	受損的木箱
+物品	古代の端末	ancient device	1	item_data.hsp:2027	古代終端機
+物品	ゴマサバ	black mackerel	1	item_data.hsp:2030	花腹鯖
+物品	共食いマグロ	boring tuna fish	1	item_data.hsp:2033	同類相食鮪魚
+物品	クロコバン	spearfish remora	1	item_data.hsp:2036	黑印頭魚
+物品	クロナガスクジラ	fin whale	1	item_data.hsp:2039	藍鯨
+物品	焦げたコンテナ	burnt container	1	item_data.hsp:2042	燒焦的貨櫃
+物品	ガラケー	feature phone	1	item_data.hsp:2045	掀蓋手機
+物品	ＣＦポーショマン	CF potioman	1	item_func.hsp:725	ＣＦ藥水人
+物品	クラッシュポーショマン	crush potioman	1	item_func.hsp:728	粉碎藥水人
+物品	バトルポーショマン	battle potioman	1	item_func.hsp:731	戰鬥藥水人
+物品	スーパーポーショマン	super potioman	1	item_func.hsp:734	超級藥水人
+物品	スピニング	Spinning	1	item_func.hsp:738	旋轉
+物品	マイティ	Mighty	1	item_func.hsp:741	強力
+物品	デュアル	Dual	1	item_func.hsp:744	雙重
+物品	ラピッド	Rapid	1	item_func.hsp:747	迅速
+物品	スナイプ	Snipe	1	item_func.hsp:750	狙擊
+物品	デシーヴ	Deceive	1	item_func.hsp:753	欺瞞
+物品	フレイクス	-Flaenix	1	item_func.hsp:756	碎片
+物品	グリフビーク	-Grifeak	1	item_func.hsp:759	鷲獅喙
+物品	ペガフェザー	-Pegather	1	item_func.hsp:762	天馬羽
+物品	ドラゴウル	-Dragoul	1	item_func.hsp:765	龍梟
+物品	レイヴレイン	-Ravrain	1	item_func.hsp:768	鴉雨
+物品	バルキスピア	-Valkspear	1	item_func.hsp:771	女武神矛
+物品	オルフィン	-Orfin	1	item_func.hsp:774	逆戟鯨
+物品	ウルファング	-Wolfang	1	item_func.hsp:777	狼牙
+物品	レオハート	-Leoheart	1	item_func.hsp:780	獅心
+物品	タイガロウ	-Tigelaw	1	item_func.hsp:783	虎爪
+物品	フォクテイル	-Foxail	1	item_func.hsp:786	狐尾
+物品	ベアーム	-Bearm	1	item_func.hsp:789	熊臂
+物品	イフヒート	-Ifheat	1	item_func.hsp:792	焰魔熱
+物品	ダイガッツ	-Dinoguts	1	item_func.hsp:795	大膽量
+物品	ケルヘッズ	-Cerbeads	1	item_func.hsp:798	地獄三頭
+物品	バイホーン	-Bihorn	1	item_func.hsp:801	雙角
+物品	ワイバング	-Wyverng	1	item_func.hsp:804	飛龍牙
+物品	リヴァスケイル	-Leviascale	1	item_func.hsp:807	海龍鱗
+物品	ブシレード	-Bushilade	1	item_func.hsp:810	武士刃
+物品	オーガンド	-Ogreand	1	item_func.hsp:813	食人魔手
+物品	スタアギト	-Stagito	1	item_func.hsp:816	星之顎
+物品	ゴレディ	-Goledy	1	item_func.hsp:819	魔像體
+物品	ナイメイル	-Knimail	1	item_func.hsp:822	騎士鎧
+物品	ソルジガン	-Soldigun	1	item_func.hsp:825	士兵槍
+物品	デスレニアム	-Deatranium	1	item_func.hsp:828	死亡千年
+物品	ギガンテット	-Giganoot	1	item_func.hsp:831	巨人頭
+物品	コボルード	-Kobolord	1	item_func.hsp:834	狗頭人粗野
+物品	ヘラクレスト	-Hercurest	1	item_func.hsp:837	大力士冠
+物品	もう使えない	 which cannot be used anymore	1	item_func.hsp:885	已經不能用的
+物品	カスタム		1	item_func.hsp:889	自訂
+物品	第	 of Rachel No.	1	item_func.hsp:902	第
+物品	巻目の		1	item_func.hsp:902	卷的
+物品	ミックス	mix	1	item_func.hsp:930	綜合
+物品	オーレ	milk	1	item_func.hsp:933	歐蕾
+物品	ジュース	juice	1	item_func.hsp:936	果汁
+物品	カフェオーレ	milk coffee	1	item_func.hsp:941	咖啡歐蕾
+物品	コーヒー	coffee	1	item_func.hsp:944	咖啡
+物品	ミルクティー	milk tea	1	item_func.hsp:949	奶茶
+物品	紅茶	black tea	1	item_func.hsp:952	紅茶
+物品	育った		1	item_func.hsp:974	長大的
+物品	あたま	head	1	item_func.hsp:1036	頭
+物品	くび	neck	1	item_func.hsp:1039	脖子
+物品	せなか	back	1	item_func.hsp:1042	背
+物品	どうたい	chest	1	item_func.hsp:1045	軀幹
+物品	て	hand	1	item_func.hsp:1048	手
+物品	ゆび	finger	1	item_func.hsp:1051	手指
+物品	うで	arm	1	item_func.hsp:1054	手臂
+物品	こし	waist	1	item_func.hsp:1057	腰
+物品	あし	leg	1	item_func.hsp:1060	腳
+物品	の		4	item_func.hsp:1082	的
+物品	善人の	 of saint	1	item_func.hsp:1097	善人的
+物品	悪人の	 of wicked	1	item_func.hsp:1100	惡人的
+物品	エヘカトルの	 of Ehekatl	1	item_func.hsp:1103	艾赫卡托爾的
+物品	オパートスの	 of Opatos	1	item_func.hsp:1106	歐帕特斯的
+物品	イツパロトルの	 of Itzpalt	1	item_func.hsp:1109	伊茲帕洛特爾的
+物品	ジュアの	 of Jure	1	item_func.hsp:1112	朱亞的
+物品	マニの	 of Mani	1	item_func.hsp:1115	瑪尼的
+物品	[成長可能な]	[Growable] 	1	item_func.hsp:1295	[可成長的]
+物品	見本用の	sample 	1	item_func.hsp:1300	樣品用的
+物品	腐った	rotten 	1	item_func.hsp:1304	腐爛的
+物品	cmの	cm 	1	item_func.hsp:1308	cm的
+物品	製の	 	1	item_func.hsp:1386	製的
+物品	願いの女神の	Wish Goddess 	1	item_func.hsp:1390	許願女神的
+物品	細工の	work 	2	item_func.hsp:1399	細工的
+物品	スイセン	daffodil	1	item_func.hsp:1410	水仙
+物品	マーガレット	margaret	1	item_func.hsp:1413	瑪格麗特
+物品	たんぽぽ	dandelion	1	item_func.hsp:1416	蒲公英
+物品	チューリップ	tulip	1	item_func.hsp:1419	鬱金香
+物品	バラ	rose	1	item_func.hsp:1422	玫瑰
+物品	アジサイ	hydrangea	1	item_func.hsp:1425	繡球花
+物品	百合	lily	1	item_func.hsp:1428	百合
+物品	ひまわり	sunflower	1	item_func.hsp:1431	向日葵
+物品	マリーゴールド	marigold	1	item_func.hsp:1434	萬壽菊
+物品	コスモス	cosmos	1	item_func.hsp:1437	大波斯菊
+物品	キク	chrysanthemum	1	item_func.hsp:1440	菊花
+物品	プリムラ	primula	1	item_func.hsp:1443	報春花
+物品	エターナルフォース	eternal force	1	item_func.hsp:1458	永恆之力
+物品	(アブラツボ)	 (oil pot)	1	item_func.hsp:2006	(油壺)
+物品	(ギロチンフォール)	 (guillotine fall)	1	item_func.hsp:2009	(斷頭落)
+物品	(ハンマーペンデュラム)	 (hammer pendulum)	1	item_func.hsp:2012	(擺錘鎚)
+物品	(レインロック)	 (rock rain)	1	item_func.hsp:2015	(落石雨)
+物品	(マジンビーム)	 (Mazin beam)	1	item_func.hsp:2018	(魔神光束)
+物品	(トラバサミ)	 (torabasami)	1	item_func.hsp:2023	(捕獸夾)
+物品	(エレキホース)	 (electric horse)	1	item_func.hsp:2026	(電擊水管)
+物品	(デンジカタパルト)	 (electromagnetic)	1	item_func.hsp:2029	(電磁彈射器)
+物品	(ガスフロア)	 (gas floor)	1	item_func.hsp:2032	(毒氣地板)
+物品	(マジンパンチ)	 (Mazin punch)	1	item_func.hsp:2035	(魔神拳)
+物品	(スプラッシュ)	 (splash)	1	item_func.hsp:2040	(潑灑)
+物品	(フレイムアロー)	 (flame Arrow)	1	item_func.hsp:2043	(火焰箭)
+物品	(インパクトウォール)	 (impact wall)	1	item_func.hsp:2046	(衝擊牆)
+物品	(メガバズソー)	 (mega buzzsaw)	1	item_func.hsp:2049	(巨型圓鋸)
+物品	(マジンファイヤー)	 (Mazin fire)	1	item_func.hsp:2052	(魔神火焰)
+物品	(バイブロスピア)	 (vibrating spear)	1	item_func.hsp:2057	(振動矛)
+物品	(ポイズンスピア)	 (poison spear)	1	item_func.hsp:2060	(毒矛)
+物品	(サイミンスピア)	 (sleepy spear)	1	item_func.hsp:2063	(催眠矛)
+物品	(インクスピア)	 (ink spear)	1	item_func.hsp:2066	(墨水矛)
+物品	(スメリースピア)	 (smelly spear)	1	item_func.hsp:2069	(惡臭矛)
+物品	(シビレスピア)	 (paralyze spear)	1	item_func.hsp:2072	(麻痺矛)
+物品	(猫ゾンビ)	 (cat)	1	item_func.hsp:2089	(殭屍貓)
+物品	(ゾンビ)	 (zombie)	1	item_func.hsp:2092	(殭屍)
+物品	(マミー)	 (mummy)	1	item_func.hsp:2095	(木乃伊)
+物品	(骸骨戦士)	 (skeleton)	1	item_func.hsp:2098	(骷髏戰士)
+物品	(リッチ)	 (lich)	1	item_func.hsp:2101	(巫妖)
+物品	(ネクロドール)	 (doll)	1	item_func.hsp:2104	(死靈人偶)
+物品	(ドラゴンゾンビ)	 (dragon)	1	item_func.hsp:2107	(殭屍龍)
+物品	(デッドアイズ)	 (dead-eyes)	1	item_func.hsp:2110	(死眼)
+物品	-欺繕	-Deceive	1	item_func.hsp:2114	-欺繕
+物品	(空)	 (Empty)	1	item_func.hsp:2156	(空)
+物品	(恐ろしい)	 (Scary)	1	item_func.hsp:2178	(可怕的)
+物品	(禍々しい)	 (Dreadful)	1	item_func.hsp:2181	(不祥的)
+物品	(移動時消滅)	 (Temporal)	1	item_func.hsp:2187	(移動時消失)
+物品	(空っぽ)	 (Empty)	1	item_func.hsp:2192	(空空的)
+物品	(媚薬混入)	 (Aphrodisiac)	1	item_func.hsp:2203	(混入媚藥)
+物品	(毒物混入)	 (Poisoned)	1	item_func.hsp:2206	(混入毒物)
+物品	(危険！)	 (Danger!)	1	item_func.hsp:2209	(危險！)
+物品	(ハーブ入り)	 (Herb)	1	item_func.hsp:2213	(加入香草)
+物品	(防腐処理)	 (Antiseptic)	1	item_func.hsp:2217	(防腐處理)
+物品	(要睡眠)	 (Need Sleep)	1	item_func.hsp:2237	(需要睡眠)
+物品	シリアルNo.	 Serial No.	1	item_func.hsp:2243	序號
+物品	物件No.	 Property No.	1	item_func.hsp:2248	物件編號
+物品	解読済みの		1	item_func.hsp:876	已解讀的
+物品	との		1	item_func.hsp:1009	與
+物品	ちゃん		1	item_func.hsp:1995	醬
+地名	わが家	Your Home	1	map.hsp:1410	我的家
+地名	新生体兵器実験場	New Test Site	1	map.hsp:1876	新生物兵器實驗場
+怪物	メシェーラ・キガツ	tester	1	map.hsp:1882	梅榭拉・基加茨
+怪物	メシェーラ・クトワ	tester	1	map.hsp:1885	梅榭拉・庫托瓦
+怪物	メシェーラ・タシハ	tester	1	map.hsp:1888	梅榭拉・塔希哈
+怪物	メシェーラ・メシエ	tester	1	map.hsp:1891	梅榭拉・梅希耶
+怪物	メシェーラ・ラニサ	tester	1	map.hsp:1894	梅榭拉・拉妮莎
+怪物	メシェーラ・レテイ	tester	1	map.hsp:1897	梅榭拉・雷特伊
+怪物	メシェーラ・タダケ	tester	1	map.hsp:1900	梅榭拉・塔達克
+怪物	メシェーラ・ドトマ	tester	1	map.hsp:1903	梅榭拉・多托瑪
+怪物	メシェーラ・ラナイ	tester	1	map.hsp:1906	梅榭拉・拉奈
+怪物	メシェーラ・ゲキツ	tester	1	map.hsp:1909	梅榭拉・格基茨
+怪物	メシェーラ・ウハカ	tester	1	map.hsp:1912	梅榭拉・烏哈卡
+怪物	メシェーラ・ナシム	tester	1	map.hsp:1915	梅榭拉・納希姆
+怪物	メシェーラ・コトサ	tester	1	map.hsp:1918	梅榭拉・科托莎
+怪物	メシェーラ・シテク	tester	1	map.hsp:1921	梅榭拉・希特克
+怪物	謎の奴隷商人	The slave master	2	map.hsp:2454	謎之奴隸商人
+地名	盗賊ギルド	Thieves Guild	1	map.hsp:2499	盜賊公會
+地名	魔術士ギルド	Mages Guild	1	map.hsp:2791	魔術士公會
+地名	ルミエスト下水道	The Sewer	1	map.hsp:2827	魯米艾斯特下水道
+地名	教室	Classroom	1	map.hsp:2885	教室
+地名	タムの猫屋敷	Cat Mansion	1	map.hsp:3037	塔姆的貓屋
+地名	防衛線	Battle Field	1	map.hsp:3050	防衛線
+地名	氷の城	Castle of Ice	1	map.hsp:3199	冰之城
+地名	戦士ギルド	Fighters Guild	1	map.hsp:3338	戰士公會
+地名	戦場	Doom Ground	1	map.hsp:3371	戰場
+地名	スライムの坑道	The Mine	1	map.hsp:3495	史萊姆坑道
+地名	盗賊の隠れ家	Robber's Hideout	1	map.hsp:3507	盜賊藏身處
+地名	生体兵器実験場	Test Site	1	map.hsp:3519	生物兵器實驗場
+地名	森	Forest	1	map.hsp:3546	森林
+地名	水上	Sea	1	map.hsp:3571	水上
+地名	草原	Grassland	1	map.hsp:3574	草原
+地名	荒野	Wasteland	1	map.hsp:3602	荒野
+地名	砂丘	Sand	1	map.hsp:3615	沙丘
+地名	メルカ大湿原	moor	1	map.hsp:3637	梅爾卡大濕原
+地名	湿原	moor	1	map.hsp:3640	濕原
+地名	海底	Seabed	1	map.hsp:3657	海底
+地名	平地	Plain Field	2	map.hsp:3764	平地
+地名	雪原	Snow Field	1	map.hsp:3830	雪原
+地名	カプール近海	Kapul coastal	1	map.hsp:4051	卡普爾近海
+地名	ルミエスト近海	Lumiest coastal	1	map.hsp:4063	魯米艾斯特近海
+地名	クルアルム近海	Kurualm coastal	1	map.hsp:4075	克魯阿爾姆近海
+地名	ヴァルム近海	Valm coastal	1	map.hsp:4087	瓦爾姆近海
+地名	悪魔岬近海	Devil coastal	1	map.hsp:4099	惡魔岬近海
+地名	商船内部	Merchant ship	1	map.hsp:4111	商船內部
+地名	海賊船内部	Pirate ship	2	map.hsp:4123	海盜船內部
+地名	レシマス最深層	The Depth	1	map.hsp:4136	雷西瑪斯最深層
+地名	15階大広間	Hall	2	map.hsp:4182	15層大廳
+地名	古の研究施設	Ancient Research Facility	1	map.hsp:4197	古代研究設施
+怪物	メシェーラ・ギルク	meshera Gilk	1	map.hsp:4213	梅榭拉・吉爾克
+怪物	メシェーラ・エルマナ	meshera Hermana	1	map.hsp:4219	梅榭拉・艾爾瑪娜
+怪物	メシェーラ・ライモンド	meshera Raimond	1	map.hsp:4225	梅榭拉・雷蒙德
+地名	眷属の間	Hall of evil	1	map.hsp:4291	眷屬之間
+地名	20階大広間	Hall	1	map.hsp:4397	20層大廳
+地名	25階大広間	Hall	1	map.hsp:4413	25層大廳
+地名	30階大広間	Hall	1	map.hsp:4435	30層大廳
+地名	大広間	Hall	2	map.hsp:4489	大廳
+地名	神の間<復元>	The Eternal Seal	1	map.hsp:4520	神之間<復原>
+地名	神の間<崩壊>	The Eternal Seal	1	map.hsp:4534	神之間<崩壞>
+地名	神の間	The Eternal Seal	1	map.hsp:4564	神之間
+怪物	旅糧売り	the traveler's food vendor	1	map.hsp:4956	旅糧商
+怪物	装飾品売り	the interior goods vendor	1	map.hsp:4966	裝飾品商
+怪物	交易商人	the trader	1	map.hsp:4975	交易商人
+怪物	パン屋の店員	the bakery clerk	1	map.hsp:4985	麵包店店員
+怪物	白猫	white cat	1	map.hsp:5056	白貓
+地名	仮	Underground passage	2	map.hsp:5863	暫定
+地名	コンサート会場	Concert hall	1	map.hsp:5874	演奏會場
+怪物	魔法店の使い魔	magic shop slave	1	map.hsp:5906	魔法店的使魔
+怪物	雑貨屋の使い魔	general shop slave	1	map.hsp:5915	雜貨店的使魔
+怪物	家具屋の使い魔	furniture shop slave	1	map.hsp:5924	家具店的使魔
+地名	王宮近隣	Eulderna city	1	map.hsp:5996	王宮周邊
+地名	冥宮入口	LabyrinDeath 1F	3	map.hsp:6548	冥宮入口
+地名	悪鬼の掌	Area of Curse	5	map.hsp:6614	惡鬼之掌
+地名	冥宮　2層	LabyrinDeath 2F	3	map.hsp:6645	冥宮　2層
+地名	冥宮　3層	LabyrinDeath 3F	3	map.hsp:6742	冥宮　3層
+地名	冥宮　4層	LabyrinDeath 4F	3	map.hsp:6841	冥宮　4層
+地名	冥宮　5層	LabyrinDeath 5F	3	map.hsp:6938	冥宮　5層
+地名	冥宮　6層	LabyrinDeath 6F	1	map.hsp:7035	冥宮　6層
+地名	オアシスリゾート	Oasis in tower	1	map.hsp:7237	綠洲度假村
+地名	眠れる神艦・上層	Albedrion	1	map.hsp:7327	沉睡的神艦・上層
+地名	作業区画	Work area	1	map.hsp:7386	作業區
+地名	死の街	Ruined city	1	map.hsp:7514	死之街
+地名	エウダーナ駐屯地	The Mine	1	map.hsp:7925	尤達納駐紮地
+地名	きのこ達の山	Hill of mushroom	1	map.hsp:8028	蘑菇們的山
+地名	すぎのこ廃村近辺	Near the ruins	1	map.hsp:8041	杉子廢村附近
+地名	地下賭博場	Gambling hall	1	map.hsp:8157	地下賭場
+怪物	負け犬	loser	1	map.hsp:8166	喪家犬
+地名	忍者屋敷	Ninja House	1	map.hsp:8330	忍者屋敷
+地名	九頭竜の城	Deep-Sea Castle	1	map.hsp:8432	九頭龍之城
+地名	狂気列島	Island in madness	1	map.hsp:8467	狂氣列島
+地名	地下通路	Underground passage	1	map.hsp:8620	地下通道
+地名	地下室	basement	1	map.hsp:8821	地下室
+地名	姉の教会	the Church of Older Sister	1	map.hsp:8833	姊姊的教會
+地名	悪魔の巣	basement	1	map.hsp:8935	惡魔巢穴
+怪物	『海賊船長』	<the pirate captain>	1	map.hsp:10644	『海盜船長』
+怪物	カラヴィカのストーカー	Stalker of Karavika	1	map.hsp:15247	卡拉維卡的跟蹤狂
+怪物	『カラヴィカのストーカー』	<Stalker of Karavika>	1	map.hsp:15255	『卡拉維卡的跟蹤狂』
+怪物	オパートスの信者	Opatos Fanatic	1	map.hsp:15657	歐帕特斯信徒
+怪物	マニの信者	Mani Fanatic	1	map.hsp:15659	瑪尼信徒
+怪物	エヘカトルの信者	Ehekatl Fanatic	1	map.hsp:15662	艾赫卡托爾信徒
+地名	街近郊	Near town	1	map_rand.hsp:784	城鎮近郊
+地名	地雷原	Mine area	1	map_rand.hsp:787	地雷區
+地名	街周辺の畑	Farmland	1	map_rand.hsp:938	城鎮周邊的田
+地名	パーティー場	Party Room	1	map_rand.hsp:1287	派對會場
+地名	市街地	Urban Area	1	map_rand.hsp:1770	市區
+材料	クズ	Garbage	1	material_data.hsp:9	垃圾
+材料	カジノチップ	Casino chip	1	material_data.hsp:14	賭場籌碼
+材料	炭	Charcoal	1	material_data.hsp:19	木炭
+材料	流木	Driftwood	1	material_data.hsp:24	漂流木
+材料	鳥の羽	Bird's feather	1	material_data.hsp:29	鳥羽
+材料	水滴	Waterdrop	1	material_data.hsp:34	水滴
+材料	杖	Stick	1	material_data.hsp:39	手杖
+材料	ミスリルの欠片	Mithril fragment	1	material_data.hsp:44	秘銀碎片
+材料	エーテルの欠片	Ether fragment	1	material_data.hsp:49	以太碎片
+材料	鉄の欠片	Iron fragment	1	material_data.hsp:54	鐵碎片
+材料	天使の涙	Angel's tear	1	material_data.hsp:59	天使之淚
+材料	魔女の涙	Witch's tear	1	material_data.hsp:64	魔女之淚
+材料	海水	Seawater	1	material_data.hsp:69	海水
+材料	唸る草	Howling weed	1	material_data.hsp:74	嘶吼草
+材料	赤い草	Red weed	1	material_data.hsp:79	紅草
+材料	青い草	Blue weed	1	material_data.hsp:84	藍草
+材料	呪いの草	Curse weed	1	material_data.hsp:89	詛咒草
+材料	聖なる草	Holy weed	1	material_data.hsp:94	聖草
+材料	ウサギの尻尾	Rabbit's tail	1	material_data.hsp:99	兔尾巴
+材料	トロールの遺伝子	Troll gene	1	material_data.hsp:104	巨魔的基因
+材料	雪	Snow	1	material_data.hsp:109	雪
+材料	フェアリーダスト	Fairy dust	1	material_data.hsp:114	妖精之塵
+材料	風切石	Element fragment	1	material_data.hsp:119	風切石
+材料	電気	Electricity	1	material_data.hsp:124	電
+材料	黒い霧	Black mist	1	material_data.hsp:129	黑霧
+材料	お湯	Hot water	1	material_data.hsp:134	熱水
+材料	火炎石	Fire stone	1	material_data.hsp:139	火炎石
+材料	冷凍石	Ice stone	1	material_data.hsp:144	冷凍石
+材料	帯電石	Discharging stone	1	material_data.hsp:149	帶電石
+材料	ヒカリソウ	Shining weed	1	material_data.hsp:154	光輝草
+材料	マジックマス	Magic mass	1	material_data.hsp:159	魔力團
+材料	ヒトの遺伝子	Human gene	1	material_data.hsp:164	人類的基因
+材料	魔女の瞳	Witch's eye	1	material_data.hsp:169	魔女之瞳
+材料	世界樹の樹液	Sap of Yaggdrasil	1	material_data.hsp:179	世界樹的樹液
+材料	魔法の紙	Magic paper	1	material_data.hsp:184	魔法紙
+材料	魔法のインク	Magic ink	1	material_data.hsp:189	魔法墨水
+材料	曲がった杖	Curved stick	1	material_data.hsp:194	彎曲的手杖
+材料	わめく狂人	Yelling madman	1	material_data.hsp:199	叫嚷的狂人
+材料	クマの尻尾	Bear's tail	1	material_data.hsp:204	熊尾巴
+材料	100Yen硬貨	100 Yen coin	1	material_data.hsp:209	100圓硬幣
+材料	500Yen硬貨	500 Yen coin	1	material_data.hsp:214	500圓硬幣
+材料	薬草	Medicinal weed	1	material_data.hsp:219	藥草
+材料	生成機械	Generator	1	material_data.hsp:229	生成機械
+材料	布きれ	Cloth	1	material_data.hsp:234	碎布
+材料	枝	Branch	1	material_data.hsp:239	樹枝
+材料	頑丈な枝	Thick wood	1	material_data.hsp:244	粗壯的樹枝
+材料	石ころ	Pebble	1	material_data.hsp:249	小石子
+材料	記憶の欠片	Memory fragment	1	material_data.hsp:254	記憶碎片
+材料	魔力の欠片	Magic fragment	1	material_data.hsp:259	魔力碎片
+材料	混沌の石	Chaos stone	1	material_data.hsp:264	混沌之石
+材料	上等な石	Fine stone	1	material_data.hsp:269	上等石材
+材料	ツル	Vein	1	material_data.hsp:274	藤蔓
+材料	接着剤	Adhesive	1	material_data.hsp:279	黏著劑
+材料	上質紙	Good paper	1	material_data.hsp:284	上質紙
+材料	丈夫な布	Durable cloth	1	material_data.hsp:289	結實的布
+材料	丸太	Log	1	material_data.hsp:294	原木
+材料	白い草	White weed	1	material_data.hsp:299	白草
+技能	生命力	Life	1	skill.hsp:9	生命力
+技能	マナ	Mana	1	skill.hsp:14	魔力值
+技能	筋力	Strength	1	skill.hsp:19	力量
+技能	耐久	Constitution	1	skill.hsp:24	耐力
+技能	器用	Dexterity	1	skill.hsp:29	靈巧
+技能	感覚	Perception	1	skill.hsp:34	感知
+技能	習得	Learning	1	skill.hsp:39	學習
+技能	意志	Will	1	skill.hsp:44	意志
+技能	魔力	Magic	1	skill.hsp:49	魔力
+技能	魅力	Charisma	1	skill.hsp:54	魅力
+技能	速度	Speed	1	skill.hsp:59	速度
+技能	運勢	Luck	1	skill.hsp:64	運氣
+技能	火炎	fire	1	skill.hsp:70	火焰
+技能	冷気	cold	1	skill.hsp:75	冰冷
+技能	電撃	lightning	1	skill.hsp:80	雷擊
+技能	暗黒	darkness	1	skill.hsp:85	黑暗
+技能	幻惑	mind	1	skill.hsp:90	幻惑
+技能	毒	poison	1	skill.hsp:95	毒
+技能	地獄	nether	1	skill.hsp:100	地獄
+技能	音	sound	1	skill.hsp:105	音波
+技能	神経	nerve	1	skill.hsp:110	神經
+技能	混沌	chaos	1	skill.hsp:115	混沌
+技能	魔法	magic	1	skill.hsp:120	魔法
+技能	出血	cut	1	skill.hsp:125	出血
+技能	長剣	Long Sword	1	skill.hsp:131	長劍
+技能	短剣	Short Sword	1	skill.hsp:136	短劍
+技能	斧	Axe	1	skill.hsp:141	斧
+技能	鈍器	Blunt	1	skill.hsp:146	鈍器
+技能	槍	Polearm	1	skill.hsp:151	長柄武器
+技能	杖	Stave	1	skill.hsp:156	手杖
+技能	格闘	Martial Arts	1	skill.hsp:161	格鬥
+技能	鎌	Scythe	1	skill.hsp:166	鐮刀
+技能	弓	Bow	1	skill.hsp:171	弓
+技能	クロスボウ	Crossbow	1	skill.hsp:176	十字弓
+技能	銃器	Firearm	1	skill.hsp:181	槍械
+技能	投擲	Throwing	1	skill.hsp:186	投擲
+技能	読書	Literacy	1	skill.hsp:192	讀書
+技能	生化学	Gene Engineer	1	skill.hsp:197	生物化學
+技能	戦術	Tactics	1	skill.hsp:202	戰術
+技能	重量挙げ	Weight Lifting	1	skill.hsp:207	舉重
+技能	治癒	Healing	1	skill.hsp:212	治療
+技能	瞑想	Meditation	1	skill.hsp:217	冥想
+技能	交渉	Negotiation	1	skill.hsp:222	交涉
+技能	隠密	Stealth	1	skill.hsp:227	隱密
+技能	鍵開け	Lock Picking	1	skill.hsp:232	開鎖
+技能	探知	Detection	1	skill.hsp:237	探知
+技能	投資	Investing	1	skill.hsp:242	投資
+技能	解剖学	Anatomy	1	skill.hsp:247	解剖學
+技能	分析	Analysis	1	skill.hsp:252	分析
+技能	採掘	Mining	1	skill.hsp:257	採礦
+技能	魔力の限界	Magic Capacity	1	skill.hsp:262	魔力上限
+技能	暗記	Memorization	1	skill.hsp:267	背誦
+技能	二刀流	Dual Wield	1	skill.hsp:272	二刀流
+技能	両手持ち	Two Hand	1	skill.hsp:277	雙手持
+技能	盾	Shield	1	skill.hsp:282	盾牌
+技能	重装備	Heavy Armor	1	skill.hsp:287	重裝備
+技能	中装備	Medium Armor	1	skill.hsp:292	中裝備
+技能	軽装備	Light Armor	1	skill.hsp:297	輕裝備
+技能	詠唱	Casting	1	skill.hsp:302	詠唱
+技能	回避	Evasion	1	skill.hsp:307	迴避
+技能	魔道具	Magic Device	1	skill.hsp:312	魔道具
+技能	罠の知識	Disarm Trap	1	skill.hsp:317	陷阱知識
+技能	工作	Carpentry	1	skill.hsp:322	工藝
+技能	裁縫	Tailoring	1	skill.hsp:327	裁縫
+技能	錬金術	Alchemy	1	skill.hsp:332	鍊金術
+技能	宝石細工	Jeweler	1	skill.hsp:337	寶石工藝
+技能	栽培	Gardening	1	skill.hsp:342	栽培
+技能	信仰	Faith	1	skill.hsp:347	信仰
+技能	旅歩き	Traveling	1	skill.hsp:352	旅行
+技能	演奏	Performer	1	skill.hsp:357	演奏
+技能	料理	Cooking	1	skill.hsp:362	料理
+技能	釣り	Fishing	1	skill.hsp:367	釣魚
+技能	心眼	Eye of Mind	1	skill.hsp:372	心眼
+技能	見切り	Greater Evasion	1	skill.hsp:377	看破
+技能	魔力制御	Control Magic	1	skill.hsp:382	魔力控制
+技能	射撃	Marksman	1	skill.hsp:387	射擊
+技能	着衣水泳	Swimming	1	skill.hsp:392	著衣游泳
+技能	窃盗	Pickpocket	1	skill.hsp:398	竊盜
+技能	乗馬	Riding	1	skill.hsp:403	騎乘
+技能	軽傷治癒	Heal Light	1	skill.hsp:409	輕傷治療
+技能	致命傷治癒	Heal Critical	1	skill.hsp:414	致命傷治療
+技能	エリスの癒し	Cure of Eris	1	skill.hsp:419	艾莉絲的治癒
+技能	ジュアの癒し	Cure of Jure	1	skill.hsp:424	朱亞的治癒
+技能	治癒の雨	Healing Rain	1	skill.hsp:429	治癒之雨
+技能	癒しの手	Healing Touch	1	skill.hsp:434	治癒之手
+技能	清浄なる光	Holy Light	1	skill.hsp:439	清淨之光
+技能	全浄化	Vanquish Hex	1	skill.hsp:444	全淨化
+技能	テレポート	Teleport	1	skill.hsp:449	傳送
+技能	テレポートアザー	Teleport Other	1	skill.hsp:454	傳送他人
+技能	ショートテレポート	Short Teleport	1	skill.hsp:459	短距傳送
+技能	鑑定	Identify	1	skill.hsp:464	鑑定
+技能	解呪	Uncurse	1	skill.hsp:469	解咒
+技能	神託	Oracle	1	skill.hsp:474	神諭
+技能	魔法の矢	Magic Dart	1	skill.hsp:479	魔法箭
+技能	地獄の吐息	Nether Sigh	1	skill.hsp:484	地獄吐息
+技能	神経の針	Nerve Needle	1	skill.hsp:489	神經之針
+技能	混沌の瞳	Chaos Eye	1	skill.hsp:494	混沌之瞳
+技能	暗黒の楔	Darkness Wedge	1	skill.hsp:499	黑暗之楔
+技能	アイスボルト	Ice Bolt	1	skill.hsp:504	冰箭
+技能	ファイアボルト	Fire Bolt	1	skill.hsp:509	火焰箭
+技能	ライトニングボルト	Lightning Bolt	1	skill.hsp:514	雷電箭
+技能	ダークネスボルト	Darkness Bolt	1	skill.hsp:519	黑暗箭
+技能	マインドボルト	Mind Bolt	1	skill.hsp:524	精神箭
+技能	ネザーボルト	Nether Bolt	1	skill.hsp:529	冥界箭
+技能	ポイズンボルト	Poison Bolt	1	skill.hsp:534	毒箭
+技能	サウンドボルト	Sound Bolt	1	skill.hsp:539	音波箭
+技能	カオスボルト	Chaos Bolt	1	skill.hsp:544	混沌箭
+技能	ナーブボルト	Nerve Bolt	1	skill.hsp:549	神經箭
+技能	モンスター召喚	Summon Monsters	1	skill.hsp:554	召喚怪物
+技能	野生召喚	Summon Wild	1	skill.hsp:559	召喚野獸
+技能	帰還	Return	1	skill.hsp:564	歸還
+技能	魔法の地図	Magic Map	1	skill.hsp:569	魔法地圖
+技能	物質感知	Sense Object	1	skill.hsp:574	物質感知
+技能	氷結の波動	Freezing Wave	1	skill.hsp:579	冰結波動
+技能	灼熱の嵐	Burning Storm	1	skill.hsp:584	灼熱風暴
+技能	混沌の渦	Chaos Vortex	1	skill.hsp:589	混沌漩渦
+技能	轟音の波動	Howling Wave	1	skill.hsp:594	轟音波動
+技能	支配	Dominate	1	skill.hsp:599	支配
+技能	蜘蛛の巣	Web	1	skill.hsp:604	蜘蛛網
+技能	闇の霧	Mist of Darkness	1	skill.hsp:609	黑暗之霧
+技能	壁生成	Wall Creation	1	skill.hsp:614	生成牆壁
+技能	肉体復活	Restore Body	1	skill.hsp:619	肉體復原
+技能	精神復活	Restore Spirit	1	skill.hsp:624	精神復原
+技能	願い	Wish	1	skill.hsp:629	許願
+技能	自己の変容	Mutation	1	skill.hsp:694	自我變異
+技能	酸の海	Acid Ground	1	skill.hsp:699	酸之海
+技能	炎の壁	Fire Wall	1	skill.hsp:704	火牆
+技能	ドア生成	Door Creation	1	skill.hsp:709	生成門扉
+技能	火炎の爪	Fire Claw	1	skill.hsp:719	火焰之爪
+技能	冷気の刃	Cold Blade	1	skill.hsp:724	冰冷之刃
+技能	電撃の槍	Lightning Spear	1	skill.hsp:729	雷擊之槍
+技能	幻惑の棘	Mind Thorn	1	skill.hsp:734	幻惑之棘
+技能	毒の粘液	Poison Mucus	1	skill.hsp:739	毒黏液
+技能	音の砲弾	Sound Cannonball	1	skill.hsp:744	音波砲彈
+技能	水の牙	Hydro Fang	1	skill.hsp:749	水之牙
+技能	マジックボルト	Magic Bolt	1	skill.hsp:754	魔力箭
+技能	魔力の嵐	Magic Storm	1	skill.hsp:759	魔力風暴
+技能	復活	Resurrection	1	skill.hsp:764	復活
+技能	四次元ポケット	4-Dimensional Pocket	1	skill.hsp:774	四次元口袋
+技能	魔術士の収穫	Wizard's Harvest	1	skill.hsp:779	魔術士的收穫
+技能	メテオ	Meteor	1	skill.hsp:784	隕石
+技能	グラビティ	Gravity	1	skill.hsp:789	重力
+技能	精霊召喚	Summon Spirit	1	skill.hsp:794	召喚精靈
+技能	月蝕の檻	Eclipse Jail	1	skill.hsp:804	月蝕之牢
+技能	雷霆の渦	Thunder Vortex	1	skill.hsp:809	雷霆漩渦
+技能	冥王の咆哮	Nether Roar	1	skill.hsp:814	冥王咆哮
+技能	光の霧	Mist of Dazzling	1	skill.hsp:819	光之霧
+技能	猛毒の嵐	Poison Storm	1	skill.hsp:824	猛毒風暴
+技能	夢幻の咆哮	Illusion Roar	1	skill.hsp:829	夢幻咆哮
+技能	苦悶の檻	Anguish Jail	1	skill.hsp:834	苦悶之牢
+技能	ハイドロボルト	Hydro Bolt	1	skill.hsp:844	水箭
+技能	泡沫の嵐	Bubble Storm	1	skill.hsp:849	泡沫風暴
+技能	吸血の牙	Drain Blood	1	skill.hsp:860	吸血之牙
+技能	火炎放射	Fire Breath	1	skill.hsp:864	火焰吐息
+技能	冷気放射	Cold Breath	1	skill.hsp:868	冰冷吐息
+技能	電撃放射	Lightning Breath	1	skill.hsp:872	雷擊吐息
+技能	暗黒放射	Darkness Breath	1	skill.hsp:876	黑暗吐息
+技能	混沌放射	Chaos Breath	1	skill.hsp:880	混沌吐息
+技能	轟音放射	Sound Breath	1	skill.hsp:884	轟音吐息
+技能	冥気放射	Nether Breath	1	skill.hsp:888	冥氣吐息
+技能	神経波放射	Nerve Breath	1	skill.hsp:892	神經波吐息
+技能	猛毒放射	Poison Breath	1	skill.hsp:896	猛毒吐息
+技能	幻影放射	Mind Breath	1	skill.hsp:900	幻影吐息
+技能	エネルギー放射	Power Breath	1	skill.hsp:904	能量吐息
+技能	弱体化の手	Touch of Weakness	1	skill.hsp:908	弱化之手
+技能	飢餓の手	Touch of Hunger	1	skill.hsp:912	飢餓之手
+技能	毒の手	Touch of Poison	1	skill.hsp:916	毒之手
+技能	麻痺の手	Touch of Paralyze	1	skill.hsp:920	麻痺之手
+技能	恐怖の手	Touch of Fear	1	skill.hsp:924	恐懼之手
+技能	眠りの手	Touch of Sleep	1	skill.hsp:928	睡眠之手
+技能	シャドウステップ	Shadow Step	1	skill.hsp:932	暗影步
+技能	異次元の手	Draw Shadow	1	skill.hsp:936	異次元之手
+技能	マナ回復	Harvest Mana	1	skill.hsp:940	魔力回復
+技能	神罰	Punishment	1	skill.hsp:944	神罰
+技能	ジュアの祈り	Prayer of Jure	1	skill.hsp:948	朱亞的祈禱
+技能	魔力の吸収	Absorb Magic	1	skill.hsp:952	魔力吸收
+技能	ポージング	Posing	1	skill.hsp:956	擺姿勢
+技能	精神分析	Psychoanalysis	1	skill.hsp:964	精神分析
+技能	空間歪曲	Dimensional Move	2	skill.hsp:968	空間扭曲
+技能	他者変容	Change	1	skill.hsp:972	他者變異
+技能	魔力の抽出	Draw Charge	1	skill.hsp:976	魔力抽取
+技能	魔力の充填	Fill Charge	1	skill.hsp:980	魔力充填
+技能	スウォーム	Swarm	1	skill.hsp:984	蜂擁
+技能	変容の眼差し	Eye of Mutation	1	skill.hsp:988	變異凝視
+技能	エーテルの眼差し	Eye of Ether	1	skill.hsp:992	以太凝視
+技能	エーテルの海	Ether Ground	1	skill.hsp:996	以太之海
+技能	スリの指	Suspicious Hand	1	skill.hsp:1000	扒手之指
+技能	狂気の眼差し	Eye of Insanity	1	skill.hsp:1004	瘋狂凝視
+技能	狂気治癒の雨	Rain of Sanity	1	skill.hsp:1008	治癒瘋狂之雨
+技能	朦朧の眼差し	Eye of Dimness	1	skill.hsp:1012	朦朧凝視
+技能	猫召喚	Summon Cats	1	skill.hsp:1016	召喚貓
+技能	イーク召喚	Summon Yeek	1	skill.hsp:1020	召喚伊克
+技能	駒召喚	Summon Pawn	1	skill.hsp:1024	召喚棋子
+技能	炎召喚	Summon Fire	1	skill.hsp:1028	召喚火焰
+技能	妹召喚	Summon Sister	1	skill.hsp:1032	召喚妹妹
+技能	自爆	Suicide Attack	1	skill.hsp:1036	自爆
+技能	呪いの言葉	Curse	1	skill.hsp:1040	詛咒之言
+技能	罵倒	Insult	1	skill.hsp:1052	辱罵
+技能	衝撃波動	Shining Wave	1	skill.hsp:1056	衝擊波動
+技能	遠距離打撃７	Distant Attack 7	1	skill.hsp:1060	遠距離打擊７
+技能	食い漁り	Scavenge	1	skill.hsp:1064	覓食
+技能	マナの眼差し	Eye of Mana	1	skill.hsp:1068	魔力凝視
+技能	退却	Vanish	1	skill.hsp:1072	撤退
+技能	寄生攻撃	Parasitize	1	skill.hsp:1076	寄生攻擊
+技能	脳髄寄生攻撃	Brain Parasitize	1	skill.hsp:1080	腦髓寄生攻擊
+技能	グレネード	Grenade	1	skill.hsp:1084	手榴彈
+技能	鼓舞	Cheer	1	skill.hsp:1088	鼓舞
+技能	救援要請	Rescue request	1	skill.hsp:1092	請求救援
+技能	うみみゃぁ！	Mewmewmew!	1	skill.hsp:1096	海喵～！
+技能	首狩り	Decapitation	1	skill.hsp:1100	斬首
+技能	地雷投下	Drop Mine	1	skill.hsp:1104	投放地雷
+技能	マニの分解術	Mani's Disassembly	1	skill.hsp:1108	瑪尼的分解術
+技能	病愛波動	Insane Wave	1	skill.hsp:1112	病嬌波動
+技能	超振動拳	Super Vibrating Fist	1	skill.hsp:1116	超振動拳
+技能	嵐の流法	Tempest Arrow	1	skill.hsp:1120	風暴流法
+技能	閃華裂光	Excessive Heal	1	skill.hsp:1124	閃華裂光
+技能	シャインスネイル	Shine Snail	1	skill.hsp:1128	閃光蝸牛
+技能	土竜乱舞	Houzanha	1	skill.hsp:1132	土龍亂舞
+技能	マナの解放	Mana Burst	1	skill.hsp:1136	魔力解放
+技能	エレメンティア	Elementia	1	skill.hsp:1140	元素之力
+技能	ランページ	Rampage	1	skill.hsp:1144	狂暴
+技能	ゴールドラッシュ	Gold Rush	1	skill.hsp:1148	淘金熱
+技能	魂のシンクロ	Synchro Hearts	1	skill.hsp:1152	靈魂同步
+技能	魔法の口づけ	Magic Kiss	1	skill.hsp:1156	魔法之吻
+技能	プレッシャー	Pressure	1	skill.hsp:1164	威壓
+技能	眷属召喚	Summon Chaos	1	skill.hsp:1168	召喚眷屬
+技能	アンサンブル	Ensemble	1	skill.hsp:1172	合奏
+技能	戦術指示	Directive	1	skill.hsp:1180	戰術指示
+技能	プラチナソング	Platinum Song	1	skill.hsp:1184	白金之歌
+技能	挑発	Provoke	1	skill.hsp:1188	挑釁
+技能	束縛	Bind	1	skill.hsp:1192	束縛
+技能	威嚇	Browbeat	1	skill.hsp:1196	威嚇
+技能	洗脳の眼差し	Eye of Brainwashing	1	skill.hsp:1200	洗腦凝視
+技能	コールファミリア	Call Familiar	1	skill.hsp:1204	呼喚使魔
+技能	爆裂拳	Explosive Fist	1	skill.hsp:1208	爆裂拳
+技能	何もしない	Do Nothing	1	skill.hsp:1228	什麼也不做
+技能	重力球	Gravity Sphere	1	skill.hsp:1232	重力球
+技能	一斉射撃	Fire a Volley	1	skill.hsp:1248	齊射
+技能	焼けつく波動	Megid Flame	1	skill.hsp:1256	灼燒波動
+技能	強制連行	Forced Draft	1	skill.hsp:1260	強制押送
+技能	高速ラッシュ	Continuous Attacks	1	skill.hsp:1264	高速連擊
+技能	可変放射	Variable Breath	1	skill.hsp:1268	可變吐息
+技能	神気発勝	Divine Stream	1	skill.hsp:1272	神氣發勝
+技能	零の間撃	Zero Shoot	1	skill.hsp:1276	零之間擊
+技能	愛撫の手	Rubbing	1	skill.hsp:1280	愛撫之手
+技能	直輸血	Direct Transfusion	1	skill.hsp:1284	直接輸血
+技能	電気衝駆	Electric Shock	1	skill.hsp:1288	電氣衝驅
+技能	神速縫合	Instant Suture	1	skill.hsp:1292	神速縫合
+技能	<能力の制限>	<Limit Power>	1	skill.hsp:1296	<能力限制>
+技能	<リミッター解除>	<Limiter Vanish>	1	skill.hsp:1300	<解除限制器>
+技能	神速の一閃	Flash of Swiftness	1	skill.hsp:1304	神速一閃
+技能	逆手落とし	Underhand Drop	1	skill.hsp:1308	反手摔
+技能	大烈断	Bisection	1	skill.hsp:1312	大烈斷
+技能	砦崩し	Pulverization	1	skill.hsp:1316	破寨
+技能	朧突き	Penetration	1	skill.hsp:1320	朧突
+技能	怒涛の連撃	Dance of Blow	1	skill.hsp:1324	怒濤連擊
+技能	魂の一撃	Explosion	1	skill.hsp:1328	靈魂一擊
+技能	スクイーズ	Squeeze	1	skill.hsp:1336	擠壓
+技能	撹乱	Disturbance	1	skill.hsp:1340	擾亂
+技能	樹木の伐採	Cut Tree	1	skill.hsp:1344	伐木
+技能	説法	Preaching	1	skill.hsp:1348	說法
+技能	本気物乞い	Serious Begging	1	skill.hsp:1352	認真乞討
+技能	収束放射	Converge Breath	1	skill.hsp:1360	收束吐息
+技能	刻の涙	Time Stop	1	skill.hsp:1364	時之淚
+技能	零の間撃・突型	Piercing Zero Shoot	1	skill.hsp:1368	零之間擊・突型
+技能	爆栓連発	Hyper Plug Burst	1	skill.hsp:1372	爆栓連發
+技能	魔儀迦	Diffusion Wave	1	skill.hsp:1376	魔儀迦
+技能	神填の杖	God charge Rod	1	skill.hsp:1380	神填之杖
+技能	同化吸収	Assimilate	1	skill.hsp:1384	同化吸收
+技能	オーバーブースト	Over Boost	1	skill.hsp:1388	超限強化
+技能	レゾナントボイス	Resonant Voice	1	skill.hsp:1396	共鳴之聲
+技能	ダイナミックエール	Dynamic Yell	1	skill.hsp:1400	激昂聲援
+技能	鬼神縛り	Kijin Shibari	1	skill.hsp:1404	鬼神縛
+技能	灼熱絵巻	Burn Scrolls	1	skill.hsp:1408	灼熱繪卷
+技能	デスバインド	Death Bind	1	skill.hsp:1416	死亡束縛
+技能	降り注ぐ胞子	Downpour Spore	1	skill.hsp:1420	傾注孢子
+技能	精神破壊光	Mind Break	1	skill.hsp:1424	精神破壞光
+技能	光輝の手	Hand of Splendor	1	skill.hsp:1428	光輝之手
+技能	グラビトンバスター	Graviton Buster	1	skill.hsp:1432	重力子破壞者
+技能	魔刃狩り	Mana Slash	1	skill.hsp:1436	魔刃獵殺
+技能	力の集約	Intensive Power	1	skill.hsp:1440	力量集約
+技能	遠距離打撃	Distant Attack	1	skill.hsp:1448	遠距離打擊
+技能	超輪転	Spinning Throw	1	skill.hsp:1452	超輪轉
+技能	メタルコート	Metal Guard	1	skill.hsp:1456	金屬鍍層
+技能	迅雷脚	Thunderclap Kick	1	skill.hsp:1460	迅雷腳
+技能	ストラックアウト	Struck Out	1	skill.hsp:1464	三振出局
+技能	悩殺攻撃	Bewitch	1	skill.hsp:1468	魅惑攻擊
+技能	全軍突撃	Shadow Rush	1	skill.hsp:1472	全軍突擊
+技能	【命乞い】	<Clementia>	1	skill.hsp:1480	【求饒】
+技能	ボディブロー	Body Blow	1	skill.hsp:1484	腹擊
+技能	ポーカーフォース	Poker Force	1	skill.hsp:1488	撲克之力
+技能	ネクロフォース	Necro Force	1	skill.hsp:1492	死靈之力
+技能	アクセルネクロ	Accel Necro	1	skill.hsp:1496	加速死靈
+技能	道連れ	Close Suicide	1	skill.hsp:1500	同歸於盡
+技能	ノックアウト攻撃	Knockout	1	skill.hsp:1504	擊昏攻擊
+技能	多重詠唱魔法	Over-Ray	1	skill.hsp:1508	多重詠唱魔法
+技能	地砕き	Smash Ground	1	skill.hsp:1512	碎地
+技能	貪食の牙	Voracity Fang	1	skill.hsp:1516	貪食之牙
+技能	シャークトレード	Shark Trade	1	skill.hsp:1520	鯊魚交易
+技能	盾殴り	Shield Strike	2	skill.hsp:1524	盾擊
+技能	錬成雨	Alchemical Rain	1	skill.hsp:1532	鍊成之雨
+技能	液体操作弾	Liquid Manipulation	1	skill.hsp:1536	液體操作彈
+技能	強制集合	Multiple Gather	1	skill.hsp:1540	強制集合
+技能	サイキックウェーブ	Psychic Wave	1	skill.hsp:1544	心靈波
+技能	読書会	Reading Party	1	skill.hsp:1548	讀書會
+技能	漏出する狂気	Love Crafting	1	skill.hsp:1552	洩漏的瘋狂
+技能	デュプリケイン	Dupli-Cane	1	skill.hsp:1556	複製手杖
+技能	破錠攻撃	Lock Break	1	skill.hsp:1560	破鎖攻擊
+技能	侵食の毒牙	Memory Poison	1	skill.hsp:1564	侵蝕毒牙
+技能	乱れ切風	Blade Turbulence	1	skill.hsp:1568	亂切之風
+技能	捨て身	Clash Rush	1	skill.hsp:1572	捨身
+技能	破滅の歌	Death Song	1	skill.hsp:1576	破滅之歌
+技能	マルチロック射撃	Homing Laser	1	skill.hsp:1580	多重鎖定射擊
+技能	仕込み爆薬	Hidden Explosive	1	skill.hsp:1584	暗藏炸藥
+技能	ロケットブースト	Rocket Boost	1	skill.hsp:1588	火箭推進
+技能	誘導爆撃	Guided Bombing	1	skill.hsp:1592	導引轟炸
+技能	破壊の奔流	MP Breath	1	skill.hsp:1596	破壞奔流
+技能	血の結束	Bound in Blood	1	skill.hsp:1600	血之羈絆
+技能	沈黙の海	Silent Ocean	1	skill.hsp:1604	沉默之海
+技能	亜空釣り	Dimension Fishing	1	skill.hsp:1608	亞空間釣魚
+技能	魅了の舞	Fascination Dance	1	skill.hsp:1612	魅惑之舞
+技能	ヴィンデリアン柔術	Vindalian Jiu-jitsu	1	skill.hsp:1616	溫德利亞柔術
+技能	高度詠唱陣	Advanced Casting	1	skill.hsp:1624	高階詠唱陣
+技能	ヒップアタック	Hip Attack	1	skill.hsp:1628	臀擊
+技能	ブレードストリングス	Blade Strings	1	skill.hsp:1632	刃弦
+技能	踊る鋼線	Dancing Wire	1	skill.hsp:1636	舞動鋼線
+技能	姉の眼差し	Eye of Ane	1	skill.hsp:1640	姊姊的凝視
+技能	硬直の眼差し	Eye of Stiffen	1	skill.hsp:1644	僵直凝視
+技能	幻惑の眼差し	Eye of Illusion	1	skill.hsp:1648	幻惑凝視
+技能	殲滅可変放射	Extermination Breath	1	skill.hsp:1652	殲滅可變吐息
+技能	マテリアライズ	Materialize	1	skill.hsp:1660	具現化
+技能	戦慄の笑顔	Cowering Smile	1	skill.hsp:1664	戰慄的笑容
+技能	スマイルフィールド	Smile Field	1	skill.hsp:1668	微笑領域
+技能	砲弾発射	Rocket Fire	1	skill.hsp:1680	發射砲彈
+技能	核発射	Nuclear Fire	1	skill.hsp:1684	發射核彈
+技能	デフレストーム	Golden Storm	1	skill.hsp:1688	通縮風暴
+技能	超重圧殺	Giga Gravitation	1	skill.hsp:1696	超重壓殺
+技能	暴虐の庭園	Violent Garden	1	skill.hsp:1704	暴虐庭園
+技能	強烈花粉砲	Pollen Cannon	1	skill.hsp:1708	強烈花粉砲
+技能	ミストルティン	Misteltein	1	skill.hsp:1712	槲寄生之箭
+技能	アロマゲドン	Aromageddon	1	skill.hsp:1716	芳香末日
+技能	黒煙のトバリ	Curtain of Smoke	1	skill.hsp:1720	黑煙之幕
+技能	煙吐く鏡	Smoke Mirror	1	skill.hsp:1724	吐煙之鏡
+技能	超認識	Mirror	1	skill.hsp:1728	超認知
+技能	溶解クリンチ	Melt Clinch	1	skill.hsp:1732	溶解纏抱
+技能	無形の枷	Formless Fetter	1	skill.hsp:1736	無形枷鎖
+技能	鮮血の撃刃	Blood Stream	1	skill.hsp:1740	鮮血擊刃
+技能	怒りの爆炎	Flame of Rage	1	skill.hsp:1744	怒之爆炎
+技能	重衝撃断動弾	Impact Gunfire	1	skill.hsp:1748	重衝擊斷動彈
+技能	壱点連弾銃	One Point Shoot	1	skill.hsp:1752	一點連彈槍
+技能	臨界粒子砲	Critical Particle Cannon	1	skill.hsp:1756	臨界粒子砲
+技能	兜裂き	Helm Smasher	1	skill.hsp:1760	裂盔
+技能	浴びせ滝矢射	Arrow Rain	1	skill.hsp:1764	瀑布箭雨
+技能	腐食の烈風	Acid Hurricane	1	skill.hsp:1768	腐蝕烈風
+技能	神威	Kamui	1	skill.hsp:1772	神威
+技能	地獄の責め苦	Blame Pain	1	skill.hsp:1776	地獄折磨
+技能	*勝利*	<Win>	1	skill.hsp:1780	*勝利*
+技能	個別指導	Individual Leading	1	skill.hsp:1788	個別指導
+技能	【合体攻撃発動】	<Unison Impact>	1	skill.hsp:1792	【合體攻擊發動】
+技能	集団催眠	Group Hypnosis	1	skill.hsp:1796	集體催眠
+技能	神経支配の糸	Thread of Innervation	1	skill.hsp:1800	神經支配之線
+技能	マグネコート	Magnecoat	1	skill.hsp:1804	磁力外衣
+技能	リニアランチャー	Linear Launcher	1	skill.hsp:1808	線性發射器
+技能	電磁獄	E-Mag Cage	1	skill.hsp:1812	電磁獄
+技能	超電磁トルネード	E-Mag Tornado	1	skill.hsp:1816	超電磁龍捲
+技能	弦葬世界	Wire World	1	skill.hsp:1820	弦葬世界
+技能	ロックラッシャー	Rocrusher	1	skill.hsp:1824	碎岩者
+技能	くすぐり天地獄	Tickling Hell	1	skill.hsp:1828	搔癢天地獄
+技能	マーキング	Marking	1	skill.hsp:1832	標記
+技能	グランドフィナーレ	Grand Finale	1	skill.hsp:1836	盛大終曲
+技能	メモリーデリート	Data Delete	1	skill.hsp:1840	記憶刪除
+技能	シャイニングスロー	Shining Throw	1	skill.hsp:1844	閃耀投擲
+技能	砂塵砲	Sand Cannon	1	skill.hsp:1848	沙塵砲
+技能	飛獣送り	Dispatch Flying Beast	1	skill.hsp:1852	送走飛獸
+技能	首狩り攻撃	Decapitation	1	skill.hsp:1860	斬首攻擊
+技能	アナフィラキシー	Anaphylaxis	1	skill.hsp:1864	過敏性休克
+技能	荒ぶるダイス	Destiny dice	1	skill.hsp:1872	狂暴骰子
+技能	ハザードレシピ	Hazard Recipe	1	skill.hsp:1876	危險食譜
+技能	カスタムチェンジ	Custom Change	1	skill.hsp:1880	自訂變更
+技能	ヴェノトレイト	Venotrate	1	skill.hsp:1884	毒性滲透
+技能	全力説得	Persuasion	1	skill.hsp:1888	全力說服
+技能	渾身のギャグ	Peculiar Joke	1	skill.hsp:1892	渾身笑話
+技能	少しの大嘘	Blended Lie	1	skill.hsp:1896	小小的大謊
+技能	脅迫地獄	Intimidation	1	skill.hsp:1900	脅迫地獄
+技能	魔唱	Mysterious Song	1	skill.hsp:1904	魔唱
+技能	響く声援	Genuine cheering	1	skill.hsp:1908	響亮聲援
+技能	スタンスセレクト	Stance Select	1	skill.hsp:1912	架勢選擇
+技能	快楽の園	Tuin der Lusten	1	skill.hsp:1916	快樂花園
+技能	破滅催眠	Destrudo Hypnotism	1	skill.hsp:1920	破滅催眠
+技能	シャドウホップ	Shadow Hop	1	skill.hsp:1924	暗影跳
+技能	シャドウジャンプ	Shadow Jump	1	skill.hsp:1928	暗影躍
+技能	飛跳殺法	Jumping Drop	1	skill.hsp:1932	飛躍殺法
+技能	奇襲穿孔	Diving Drill	1	skill.hsp:1936	奇襲穿孔
+技能	聖者の光刃	Saint Blade	1	skill.hsp:1940	聖者光刃
+技能	浄化の波動	Purification	1	skill.hsp:1944	淨化波動
+技能	エンジェルハイロゥ	Angel Halo	1	skill.hsp:1948	天使光環
+技能	紙隠し	Kamikakushi	1	skill.hsp:1952	紙隱
+技能	懲罰の光	Reprimand	1	skill.hsp:1956	懲罰之光
+技能	式折神・幻惑折鶴	ShikiOrigami-Crane	1	skill.hsp:1960	式折神・幻惑紙鶴
+技能	式折神・荒紙手裏剣	ShikiOrigami-Shuriken	1	skill.hsp:1964	式折神・荒紙手裏劍
+技能	式折神・紙風飛行機	ShikiOrigami-Airplane	1	skill.hsp:1968	式折神・紙風飛機
+技能	短距離走者	Short Distance Runner	1	trait.hsp:11	短跑者
+技能	中距離走者	Middle Distance Runner	1	trait.hsp:11	中距離跑者
+技能	長距離走者	Long Distance Runner	1	trait.hsp:11	長跑者
+技能	吸血鬼	Vampiric Ability	1	trait.hsp:22	吸血鬼
+技能	指導者	Natural Leader	1	trait.hsp:36	指導者
+技能	手加減	Knockout	1	trait.hsp:50	手下留情
+技能	魔眼	Magic Eye	1	trait.hsp:64	魔眼
+技能	魔導植物の知識	Magical plant knowledge	1	trait.hsp:78	魔導植物知識
+技能	火炎芸	Fire Breath	1	trait.hsp:106	噴火表演
+技能	催眠術師	Hypnotism	1	trait.hsp:120	催眠師
+技能	毒の知恵	Poison Nail	1	trait.hsp:134	毒之智慧
+技能	舞踏	Sexy Dance	2	trait.hsp:148	舞蹈
+技能	力の暴走	Uncontrollable power	3	trait.hsp:162	力量暴走
+技能	見習い会計士	Apprentice Accountant	1	trait.hsp:176	見習會計
+技能	熟練会計士	Expert Accountant	1	trait.hsp:176	熟練會計
+技能	見習い補給係	Apprentice Quartermaster	1	trait.hsp:187	見習補給員
+技能	熟練補給係	Expert Quartermaster	1	trait.hsp:187	熟練補給員
+技能	祈祷師	Exorcist	1	trait.hsp:198	祈禱師
+技能	孤高	Independent	1	trait.hsp:209	孤高
+技能	迅馬一体	Mount Bond	1	trait.hsp:220	迅馬一體
+技能	爆魔	Bomber	1	trait.hsp:231	爆魔
+技能	重力制御	Gravity Control	2	trait.hsp:245	重力控制
+技能	柔術	Jiu-jitsu	2	trait.hsp:259	柔術
+技能	磁力操作	Magnetic Manipulate	2	trait.hsp:273	磁力操作
+技能	優しい笑顔	Gentle Face	1	trait.hsp:302	溫柔的笑容
+技能	二刀流の習熟	Ambidextrous	1	trait.hsp:313	二刀流熟練
+技能	二刀流の達人	Improved Ambidextrous	1	trait.hsp:313	二刀流達人
+技能	暗闇への適正	Conquer Darkness	1	trait.hsp:328	適應黑暗
+技能	暗闇への強い適正	Conquer Deep Darkness	1	trait.hsp:328	高度適應黑暗
+技能	免疫	Poison Tolerance	1	trait.hsp:340	免疫
+技能	強い免疫	More Poison Tolerance	1	trait.hsp:340	強免疫
+技能	共感上手	Empathy	2	trait.hsp:352	善於共鳴
+技能	聖者	Saint	2	trait.hsp:369	聖者
+技能	幸運の持ち主	Lucky	1	trait.hsp:383	幸運兒
+技能	類稀な幸運	Incredibly Lucky	1	trait.hsp:383	罕見的好運
+技能	幸運の女神の寵愛	Goddess of Luck	1	trait.hsp:383	幸運女神的寵愛
+技能	苦行者見習い	Apprentice Ascetic	1	trait.hsp:395	見習苦行者
+技能	苦行者	Journeyman Ascetic	1	trait.hsp:395	苦行者
+技能	熟練の苦行者	Expert Ascetic	1	trait.hsp:395	熟練苦行者
+技能	苦行の達人	Master Ascetic	1	trait.hsp:395	苦行達人
+技能	伝説的苦行者	Legendary Ascetic	1	trait.hsp:395	傳說中的苦行者
+技能	魔力の遺伝子	Magical Gene	1	trait.hsp:407	魔力基因
+技能	魔力の細胞	Magical Cell	1	trait.hsp:407	魔力細胞
+技能	魔力の血液	Magical Blood	1	trait.hsp:407	魔力血液
+技能	魔力の肉体	Magic Body	1	trait.hsp:407	魔力肉體
+技能	魔力の支配	Magic Being	1	trait.hsp:407	魔力支配
+技能	糸使い	Strings Assassin	2	trait.hsp:419	操線者
+技能	超加速	Super Accel	2	trait.hsp:433	超加速
+技能	地気利用	Ground Manipulater	3	trait.hsp:445	地氣利用
+技能	見極め	Discernment	3	trait.hsp:459	明辨
+技能	式折神	Shiki-Origami	3	trait.hsp:470	式折神

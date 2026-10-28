@@ -1,0 +1,25 @@
+# third-party code and tools (see README for where to get them)
+src/
+repo_ref/
+hsp34/
+dl/
+
+# build outputs and scratch
+work/src_*/
+work/selftest/
+work/zhtest/
+work/data_*/
+work/zh_text.*
+work/*.log
+work/mt/*.log
+work/strings.before*.tsv
+work/data_untranslated.tsv
+work/skipped.tsv
+build-src.txt
+build-*.log
+*.exe
+*.ax
+packfile
+obj
+__pycache__/
+work/mt/polish.tsv

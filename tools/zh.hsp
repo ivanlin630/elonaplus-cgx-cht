@@ -1,0 +1,66 @@
+; zh.hsp - runtime text table for the Chinese translation.
+; Translated strings are not compiled into the exe (the HSP compiler only
+; understands Shift-JIS). The source calls zh(N); the text lives in
+;   data\zh_text.bin : all entries, each ending with a 0 byte (Big5/GBK bytes)
+;   data\zh_text.idx : int32 count, then int32 byte offset of every entry
+; Included at the END of main.hsp: its variables and DLL imports must come
+; after every original one (plugins such as ADDT address game variables by
+; index, so anything inserted earlier shifts them and breaks NPC scripts).
+; Only byte-level commands (bload/memcpy/poke) touch the text: HSP's string
+; commands assume Shift-JIS and would mis-split Chinese bytes.
+#module zhmod
+#deffunc zh_load
+	zhn = 0
+	sdim zhbuf, 64
+	dim zhoff, 1
+	zhidx = dir_exe + "\\data\\zh_text.idx"
+	zhbin = dir_exe + "\\data\\zh_text.bin"
+	exist zhidx
+	if strsize <= 0 : return
+	dim zhoff, strsize / 4 + 1
+	bload zhidx, zhoff
+	exist zhbin
+	if strsize <= 0 : return
+	sdim zhbuf, strsize + 4
+	bload zhbin, zhbuf
+	zhn = zhoff(0)
+	return
+#defcfunc zh int _zhid
+	if (_zhid < 0) | (_zhid >= zhn) : return ""
+	zhp = zhoff(_zhid + 1)
+	zhl = zhoff(_zhid + 2) - zhp - 1
+	if zhl <= 0 : return ""
+	sdim zhs, zhl + 4
+	memcpy zhs, zhbuf, zhl, 0, zhp
+	poke zhs, zhl, 0
+	return zhs
+#uselib "gdi32.dll"
+#cfunc zhw_GetCurrentObject "GetCurrentObject" int, int
+#cfunc zhw_GetObjectA "GetObjectA" int, int, var
+#cfunc zhw_CreateFontIndirectA "CreateFontIndirectA" var
+#cfunc zhw_SelectObject "SelectObject" int, int
+#uselib "kernel32.dll"
+#cfunc zhw_GetACP "GetACP"
+
+; zh translation: make the current window's font follow the system code page
+#deffunc zh_fontfix
+	if zhfont_acp == 0 : zhfont_acp = zhw_GetACP() : dim zhfont_key, 64 : dim zhfont_h, 64 : zhfont_n = 0
+	if zhfont_acp == 932 : return
+	dim zhlf, 16
+	zhhf = zhw_GetCurrentObject(hdc, 6)
+	if zhw_GetObjectA(zhhf, 60, zhlf) == 0 : return
+	zhkey = zhlf(0) * 4096 + zhlf(4) * 2 + peek(zhlf, 20)
+	zhhit = -1
+	repeat zhfont_n
+		if zhfont_key(cnt) == zhkey : zhhit = cnt : break
+	loop
+	if zhhit >= 0 : zhi = zhw_SelectObject(hdc, zhfont_h(zhhit)) : return
+	poke zhlf, 23, 1
+	memset zhlf, 0, 32, 28
+	if zhfont_acp == 936 { poke zhlf, 28, "SimSun" } else { poke zhlf, 28, "MingLiU" }
+	zhhf = zhw_CreateFontIndirectA(zhlf)
+	if zhhf == 0 : return
+	if zhfont_n < 64 : zhfont_key(zhfont_n) = zhkey : zhfont_h(zhfont_n) = zhhf : zhfont_n++
+	zhi = zhw_SelectObject(hdc, zhhf)
+	return
+#global
