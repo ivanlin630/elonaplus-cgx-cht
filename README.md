@@ -56,14 +56,45 @@ C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe -NoProfile -ExecutionP
 
 ### data 資料夾的文字檔（閒聊、書、說明書…）
 
-這些檔案的中文來自 Elona+ 2.30 簡中漢化版，屬於漢化組的作品，**不在本 repo 內**。
-手上有 2.30 簡中版的人可以自己轉：
+也是我們自己從 Custom-GX 的日文 data 機翻的（`tools/data_tr.py`）：
 
 ```bash
-python -I tools/merge_data.py "<Custom-GX 遊戲>/data" "<2.30 簡中版>/data" work/data_sjis
+python -I tools/data_tr.py collect "<Custom-GX 遊戲>/data"   # 列出待譯單位 work/data_units.txt
+python -I tools/mt_sakura.py --lines work/data_units.txt
+python -I tools/data_tr.py build "<Custom-GX 遊戲>/data" work/data_zh
 ```
 
-以 Custom-GX 的日文 data 為骨架，逐段對上簡中譯文、轉繁體、存成 Shift-JIS。`autopick.txt` 原樣保留（裡面的日文是程式比對用的關鍵字）。
+閒聊、提示、委託、說明書逐行翻；書的內文先把硬換行併回段落再翻、照 20 個全形字重新換行；
+隨機人名的音節（name.csv）用固定音譯表；隨機稱號詞彙（ndata.csv）逐欄翻、分類欄不動。
+`{だ}`、`{player}`、`<emp1>` 等標記全部原樣保留。`ndata-e.csv`、`autopick.txt` 不動。
+
+（`tools/merge_data.py` 是舊做法：拿 2.30 簡中漢化版的譯文轉繁體。那是漢化組的作品，本 repo 不含其輸出。）
+
+### 一次重建
+
+```bash
+bash tools/rebuild.sh "<Custom-GX 遊戲>/data"
+```
+
+依序抽取、填譯文、寫回、修補、劇情、data、結構檢查、編譯。不會自動跑機翻；報告裡有未譯句子時先跑 `tools/mt_sakura.py`。
+
+## 更新到新版 Custom-GX
+
+1. 換掉 `src/` 為新版原始碼。
+2. `bash tools/rebuild.sh` 第一次跑：譯文是用**日文原文**對應的，沒變的句子自動沿用舊譯文（名詞表、機翻、潤稿、語尾表、人工修正都是），報告會列出新增的未譯句數。
+3. `python -I tools/mt_sakura.py` 只送空的句子；劇情與 data 同樣只補新增部分。
+4. 新的怪物、物品名：`python -I tools/glossary.py work/strings.tsv work/glossary.new.tsv` 找出沒有譯名的專有名詞，補進 `work/gloss/` 後 `python -I tools/gloss_fill.py`。
+5. 再跑一次 `bash tools/rebuild.sh`。
+
+`tools/patch_src.py` 的修補是找特定程式碼插入的；新版若改了那段，腳本會直接報錯停下，不會默默套錯。
+
+## 不能翻的字串
+
+有些日文字串是程式拿來比對的資料，翻了遊戲邏輯就會壞，`tools/extract.py` 會自動跳過：
+
+- `==`、`!=`、`case`、`instr()` 比對用的字串。
+- 性別（男性、女性、自称男性…）：存進角色資料後再拿來比對。
+- 種族的身體部位表（`頭|体|背|手|…`）：`*set_figure` 每 3 個位元組切一段再跟日文比對，決定裝備欄位。
 
 ### 2.30 簡中版的舊存檔
 

@@ -22,4 +22,4 @@ build-*.log
 packfile
 obj
 __pycache__/
-work/mt/polish.tsv
+work/glossary.new.tsv

@@ -210,7 +210,7 @@ M.update({
     '韁': '綱',
     '\u200b': '',
 })
-M.update({'你': '汝', '您': '汝', '愣': '呆', '搐': '攣', '爹': '父', '埤': '坪', '崽': '仔'})
+M.update({'你': '汝', '您': '汝', '撇': '払', '牠': '它', '�': '', '브': '', '큐': '', '嘮': '労', '噢': '哦', '妳': '汝', '掰': '分', '砰': '轟', '紓': '緩', '蠐': '地', '螬': '虫', '爉': '蝋', '盎': '溢', '逛': '遊', '愣': '呆', '搐': '攣', '爹': '父', '埤': '坪', '崽': '仔'})
 _jp = _ts = None
 
 
@@ -226,9 +226,25 @@ import re as _re
 _ZHI = _re.compile('隻(?=能|要|有|靠|看|給|會|好|剩|見|不過|得|需)')
 
 
+# one spelling per place / name (machine translation varied), and words whose
+# character substitution would read wrong (酒吧 -> 酒罷)
+NORMALIZE = [
+    (_re.compile('[維韋威]爾尼[斯思絲]'), '維爾尼斯'),
+    (_re.compile('巴羅米亞|巴爾米亞'), '帕爾米亞'),
+    (_re.compile('諾伊艾|諾伊爾'), '諾耶爾'),
+    (_re.compile('約溫'), '約恩'),
+    (_re.compile('盧米[艾埃]斯特|魯米埃斯特'), '魯米艾斯特'),
+    (_re.compile('奈菲亞'), '涅菲亞'),
+    (_re.compile('酒吧'), '酒場'),
+    (_re.compile('吧台|吧檯'), '櫃台'),
+]
+
+
 def sjis_safe(text, lost=None):
     global _jp, _ts
     text = _ZHI.sub('只', text)
+    for rx, rep in NORMALIZE:
+        text = rx.sub(rep, text)
     if _jp is None:
         import opencc
         _jp = opencc.OpenCC('t2jp'); _ts = opencc.OpenCC('t2s')

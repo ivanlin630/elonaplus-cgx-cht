@@ -95,6 +95,13 @@ def template(expr):
 LIT = re.compile(r'"((?:[^"\\\n]|\\.)*)"')
 # literals that the game stores as data and compares later (gender etc.): never replace
 KEY_LITERALS = {'男性', '女性', 'なし', '両性具有', '自称男性', '自称女性'}
+# body-part layouts: chara.hsp *set_figure reads them 3 bytes at a time and compares
+# each piece with "頭" "首"... - they must stay Japanese, byte for byte
+BODY_PARTS = re.compile(r'^(?:[頭首体背手指腕腰足]\|)+$')
+
+
+def is_key(text):
+    return text.strip() in KEY_LITERALS or bool(BODY_PARTS.match(text.strip()))
 
 
 def line_ctx(text, pos):
@@ -149,6 +156,9 @@ def main(src, out):
             jt, ja = template(jp_expr)
             et, _ = template(en_expr)
             line = text.count('\n', 0, m.start()) + 1
+            if not ja and is_key(jt):
+                covered.append((args[0][0], args[0][1]))
+                continue                      # data key (gender, body parts): keep Japanese
             rid = hashlib.md5(f'{f}:{args[0][0]}:{jp_expr}'.encode('utf-8')).hexdigest()[:10]
             rows.append([rid, f, str(line), 'lang', line_ctx(text, m.start()), jt, et,
                          json.dumps(ja, ensure_ascii=False), ''])
@@ -170,7 +180,7 @@ def main(src, out):
                 why = 'compare'
             elif ctx in ('case', 'font') or re.search(r'\binstr\s*\(', before):
                 why = 'compare'                       # case labels, instr() keys, font names
-            elif v in KEY_LITERALS:
+            elif is_key(v):
                 why = 'key-value'                     # stored and compared elsewhere
             if why:
                 skipped.append([f, str(line), why, ctx, v])
