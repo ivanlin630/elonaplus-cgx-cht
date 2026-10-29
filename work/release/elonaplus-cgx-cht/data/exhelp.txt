@@ -1,0 +1,494 @@
+/Translation Note
+Text written after %**,EN will be displayed in the English version of Elona.
+Putting an empty line will pause the conversation and ask players to hit a key.
+
+#####################################
+%1,JP
+™ûC“ğA¥V˜Ò“I–`è¨Ò”ëBŸcŒ}˜Ò“ˆÉ¢–}“I¢ŠECÓfE’ñ¢“I‘ãI
+‰ä¥šŒ“±C<emp1>šŒ“±‘ø—ÏB<def>
+‰ä“IEÓA¥›ñ•“ğŠ®¬”‡‰ñ—·’öB•K—v‰ä˜ğ‹‹“ğŒš‹c“IB¿‘½w‹³B
+
+ñæC¥ŠÈšd“I»•ĞB
+“¹‹ï•ªˆ×<emp1>d—Ê<def>C¶›æ‰ß‘½“I˜bs“®‘¬“x˜ğÌ–B•úİ‰Æ—¡“I“¹‹ï˜ğˆÀ‘S’n•ÛŠÇ‹N˜ÒCŠˆÈÅD•s’n‰µ‰ºs—›B
+
+•ÊŠOC‰{æ¤¢“ï“I–‚–@‘C—L˜ğá¢¶ˆÓ‘z•s““IˆÓŠOCŠˆÈ¿•s—vİ‰Æ—¡‰{æ¤–‚–@‘B
+œŸ”VŠOCŠÒ‰ÂˆÈ—p˜ÒÍ”|äôØ˜a‘Cˆ½Ò—ûK‰r¥C—p“rœAŸ B
+%END
+
+%1,EN
+Hi there, you must be the new face my folks were
+talking about. 
+Welcome to Irva, the era of Sierra Terre.
+I'm Norne known as a guide. 
+Helping you travelers is my job.
+
+Here's my first tip for you.
+Having too much stuff in your inventory burdens
+you and <emp1>slows your actions<def>.
+Use your home as a safe storage since the items 
+dropped in your home won't disappear.
+
+I heard some lazy guides are telling novices to 
+read spellbooks in your home because <emp1>reading
+a difficult book sometimes results in nasty
+effects<def> which put you in danger, like draining
+your MPs or confusing you for a while.
+
+...Don't trust them! 
+
+Sometimes failure of reading also leads
+devastating monsters to appear.
+You don't want them smashing and breathing fire
+on your valuable stuff in your house, do you?
+%END
+
+
+
+#####################################
+%2,JP
+“ğŒ»İŠİ“I’n•û¥<emp1>¢ŠE’nš¤<def>Bİ¢ŠE’nš¤ãCŠÔˆÈÉ\”{“I‘¬“x—¬ÀC–³–@g—pˆê•”•ª“I“¹‹ï˜a–‚–@B
+‘zg—p“¹‹ïCˆÂ‰º<emp2>‹óŠiŒ®<def>Cç¬“s‰ÂˆÈi“ü<emp1>–{’n’nš¤<def>B
+
+›”—¹›”—¹C<emp2>‹óŠiŒ®<def>¥”ñí•û•Ö“IŒ®šGB›€˜ğ”»Ğ‹rç²“I•¨•iC‘I¢‡“K“IŒ®B
+”@‰Ê‘z•s‹N˜ÒˆÂŒ®Cˆ½¥•s’m“¹ŠY˜ôY›õ“®ìCA’˜ˆÂ‰º<emp2>‹óŠiŒ®<def>B
+
+”@‰Ê›”¢ŠE’nš¤ˆ½‘´‘¼–î—L•s–¾”’“I’n•ûCAˆÂ‰º<emp2>›ñ•Œ®<def>Cç¬“s‰ÂˆÈ<emp1>‰{æ¤›ñ•<def>B
+‰ä“IŒš‹c‘å’vã–ç‹LÚİ<emp1>›ñ•<def>—¡B•s‰ßCd—v“I–î—v”½•¢Šm”FCDD‹LZËsB
+
+ŠÒ¥Vè“I“ğCİ¢ŠE’nš¤ãÅD<emp1>‘–İŠX“¹ã<def>B
+İŠX“¹ã‹ö““I“GlœkãC§Š‹@˜ğ–çœk­B‹ô¢–ç˜ğ‹ö“—·s¤lC•s‰ß‘¼˜ìæÌ“I“Œ¼œk‹MCŠˆÈŠÒæî“ğ–³‰B
+%END
+
+%2,EN
+In the world map, time passes at a lot faster
+rate. And you can't use certain items and
+skills in the world map. If you want to use
+them, you need to enter the local map mode
+<emp1>by pressing the space bar.<def>
+
+If you want to know more about the world map,
+press ? to read the in-game help. The help
+contains variety of useful information
+throughout your journey.
+
+Remember to stay on the road as monsters there
+are weaker than those in the wilderness. And
+occasionally, you will encounter wandering
+merchants who will sell you quality but
+expensive gear.
+%END
+
+
+#####################################
+%3,JP
+¥é’ÁIl˜Òl‰C•‹ß[ŸŞŠˆ—ÍB
+‘ü—v<emp1>‰ä˜ì•så“®UŒ‚<def>Cé’Á—¡“IlA•s˜ğPŒ‚‰ä˜ìCŠˆÈ•úS”ëB
+
+é’Á—¡—LŠeíŠeé“I•–±C—á”@“¹‹ï”ƒæÌAŒP—ûAŒğˆÕA“q”AˆÏ‘õA‰ñ•¢“™“™B
+Š‰—‘¼˜ìŠe©•‰ÓY›õHìC“ğ‘ü—vİ–`è¨‰ß’ö’†––‹LZADB•Lèí“ğŒ»İ˜AÚó•–±“IèA“sŸ“—LB
+
+”@‰Êù—vèAˆ½åä”õC‰ÂˆÈ‹ŠÅŠÅ<emp1>ˆÏ‘õ¦”Â<def>B¦”Âœk‘åC“ğ”nãA˜ğQ“B
+%END
+
+%3,EN
+It's a town! The streets are crowded with
+people. Don't worry, they won't bite if you
+don't bother them.
+
+Towns offer many services such as training,
+trading, gambling, quests, etc...
+If you are in need of money or equipment, <emp1>go<def>
+<emp1>check the town board<def>.
+It's a big board, you won't miss it.
+%END
+
+
+
+#####################################
+%4,JP
+”‡ŒÂ¦”ÂãC’£“\’˜’Áã‹–¯“IˆÏ‘õB
+ÚóˆÏ‘õC—væe×Šm”FˆÏ‘õ“à—e˜a•ñVB
+
+ˆÏ‘õ“Iš‹Låj˜a¶ç²“IÉšC‘ã•\<emp1>ˆÏ‘õ“I“ï“x<def>B
+ˆÏ‘õ“ï“xC‘å’vã‘I˜a<emp1>“ğ“I“™‹‰<def>‘Š“¯“IADB”@‰Ê‘ü—L‚“ï“x“IˆÏ‘õC‰ßŠô“VÄ˜ÒŠÅCœäŠY˜ğ—L•s“¯“IˆÏ‘õB
+%END
+
+%4,EN
+You can view sub quests here. Think
+carefully before accepting any of them.
+Some can be quite dangerous.
+
+The $ mark and its color indicates how
+difficult the task is. <emp1>Green is easy.<def>
+<emp1>Blue, harder and red is risky.<def>
+%END
+
+
+
+#####################################
+%5,JP
+“ğŠİ“I’n•ûC¥<emp1>ÌWêy<def>B
+İ<emp1>ÌWêy<def>CˆÂ‰º<emp2>‹óŠiŒ®<def>CA‰ÂˆÈ’Tõ˜aÌWB
+
+’Tõå—v”\Šl“¾–¼ˆ×<emp1>Ş—¿<def>“I•¨¿B
+<emp1>Ş—¿<def>‰ÂˆÈ—p‰—¶Y“¹‹ïCˆ½¥İ“qê˜a”P’`‹@ãg—pB—R‰—‰ÂˆÈ–³ŒÀ—Ê—LCˆ×—¹¡Œã’˜‘zCŠÒ¥‹Î‰—’TõÌWêy”ëB
+isÌWC–ç˜ğŠl“¾›”œä‹Z”\“IãSé„’lB
+%END
+
+%5,EN
+You are standing on the <emp1>material spot.<def>
+<emp1>By pressing the space bar<def>, you will
+automatically collects materials here.
+
+Materials are mainly used for producting
+items. Some materials like casino chips can be
+used for gambling.
+%END
+
+
+
+#####################################
+%6,JP
+“ğŒ»İŠİ“IêŠC¥<emp1>ç¬‹@™½ˆæ<def>B
+i“ü<emp1>ç¬‹@™½ˆæ<def>C—v’ˆÓ<emp1>Šëè¨“x<def>B<emp1>Šëè¨“x<def>˜ğˆÈ›‘w˜Ò•\¦B›‘w”ä©ŒÈ“I“™‹‰‚“I˜bC‰ÂˆÈ”Fˆ×¥Šëè¨“IB
+
+™½ˆæ“IÅ[™|—L“ª–ÚC‘Å“|›€A”\Šl“¾àĞÜBác‘RC–î•s˜ğ“ß›õŠÈšdC’A‘ü—vKŠµ—¹C”‡—¡A¥–—û‹ZI“IÅ‰ÀêŠB
+%END
+
+%6,EN
+You are standing on a <emp1>random area icon<def>.
+Before entering a random area, watch for the
+<emp1>approximate danger level<def>.
+You might want to avoid areas with higher level
+than you.
+
+At the bottom of each random area, a lord of
+the dungeon awaits you. They are powerful but
+posess greater loot.
+%END
+
+
+
+#####################################
+%7,JP
+İ—·ŠÙ‰ÂˆÈ—p`šGBˆêŠJnİ—·ŠÙ—p`‰Â”\˜ğæS“¾‰ÔèA”@—¬…Bå«‘R•s‘¾”\“U–OãêqC’A–ìŠO–ç”\E“ŠÈšd“IH•¨C‰ÂˆÈ’˜QQŠÅB
+
+İœ¦—ò“VŸ†ˆ½ˆÈ‘¾•—C<emp1>”ğ“ïŠ<def>˜ğ–Æ”ïŠJ•úšGB¿•s—v‹qŸ†Cá¶î—˜—p”ëB
+%END
+
+%7,EN
+You can have a square meal at the inns.
+If you don't have a source of food,
+you should regularly visit the inns and
+save your valuable food for your journey.  
+
+Inns also offer <emp1>shelter service<def> during
+bad weather and Etherwind for free. 
+Just ask the innkeepers.
+%END
+
+
+
+#####################################
+%8,JP
+İŒP—ût“ß—¡C‰ÂˆÈ›{KV‹Z”\C–ç‰ÂˆÈ’b˜B›ß’m“I‹Z”\B
+ÚóŒP—ûù—v<emp1>”’‹à•¼<def>B<emp1>”’‹à•¼<def>œk“ï“üèCŠˆÈ—v[•ªl—¶›{K˜a’b˜B“ßŒÂ‹Z”\B
+%END
+
+%8,EN
+The trainer is where you go to learn
+new skills, and improve your knowledge
+in existing skills. For training, 
+<emp1>platinum coins are required<def>.
+
+These coins are hard to come by,
+but without them it is impossible to
+learn new skills!
+%END
+
+
+
+#####################################
+%9,JP
+šl™ŞC“ğŠÅ‹N˜Òœk¢–‰B
+“ğác‘Rù—v<emp1>’èŠú‡–°B<def>ácá`–Ê¶‰ºŠpèû¦<emp1>‰Â‡–°<def>C‘¦g•s‡æS–ç•s˜ğ—L‰e‹¿C’Aç¬“s‰ÂˆÈ“ü‡B
+
+ácèû¦Ì¬<emp1>ù—v‡–°<def>CÅD˜Ô‰õ‹x‘§B”Û‘¥”æ™§˜ğ•sĞ—İÏC<emp1>é“—Í˜a–‚—Í’l–ç˜ğ’â~‰ø•œ<def>B
+‘z‡æSCg—p<emp2>°•İˆ½‡‘Ü(XPACE)<def>‘¦‰ÂB”ñí¢“IŒóC<emp2>‹x‘§(RŒ®)<def>—L–ç˜ğ©“®“ü‡B
+
+‡–°ŒãCªŸ”V‘OŠl“¾“IãSé„’lC<emp1>å—v”\—Í“IàIİ”\—Í˜ğ—ª”÷ã¡<def>B
+œŸ”VŠOC‡–°’†ŠÒ˜ğá¢¶ŠeíŠeé“I–îB•s‰ßC”@‰Ê•sg—p›Š‹ï‡æSCD“IÁ‰Ê‰Â”\˜ğŒ¸”¼B
+%END
+
+%9,EN
+Hey, you look sleepy!
+Of course, <emp1>you need to sleep regularly<def>.
+When you are sleepy, you can use beds to
+sleep. Or simply resting may draw you into
+a dream.
+
+When you gain enough experiences and sleep,
+your potentials of primary attributes
+will increase. You might also encounter
+several events during your sleep.
+%END
+
+
+
+#####################################
+%10,JP
+ãêq‰ì—¹›õH
+Šm•ÛH•¨”ñíd—vB“ğ”@‰Ê’·ŠÔ•s‹h“Œ¼Cgé“˜ğ’€‘QŠãCÅŒã<emp1>‰ì€<def>Bˆ×—¹”ğ–Æ”‡íó‹µá¢¶C“ğ—v–×”õH•¨Cãêq‰ì—¹A‹h“Œ¼B
+
+H•¨“Ií—Ş‰ÂˆÈâc”÷’b˜B“ğ“I”\—Í’lBå«‘R‘å•”•ª“Iî‹µ“s‘ü—LˆêêyêyC’AÏ­¬‘½B
+“ğ–ç‰ÂˆÈ‹h{“I¶•¨“I“÷B‘´’†—L±H•¨‰ÂˆÈ‘å•’b˜B”\—Í’lCˆ½¥Šl“¾R«C’A–ç—L±H•¨‹ï—L‘Š”½“IÁ‰ÊCŠˆÈ—v¬SH—pB
+%END
+
+%10,EN
+You're hungry, huh?
+If you don't eat, you'll be worn out and
+eventually <emp1>die of hunger<def>.
+So always keep your stomach full!
+
+Various types of food result in different
+effects. In most cases the effect is
+paltry, but every little bit helps. 
+
+You can also eat corpses.
+Some will greatly increase your stats or
+even grant you certain resistances.
+%END
+
+
+
+#####################################
+%11,JP
+™õcc‰º‘å‰J—¹I
+“VŸ†”‡›õ·“IŒóŠOo‰Â•s¥–¾’q”V¨B‰º‰J“IŒóİ¢ŠE’nš¤ãˆÚ“®˜ğ”ä•½í‰ÔX‘½ŠÔB
+
+‘Å—‹‰º‰J“IŒóŠÒ˜ğá¢¶ˆÓŠOCŠˆÈ’ï’B–Ú“I’n”V‘O‰Â”\˜ğ‰Ôã™_”{ˆÈã“IŠÔB—L–ç˜ğ–À˜HB
+H•¨œk­“IŒóCˆ½¥ˆÏ‘õ“IŠúŒÀ•N‹ß“IŒóC–ç—v[•ª’ˆÓ“VŸ†B
+
+›”—¹›”—¹C“VŸ†•sD“IŒóC˜a<emp1>’Á“I—·ŠÙ˜V”Âà˜bA”\ˆÚ“®“”ğ“ïŠ—¹B—vDD—˜—p<def>šGB
+%END
+
+%11,EN
+What a downpour! You shouldn't go outside
+in bad weather. It will take you more time to
+travel and even you may lose your way.
+
+And did I tell you that you can seek shelter
+in inns when there's bad weather? Use the
+opportunity wisely!
+%END
+
+
+
+#####################################
+%12,JP
+‰ºá—¹šGI
+›”—·l˜ÒàCá¥œk–ƒ”Ï“I“Œ¼Bİ”í‘åá•¢ŠW“I’n•û‘Oiœkh‹êB‰ºá“IŒóCİ¢ŠE’nš¤ãˆÚ“®˜ğ‰Ôœk‘½ŠÔšGB
+
+KDC‘øz’ç—˜zœk­˜ğ‰ºáœk‹vB‰ºá“I˜bC—IîÌ’n“™“á’âˆ½‹–”äŠrDB
+•s‰ßCÚ—¹‘—‰İ”V—Ş“IˆÏ‘õC—v’ˆÓŠúŒÀšGB
+
+›”—¹›”—¹C“VŸ†•sD“IŒóC˜a<emp1>’Á“I—·ŠÙ˜V”Âà˜bA”\ˆÚ“®“”ğ“ïŠ—¹B—vDD—˜—p<def>šGB
+%END
+
+%12,EN
+It's snowing outside! I'm excited!
+But... Snow is tricky stuff for 
+travelers. Deep snow is difficult to walk
+through. While there is snow on the
+world map, it takes extra time to move
+from place to place.
+
+Fortunately, snow in North Tyris
+doesn't last that long. You can usually
+wait in one place and take it easy, and
+eventually it will melt and you can
+continue travel.
+
+During poor weather conditions such
+as this, the city inkeepers can bring
+you to the town shelter. 
+You should make good use of it.
+%END
+
+
+
+#####################################
+%13,JP
+ˆÈ‘¾”V•—cc
+”‡w•—˜ğ‘¢¬”ñí–ƒ”Ï“I‰e‹¿B”í•—““I˜bC<emp1>—Lˆê’è’ö“x“IŠT—¦˜ğ“Ë‘RÌˆÙ<def>CXd—v“I¥C<emp1>ˆÈ‘¾•a“INI˜ğ‰Á‘¬B<def>İŠX“¹ˆÈŠO“I–ìŠOC‹ö“ÌˆÙ“IŠëè¨‰ö•¨“IŠT—¦–ç˜ğ’ñ‚B
+
+•s‰ßCˆÈ‘¾”V•—‹N“IŠú¥ŒÅ’è“ICŠˆÈ—v‰ñ”ğ•À•s“ïB<emp1>•—˜ğİ3“I”{É“IŒ1“ú“10“ú”VŠÔ‹NB<def>â›”—v‹LZšGI
+
+äo‘´‘¼œ¦—ò“VŸ†•s“¯CˆÈ‘¾”V•—‹NC‰ÂˆÈİ¢ŠE’nš¤ãˆÈ”ä•½X‰õ“I‘¬“xˆÚ“®B‘ü—v”\—}§ÌˆÙ˜a¾•aNICˆ½‹–A”\—LÁ—˜—p•—B
+
+›”—¹›”—¹C“VŸ†•sD“IŒóC˜a<emp1>’Á“I—·ŠÙ˜V”Âà˜bA”\ˆÚ“®“”ğ“ïŠ—¹B—vDD—˜—p<def>šGB
+%END
+
+%13,EN
+Etherwind...
+The wind is a serious problem. 
+Exposed to the wind for a certain time,
+you will mutate, and more importantly you
+will start to be affected by the erosive
+ether disease. 
+
+The wilderness will be more dangerous
+during the wind too. However, it is known
+when this wind blows. It only spawns
+<emp1>in a month multiples of 3 and<def>
+<emp1>in days between 1-10. <def>
+You really need to remember it.
+
+Unlike with other bad weather, if the
+ether wind is blowing when on the world map,
+you can move faster than normal. If you can
+somehow control mutation and the Ether Disease,
+this wind might be actually useful to you.
+
+During poor weather conditions such as this,
+the city inkeepers can bring you to the
+town shelter. You should make good use of it.
+%END
+
+
+
+#####################################
+%14,JP
+‰äâc”÷à–¾ˆê‰º”ğ“ïŠB
+”ğ“ïŠ¥”ğ”ğˆÈ‘¾”V•—˜a—‹‰J“™œ¦—ò“VŸ†“Iİ{B
+
+İ”ğ“ïŠ“àC<emp1>‘ü—LİŠOŠE“VŸ†œ¦—òC<def>ŠÔ˜ğˆÈ”ä•½‰õŠô\”{“I‘¬“x‘OiCH•¨–ç˜ğ©“®‹ŸœäB
+ác“VŸ†‰ø•œCŠÔ˜ğ‰ø•œ³íCH•¨–ç•s˜ğ‹ŸœäCŠˆÈ—v’ˆÓB
+%END
+
+%14,EN
+Here's a little explanation of shelters.
+The town shelter is a safe place from
+the Etherwind. It's also a safe place
+during thunderstorms and snow, too.
+
+In the shelter time progresses dozens
+of times faster than normal, and you will
+automatically eat food supplies. 
+
+Once the weather is back to normal,
+time progresses normally again, and you
+won't be able to eat food supplies.
+%END
+
+
+
+#####################################
+%15,JP
+“ğI‰—–ç¶•a—¹›õcc
+Ÿ“Y›õD‹Áæb“IBAZY›õ–ç•s˜ôCˆÈ‘¾“INI–ç˜ğç¬’˜ŠÔŠÉ–isBå«‘R“ğ“IÇóŠÒ™|‰—‰ÂˆÈ–³‹“I’ö“xC’A•ú’˜•sŠÇ“I˜bCÇó˜ğ’€‘Qœ¦‰»B
+
+¾•a˜ğ•ª¬20ŒÂŠK’iisB–ˆŒÂŠK’i“s˜ğoŒ»V“IÇóCÅŒã˜ğ’D‘–¶–½cc•K{Q“–^í•û–@˜Ò‰„ŠÉ¾•aB
+
+•s—p^SCŠÔŠÒœk[—TB‘ü¥C<emp1>ˆÈ‘¾”V•—<def>•K{‘½‰Á—¯ˆÓBˆöˆ×“ßw•—˜ğˆÈ‹Ál“I‘¬“x‰Á‰õˆÈ‘¾“INIB
+
+ˆÈ‘¾”V•—‹NC—§”ği‰®“à”ğ“ï‘¦‰ÂB<emp1>Šeé’Á“s—L–Æ”ï“I”ğ“ïŠC‘ü—væî—·ŠÙ˜V”ÂŒğ’kA”\i“üB<def>‹LD—¹B
+%END
+
+%15,EN
+At last, you are taken with the disease...
+Don't be surprised, the corruption will
+slowly advance over time no matter what
+you do.
+Your symptom is still negligibly small.
+
+Disease progression is divided into
+20 stages. As it progresses, your
+condition becomes more fatal and may even
+lead to your death eventually.
+
+Don't worry! You have plenty of time to
+deal with it. Be warned though, Etherwind
+is different. It will significantly
+worsen your disease. You should retreat
+to an inn's shelter when the wind blows.
+%END
+
+
+
+#####################################
+%16,JP
+Šú‘Ò›ß‹v“Iá¢d“úô
+–ˆŒ1“ú˜a15“ú¥á¢d“úBªŸ“™‹‰˜a–¼ãßC‰ÂˆÈ—Ìæd…˜a”z‹‹•iB
+
+d…˜ğ™¹“ü‰Æ—¡“Id…” C‘ÅŠJd…” A”\Šl“¾B‘z’m“¹“™‹‰˜a‘å’v“Id…•W€CAŠm”F“ú”ëB
+
+œ—¹d…”VŠOC–ˆŒ1“úŠÒ˜ğ¾“<emp1>’ šd<def>B’ šd‰ÂˆÈ•úi”b¢•Ä˜±–k•û•s‰“™|“IŒš’z•¨—¡“I”[Å” Bå«‘R•s•K”nãx•tC’A—v¥‰gŒ‡4ŒÂŒˆ½5ŒÂŒCA˜ğÌ¬ß”ÆCŠˆÈ—v¬SB
+%END
+
+%16,EN
+Long-awaited payday!
+The 1st and 15th of every month is payday.
+Depending on your rank and fame,
+you will get paid in gold and goods.
+
+This salary can be picked up from your
+salary box in your house. You can also check
+your rank and salary in your journal.
+
+In addition to salary, on the first day of
+each month a tax invoice is sent. You need
+to pay this invoice at the embassy north of
+Palmia. You have 4 or 5 months to pay it
+before you'll be labeled a criminal. 
+%END
+
+
+
+#####################################
+%17,JP
+šGšG`¥™B‘—–åcc
+™B‘—–å¥‘´‘¼–`è¨ÒC’Êí¥—İÏ—¹ãSé„“I–‚–@tˆ×—¹ˆÚ“®§¢Š«“IB™B‘—–åù—vˆê’iŠÔË˜ğè•ÂCŠˆÈ‘z’Çã‹“I˜bç¬“s‰ÂˆÈoá¢cc
+
+•s‰ß–‰C‹ô¢–ç˜ğãã“•sD“I™B•·B‘œ¥“Ë‘Rèi‹A‹ö“<emp1>‰ÎŠC<def>Cˆ½¥’Ç’˜‰Âˆ¤—›w“I››ŒÒ‘–CŒ‹‰Ê—¬Ÿ‚<emp1>š¡“gİ™B‘—–å–„•š<def>CÅŒã”í™B‘—“ç²‹«”V’n<emp1>Ä–ç‰ñ•s˜ÒB<def>
+
+™è™èCŠJŠßÎ“IfB•øŸ]•øŸ]CŠd““ğ˜ì—¹IšÓlœk­Œ©C—L‹ó“I˜b‹ŠÅŠÅ–ç•söB
+%END
+
+%17,EN
+Oh, it's a moongate!
+Moongates are used by experienced wizards to
+travel great distances. You can follow them if
+you want...
+%END
+
+
+
+#####################################
+%18,JP
+‹¶”MII
+ç¬‹@Ÿ¸äÉ˜±İ•s¥3“I”{É“IŒ•ª15“ú“Œ’ê”VŠÔ˜ği“ü‹¶”Mó‘ÔB<emp1>›”ŒÅ’èŸ¸äÉ˜±–³Á<emp1>ŠˆÈ—v¬SB‹¶”Mó‘Ô<emp1>—eˆÕoŒ»‚“™‹‰“I“¹‹ï˜aŞ—¿ÌWêyšGB<def>
+
+ˆöˆ×›”¾W“¹‹ïœk—L›ñ•CŠˆÈà—º‹Ng‰Î“I˜bA‹Ÿ¸äÉ˜±ŠÅŠÅ”ëB<emp1>‹¶”Mó‘Ô4A5“VA˜ğŒ‹‘©<def>CŠˆÈ•s—v“™|˜ªWqQ’§D“IŸ¸äÉ˜±šGB
+
+ˆ¢ˆ¢C‹¶”Mó‘Ô–ç•s˜ğ‰üÌŸ¸äÉ˜±‰ö•¨“I‹­“xšGB•úS”ëB
+%END
+
+%18,EN
+Fever!!
+It's fever time for Nefia. 
+Fever mode only starts
+in months <emp1>not multiples of 3<def> 
+and <emp1>in days between 15-24<def>.
+You really need to remember it.
+
+During fever mode, Nefia will produce 
+high level items and many material spots.
+Fever mode ends in 4 or 5 days.
+%END
+
+
+
+#####################################
+
+

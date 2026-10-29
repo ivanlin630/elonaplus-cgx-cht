@@ -1,0 +1,283 @@
+####################### Reference #######################
+
+	/Japanese Conversion List
+{‚ ‚é}		‚ ‚éA‚ ‚è‚Ü‚·
+{‚¤}		‚¤A‚¢‚Ü‚·
+{‚©}		‚©A‚Å‚·‚©
+{‚ª}		‚ªA‚Å‚·‚ªA‚¯‚Ç
+{‚©‚È}		‚©‚ÈA‚Å‚·‚©A‚©‚µ‚ç	
+{‚­‚ê}		‚­‚êA‚­‚¾‚³‚¢
+{‚½}		‚½A‚µ‚Ü‚µ‚½
+{‚¾}		‚¾A‚Å‚·
+{‚¾‚È}		‚¾‚ÈA‚Å‚·‚Ë
+{‚¾‚ë}		‚¾‚ë‚¤A‚Å‚µ‚å‚¤
+{‚½‚Ì‚Ş}	‚½‚Ì‚ŞA‚¨Šè‚¢‚µ‚Ü‚·
+{‚Ì‚¾}		‚Ì‚¾A‚ñ‚¾A‚Ì‚Å‚·
+{‚æ}		‚æA‚Å‚·‚æ
+{‚È}		‚ÈA‚ËA‚Å‚·‚Ë
+{‚é}		‚éA‚Ü‚·
+
+
+	/Translation Note/
+Text written after %xxx,x,EN will be displayed in the English version of Elona.
+See /Vernis for example. The translation doesn't have to be precise.
+You can even add your own sentences if you like to. 
+
+You can completely ignore the use of {} when translating. (ie. {‚¾},{‚¾‚È} )
+Those are structures which are used for some Japanese conversions.
+They also convert the code into designated in-game variable. 
+The codes are listed below.
+
+{player}	player's name
+{aka}		player's nickname(aka)
+{npc}		the name of the person player is talking to
+{me}		"I"
+{you}		"you"
+{objective}	quest:objective
+{reward}	quest:reward
+{ref}		quest:refer
+{map}		quest:map name
+{client}	quest:client name
+
+####################### Begin ######################
+
+
+%COOK,GENERAL,JP
+—¿—‰Æ“I–ìSF³İŒ¤‹†V“I—¿—{‚Ì‚¾}Bìˆ×™Òl“I—¿—C{reward}¿›æ{objective}‰ß˜ÒŒğŠ·{‚­‚ê}B
+‘z‹hD‹h“I“Œ¼F{objective}‘z‹h{‚æ}B”@‰Ê”c—¿—‘—‰ß˜ÒC{reward}˜ğx•t•ñV{‚¤}B
+%END
+
+%COOK,GENERAL,EN
+A new recipe!:As in the capacity of a cooking master, I'm always eager to learn a new recipe. Bring me {objective} and I'll pay you {reward}.
+%END
+
+%COOK,1,JP
+“÷I:–³˜_”@‰½“s‘z‹h“÷{‚Ì‚¾}I›”{‚¾‚È}C—¿—{objective}ÅD{‚È}B•ñV¥{reward}{‚¾}I
+µ‘Ò:¡“V—a’è—v˜ad—v“IlŒ©–Ê{‚¾}B‘z¿‘¼‹h“÷—¿—C”c{objective}—¿—D{‚­‚ê}B{reward}x•t{‚¤}B
+%END
+
+%COOK,1,EN
+A reception.:We will be hosting this very important reception tonight. The guests must be satisfied and made to feel gorgeous. I want you to prepare {objective} and {reward} are yours.
+%END
+
+%COOK,2,JP
+Œ¸”ì`:äôØ›”Œ¸”ì—LD™|¥í¯{‚¾‚È}B”c{objective}—¿—D›æ˜Ò{‚­‚ê}B”ï—p¥{reward}{‚¾}B
+‰ü‘P’§H:•ñV¥{reward}{‚¾}B›wq–³˜_”@‰½“s•s‹häôØC‰äœk¢ï{‚é}I{objective}“I˜bà•s’è˜ğ‹hCŠˆÈ¿˜ô—¿—{‚­‚ê}B
+%END
+
+%COOK,2,EN
+On a diet:Vegetables are essential parts of a healthy diet. Cook {objective} for me. Your rewards are {reward}.
+%END
+
+%COOK,3,JP
+”Ó`“I“[êy:•ñV{reward}A‘«‘«—¹{‚©‚È}H¡”Ó“I”Ó`‘z‹h{objective}ìˆ×“[êyCŠˆÈ`‘õ“ğ‘—‰ß˜Ò{‚æ}B
+…‰Ê—¿—:‘zİ”h›”ãµ‘Ò…‰Ê—¿—{‚Ì‚¾}B‘ü—v€”õ{objective}CAx•t{reward}{‚¤}B
+%END
+
+%COOK,3,EN
+Cocktail party!:Run a small errand for us and earn {reward}. We need a wicked relish for our cocktail party. Say, {objective} sounds decent.
+%END
+
+%COOK,4,JP
+ŠìŸc“[H“IŠìD:‘z‹h“[`“[“IêyS{‚Ì‚¾}IˆÈ{objective}ìˆ×ŒğŠ·C‹‹“ğ{reward}{‚é}B
+›wq“I—ëH:‘z‹‹›wq“I—ëHo{objective}{‚Ì‚¾}B”@‰Ê”\›æ˜Ò“I˜bCAx•t{reward}{‚¤}B
+%END
+
+%COOK,4,EN
+Sweet sweet.:I prefer cakes and candies to alcoholic drinks. You want {reward}? Gimme {objective}!
+%END
+
+%COOK,5,JP
+–ËH‹¶”MF•ñV¥{reward}{‚¾}B¿æ¨”Mˆ¤‹`‘å—˜–ËAf–ËA‹¼êm–ËcŠeí–Ë—Ş“I{me}‹h“{objective}{‚­‚ê}I
+‰äD‘z‹h{objective}C“ßŒûŠ´æ¨l—|”ë•s”\B{‚È}B‰äŠèˆÓ•t{reward}CŠˆÈ¿‘—“{‚­‚ê}B
+%END
+
+%COOK,5,EN
+I love noodles!:I love noodles! Is there anyone that hates noodles? I want to eat {objective} now! Rewards? Of course. {reward} sound good? 
+%END
+
+%COOK,6,JP
+Œ’NH•i:‹››”gé“D‘œ”ñíD{‚¾}B{objective}”@‰Ê”\˜ô—¿—“I˜bC{reward}A•t{‚¤}B
+‘zæ¨›wq‹h‹›:‘zæ¨›wq‹h‹›{‚ª}C›wq’§HC•s‘¾ŠèˆÓ‹h{‚Ì‚¾}B{objective}à•s’è”\‹hCŠˆÈ‘z`‘õ“ğ˜ô{‚Ì‚¾}B•ñV¥{reward}œƒ›õé{‚©‚È}H
+%END
+
+%COOK,6,EN
+Fussy taste.:My children won't eat fish. It's killing me. I'm gonna give {reward} to anyone that makes {objective} delicious enough to sweep their fuss!
+%END
+
+%COOK,7,JP
+{you}¥–Ë•ï”hHŠÒ¥•Ä”Ñ”h{‚©‚È}H{me}â›”¥–Ë•ïD{‚È}B{reward}ìˆ×ŒğŠ·{objective}˜ô—¿—{‚­‚ê}B
+–ì`“I“¯”ºF•ñV¥{reward}C•s”\Ä‘½—¹{‚æ}B–¾“V–ì`‘z›æ{objective}‹C`‘õ—¹{‚½‚Ì‚Ş}I
+%END
+
+%COOK,7,EN
+Going on a picnic.:First off, the rewards are no more than {reward}, ok? My kid needs {objective} for a picnic tomorrow. Please hurry.
+%END
+
+%COOK,8,JP
+—¿—‰Æ“I–ìSF³İŒ¤‹†V“I—¿—{‚Ì‚¾}Bìˆ×™Òl“I—¿—C{reward}¿›æ{objective}‰ß˜ÒŒğŠ·{‚­‚ê}B
+‘z‹hD‹h“I“Œ¼F{objective}‘z‹h{‚æ}B”@‰Ê”c—¿—‘—‰ß˜ÒC{reward}˜ğx•t•ñV{‚¤}B
+%END
+
+%COOK,8,EN
+My stomach!:My stomach growls like I'm starving to death habitually. Will you bring a piece to this beast? Maybe {objective} will do the job. I can give you {reward} as a reward.
+%END
+
+%COLLECT,JP
+”ñí‘z—v“I“Œ¼F{client}Å‹ßˆê’¼\{ref}o˜Òíó—s{‚Ì‚¾}B{me}–ç’´‘z—v{ref}{‚æ}I‘ü—v‘z•Ù–@˜M“èCA•t{reward}{‚¤}Bè’iác‘R•sS{‚æ}B
+“ğŠáÉã“IàØ•¨{client}—i—L{ref}C“ğ’m“¹›õ{‚©‚È}Hˆöˆ×–^±Œ´ˆöC‰ä–³˜_”@‰½“sù—v”‡ŒÂ•¨•i{‚¾}B”@‰Ê“ğ”\‡—˜“èC‰ä˜ğ•t{reward}‹‹“ğ{‚¤}B
+%END
+
+%COLLECT,EN
+I want it!:Have you seen {client}'s {ref}? I want it! I want it! Get it for me by fair means or foul! I'll give you {reward}.
+%END
+
+%DELIVER,64000,JP
+’¿•i“I”z‘—F”z‘—“IˆÏ‘õ{‚¾}B•s’m“¹—v—p˜Ò˜ôY›õ{‚ª}C{client}D‘œ‘z”ƒ‰º{ref}{‚¾}B‘ü—v”z‘—“{map}A˜ğx•t{reward}{‚¤}B
+œE•i‰ñ¾:‰ä’m“¹{‚©‚È}BZİ{map}“I{client}D‘œİ‰ñ¾œE•i{‚æ}B‰ä‘z‘—{ref}‰ß‹C’Aˆöˆ×œk–ƒ”ÏCŠˆÈ‘z—p{reward}“Ièã””ï‘ã‘Ö‘¼\‰ß‹{‚­‚ê}B
+%END
+
+%DELIVER,64000,EN
+Ecologist.:My friend in {map} is collecting waste materials. The name is {client}. If you plan to visit {map}, could you hand him {ref}? I'll pay you {reward}.
+%END
+
+%DELIVER,60000,JP
+‰Æ‹ä“I”z‘—:›’{objective}”z‘—“{‚­‚ê}B‘ü—vİŠúŒÀ“à•½ˆÀ‘—’BC¾‰İ•ûA˜ğx•t{reward}“I•ñV{‚¤}B
+‰êâXF•ü—F{client}İ{map}ŠW—¹–[qC‘z‘—{ref}ác‰êâX{‚¤}B”\—p{reward}›ñ–Z‘—‰ß‹{‚©‚È}H
+%END
+
+%DELIVER,60000,EN
+A present.:My uncle {client} has built a house in {map} and I'm planning to send {ref} as a gift. I have {reward} in reward.
+%END
+
+%DELIVER,54000,JP
+Œ©K–‚pt“I¿‹F{map}—LŒÂ‹©{client}“Ilİ›{–‚–@{‚¾}Bá”c{ref}•½ˆÀ‘—“CA•t{reward}ác•ñV{‚¤}B
+ŠÒ‘F{client}Zİ{map}C{ref}Ø—¹‘C”\•s”\›ñ‰ä‘—“{‚©‚È}H•ñV¥{reward}{‚¾}B
+’¿–{”z‘—FÅ‹ß“¾“ˆê–{‹©{ref}“I‘C‘z‘—‹‹ˆê’¼œk‘z—v“I{client}B˜ğ•t{reward}ác‘–‘Ú”ïC”\“{map}›ñ–Z‘—‹{‚©‚È}H
+%END
+
+%DELIVER,54000,EN
+Book delivery.:Can you take {ref} to a person named {client} who lives in {map}? I'll pay you {reward}.
+%END
+
+%DELIVER,77000,JP
+‹‹áæÎ¾åU‰ÆF{map}—LŒÂ–¼‹©{client}“IáæÎ¾åU‰Æ{‚Ì‚¾}B¿”c{ref}‘—‰ß‹{‚©‚È}B•ñV¥{reward}{‚¾}B
+ÎŞ“I”z‘—:ˆÈ{map}ˆ×{ref}CˆÈ{‚¾}ˆ×‘fŞC—ŒÁ—v¨•Ùè¸”äæÎ{client}B•‰Ól{‚Ì‚¾}İqQ”\›’Ş—¿‘—““Il{reward}Bìˆ×ÓâXC€”õ—¹{‚é}B
+áæÎ“IâX•¨:ìˆ×’·”N—FDèŒW“Iæš–¾C‘z‹‹{client}‘—{ref}‰ß‹{‚é}B”\›ñ–Z‰^‘—“{reward}“{map}›õ{‚©‚È}H
+%END
+
+%DELIVER,77000,EN
+A small token.:As a token of our long lasting friendship, I decided to give {ref} to {client} who lives in {map}. I'll arrange {reward} for your reward.
+%END
+
+%SUPPLY,JP
+‹‹œöl“IâX•¨:‹‹œöl“IâX•¨‘—Y›õD–‰{‚©‚È}Hã`”V˜ğx•t{reward}“I•ñVC”\›ñ–Z€”õ{objective}›õ{‚­‚ê}B
+‹‹©ŒÈ“IâX•¨:Å‹ßá¢¶—¹ˆê±D–C‘z‹‹©ŒÈ‘—{objective}ácâX•¨{‚Ì‚¾}B•ñVC{reward}œƒ›õé{‚©‚È}H
+›wq“I¶“ú:•ñV{reward}¶‰E”äŠr‘Ãác{‚©‚È}B›wq“I¶“úâX•¨ù—v{objective}{‚Ì‚¾}B
+Œ¤‹†“I‘fŞ:İ˜ô{objective}“IŒ¤‹†{‚é}BŒ¤‹†—p“IŒÉ‘¶—pŠ®—¹C”\›ñ–Z€”õ{reward}›õ{‚©‚È}H
+¾åU‰Æ“Iù‹:İ{me}“I¾åU’†ù—v{objective}{‚¾}B¿ˆÈ{reward}“I•ñVÚóˆÏ‘õ{‚­‚ê}I
+“¹‹ï“IŒğ•t:ˆöˆ×ˆê±–îCù—v{objective}{‚Ì‚¾}BİŠúŒÀ“àŒğ•t“I˜b˜ğx•t{reward}{‚¤}B
+%END
+
+%SUPPLY,EN
+Birthday.:I want to give my kid {objective} as a birthday present. If you can send me this item, I'll pay you {reward} in exchange.
+%END
+
+%HUNT,JP
+X—ÑŸÄ‰»FX—ÑÌ“¾Šëè¨—¹{‚é}B•‹ß“IX—Ñ—ŒÁoŒ»—¹‰ö•¨{‚¾}B{reward}˜ğ’ñ‹ŸC’N˜ÒÁ–Å›€˜ì{‚­‚ê}B
+Á–Å–‚•¨F{reward}ìˆ×•ñVx•t{‚¤}BŠó–]—Ll”\Á–Å–^ŒÂ’n•û“I–‚•¨{‚Ì‚¾}B
+‰Æ•‹ß“I‰ö•¨F‰ö•¨İ©‰Æ•‹ßoŸ“Cæ¨lœk¢ï{‚Ì‚¾}B”@‰Ê”\Á–Å›€˜ìC{reward}ìˆ×•ñVx•t{‚¤}B
+%END
+
+%HUNT,EN
+Hunting.:Filthy creatures are spawning in a forest nearby this city. I'll give you {reward} if you get rid of them.
+%END
+
+%HUNTEX,JP
+é’Á“IŠë‹@Fˆ½‹–›ßãSãã“™B•·—¹{‚ª}C{objective}“I˜±í“™‹‰{ref}‘Šác“I‰ö•¨İé’ÁŠe™|oŸ“{‚é}B”‡é‰º‹{me}˜ì“I˜a•½–ç–³–@’·‹vã”‰º‹{‚¾‚ë}B{‚½‚Ì‚Ş}CÁ–Å›€˜ì{‚­‚ê}Bìˆ×é’Á‘ã•\C€”õ—¹{reward}ìˆ×•ñV{‚½}B
+…ˆä“Iæf™îF–^ŒÂâœ’`İ…ˆä—¡¬“ü—¹Šï‰ö“I‰té“{‚æ}I`‘´Š’Cé’Á—¡oŒ»—¹ÌˆÙ“™‹‰{ref}‘Šác“I{objective}İœpœj{‚é}B`‘õŒöŠCã`Z¾W—¹{reward}ìˆ×•ñV{‚æ}B‰õêy‘z•Ù–@‰ğŒˆ{‚­‚ê}I
+ˆÈ‘¾ÌˆÙé“:‘å–{‚¾}I‘å–{‚¾}I{me}Šu•Ç‰Æ“I‘S‰Æl“sˆöˆ×ˆÈ‘¾•a{objective}ÌˆÙ—¹{‚Ì‚¾}IŠÅ‹N˜ÒC‹­“x‘åŠT—L{ref}‹‰¶‰E”ë{‚©‚È}Hã`”VC”nã‹Á–Å‘¼˜ì{‚­‚ê}B•ñV¥{reward}•t{‚¤}B
+%END
+
+%HUNTEX,EN
+Panic.:Help! Our town is being seized by several subspecies of {objective} which are expected to be around {ref} level. Eliminate them all and I'll reward you with {reward} on behalf of all the citizen.
+%END
+
+%HARVEST,JP
+›ñ–Z”_ŠˆFíAİ“c—¡“Iì•¨–ç·•s‘½—v’·o˜Ò—¹{‚¾}B‹{map}•‹ß“I“c—¡CŒ@o{ref}¶‰E“Iì•¨{‚­‚ê}B•ñVx•t{reward}˜aíq{‚¤}B
+‘ã‘Ö¾ŠnF“—¹”‡ŒÂŠúCã`æS“¾Sî’¾d{‚æ}B•K{‘å—ÊŒ@Œ@“c—¡’·‘å“Iì•¨{‚Ì‚¾}Bx•t{reward}˜aíqC”\•s”\‘ã‘Ö‰ä¾Šn{ref}¶‰E“I—Ê{‚©‚È}I
+¾ŠnŠú:I‰—“—¹Šú‘Ò›ß‹v“I¾ŠnŠú{‚¾}IˆêŒÂl›‰İ¥–Z•s‰ß˜ÒC{reward}˜aíq”\˜Ò›ñ–Z›õ{‚©‚È}HŸ“ö{‚¾‚È}C{you}“Id—Ê‘å–ñ¥{ref}{‚¾}B
+%END
+
+%HARVEST,EN
+The harvest time.:At last, the harvest time has come. It is by no means a job that I alone can handle. You get {reward} and seeds if you can gather grown crops weighing {ref}.
+%END
+
+%PARTY,JP
+BABYI:BABYİÔã{‚©‚È}I–ëC{me}”ñí‹»•±{‚¾}I{you}–ç˜Ò™Ò‰Á{me}“I”h›””ë{‚­‚ê}B•ñVHŸ“—L“ßí•s‰ğ•—î“I“Œ¼{‚æ}I{‚ª}I‘ü—v—p•\‰‰{ref}‹L˜^‰º˜ÒCA‘—“ğ”’‹à•¼{‚æ}I–ëI
+ã—¬”h›”:{me}“I–¼š•s’m“¹H–ç—L•s’m¢–“Il–‰{‚¾}B{me}¥˜AšL‹ƒ“I›wq“s˜ğˆÀèÎ“Iã—¬lm{‚¾}B³İµ•å”\İ‹ßŠú¨•Ù“I”h›”ãæí¡‹ql“IåYl{‚¾}B”@‰Ê”\˜ôo{ref}“I•\‰‰CAx•t”’‹à•¼{‚¤}B
+’¥‹‘ã”ÇåYlF’N“sD{‚½‚Ì‚Ş}C‘ã‘Ö{me}İ‰ƒ˜ğã•\‰‰{‚­‚ê}Bœ†æVO“I”½œäC›‰İ•sŠ¸ã‘ä{‚Ì‚¾}I‘ü—vİ–@\“{ref}•ªCA‘—”’‹à•¼ácÓâX{‚é}B
+%END
+
+%PARTY,EN
+Party time!:I'm throwing a big party today. Many celebrities are going to attend the party so I need someone to keep them entertained. If you successfully gather {ref}, I'll give you a platinum coin. You'll surely be earning tons of tips while you work, too.
+%END
+
+%TRAP,0,JP
+œ¦ìŒ€“I‘PŒã™|—:›”nl“Iœ¦ìŒ€¬Œ÷—¹{‚ª}C“¾ˆÓ–YŒ`’nİ—¹‘¾‘½èœâvC‘PŒã™|—œk–ƒ”Ï{‚¾}Bã`”Væ“Pœ{ref}“IèœâvCA‹‹“ğ”’‹à•¼{‚æ}B
+•êe“I‰öˆÙsˆ×:Š…çË“I•êeİŒã‰@Œ@—¹‘å—ÊB“´{‚æ}I–ƒ”Ï“I¥–{l–ç•s‹L“¾ˆÊ’u{‚Ì‚¾}B—p”’‹à•¼ìˆ×ŒğŠ·C‰õêy“PœB“´{‚­‚ê}B–Ú•W¥{ref}{‚¾}B
+%END
+
+%TRAP,0,EN
+Clean up mischief.:My mischief was successful, but cleaning is difficult because I laid down too many traps. If you remove the pitfalls at {ref}, I'll give you a platinum coin.
+%END
+
+%TRAP,1,JP
+•Ö‹X“IŒ´ˆö:ˆÈˆ×¥•Ö‹X“IáæR§w”ƒ“y’nC›‰Ûã™È¥’n—‹™½{‚Ì‚¾}Bˆ×—¹Šˆ—p“y’nC–³˜_”@‰½“s‘z––Œ¸­’n—‹{‚æ}B‘ü—v“Pœ{ref}CA‹‹“ğ”’‹à•¼{‚é}B
+%END
+
+%TRAP,1,EN
+Poor reasoning.:I thought it was a mine when I purchased this land for cheap, but in reality it was a mine field. In order to make use of the land somehow, I want to gradually reduce the amount of mines. I will give you a platinum coin if you remove mines at {ref}.
+%END
+
+
+
+%ESCORT,0,JP
+gÒ“IŒì‰q:•s”\‘åãß’£—g{‚ª}C•K{›’d—vgÒ•½ˆÀ‘—“{map}{‚ ‚é}B•ñV¥{reward}{‚¾}B{me}“Iñ‹‰A{‚é}Bâ›”•s”\¸”s{‚­‚ê}I
+”ü‰ß“ª“Il:”ü‰ß“ª–ç¥ß‰ß{‚¾‚È}B{me}“IœölC”íˆÈ‘O‹‘âŒğ‰“IÌ‘ÔáÉã§Š´“¢ï{‚Ì‚¾}B”‡˜ğ¥ˆê‰ñŠëè¨“I—·’ö”ë{‚ª}C{reward}ìˆ×ŒğŠ·C{map}—v•½ˆÀ–³–’nŒì‰q{‚­‚ê}B
+–h~ˆÃE:“ğ’m“¹“ßˆÊ‘ål³”íláÉã«–½›õ{‚¾‚ë}H”‡¥ŒÂŠëè¨“IˆÏ‘õ{‚¾}B”@‰Ê”\›’‘¼Œì‘—“{map}C‰ä˜ğx•t{reward}ìˆ×•ñV{‚æ}B
+%END
+
+%ESCORT,0,EN
+Beauty and the beast:Such great beauty is a sin...My girl friend is followed by her ex-lover and needs an escort. If you safely bring her to {map}, I'll give you {reward}. Please, protect her from the beast.
+%END
+
+%ESCORT,1,JP
+‹Ù‹}Œì‰q:ã`”VC‰ä‘z¿“ğ˜Ô‰õ›’–^l‘—“{map}“ß—¡{‚Ì‚¾}B•ñV¥{reward}B¿–±•K’ˆÓ•s—v’´‰ßŠúŒÀ{‚­‚ê}B
+—Õ€‘O“ISŠèF•s—pà–ç’m“¹{‚¾‚ë}HŸ“öC{me}Åˆ¤“IlA‰õ•a€—¹{‚Ì‚¾}Bİ{map}C‘z›æ“ßlÅŒã‹ˆê‰ñ‰ñ‰¯’†“Ié’Á{map}{‚Ì‚¾}I¿—p{reward}Ú‰ºˆÏ‘õ{‚­‚ê}B
+æá–îŠÒŸ“œ¦‰»”V‘O:‘Œ‰Ù{‚¾}I{me}‰ä˜V•ƒ”í‰Âœ†“IŒ€“ÅNP—¹{‚Ì‚¾}I{‚½‚Ì‚Ş}C{map}ããàZİ“ß—¡“I–¼çÎC‰ä—§›æ‘¼‰ß‹{‚­‚ê}I{me}‰ä€”õ—¹{reward}‰Âà¥‘S•”àY“I{‚ ‚é}ÓâXI
+%END
+
+%ESCORT,1,EN
+Before it's too late.:Terrible thing happened! My dad is affected by a deadly poison. Hurry! Please take him to his doctor in {map}. I'll let you have {reward} if you succeed!
+%END
+
+%ESCORT,2,JP
+q‹Œì‰qI:o‰—–^±Œ´ˆöC—LlŠó–]“ğŒì‘—‘¼“{map}“ß—¡{‚Ì‚¾}B‰ä‘zœäŠY•s˜ğ”íáÉã{‚ª}C¬Œ÷“I˜b˜ğx•t{reward}{‚æ}B›”‰—–`è¨Ò˜ÒàC”‡¥ŒÂŠÈšd“IˆÏ‘õ”ë{‚¾‚È}H
+ˆ×æVŒõ‹q›æ˜H:‰ä”íŠï‰ö“IæVŒõ‹q“Zã—¹Cœk¢ï{‚Ì‚¾}I‰ä˜ğx•t{reward}ìˆ×—b‹àC–ƒ”Ï“ğ›æ‘¼“{map}“ß—¡{‚­‚ê}B
+ŠÈšd“IŒì‰q:{me}“IeÊ{map}‘z‹{‚é}B•sI‰äŒ»İ’Š•sŠJgC”@‰Ê”\İŠúŒÀ“à›’‘¼•½ˆÀ‘—“C‰ä˜ğx•t{reward}ìˆ×ÓâX{‚æ}B
+%END
+
+%ESCORT,2,EN
+Escort needed.:We have this client secretly heading to {map} for certain reasons. We offer you {reward} if you succeed in escorting this person.
+%END
+
+%CONQUER,JP
+“¢”°ˆÏ‘õF‘ü—Ln—û“I–`è¨ÒË”\Úó“IˆÏ‘õ{‚¾}B{objective}“IÌí›ßãSŠm”F³İ‘O‰é’Á{‚Ì‚¾}B“¢”°¬Œ÷“I˜bC›’‹‹—\{reward}“I•ñV{‚é}B”‡•s¥•½–}“IˆÏ‘õ{‚æ}B”‡ŒÂ‰ö•¨“I‹­“xCŠ­—L{ref}‹‰{‚¾‚ë}B
+‹~–½IFŠJŠßÎæ¨•ü—FŠ…—¹ÌˆÙåZ…CŒ‹‰ÊÌ¬—¹{objective}{‚æ}I¥“™‹‰{ref}“I‰ö•¨{‚¾}Iˆ×—¹é’Á“I˜a•½C¿˜Ô‰õ‰ğŒˆ›€{‚­‚ê}IÓâX{‚©}Hác‘R€”õ—¹{reward}{‚½}B{‚½‚Ì‚Ş}I
+“Á–±w—ßF•K{˜Ô‰õ“EœˆĞ‹º“I—c•c{‚È}B”‡ŒÂé’Á—¡CŒR•û“I›‰é„é“œnâÄq—¡“¦o˜ÒC³İ‘åé§{‚Ì‚¾}B‰ä˜ğx•t{reward}CŠˆÈ¿“¢”°‘¼{‚­‚ê}BªŸŒ¤‹†ÉŸC”‡ŒÂ{objective}—ŒÁ—i—L‘«ˆÈ•C“G{ref}‹‰‰ö•¨“I‹­“x{‚æ}B¿¬Sœä›”{‚­‚ê}B
+%END
+
+%CONQUER,EN
+Challenge:Only experienced adventurers should take this task. An unique mutant of {objective} has been sighted near the town. Slay this monster and we'll give you {reward}. This is no ordinary mission. The monster's leve is expected to be around {ref}.
+%END

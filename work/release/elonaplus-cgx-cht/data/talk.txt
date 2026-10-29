@@ -1,0 +1,1814 @@
+####################### Reference #######################
+
+	/Area Code Reference/
+areaVernis		5
+areaHome		7
+areaRandDungeon		8
+areaGraveyard		10
+areaKapul		11
+areaYowyn		12
+areaRogueDen		14
+areaPalmia		15
+areaShrine		20
+areaCyberDome		21
+areaHighMountain	25
+areaSister		29
+areaShelter		30
+areaRanch		31
+areaOffice		32
+areaNoyel		33
+areaSmith		34
+areaShowHouse		35
+areaLumiest		36
+
+	/Japanese Conversion List/
+{‚ ‚é}		‚ ‚éA‚ ‚è‚Ü‚·
+{‚¤}		‚¤A‚¢‚Ü‚·
+{‚©}		‚©A‚Å‚·‚©
+{‚ª}		‚ªA‚Å‚·‚ªA‚¯‚Ç
+{‚©‚È}		‚©‚ÈA‚Å‚·‚©A‚©‚µ‚ç	
+{‚­‚ê}		‚­‚êA‚­‚¾‚³‚¢
+{‚¾}		‚¾A‚Å‚·
+{‚¾‚È}		‚¾‚ÈA‚Å‚·‚Ë
+{‚¾‚ë}		‚¾‚ë‚¤A‚Å‚µ‚å‚¤
+{‚½‚Ì‚Ş}	‚½‚Ì‚ŞA‚¨Šè‚¢‚µ‚Ü‚·
+{‚Ì‚¾}		‚Ì‚¾A‚ñ‚¾A‚Ì‚Å‚·
+{‚æ}		‚æA‚Å‚·‚æ
+{‚È}		‚ÈA‚ËA‚Å‚·‚Ë
+{‚é}		‚éA‚Ü‚·
+
+
+	/Translation Note/
+Text written after %xxx,x,EN will be displayed in the English version of Elona.
+See /Vernis for example. The translation doesn't have to be precise.
+You can even add your own sentences if you like to. 
+
+You can completely ignore the use of {} when translating. (ie. {‚¾},{‚¾‚È} )
+Those are structures which are used for some Japanese conversions.
+They also convert the code into designated in-game variable. 
+The codes are listed below.
+
+{player}	player's name
+{aka}		player's nickname(aka)
+{nptc}		the name of the person target
+{npcc}		the name of the person 
+{me}		"I"
+{you}		"you"
+{objective}	quest:objective
+{reward}	quest:reward
+{ref}		quest:refer
+{map}		quest:map name
+{client}	quest:client name
+
+
+	/Editing Tips/
+* When testing, save your game infront of a NPC and use defLoadFolder. setting in the config.txt to quick load/launch the game.
+
+
+	/Sunstrike/
+I have revised the entire text for consistency with the Japanese, and consistency for storyline, names, etc.  More importantly, I have rewritten all the lines to sound more natural and more original.
+
+
+	/Lord Nightmare's notes/
+The default english vernis translations do not completely match the originals, but this seems to be intentional.
+Regardless, I've tried my best to make each line correspond 1:1, but I had to add more information to a few of them.
+I'm also having trouble translating a few, google's translator is somewhat lousy. Look for the TODO lines.
+BMT means 'bad machine translation'
+Also I have no idea where the cyber dome line came from, It doesn't seem to appear in the original text, although it does make sense. I left it, but stuck an extra space before it. I also added an alternative to one of the other lines.
+
+Translated ?hiragana? -> english:
+VERUNISU		Vernis
+Jors/IERUSU		Yerles
+EUDANA			Eulderna
+RESHIMASU		Lesimas
+YOUIN			Yowyn
+DULLFY or DARUFI	Derphy
+PARUMIA			Palmia
+JABI			Xabi
+SUTASHA 		Stersha
+NOSUTIRISU      	North Tyris
+UU			?Ooh?
+KURIMUERU		Crim Ale
+NEFIA			Nefia
+Shin			??? mybe 'new'
+Kita			??? maybe 'north'
+DANJO			Dungeon
+RUMIESUTO		Lumiest
+RAHUAERO		Raphael
+
+Note:
+The Yowin, Derphy, Palmia, Noyel and Lumiest texts are added from the user created content on the japanese wiki, as are a few random other lines. The original talk.txt doesn't even have the JAPANESE text for those!
+
+Note 2:
+I haven't marked the conversation/personality texts as BMT or whatnot.
+
+Note 3: Personality: whoever translated this originally never sorted the translated lines into the subcategories/personalities where they belong.
+I did this whenever I could figure out what was supposed to go where. The ones I couldn't figure out I left at the end.
+
+Note 4: I'm not sure whether I should use ... for ellipsis, or the character meant for that, 'E.
+Special thanks to gridle for helping with a number of the lines which google translate choked on. babelfish isn't much better.
+
+
+####################### Begin ######################
+
+####################### Area #######################
+
+%AREA,5,JP			/Vernis
+ŸcŒ}˜Ò“ˆÛ¢“òzB
+‘½åk—¹áæRC”‡Àé’ÁË“¾ˆÈ”ÉÄ{‚Ì‚¾}B
+ˆÛ¢“òz¥—ğj—I‹v“I”áæ’Á{‚¾}B
+ÅD•Êİ“ß‰Æğêœ[|‹Õ{‚æ}B
+‰ä‰Â•s‘z”íŒ“ü–ë¢zäo–Ş’B”[“IDà¥{‚¾}B
+—‹¼àóz—ŒÁá¢Œ»—¹Y›õ{‚æ}B
+—ŒÁ—LŠl“¾V‹Z”\“I•û–@{‚æ}B
+ÅD’ˆÓˆê‰ºC•Ê\‘¾‘½“Œ¼{‚È}B
+İ•æ”èÓ“IlHˆ¢ˆ¢C“ßŒÂåZ•ÈŠ³Ò{‚æ}B
+•Äáz¥•z‹ô‹¶{‚¾}B
+—v‘O‰‰¤“s”b¢•Ä˜±C‘ü—vˆê’¼‰“Œ‘–As—¹{‚æ}B
+Šó›P“I››ŒÒÅ–_—¹{‚¾}B
+Å‹ß—LŒÂŸX‘¯š£Cæ¨lœkäI‹Ø{‚æ}B
+%END%
+
+%AREA,5,EN			/Vernis
+Welcome to Vernis!
+The mines around Vernis have brought a lot of money into our small community.  We are thriving thanks to the mines!
+Vernis may just be a coal mining town, but we have a long and notable history.
+If I were you, I wouldn't dare play the piano in the bar while Loyter is hanging out in there.  Don't say I didn't warn you.
+We're caught in the crossfire of the war between the Yerles and the Eulderna for some time now.
+Rumor has it that something of great value has been found in Lesimas.
+It seems there is a way to obtain new skills. See the trainer to the east of the town center.
+Be careful about carrying too much stuff.  You should sell off anything you don't actually need.
+That weirdo near the graveyard? Don't pay any attention to that bum. He's a hopeless junkie and I'm pretty sure he's an alcoholic too.
+Miches is nuts about stuffed animals.  She's completely obsessed with collecting them.
+The road to the east leads to the capital city of Palmia.
+You could bounce a quarter off of Shena's ass.  How does she stay in such great shape?
+We've had a lot of trouble with thieves recently.
+The people in that live in the Cyber Dome are so strange.  What a bunch of freaks!
+Vernis is the only known source of coal in the entirety of North Tyris.  We're making a killing.
+You're going to Palmia?  Just follow the road to the east.
+Everyone loves Shena's ass.
+Rogue attacks are becoming more frequent these days.
+%END
+
+%AAREA,5,JP			/Vernis
+ˆÈ‘Oˆöˆ×”áæ§”ÉÄC’AáæR‘S•”ˆöˆ×’nŸvÌ“®§•ö•ö—¹{‚Ì‚¾}B
+–ë¢z˜aé˜±—ŒÁI‰—˜a‰ğ—¹B
+İ•æ”èÓ“IlC•sŠÇ‰‰‘t“¾Äœƒ›õ·“s˜ğDDããšGB
+•ÄŸ[z‰Æ“I•z‹ôC¥—p^³“IŒF”ç˜ô“I{‚Ì‚¾}B
+œnğê“Œ‘¤—L’¼’B‰¤“s”b¢•Ä˜±“I”nÔ{‚æ}B
+Šó›P“I››ŒÒ—i—L”\ˆêŒ‚•²áêŠâÎ“IˆĞ—Í{‚æ}B
+ä»ä»ˆÀÅŠìŸc‹h‹ç“÷{‚¾}B
+%END%
+
+%AAREA,5,EN			/Vernis
+We were a prosperous coal town in the old days, but tectonic movement destroyed the mines.
+The Juere and Yerles seem to finally have settled their differences.
+That man you see by the graves will listen to anyone's performance, no matter how bad it is.
+The fur on the stuffed animals you see in Miches' house was stripped off real bears.
+There's a direct carriage from the east side of the bar here to the capital Palmia.
+Shena's ass is tough enough to pulverize a rock in one blow.
+Rilian loves dog meat.
+%END
+
+%AREA,11,JP			/Kapul
+ŠC•—œk{‚È}B
+ŠìŸcİ’•¨‹£‹ZêæVD{‚¾}B
+f”ã¢¥—«Œö“G{‚¾‚È}B
+‘zÌ‹­“I˜bC‹DmŒö˜ğA›”—¹{‚æ}B
+”‡—¡“IŠCY•iİ“à—¤‰ÂˆÈæÌ“‚™J{‚Ì‚¾}B
+—vœƒéË”\i“ü‹àš“ƒ{‚Ì‚¾}H
+%END
+
+%AREA,11,EN			/Kapul 
+Ah, there's nothing like the salty smell of the sea breeze.
+I love to watch the brutal fights in the pet arena.  You have to be careful though, sometimes audience members catch a stray bullet or get hit by careless dragons.  But you know, the risk is part of the thrill.
+Raphael is the enemy of all women.
+If you want the best training a fighter can have, you should check out the fighter's guild under the arena office.
+The price of seafood cargo is very high farther inland.
+I wonder how you get into that Pyramid north of town.  I have heard of people trying to go there, but none of them ever come back.
+I hear that a lot of the seediest and creepiest people head to Derphy.  I'm not sure where that place is, but we seem to get more than our fair share of thieves and vagabonds, so maybe it's not that far from here.
+%END
+
+%AAREA,11,JP			/Kapul
+‘´›‰”‡•À•s¥ŠC•—“IŸ†C§¥ŠC”V’jl˜ì“IŠ¾–¡{‚¾}B
+’•¨‹£‹Zêå•ÙlCª–{A•s‘¶İ{‚æ}B
+f”ã¢“I››ŒÒÅ–_—¹{‚¾‚È}B
+ˆ¢‘øíŠÒŸ“—LˆÓ¯“©ŒÈ›ßãSD€{‚Ì‚¾}cB
+”‡—¡“IğŠÙC¥Œšİ•æ’nˆâš¬ã“I{‚Ì‚¾}B
+‘ü—v•s‰ğŠJÎ”Âã“I“ä‘èCA–³–@i“ü‹àš“ƒ{‚Ì‚¾}B
+%END
+
+%AAREA,11,EN			/Kapul 
+To be honest, that ain't the smell of the sea you're smelling. It's the smell of sweat from all the workers.
+Know how the pet arena masters wears that big cloak? There ain't no person on the inside.
+Raphael's ass is the best.
+Arnord doesn't realize that he already died in battle...
+The tavern here was built on top of a graveyard.
+Until you solve the puzzle on the lithograph, there's no way to enter the pyramid.
+%END
+
+%AREA,12,JP			/Yowyn
+‘¦g¥”‡í‹½‰º¬’ÁC–ç—LˆêŒÂ‹©˜ô–ñ•¶“I–¼š{‚¾}B
+”@‰Ê—v”ƒ”n“I˜bCAİ”‡—¡”ƒ”ë{‚æ}B
+¾ŠnŠúã`¥lè•s‘«{‚È}B
+å«‘R”‡—¡Y›õ“sŸ“—LC’A‰ÂˆÈ––—V—V{‚æ}B
+ããà¼ç²—L–³–@–³“V“Ié’Á{‚¾}B
+—£ŠJé’Á‰“Œ‘–C‰ˆ’˜“¹˜H‘OiA¥‰¤“s{‚¾}B
+—Llİ¼“ì•ûŠÅ“ˆêÀŒÃ˜V“IéšÆ{‚Ì‚¾}B
+”‡ŒÂé’Á“I‘’‹ï¥‘´‘¼’n•û–³–@”ä‹[“I’¿•i{‚¾}B
+%END%
+
+%AREA,12,EN			/Yowyn
+This village is called Yowyn. 
+The horses sold here are the finest in the land.
+We always seem to be short-handed during the harvest season.  I'm sure everyone in town would be glad to have you lend a hand.
+Sometimes we see known outlaws heading to the west after they raid our farms or kill our cattle.  I wonder if something is out there.
+Head east out of town, and follow the road north to reach the capital of the Kingdom of Palmia.  Be careful around that old fortress though, it's a strange place.  I've heard sometimes people that go near that place are gunned down by ancient machines that survived from Eyth Terre.
+The elder always talks about an old run down castle to the southwest.  That old bag is always making up crazy stories.
+Yowyn's economy is pretty small, but we do make excellent caskets.  Sometimes the nobles from Palmia send their squires and servants down here to buy them.
+The air is so fresh and lively here in the countryside.  I wouldn't give this up for anything.
+%END
+
+%AAREA,12,JP			/Yowyn
+”‡é“I‹½‰º¬’ÁˆÈ‘O–ç—L‰ß³®“I–¼š{‚¾}cB
+¡”NˆÓ‘å—˜–Ë÷“I¶’·ó‹µ•sDCˆÓ‘å—˜–Ë”_‰Æœk“ªáu{‚æ}B
+“—¹‹ãŒC‘åæ²¾ßAŠJn—¹{‚æ}B
+—£ŠJ¬’ÁC‰“Œ‘–CˆÊ‰—xŠO“IîìFéšÆA¥‰¤“s{‚¾}B
+äˆˆö¥™Bà’†“I‹Rm“I‘·q{‚¾}B
+”‡ŒÂ¬’Á“Il“÷¥‘´‘¼’n•û–³–@”ä‹[“I”ü–¡{‚¾}B
+%END%
+
+%AAREA,12,EN			/Yowyn
+The pasta trees ain't been growing so well this year. The pasta farmers are in trouble.
+We have a big harvest festival in September.
+That black castle you see when leaving town is the royal capital.
+Ainc is the grandson of a legendary knight.
+Human flesh is this town's most prized product.
+%END
+
+%AREA,14,JP			/Derphy
+ŸcŒ}˜Ò“–³–@–³“V“I¬’ÁC’B¢äÉB
+“ğ•s˜ğÌ“¾‘œ‘øäˆ¢ˆêé{‚È}B
+›”“ßŠ˜HŠ´‹»ï“I˜bC‹ŸX‘¯Œö˜ğA›”—¹{‚æ}B
+“zè¯¥¢ŠÔ•s‰Âˆ½ã“I‘¶İ{‚¾}B
+ŠìŸcİ‹£‹ZêŒ©ŒŒ{‚¾}B
+”‡ÀésŸ“—L‰q•º{‚æ}B
+%END%
+
+%AREA,14,EN			/Derphy
+Welcome to Derphy, a rotten hive of scum and villainy.
+Noel is crazy.  She'd bite the head off of a kitten if she had the chance.  She kills things and spreads chaos for the hell of it.  I don't mind a thief, but she's a bit over the top.
+A lot of thieves hang out here.  They have a hideout under the casino but they won't just let you in.
+Slavery is a very lucrative business.  Many people claim it's evil, but even mighty Palmia's economy would disintegrate if they didn't have any slaves to work their fields.
+Nothing beats a bloody match at the arena.  If you want to impress the crowd then give them lots of drama and blood.
+Derphy has no city guards, so we can do whatever we want!
+%END
+
+%AAREA,14,JP			/Derphy
+ŸcŒ}˜Ò“½›‰”VéC’B¢äÉB
+”nz‘´›‰–Ê‹ïË¥^–Ê–Ú{‚Ì‚¾}B
+•ŠïŠááË“I•”•ª‘´›‰¥•@E{‚¾}B
+“zè¯”‡íŸk““I§“xœäŠYœEœ{‚æ}B
+{‚Ì‚¾}›”‹£‹Zê’†ŒŒ—¬¬‰Í“IDé¦Š´“S’ÉB
+{‚æ}›ßãSŠ®‘SKŠµ—¹Šj”šàyB
+%END%
+
+%AAREA,14,EN			/Derphy
+Welcome to Derphy, the city of honesty.
+Marks' face is the real deal, not a disguise.
+Those things on putits that look like eyes are actually its nostrils.
+I think slavery should be abolished.
+My heart aches over the terrible battles that go on in the arena.
+I'm completely used to nuclear explosions these days.
+%END
+
+%AREA,15,JP			/Palmia
+ŸcŒ}˜Ò“”b¢•Ä˜±š “I‰¤“sB
+{‚È}Šó–]•Ä‰ë“Ià˜b•û®”\‰üˆê‰üB
+”b¢•Ä˜±Y›õ“s—LCœk•û•ÖCœkD{‚ª}C’Aˆöˆ×‘¾‘å—¹CQlœk–ƒ”Ï{‚¾}B
+æÉˆÛ‘ål˜az“ƒ‰Ä‘ålCŠ´î^“IœkD{‚Ì‚¾}B
+à“”b¢•Ä˜±“I–¼YCA¥‹M‘°“IŠß‹ï{‚¾}B
+%END%
+
+%AREA,15,EN			/Palmia
+Palmia is huge.  I got lost in this town all the time.  It's really hard to find other people sometimes.
+I wonder what's wrong with Mia, she's so weird.  I wish she'd just learn how to talk properly, that'd help a lot.
+I can't make out anything that Mia says.
+Welcome to the capital of Palmia!  Our kingdom is old and very prosperous.
+King Xabi and Queen Stersha are a beautiful couple.
+One of our special products here are toys that the nobility often buy for their children.  There are machines in the center of town that sell them, if you can get some coins maybe you can get some awesome toys out of them too.
+The etherwinds have been getting strong and more dangerous over the last fifty years.  My grandfather always tells me about how weak they used to be.  If they grow much stronger we might be forced to abandon our homes.
+My friend told me there is an ancient fortress to the north.  I wonder if that's true.
+We have a lot of parties in Palmia.  The nobility will throw money at any excuse for a drunken celebration.
+%END
+
+%AAREA,15,JP			/Palmia
+ŸcŒ}˜Ò“”b¢•Ä˜±š “I‰¤“sB
+•Ä‰ë“Ià˜b•û®Œ»İİ”b¢•Ä˜±œk—¬sI–‰ŠìŠìI
+z“ƒ‰Ä‘ålİ‰¤À‰ºåU—¹d—v“I“Œ¼{‚Ì‚¾}B
+à­•Çã“Iè¸—¬o“I…C¥¶Šˆ‰˜…{‚¾}B
+%END%
+
+%AAREA,15,EN			/Palmia
+Welcome to the castle town Barmia.
+Nyanya! Mia's way of talking is all the rage in Palmia right nyow!
+Stersha hid something important under the king's throne.
+The water flowing out of the sculpture on the wall is actually waste water.
+%END
+
+%AREA,30,JP			/Shelter
+Šó–]“VŸ†”\‰õêy‰ø•œ{‚È}B
+”‡ŒÂ”ğ“ïŠ¥‘å‰Æ“IoŠ¼Œš‘¢“I{‚Ì‚¾}B
+—L”ğ“ïŠ^¥›ñ‘å–Z—¹{‚æ}B
+DîÌˆ¢{‚¾}B
+ã`æS“¾D‹»•±ˆ¢{‚æ}B
+H•¨D‘œœk[‘«{‚¾}B
+%END%
+
+%AREA,30,EN			/Shelter
+I'm so bored!
+When will this awful weather end?
+I hope the weather will recover quickly.
+This is about as exciting as a bag of broken rocks.
+This shelter was built using contributions by everyone in town.
+I appreciate the fact that this shelter is here, otherwise we'd never survive the etherwinds.
+We've got a lot of time in here.  We often have to stay in here for days.  I think more than half of our pregnancies begin in here.
+This is kind of exciting!
+We've got plenty of food stocked up.  We could stay in this place for months if we had to.
+%END
+
+%AAREA,30,JP			/Shelter
+–¾“V“I“VŸ†¥‰J—Lè¦Î{‚¾}B
+i“ü”ğ“ïŠ“IŠúŠÔC‘¦gé“—ÍÌ¬0–ç•s˜ğ€{‚Ì‚¾}B
+”@‰Ê”ğ“ïŠ”í“PœC—¡–Ê“Il—ŒÁ˜ğ”í•ª‰ğ¬Œ´q§€{‚æ}B
+ŠôŒÁŸ“—L–×”õH•¨{‚È}B{you}“IH•¨âc”÷•ªˆêêy{‚­‚ê}B
+%END%
+
+%AAREA,30,EN			/Shelter
+Tomorrow's weather is rain with occasional meteors.
+You won't die in a shelter, even if your HP hits 0.
+It seems that when you pick up a shelter, anyone inside is atomized and dies.
+We're almost out of food. {you}, share some of yours with us.
+%END
+
+%AREA,33,JP			/Noyel
+™ûšaIšjšjC¡“V–çœk—â{‚È}B
+–ˆ“V›áœkh‹ê{‚¾}B
+“ßŒÂ‹l“I–¼šD‘œ‹©šºœd{‚¾}B
+”@‰Ê–³–@”Eóßœ¦Š´“I˜bC‰ÂˆÈ‹‹³˜ğ{‚æ}B
+D—âI
+âc”÷‰“ì‘–C‰ÂˆÈŠÅ“ˆêŠÔ¬H–V{‚Ì‚¾}B
+%END%
+
+%AREA,33,EN			/Noyel
+It's colder than death's pecker hanging in a well.  But, y'know, welcome to Noyel.
+The snow never goes away, but we still have to shovel it so we can get around.
+Have you seen that giant near the church?  I heard his name is Ebon.
+You can confess your sins at the church.  I can't think of a better way to be forgiven for your crimes.
+I'm freezing.  I can't feel my fingers.
+A while back I saw a small house south of Noyel.  It looked like some sort of workshop.
+Who would build a city here?  And why did I have to be so unfortunate as to be born here?
+%END
+
+%AAREA,33,JP			/Noyel
+–ˆ”NˆêŒ“s—L‘ø–ë¢“IÕ“T{‚Ì‚¾}B
+”c•€“ªÌi_¹”VˆäC—_A˜ğoŒ»{‚Ì‚¾}B
+“ßŒÂ‹lD‘œ¥”œˆÉ˜±“Iîl{‚¾}B
+”b™Z“I•êeD‘œåä•a{‚æ}B
+‰–k‘–ˆê’i˜HC‰ÂˆÈŠÅ“ˆêŠÔ¬H–V{‚Ì‚¾}B
+%END%
+
+%AAREA,33,EN			/Noyel
+There's a festival in Noyel every year in January.
+If you drop an axe in the holy well, a goddess will appear.
+It seems that giant is Moyer's lover.
+Pael's mom seems to be faking her illness.
+If you go way north, you'll find a workshop.
+%END
+
+%FEST,33,JP			/NoyelFestival
+ŸcŒ}˜Ò“‘ø–ë¢˜D“I¹–éÕI¿á¶î‹ó{‚­‚ê}B
+¹–éÕ–ç”íâiˆ×¹é˜±Õ{‚é}B¥æ«èñ¡–ü—_CŒcjˆê”NŒ‹‘©“I‰ƒ˜ğ{‚Ì‚¾}B
+–€ˆÉˆŸ“ß‰ÆšìC¡”N“I¹–éÕ€”õ—¹Y›õ“Á•Ê“I“Œ¼CŠ²™¤\‘«–‰{‚È}B
+{you}C“ßŒÂ_¹“Ié˜±‘œ›ßãSŠÅ“—¹›õ{‚©‚È}H‘½›õ”ü—í–”‰Âˆ¤ˆ¢{‚©}I{you}æá”‡ŒÂ‹@˜ğ‰ü@–ç•sö{‚æ}I
+¡”Ó˜aSˆ¤“Il˜ô˜®•“I–î”ë{‚Ì‚¾}I
+ˆ×—¹ŠÅ”‡ŒÂÕ“TC”‡ŒÂŠú—Lœk‘½æVŒõ‹q‘¢–K‘ø–ë¢˜D{‚Ì‚¾}B
+¹–éÕ¥—ğj—I‹v“IÕ“T{‚¾}BŸàˆÈ‘O”b¢•Ä˜±“I‰¤º–ç˜ğ˜ÒŒüé˜±‘œ‹F“˜{‚æ}B
+™Bà’†Cé˜±“I¡–ü”V—ÜC‰ÂˆÈ¡—Ã”C‰½‹^“ïè¶Ç{‚é}B–›‰ãCİ¹–éÕŠúŠÔC–Ól‰ø•œŒõ–¾“™C–ÚŒ‚“‹–‘½ŠïÖ{‚Ì‚¾}B
+%END%
+
+%FEST,33,EN			/NoyelFestival
+Welcome to the Holy Night Festival! Enjoy yourself!
+The Holy Night Festival is also known as the Festival of St.Jure. This is a feast to honor the Goddess of Healing and to celebrate the end of the year.
+I heard Moyer is preparing some showpiece for the festival.
+You, have you seen the great celestial statue of Jure yet? Oh, what a beautiful woman she is!
+I will meet my lover tonight!
+Many tourists visit this town just to see the festival at this time of year.
+The Holy Night Festival is an old and historical event. It is said that even the royal family of Palmia used to visit this little town to offer their prayers to St.Jure.
+A legend says Jure's tear can cure any diseases. In fact, there have been many witnesses of her miracles in the past events. Such as an old blind woman recovering sight, can you believe it?
+%END
+
+
+
+%AREA,36,JP			/Lumiest
+ŸcŒ}˜Ò“…äoåYp”V“sB
+–^™|—ŒÁ—LˆÈ‰·ò•·–¼“Iés{‚¾}B
+İ”‡ÀésC“™|“s‰ÂˆÈ’Ş‹›{‚Ì‚¾}B
+›”ã‰á`œku‹†{‚æ}B
+İ”b¢•Ä˜±C‘ü—L”‡Àés—L–‚ptŒö˜ğ{‚Ì‚¾}B
+%END%
+
+%AREA,36,EN			/Lumiest
+Lumiest is a city of great culture and art.  Welcome to our fine city.
+I heard there's a town famous for hot springs somewhere.
+Here in Lumiest, you can go fishing anywhere you like.  The schools of fish are huge and they never seem to get any smaller.  I wouldn't mind a hamburger from time to time though.
+I could talk about painting for hours.
+This is where the mage's guild keeps their libraries.  It's the only place in all of North Tyris where you can check out books on even the most obscure spells.
+They say something horrible lives in the sewers.  It smells horrific though, so I'd never go down there.
+%END
+
+%AAREA,36,JP			/Lumiest
+ŸcŒ}˜Ò“”ü–¡“I…”VéB
+çL‰º˜ÒŠ…Š…ŠÅ”‡—¡“I…”ëB”ñí”ü–¡{‚æ}B
+ˆ×—¹•ÛŒìŒiæVC”@‰Êİ”‡Àés’Ş‹›C‰q•º˜ğŒx“ğ{‚Ì‚¾}B
+ˆê’U™B‘—“ŒÇ“‡CAÄ–ç‰ñ•s˜Ò—¹{‚æ}B
+•ÊŠÅ”b¢D“ßéC‘¼‰Â¥•‰ÓˆÃE“I’n‰ºĞ˜ğ´Œ‰H{‚¾}B
+%END%
+
+%AAREA,36,EN			/Lumiest
+Welcome to the town of delicious water.
+Crouch down and take a sip of the water. It's great.
+The guards will warn you if you try to fish here. Nature preservation and all that.
+If you warp to one of them islands, there ain't no coming back.
+Balzak might not look like it, but he performs assassinations for the underworld.
+%END
+
+%AREA,50,JP			/Eirel
+”‡—¡¥–ë¢zB––˜ÒAD{‚æ}B
+‘½åk—¹–ë¢zŒRC”‡ŒÂés“I¡ˆÀ‘Š›”ŠrD{‚Ì‚¾}B
+‘øz’ñ—¢z¥ŒÂY›õé“I’n•û–‰{‚©‚È}B
+‹ç”L•Šï“sœk‰Âˆ¤{‚æ}B
+”‡ˆê›æŸ†‰·Šr’áC‹ô¢˜ğ‰ºá{‚Ì‚¾}B
+–ë¢z—ŒÁ³İ’²¸“ìz’†‰›•”“IˆâÖ{‚æ}B
+”‡ŒÂés“I‹óŸ†œk´VCœkD•·{‚¾‚ë}B
+%END%
+
+%AREA,50,EN			/Eirel
+This is the town of Eirel. Stay and relax for a while.
+Thanks to the Yerles army, this town is relatively peaceful.
+I wonder what kind of place North Tyris is?
+Dogs, cats, and putits are all cute.
+This area is rather cold. It even snows sometimes.
+The Yerles seem to be investigating the ruins in the southern-central part of the country.
+The air in this town is nice and clean.
+%END
+
+%AAREA,50,JP			/Eirel
+és¼–kç²“IŒRlˆöˆ×ãêq‘¾‰ìC“‹h—¹ŒR—p•Šï{‚Ì‚¾}B
+å«‘R”\œn‘øz’ç—Íz‹“ìz’ç—ÍzC’A”½‰ß˜Ò¥•ss“I{‚¾}B
+ŒR—p•Šï“I–Xq\‰º˜ÒŒãC’q—Í˜ğ‘å•‰º~{‚æ}B
+”‡ˆê›æ‰º“Iá‹h‹N˜Ò—Lêy“[{‚Ì‚¾}B
+”[˜D•fz¥ŒÂˆÈŒ¤‹†˜B‹àpˆ×–¼s«ézï”V›‰“IÌ‘ÔC”w’n—¡”í‹©˜ôFî”[˜D•fz{‚æ}B
+%END%
+
+%AAREA,50,EN			/Eirel
+The officer in the northwest of town got hungry, so he snatched up some of the military putits.
+You might have traveled from North Tyris to South Tyris, but it's impossible to get back.
+If you take the hat off a military putit, its intelligence decreases drastically.
+If you eat the snow that falls around here, you'll find it has a slightly sweet taste.
+Naplus is always looking for victims to satisfy her lecherous needs, and likes to grope people while pretending that it's for her alchemy experiments. That's why we call her "Eronaplus" behind her back.
+%END
+
+%AREA,51,JP			/Ruoza
+”‡—¡¥á¸Ÿ^FBà”’—¹C”‡—¡Ÿ“Y›õ“Á•Ê“IŠÅêy{‚È}B
+Ÿ“—L•¨‘{‚Ì‚¾}BY›õ“ssC{Ìêy“Œ¼”ë{‚­‚ê}B
+‰ä‘zİ–@æ¨‰Á˜Hf‰ñ“Œ´˜Ò“I¢ŠE{‚Ì‚¾}B
+ŒÌ‹½Œ»İœƒ›õé—¹{‚¾‚ë}B
+%END
+
+%AREA,51,EN			/Ruoza
+This is Ruoza. To be honest, there's not much here.
+We're out of supplies. Anything you could give would be blessing.
+I'd like to get Karura back to her original world somehow.
+I wonder what's become of my hometown.
+%END
+
+
+%AAREA,51,JP			/Ruoza
+İá¸Ÿ^HC‹K’è¥ŠÅ“‹–¯A‹‹—\•¨‘{‚¾}B
+’|â¡•sD‹h{‚¾‚È}B
+æî‰Á˜Hf’ñ“îpé›“Iäˆ—‰˜±A˜ğá¢T{‚æ}B
+%END
+
+%AAREA,51,EN			/Ruoza
+Here in Ruoza, it's part of the rules to give residents some supplies.
+Bamboo shoots don't taste good at all.
+If you mention a green-haired Elea to Karura, she starts trembling.
+%END
+
+%AREA,52,JP			/Melkawn
+¤lœn¢ŠEŠe’nãÚW“”~¢‰Á{‚Ì‚¾}B
+’n‰º—L‹‘å“I“q”İ{{‚Ì‚¾}B
+ÅD•s—vi“ü•n–¯ŒA{‚¾‚ë}B
+”@‰Ê‘z³í”ƒ“Œ¼“I˜bC˜ğ”íBèA{‚È}B
+”ƒ“Œ¼—vŒvŠc«B
+—£ŠJé’Á‰¼‘–C—LŒÉf¢›G“I`Œû{‚Ì‚¾}B
+”~¢m¥“ìz‘ï—˜zÅ”ÉÄ“Ié’Á{‚¾}B
+%END%
+
+%AREA,52,EN			/Melkawn
+Merchants from all over the world come here to Melkawn.
+There's a huge gambling facility underground.
+It's probably best not to go into the slums.
+If you shop like normal you're gonna get ripped off.
+Plan your shopping.
+If you leave town and go to the West, you'll find the port of Kurualm.
+Melkawn is the most prosperous town in South Tyris.
+%END%
+
+%AAREA,52,JP			/Melkawn
+ŠMˆö¥”‡ŒÂé’ÁÅ—Lí¯“Il{‚¾}B
+’n‰º—L“K‡™Z“¶“I‹xîÌİ{{‚Ì‚¾}B
+¤‹Æ‹»·“I”‡ŒÂé’ÁC•¨™J¥‘´‘¼é’Á“Iˆê”¼{‚¾}B
+İé’Á¼–k“I…˜HôàUC—ŒÁ˜ğ”í–^l‰gi…—¡B
+%END%
+
+%AAREA,52,EN			/Melkawn
+Cain has the most common sense of anyone in the town.
+There's a recreational facility for children underground.
+The prices here in this booming town are about half that of those in other towns.
+If you bathe in the waterways in the northwest of town, supposedly someone will drag you under.
+%END%
+
+%AREA,53,JP			/Kurualm
+ŸcŒ}˜Ò“ŒÉ˜Dˆ¢¢›G`B
+”À‰^‰İ•¨œk—İl{‚È}B
+ácŠCŸXA”\æÏ‘åèA{‚©‚È}B
+•Ä—…z¥œn“ßŒÂš ‰Æ˜Ò“I{‚¾‚ë}B
+‘åŒ^‘D˜ği“üŒã–Ê“I`Œû{‚Ì‚¾}B
+–³˜_‰½C–³˜_‰½’nC‰ä“s‘z“nŠC§sBˆöˆ×“ß—¡œäŠYU—’˜—ßl‹Áæb“ICœn–¢Œ©‰ß“I–•¨B
+%END%
+
+%AREA,53,EN			/Kurualm
+Welcome to the port town of Kurualm.
+I'm tired of carrying luggage.
+I wonder if it'd be profitable to be a pirate?
+I wonder where Miros came from?
+There's a large ship back there at the harbour.
+If I could, I'd sail the sea forever. I can only imagine the amazing things out there that nobody has ever seen before.
+%END
+
+%AAREA,53,JP			/Kurualm
+İ”‡•Ğ‹ßŠCoŒ»“IŠCŸXC‘´ñ‹‰”íŒœÜ—¹çèŠzÜ‹à{‚æ}B
+Ÿ”—İj•Ÿ”V…‰ºCA•s‘¾—eˆÕó“æf™î˜aˆÙíó‘Ô{‚È}B
+áù“ªã‹ô¢˜ğ—LŠC‰¨–Ÿ•à{‚Ì‚¾}B
+F”[í¥“‹˜©Œğ’ÊH‹ïŒãC«ŠiA˜ğ‰üÌ“I‹¶–\{‚æ}B
+%END%
+
+%AAREA,53,EN			/Kurualm
+There's a huge bounty on the heads of those pirates that show up around here.
+A dip in blessed water makes items harder to become cursed and people hex-resistant.
+Sometimes there are seagulls walking down the wharf.
+Whenever Zernard gets on a vehicle, his personality changes and becomes violent.
+%END
+
+%AREA,54,JP			/Valm
+‹ŠCç²Šß“I•ü—FDŠô”N“sŸ“‰ñ˜Ò{‚Ì‚¾}B
+{‚È}—ŒÁŒvŠc›’•‹ß“I¹“å‘Å‘¢¬“x˜ïŸ’nB
+”‡—¡“IŠCˆê”Nl‹G“s”\Ÿà‰jB
+¡“VŠ¢¢›Ggã–çUá¢’˜‹›äH–¡{‚È}B
+{‚Ì‚¾}F¹“åããSí—LoŠH•Y˜ÒB
+%END%
+
+%AREA,54,EN			/Valm
+My friend who went to play at the beach hasn't returned for many years.
+There seems to be plans to make the nearby beach a resort spot.
+You can swim here all year round.
+Valm smells fishy again today.
+Trash and debris often wash up on the shore.
+%END
+
+%AAREA,54,JP			/Valm
+İ¹“åã¾W¹qCA”\‘Ío¹šÆ{‚æ}B
+“~“V–AİŠC—¢˜ğó“™u—âŠQ{‚æ}B
+Š¢¢›G“Iˆê‘åŠˆ“®C¥›’ŠO’nlác¬ŠC_Õ•i“IŠCÕ{‚¾‚È}B
+¹“åã“I‰Gê—ŒÁ˜ğùçzêŸvİ‹ó’†”òãÄB
+%END%
+
+%AAREA,54,EN			/Valm
+If you pick up some sand on the beach, you can make a sand castle out of it.
+If you swim in the sea in winter, you'll receive cold damage from how cold it is.
+That garbage collector is an exceptionally beautiful woman.
+The biggest event every year in Valm is the Day of Sacrifice, when we sacrifice outsiders to the Sea God.
+That turtle you see on the beach can supposedly fly in the sky by rotating his shell.
+%END
+
+%AREA,55,JP			/Melugas
+”C–±\•ªš‰Õ{‚¾}B
+‰ÁŠLfŠm›‰¥“VËC’AäI‹Ø“I¥‘¼˜V¥ŠJá¢ˆê±‰ö“Œ¼B
+™ÒæV”ñíŸcŒ}BŠó–]ŠeˆÊ”\X‰Á—¹‰ğ‰ä˜ì–ë¢zŒRB
+’n‰ºœ—¹‘ŠèlˆõˆÈŠO‹Ö~i“ü{‚¾}B
+—‹•ÄíˆâÖ—L”ñíŠëè¨“IŸ¸äÉ˜±{‚¾}B
+é˜±ˆ×Y›õ“ß›õ‘zï˜ª’˜–‰B
+”‡ˆê›æ”íâiˆ×”~¢‰Á’n™½{‚é}B
+%END%
+
+%AREA,55,EN			/Melugas
+Duty is a harsh mistress.
+Gavela is a genius to be sure, but he has a habit of getting into trouble.
+Welcome, traveler. Want to know more about us Yerles?
+The basement is off-limits to all except official personnel.
+The Rehmido ruins is a very dangerous Nefia dungeon.
+Hah, why does Juere want to cause so much trouble?
+This region is called Melka.
+%END
+
+%AAREA,55,JP			/Melugas
+‰ÁŠLfD‘œœkŠìŸc‰jåäB
+İ’n‰º”é–§Œš‘¢’˜ÅI•ºŠí{‚é}B
+”‡ŒÂŠî’n–{g‰ÂˆÈÌŒ`¬‹‘å“IDé¦‹@ŠB{‚Ì‚¾}B
+›’ŒRA¥“ßŒÂ“®—Íèä]“I–{é“{‚¾}B
+Šî’n“IlŒÂŠp—C¥‹Uåä¬“ƒ“I‹‘å“±œ[{‚¾}B
+%END%
+
+%AAREA,55,EN			/Melugas
+Gavela seems to love swimsuits.
+We've been building the ultimate weapon in secret underground.
+This base itself can transform into a giant battle mech.
+The general forms the main part of the power arm.
+The towers in the four corners of the base serve as camouflage for enormous missiles.
+%END
+
+%AREA,56,JP			/Arcbelc
+{you}¥œn“ß—¡˜ÒæVŒõ“I{‚©‚È}B
+‘I“y“ÁY—vTdB
+”‡—¡“IŒÎ”ñí—L–¼{‚¾}B
+%END%
+
+%AREA,56,EN			/Arcbelc
+You here for sightseeing?
+Be careful what you buy at the souvenir shops.
+The lake here is very famous.
+%END
+
+%AAREA,56,JP			/Arcbelc
+˜Ò”‡ŒÂés“IæVŒõ‹qAZE—¹–ç•s˜ğ”í–âß{‚æ}B
+“ßŒÂ“±—V¬ˆ·”ñíã¬{‚Ì‚¾}B
+–ˆ”NCŒÎ—¡“s˜ğoŒ»‹…‘”‰ö•¨{‚Ì‚¾}B
+–A‰·ò‰ÂˆÈ‰ø•œá†‹¶“xC’A‘Ï—Í“IàIİ”\—Í˜ğŒ¸­{‚æ}B
+%END%
+
+%AAREA,56,EN			/Arcbelc
+Killing the tourists who come to this town isn't a sin.
+That female tour guide over there is very frail.
+Once a year, a Marimo monster shows up in the lake.
+When you soak in the springs to recover your sanity, the potential of your constitution attribute will decrease.
+%END
+
+%AREA,57,JP			/Ludus
+ŒÃšúœnˆÈ‘OAœk—DG{‚¾}Bå«‘RŒ»İ”jY—¹C’AŸ“èŒWCˆê’è”\dV˜Ò‰ß{‚¾‚ë}B
+‰ä‘z‹ˆêŸ‘åésŠÅŠÅB
+ˆÈ‘O”‡—¡—Lˆê‘å•Ğ”ì—€“I“c’n˜a”_“c{‚¾}B
+D‘A•çZİ”~¢m“I•ü—Fˆ¢cc
+–ˆ”N”ªŒ“s˜ğ¨•Ù‹F‰JÕ{‚Ì‚¾}B
+%END%
+
+%AREA,57,EN			/Ludus
+Guo is a great guy. He's bankrupt right now, but I'm sure it'll work out somehow.
+Just once, I'd like to go to the city.
+In the past there were bountiful fields all throughout this area.
+I have a friend who lives in Melkawn. I'm so jealous...
+We hold a rain festival every year in August.
+%END
+
+%AAREA,57,JP			/Ludus
+Œ‹‰ÊC‹½‰ºlŠÒ¥Zİ‹½‰ºÅK•Ÿ{‚æ}cc
+İŠóf™û–Ê‘OŠÅ‘“I˜bC‘•Å˜ğ”í‹h{{‚æ}B
+•ü—FZİ”~¢m{‚ª}‰äˆêêy“s•s‘A•çcc
+”‡ŒÂ‘ºq‹ô¢–ç˜ğ‰º‰JCîpˆÓˆì‘R{‚Ì‚¾}B
+%END%
+
+%AAREA,57,EN			/Ludus
+Yeah, the country is where country folks like us are the happiest...
+If you read a book in front of Siraha, she'll starts munching on the pages.
+I've got a friend living in Melkawn. Can't say I'm envious...
+Occasionally we get some rain and everything springs back to life.
+%END
+
+%FEST,57,JP			/LudusFestival
+ŸcŒ}˜Ò“˜Dí‰Gz“I‹F‰JÕI
+¡”N“–Ú‘Oˆ×~CŠôŒÁŸ“‰º‰ß‰J{‚æ}B
+‹F‰JÕãC˜ğ›’Û’¥“úÆ“I°“Vˆ¡ˆ¡àÁàÁ’ÉGˆê“ÚCåSŸ‹F‰J{‚Ì‚¾}B
+”‡êÕ“T¥æÏèA“ID‹@{‚¾}B
+¡”N–ç‘½åk—LŠˆ—Í\‘«“I‘ÅHe›ñ–Z{‚Ì‚¾}B
+%END%
+
+%FEST,57,EN			/LudusFestival
+Welcome to the Rain Festival!
+Almost no rain has fallen since the beginning of the year.
+For the Rain Festival, we destroy this paper doll that serves as a symbol of the drought in order to call the rain.
+The festival is a great time to make some money.
+Our hard work this year will save us next year.
+%END
+
+%AREA,72,JP			/Tosyo
+É—Ê‹H­{‚ª}C”‡—¡–ç—L‰“ŒÃ•¶–¾“I‘Ğ{‚ ‚é}B
+‹Ö~i“ü“I’n‰º—ŒÁ–ç—L‹–‘½‘Ğ{‚È}B
+İš¤‘ŠÙ“à¿•ÛˆÀèÎ{‚­‚ê}B
+Å‹ßC”‡Àš¤‘ŠÙ–ç‘½—¹•s­˜Ò©‰ºŠE“I‹ql{‚Ì‚¾}B
+ˆöˆ×“s¥±‹Md“I‘ĞCŠˆÈ•s”íˆò‹–ŠOØ{‚Ì‚¾}B
+%END%
+
+%AREA,72,EN			/Tosyo
+There aren't many of them, but some of the books housed here are from long-destroyed civilizations.
+There seems to be many books in the off-limits section in the basement.
+Be quiet inside the library.
+We've had a lot of visitors from the world below recently.
+These books are very precious, so we cannot loan them out.
+%END
+
+%AAREA,72,JP			/Tosyo
+”@‰Êİ‘‰Ëã•ú—¹•Ê“I‘ˆ½Ò‰üÌ‘“I”r—ñ‡˜CA˜ğ‘ÅŠJ’Ê‰•s“¯’n•û“I–å{‚Ì‚¾}B
+Ÿà–ˆ”N“s—L’´‰ßˆêç–¼‹ql’¾–À‰—æ¤‘§‰ì€B
+”‡—¡“IŠÙ’·˜ğœkç¬ˆÓ’n‘i•Êl”C‰½–î{‚Ì‚¾}B
+ŠÙ’·—ŒÁ˜ğ““œnoŠHêE‰ñ“ß±šæ–½—LŒÀ“Il˜ìÌ{“I‘{‚¾}B
+%END%
+
+%AAREA,72,EN			/Tosyo
+When a new book is added to the shelf or the books are re-arranged, a gate leading to a different place will open.
+More than a thousand guests starve to death here every year because they were too engrossed in reading.
+Feel free to ask the curator about anything at all.
+The curator seems to be secretly picking up books that the mortals throw away.
+%END
+
+####################### Personality #######################
+
+%DEFAULT,JP
+{aka}Hã`æS“¾D‘œİ“ß—¡ãã‰ß{‚ ‚é}B
+DîÌ{‚¾}B
+‰¶H—LY›õ–›õ{‚©‚È}H
+‹ô¢–ç‘z‹hˆê“Ú‹‰Ø‘å`{‚È}B
+Ÿ“—L_“I‘¶İC”‡ŒÂ¢ŠEAŸ“—LˆÓ‹`{‚¾}I
+%END
+
+%DEFAULT,EN
+Scut stands for "it's cute".
+I've got nothing to do.
+{aka}? I've never heard of you.
+{aka}! You say you ARE {aka}?! ...nope, I've never heard of that. What is it?
+Hey aren't you the sparkling queer?  No?  The vigilant rainbow?  No?  Then what's your callsign?  {aka}?  That's a stupid name.
+Some say the Vindale forest is the source of the etherwind.  I guess it's not impossible but it seems a bit silly.
+Our lives would be meaningless without the gods.
+The land of North Tyris has countless ruins and dungeons on it.  They are part of a long lost civilization we call Nefia.
+I'm so bored!
+You're an adventurer right? Got any news from afar?
+Nothing beats a good old crim ale after work.
+Cats... why are they so cute?
+What are you looking at?
+It is rumored that the prince of Zanan is planning a massive attack on the Vindale forests.
+The ether plague spreads from land to land. It started in the Vindale forest and brought ruin upon the eastern country of Karune. Fortunately, the great central ocean has, to some extent, been protecting us from the winds. I can't imagine any of the countries in North Tyris would have survived that disaster.
+Ah, another adventurer looking for a fortune.
+Eh? What do you want?
+I hear that South Tyris is a violent and uninhabitable land.  Who knows what sort of horrors lurk there.
+%END
+
+%ADEFAULT,JP
+{aka}Hˆ¢ˆ¢Cˆöˆ×á¢Œ»—¹l“÷“I”ü–¡‹h–@§”ñí—L–¼{‚¾}B
+‘ü—vâ‹İŠXãA”\\“d…{‚Ì‚¾}B
+–¾–¾Ÿ“–™ÈŒü‰ä“‹˜bC—L˜ğ“Ë‘R”íUŒ‚{‚æ}B
+”cˆ¢”ä‰Ê˜a“÷ˆê‹NÏ“I˜bCd“I“÷–ç˜ğÌ“î{‚È}B
+D‘œ‘ü—v”cèY‹˜‹‹_ŠÅC_A˜ğQ’£’n“¦‘–{‚æ}B
+%END
+
+%ADEFAULT,EN
+{aka}? Oh, you're that famous person who discovered how to best cook human flesh.
+You will receive a salary just for standing around in town and doing nothing.
+People will sometimes attack you if you talk to them for no reason.
+Cooking meat with api nuts makes it a lot more tender. It works even with blade meat!
+The gods run away from the sight of a chainsaw.
+%END
+
+%PERSONALITY,0,JP		/dull character
+‘z”cŒÉ—‰›GêmğŠ…“çËçÓçÓ“I{‚È}B
+ˆ×Y›õ”L˜ğ”‡›õ‰Âˆ¤–‰{‚©‚È}B
+–ë¢z¥Å‹ß›¿‹N“IV‰¤š {‚¾}B
+–Ş’B”[”ä‘´‘¼š ‰ÆX‘ŠJn’Tõ˜aŒ¤‹†Ÿ¸äÉ˜±{‚Ì‚¾}B
+“X˜V”Â¥•s€”Vg{‚©‚È}B
+ŠÅ˜Ò—ŒÁ—L•Ù–@’m“¹_Ší“IŠİ{‚¾}B
+—L±‰ö•¨—ŒÁ‘ü—v‹é`ŠôŸA˜ğ•ú‰ß©ŒÈ{‚¾}B‘Š”½’nC—L±l—ŞAZ‹é`–ç•s˜ğ•ú‰ß©ŒÈ{‚æ}B
+‘åˆİ‰¤ŠC‚—ŒÁŠìŸc‹›{‚¾}B
+¶•aˆ½gé“•s“KC[•ª“I‡–°˜a‹x‘§œkd—v{‚¾}BœnˆÈ‘OAãSí—LlàCój•Ÿ“I‰ñ•¢åZ…›”¾•a–ç—LÁ{‚é}B
+“—¹˜ZŒC››ŒÒá¢Œõ“Iå³qA˜ğİ–ìŠOoŸ“{‚æ}B”ÓãŠÅ‹N˜Òœk•Y—º{‚¾‚ë}B
+%END
+
+%PERSONALITY,0,EN		/dull character
+I want to drink crim ale to death!
+What's another name for a hare's tail?
+Sometimes I drink crim ale until I pass out.
+Cats... why are they so cute?
+Yerles is a new kingdom that has recently risen to prominence.
+Eulderna was the first country to explore and research the ruins of Nefia.
+I wonder if the shopkeepers really are invincible...
+Apparently, there is a way to learn the location of artifacts after all.
+Hungry sea lions love to eat fish.
+Even if you're dealing with a monster, it seems that begging for your life can sometimes work if you do it a few times. On the other hand, there are also humans who won't respond to pleading for your life.
+Sleep and rest well when you are sick! My grandma told me that blessed healing potion also works.
+In June, insects with glowing rear ends start appearing wilderness. They must look beautiful at night.
+%END
+
+%APERSONALITY,0,JP		/dull character
+’ZŠÔ“àŠ…‘¾‘½ŒÉ—‰›Gêmğ˜ğ“¾ŒÉ—‰›Gä–’†“Å{‚Ì‚¾}B
+‘O•¶–¾”VŠˆÈšÊ–ÅCŸà¥ˆöˆ×”L”h˜aŒ¢”hŒİ•s‘Šæ¨CÅI”šá¢—¹Dà¥B
+İV‰¤š C‰»ˆ×lŒ`“I‹@Šíl˜ğ¬“ül—ŞĞ˜ğ{‚æ}B
+–Ş’B”[“IŸ¸äÉ˜±’TõŒ¤‹†ˆöà­¢“ï§óÁ{‚Ì‚¾}B
+‘ü—v•s”jšÓŠjSC“X˜V”ÂA¥•s€”Vg{‚¾‚È}B
+™Bà’†CácŠ—LŒÅ’è_Ší“s–©êC—•F¯‹…”V_A˜ğ~—Õ{‚ ‚é}B
+{player}C“ğ’m“¹›õ{‚©}H‘åˆİ‰¤ŠC‚‘ü‹h‹›B
+Š…‰ºj•ŸåZ…ŒãCŠJnYoj•Ÿ”V“ûC§Š’â•s‰º˜ÒC”‡é“IˆÄ—á—L{‚ ‚é}B
+%END
+
+%APERSONALITY,0,EN		/dull character
+Drinking a lot of crim ales in a short span of time will cause crimberry addiction.
+The downfall of previous ages was caused by people arguing whether dogs or cats were better.
+There are robots disguised as humans in the new kingdom.
+Eulderna have halted their Nefia research because of budget issues.
+The only way to defeat a shopkeeper is to destroy its core.
+Did you know that hungry sea lions eat only fish, {player}?
+If you keep drinking blessed healing potions, blessed milk will start coming out of you. And when it starts oozing out, there's no stopping it.
+%END
+
+%PERSONALITY,1,JP		/economist
+ã`”VC‹àèAİ¢ãœkd—v{‚¾}B
+—LŸ“—L“ß—¡{èA–‰{‚©‚È}B
+‰ä›”ãSàZ˜b‘èœkŠ´‹»ï{‚Ì‚¾}B
+”’‹à•¼œk“ï“üè{‚È}B
+–Ş’B”[“Ià­—ŒÁ—Lêy¢“ï{‚æ}B
+ããàD‘œ—L‰ÂˆÈ‰üÌE‹Æ“I“¹‹ï{‚¾}B
+DŒã“IàV”[‰¶å«‘RŒ`®ã¥‰¤š §C’A›‰¿ã¥ˆÈäˆzE‘×¢”š ˆ×”Í–{“IãSàZš ‰Æ{‚¾}B
+‘ìˆÖ’†C—LŠô’£‰ÂˆÈ—p˜ÒÁ–ÕèËŠ´›Œ´e{‚æ}B”@‰Ê”\›o‘åìCà•s’è”\æÏ“èA{‚È}B
+ç¬’˜–`è¨“IisC“¯é“I–Œ”\“¾““IãSé„’l–ç˜ğí‰Á{‚Ì‚¾}B
+İ‹Zpˆ½”\—Í’ÇãÅ[U—ªŠK‘w”V‘OC“¾““IãSé„’l—ŒÁ˜ğí‰Á{‚æ}B
+%END
+
+%PERSONALITY,1,EN		/economist
+Money makes the world go round.  I wonder where I can get some more money.
+Money and currency are critical to our society. 
+Do you have any good ideas for investments?
+I'm very much into economics. 
+Platinum coins are a lot rarer than gold.  Spend them wisely. 
+Eulderna always suffers from huge deficits, but it never really seems to slow them down.  They can't just invent money like that forever.
+Zanan's postwar system is a monarchy, but internally the country still operates on the outdated systems used during Eyth Terre.
+Some of the desks can be used to consume inspiration and write manuscripts. If you can make a masterpiece, you might make money.
+The further you progress in your adventure, the more experience points you'll gain even by taking the same action.
+It seems that the experience points gained will increase until the skills and abilities catch up with the values of the deepest cleared floor.
+%END
+
+%APERSONALITY,1,JP		/economist
+€–SŸÉ’´‰ßˆê’èŸÉŒãC—_˜ğ‰Â—÷“ğ{‚æ}B
+‘Œ´ã‹ô¢˜ğ{——¬¯áê•Ğ{‚Ì‚¾}B
+œnŸ¸äÉ˜±‰ÂˆÈ–³ŒÀÌW‹à•¼CŠˆÈ‰İ•¼™J’l–\æé–ç‘ü¥ŠÔ–â‘è{‚¾}B
+”’‹à•¼“IáæR”í•”•ªŠ¯ˆõàÕè{‚È}B
+–Ş’B”[l•s“30Î–³–@¬ˆ×–‚–@t{‚æ}B
+”@‰Ê’·Šú¸‹ÆCD‘œ˜ğ”íˆÀ”r“İŠXã—Áˆß•“IHì{‚¾}B
+DŒã“IàV”[‰¶å«‘RŒ`®ã¥‰¤š §C’A›‰Ûã¥”L¶ˆ¬’˜åÜ“I•c•cš ‰Æ{‚¾}B
+%END
+
+%APERSONALITY,1,EN		/economist
+If you die a certain number of times, a goddess will take pity on you.
+You can sometimes find meteorite fragments in the wilderness.
+It's only a matter of time before our economy collapses. The amount of gold people keep finding in dungeons is making our coins worth nothing.
+The mine where the platinum coins come from is controlled by an oligarchy of government officials.
+The Eulderna don't become wizards until they reach 30 years of age.
+Putting your laundry out in the street can help you find a job if you've been unemployed for a long time.
+Zanan's postwar system is a monarchy, but the entire country is actually controlled by cats. It's a country of cats.
+%END
+
+%PERSONALITY,2,JP		/scientist 
+’ñ—˜zŠe’n—LŠeíŠeé“IˆâÖ˜a’n‰ºéC”íâiˆ×Ÿ¸äÉ˜±{‚Ì‚¾}B
+äˆzE‘×¢¥‘æµŠú•¶–¾{‚¾}B—i—L‚“x“I‰È›{{‚Ì‚¾}B
+äˆzE‘×¢—ŒÁ”Fˆ×–‚–@˜a‰È›{¥‘Š›”—§“I{‚¾}B
+ŠìŸc’k˜_‰È›{{‚¾}B
+ˆÛ¢“òz¥”b¢•Ä˜±Å‘å“I”áæ’Á{‚¾}B
+˜D•Ääˆz“Áìˆ×åYp”V“s§•·–¼{‚¾‚È}B
+’B¢äÉ“I–³î’¡’·“â†{‚¾}BŒõ¥Cg§‰ßA˜ğ”í“‘–‹à•¼CŠˆÈ—v¬S{‚¾‚È}B
+”_“cA–qê˜a¾—eŠ“™İ{–ˆŠuŒÜ“VA˜ğ‰üÌó‹µC‹ô¢‹ŠÅŠÅî‹µ”äŠrD{‚æ}B
+%END
+
+%PERSONALITY,2,EN		/scientist
+Sierre Terre is the 11th era on Irva.
+Are you on drugs? Irva is our world, of course.
+The land of Tyris has countless ruins and dungeons on it.  They are part of a long lost civilization called Nefia.
+Science in the seventh era of Eyth Terre was far more advanced than ours.
+In Eyth Terre, magic and science were thought to be opposites.
+I like talking about science.
+Vernis is the biggest coal-mining town in the Palmian Kingdom.
+Lumiest is the famous city of art.
+Derphy rogues are good at pickpocketing. You should be careful because your gold coins will be stolen just by passing each other.
+Properties such as crops, ranches, and camps change status every five days, so it's a good idea to check in on them every now and then.
+%END
+
+%APERSONALITY,2,JP		/scientist 
+Ÿ¸äÉ˜±”‡ŒÂˆâÖŒQ“Iã`âiCŒêŒ¹¥äp•¶–¾“I»†±–¼âi{‚¾}B
+‘ælŠú•¶–¾“I‰Gz’ñE’ñ¢ˆÈ‚“x“I—HàÒŠ´”ÉÄ‹N˜Ò{‚Ì‚¾}B
+–‚–@“Ig—p•û®ˆöl§ˆÙ{‚¾}B‡›æˆê’ñ{me}“I–‚–@¥œn››ŒÒo˜Ò“IB
+–ñ•¶¥¢ŠEÅ‚“Il“÷¶Y—Ê§©‹“I‘ºäµ{‚¾}B
+˜I•Ääˆz“Á“I—_Î‘œ—ŒÁ“—¹”ÓãA˜ğl™|‘–“®B
+%END
+
+%APERSONALITY,2,EN		/scientist
+"Nefia", the term we use for ruins, came from a paper manufacturing company in a previous age.
+The fourth age is Justkidding Terre. People of that age came up with great jokes.
+Everyone has their own style when it comes to casting magic. My spells come out from my butt.
+Yowyn is world-renowned for its human flesh production.
+The Goddess statues in Lumiest come alive when the sun goes down.
+%END
+
+%PERSONALITY,3,JP		/adventurer
+H•¨“I‹Ÿœä˜ÒŒ¹CÅDæŒˆ’èD{‚æ}B
+å«‘Rİ‹£‹ZêDé¦—A—¹C’AÚó¡—ÃŒãÌ“¾”äDé¦‘OX—L¸_“I{‚æ}B
+ŠÒ—L‹–‘½–¢‰ğ”V“ä’¾‡“IŸ¸äÉ˜±C›”–`è¨Ò˜ÒàA‘œ¹’nˆêé{‚¾}B
+‰i‰““I–¿–ñccH‰äœn–¢ãã‰ß”‡ŒÂŒ{‚È}B
+ÓfE“Á¢¥‘æ\ˆê‘ã•¶–¾{‚¾}B
+‰äŠìŸcl™|—·s{‚¾}B
+”@‰Ê–`è¨Ì“¾¢“ïCˆ½‹–‰ÂˆÈ’˜~’á–¼ãß{‚È}B
+Ê’`” œk“K‡—p˜Ò—ûKŠJ½{‚¾}B
+‰äããà‰ß‰¤q—p•«‰ğœ—¹Œöå“IôäI{‚©‚È}H
+Ÿà‘ü—v“™|“ŠŒIqCA˜ğ—L‰Âœ†“I‰ö•¨oŒ»{‚È}B
+Ÿà‰»gˆ×l—Ş“IEl˜T˜ğàI•šİés—¡{‚æ}B
+%END
+
+%PERSONALITY,3,EN		/adventurer
+You should never leave home without an ample supply of food.  Starving to death would be a pretty abysmal fate.
+Eternal League...? I've never heard of that. 
+Sierre Terre is the 11th era.
+I like travelling.  I've been to so many places.
+If you find adventuring too difficult by yourself, go to Derphy and buy a few slaves to watch your back.
+Don't drop items in your shop that you want to keep. They will probably be sold!
+You can safely store items in buildings that you own.
+If you drop items in a town, the janitors will probably dump them.
+Guards will attack you if your karma drops too low.  At least *try* to keep a low profile.
+If your pets and allies fall in combat, bartenders in town can bring them back.
+Be sure to give good equipment to your allies and pets, since it will make them more effective in battle.
+Potions that reverse the effects of the etherwind exist, but they are rare and quite valuable.
+If you're planning to buy a building, start with a museum. The maintenance cost is cheap and they start making a profit quickly.
+One of your best sources of income and fame is the arena.
+If you are having hard time traveling, maybe you should purposely lower your fame.
+Gamble chests are good for practicing lock picking.
+I lost an arena battle, but they healed me up so I feel better than ever now.
+Dungeons are quite the veritable gold mine for adventurers like us.
+Have you heard of the story of the prince who cured a princess of brainwash with a kiss?
+I've heard that you will meet a fearful monster if you throw too many chestnuts.
+There are some werewolves who will disguise themselves as townsfolk and murder people.
+%END
+
+%APERSONALITY,3,JP		/adventurer
+H•¨“I‹Ÿ‹‹Œ¹H‘ü—v¬ˆ×Œî˜ CA”\œné—¡“Il“ß—¡“¾“H•¨C‰ßãˆÀâr“I¶Šˆ{‚¾}B
+å«‘Rİ‹£‹ZêDé¦—A—¹C’A”í”ü—¡—Ãt˜ô—¹ŠeíŠeé“I–îŒãC›ßãSŠ®‘S‰ø•œ—¹¸_{‚æ}B
+İŸ¸äÉ˜±C‹ô¢˜ğá¢Œ»åäŸŞ¬‹ç“I¬‹ç‰®{‚é}B
+‰äããà‰ß‰iœ‘“I–¿–ñ{‚È}Bˆ¢ˆ¢CŒõ¥‘z‹N˜ÒAæ¨l•s‰õccI
+’B”n¹—‹E’ñ¢¥‘æŒÜŠú“I•¶–¾{‚¾}B
+““‘i“ğC—·s¥’n—‹‹Z”\{‚¾}B
+”@‰Ê–`è¨Ì“¾¢“ïCÅD—§‹¬“×”VéàÙã“÷•i{‚È}B
+¡–ü—_é˜±”‡ŒÂ–¼šC¥œnog’né˜±æ“I˜ï–¼{‚¾}B
+‘¦g¥èŒW•sD“I›”ÛC‘ü—vÏ‹É’nÚ•«Cœk‰õA”\¬ˆ×•ü—F{‚æ}B
+ã”“Š±ŒIqC—ŒÁ˜ğ—L”ü–­“Iç®ç~—Õ{‚È}B
+%END
+
+%APERSONALITY,3,EN		/adventurer
+Don't have any money to buy food? Just become a beggar and mooch off the townsfolk. Piece of cake.
+I lost an arena battle, but there was this smokin' hot babe of a healer there who patched me up in a jiffy.
+People sometimes discover rooms in the dungeons, filled to the brim with puppies. They're so packed that moment you open the door they start pouring out.
+The Eternal League? Of course I've heard of that damn thing before. That name alone makes my blood boil!
+The fifth age is called Pullingyourleg Terre.
+(Psst. Hey buddy. Want a secret tip? Traveling skill is utterly useless. Don't get it!)
+If you feel like you have hit a wall and can't seem to get any stronger, offer some corpses at any of the Forts of Chaos.
+The name "Jure" of the Goddess of Healing is actually a pseudonym based off her homeland of Juere.
+You'll meet sexy singles out in the wilderness if you throw a lot of chestnuts.
+%END
+
+####################### Rumor #######################
+
+%RUMOR,LOOT,JP
+™\q“I”ö”bD‘œ˜ğµ˜ÒK‰^{‚¾‚È}B
+Œî˜ —ŒÁ—i—LŸÄ‰»é““à“I–‚–@€˜B{‚¾}Bˆöˆ×‘¼˜ìY›õ“s‹h{‚È}B
+”‡›õà˜ÒCˆÈ‘Oãã‰ßˆêˆÊ‰‰‘t–¼‹Õ“Il‰‰‘t{‚ ‚é}B‰äŠ´“®“¾”E•sZ”cúİ‹rã“IV‹MèÜq“Š—¹o‹{‚æ}B
+Ÿà–Ø”TˆÉ—i—Læ¨€Ò•œŠˆ“I‘{‚¾}B
+{‚Ì‚¾}I‰äŠÅ“sŒYl”ía{äI‘ÜŒã–”Šˆ‰ß˜Ò—¹I
+”íˆÙŒ`”VŠá’‹“IlC“÷é“—ŒÁ˜ğá¢¶Ì‰»{‚ª}C‹ô¢˜ğ{—‘£i¶•¨i‰»“IåZ…{‚æ}B
+—d¸—ŒÁèªåU’˜”ñí_”é“IãSé„{‚æ}I
+•s”\¬ŠÅ“ŠÎÒ“Š“IÎ“ª{‚æ}B
+—v¬S‹âŠá–‚—{‚¾‚È}B—v¥”í“ß”c‘å™˜a’†Cm’è‹h•sÁ{‚¾‚ë}B‘¼‹ô¢—ŒÁ˜ğ\’˜”ñí•s“¾—¹“I•Ší{‚ª}B
+‰äŠÅ“‹u”ä“Áİ”À‰^œkd“I“Œ¼{‚æ}B
+”\İ–²—¡Œ©“_–¾›õ{‚©‚È}H
+”@‰Ê‹ö“‘Õ’˜‰©F€šŸ“Ilä]‰ö•¨C—§“¦‘–Ë¥–¾’q”V¨{‚¾‚È}
+ŸX‘¯š£“IEèC—ŒÁ‹ô¢˜ğ—i—L”\‘«í‰ÁËŒ‚ŸÉ“I–‚–@€šŸB
+‹M‘°”V’†C—ŒÁ—Ll˜ğ¾WŠï‰ö“I“Œ¼{‚ª}B
+İ”h›”ã‰‰‘tC‹ô¢˜ğ—LŠ…çË“I‹ql“ŠŠï‰ö“I“Œ¼‰ß˜Ò{‚¾}B
+‰äŒ©‰ßú’˜gF˜b“I‹@Šíl{‚È}B
+¬‹S—i—L“I–‚–@™É²C—ŒÁ”\‰üÌ_Ší“I–¼š{‚¾‚È}B
+–ñ•¶“I“V^­—C—ŒÁœk’¿É•s‰Âv‹c“I›•¨{‚¾}B
+”V‘OC‰äŒ©‰ß‘Õ’˜”ñí•Y—º“IŠLŸv“IŠñ‹ŠI{‚æ}B
+ŸX‘¯š£“I‰Æšì˜ìC—ŒÁãSíg—p–^íŠï‰ö“IåZ{‚È}B
+{‚æ}F‰äŠÅ“–…–…\’˜ŸŸŞŒŒ“IØ“Cˆêä_ä©‘RB
+–ë¢z“I–h‰qŒn“’†—ŒÁ“‹Ú—¹‘Šác•s“¾—¹“I‹@è‘„B
+{‚¾‚È}F’¾‘D“IŸkŠ[—ŒÁãSí•Y—¬“ŠCç²B
+{‚æ}F‰äŠÅ“—·l¬S—ƒ—ƒ’n\’˜”j”jà£à£“I”â•—B
+‡Fj—‰›G—ŒÁ‹z¾—¹˜Ò©‰F’ˆ“I“ä”V•¨é“B
+%END
+
+%RUMOR,LOOT,EN
+Rabbit's tails are said to bring good luck to those who eat them.
+It's rumored that some beggars carry a magical pendant which purifies their stomach.
+Once I met this extraordinary bard who played a truly exquisite stringed instrument. He was so good that I even threw my expensive shoes at him!
+I've heard mummies carry a book that has power to resurrect the dead.
+I swear I saw it. The executioner came back to life after he got his head lopped off!
+Those who gaze into deformed eyes mutate. But they say that sometimes the eyes carry a potion that makes creatures evolve.
+Fairies hide a secret experience!
+Don't underestimate the rock thrower.  His rock can be very deadly.
+Those silver-eyed witches are deadly. You won't stand a chance against their huge swords.  I've heard they're not completely human and supposedly one of them carries even deadlier weapon.
+I saw a cupid carrying very heavy... thing.
+I met my god in a dream!
+If you ever encounter a four-armed monster wearing a yellow necklace, you'd better run like hell.
+Rogue assassins sometimes carry a magical necklace that gives the wearer an extra attack.
+Some nobles collect strange things.
+Watch out for drunkards at parties! They sometimes throw crazy things at you.
+I saw a robot wearing a red plate girdle.
+A magical scroll imps carry can change the name of an artifact.
+The innocent girl in Yowyn has a secret treasure.
+Some time ago, I saw a hermit crab carrying the most beautiful shell I've ever seen before.
+Those robbing bastards, I hear they are addicted to some kind of drug.
+There was once I saw a younger sister standing around with a blank look on her face and a bloody cleaver in her hands.
+Some security systems come equipped with an unbelievably powerful machine gun.
+You can often find wreckage from sunken ships washed up on the shores.
+I saw a traveler wearing a really tattered cloak the other day.
+You know, I've heard that the purple slimes have some kind of object from outer space lodged in their bodies.
+%END
+
+%ARUMOR,LOOT,JP
+{‚¾‚È}F˜h‚“Ié“—Í—ŒÁ˜ğ„D™”‰ºˆê”¼C‘RŒã•ª—ô¬˜h˜a‚qB
+{‚¾}F”@‰Ê‡—˜àØE’·–ÑÛC—ŒÁA”\“¾“‹‘å“I›æœ“÷B
+“ûq•…à£“IŒóC‹ô¢˜ğÌ¬‹Ni{‚ ‚é}B“Á•Ê¥‰p—Y“I“ûqC”\Ì¬“Á•Ê“I‹Ni{‚æ}B
+D‘œ—LŠ”àÕŠpå˜ğ“³÷“I÷{‚¾}B
+”EÒD‘œåU’˜‹LÚ‹­—Í”Ep“I™É²{‚æ}I
+‹‘å“I•z’š”í“³–|Œã˜ğ“|‰ß˜Ò{‚Ì‚¾}B
+—´“ISäf”\»ì‹­—Í“I‰ñ•¢åZ{‚æ}B
+‰äŒ©‰ß›æ’˜‘å—ÊFî‘Š§“I—b•º{‚Ì‚¾}B
+´Œ‰ˆõ’†D‘œ—Ll“Á•Ê—LŒ‰•ÈCç¬g›æ’˜“Áê“I´Œ‰™{‚æ}B
+ˆÉ“I‘„—¡‹ô¢˜ğ¬“ü‹H—L“I›•¨{‚ ‚é}B
+‹‘å“IÓŠIççq–ç”\ácì‹­—Í“I’Èq{‚æ}B
+ŠL¢–‚•¨‹ô¢{—“I¬àC—ŒÁ‹ï—Lµ˜ÒK‰^“I—Í—Ê{‚¾‚È}B
+%END
+
+%ARUMOR,LOOT,EN
+It seems like if you can get a gryffon down to half health exactly, it will split into an eagle and a lion.
+If you defeat a mammoth with a clean hit or two, you can obtain a gigantic hunk of meat.
+Milk will sometimes turn into cheese when it rots. You can make a special kind of cheese from the milk of a hero.
+There's a tree that drops beetles when you bash it.
+Ninjas have a powerful technique recorded on a scroll they sometimes carry!
+If you bash a gigantic pudding enough times, you can flip it upside-down.
+You can make a powerful healing potion from the heart of a dragon.
+I've seen this mercenary who was carrying a huge stash of pornographic magazines.
+Some cleaners are more particular about cleanliness than others, and will carry a special detergent on them.
+Sometimes Yeeks will carry a sword instead of a spear.
+You can use the pincers of giant crabs as a hammer.
+The tiny bell that bell monsters sometimes drop brings luck to those who ring it.
+%END
+
+####################### Shop #######################
+
+%SHOPKEEPER,JP			/common shopkeeper
+ãSšz“X•İ^¥Œ“ï–{‚È}B
+İ‘´‘¼“X‰ÆCÅD¬S•Ê”íæá‹@È’|È{‚æ}B
+”@‰Ê›‰—Í•s‘«‹­C¥–³–@Ÿ”C“Xå“I{‚æ}B
+ˆ×—¹ˆÈ–häİˆêC•K{Œˆ’èã‹³l{‚é}B
+ŸcŒ}Œõ—ÕB¿––ŠÅ{‚­‚ê}B
+{‚Ì‚¾}›”¤•ií—Şœk—L©MB
+˜Ò”ëC˜ÒŠÅŠÅ‰ä©‹“I¤•i{‚­‚ê}B
+Å‹ß¡ˆÀ•sDC^•s—eˆÕ{‚¾}B
+•Ší˜a–h‹ï•K{¥ãS‰ßŠÓ’è“IC”Û‘¥–³–@‚™J¾w{‚æ}B
+%END
+
+%SHOPKEEPER,EN			/common shopkeeper
+Welcome to my shop!
+We have the best selection of goods!
+I hate thieves.  No, not you, right?
+It's difficult to maintain a shop.
+I can handle bandits myself. We have to be tough.
+Running a store is hard work! 
+Come in.  Take a closer look at my wares. 
+I have confidence in my assortment of goods. 
+Look at our fine selection.
+I feel the world is growing more and more dangerous.
+I can't give you a fair price if your weapons and armors aren't fully identified.
+%END
+
+%ASHOPKEEPER,JP			/common shopkeeper
+”‡‰Æ“X“I˜V”Â•Ê—L‘´lC{me}‰ä¥‘¼“I’•¨{‚Ì‚¾}B
+åä”õ‘¦g•såä”õİgã–ç”\á¢ŠöÁ‰Ê{‚æ}B
+û–î—L\š‹|—p“IC’·‹|—p“IC’Z‹|—p“IOíC’ˆÓ•s—v˜Mö—¹{‚­‚ê}B
+—p™uûË’†•úİ’nã“I‹›CA”\“¾“—â“€“I‹›{‚æ}B
+‰ä˜ì“X—¡“I¤•i”ä‘´‘¼“X•Ö‹X{‚Ì‚¾}B
+%END
+
+%ASHOPKEEPER,EN			/common shopkeeper
+Me? I don't own this shop. I'm actually the owner's pet.
+Equipment works even if you don't have it equipped on you.
+There are three types of arrows - one for crossbows, another for long bows, and a third for short bows. Be careful that you don't get them mixed up.
+If you cast an ice bolt at a fish on the ground, it will turn into frozen fish.
+The prices at my shop are lower than the ones you'll find anywhere else!
+%END
+
+%%SKILLTRAINER,JP			/common Trainer
+–³˜_İ“ßŒÂé’Á“s”\isŒP—û{‚ª}C’A”\›{˜ğ“I‹Z”\˜ğªŸé’Á˜aŒö˜ğ§—LŠ•s“¯{‚æ}B
+‘ü—vŒP—ûA”\‘å•’ñ¡‹Z”\“IàIİ”\—Í{‚æ}BàIİ”\—Í‘¾’á“I˜b—L˜ğ–³–@Šl“¾ãSé„’l{‚Ì‚¾}B
+àIİ”\—Í‰z‚A”\Šl“¾‰z‘½ãSé„’l{‚Ì‚¾}BİÏ—İ›‰DãSé„”V‘O‘zæ’ñ‚{‚È}B
+àIİ”\—Í—v•Ûİ•S•ª”V‘½­CœäŠYªŸ{you}Šl“¾“I”’‹à•¼—Ê˜Ò’²®{‚¾‚ë}B
+‘zæ¨’•¨ŒP—ûH“ßAæ¨’•¨\’˜‹à•¼˜a›Î˜aŒP—ûŒ”Cæ¨›€©åŒP—û{‚¾‚È}B
+’b˜B“I‹Z”\É—Ê‰z‘½C{you}”\˜ô“I–îA‰z‘½{‚æ}B—L±‹Z”\ù—vˆê’è“I‹Z”\’lË”\›{˜ğ{‚Ì‚¾}B
+Ÿ“—LŸ“—p“I‹Z”\cc{‚ª}CœäŠYl—¶›”©ŒÈ˜Òà“I—Dæ‹‰{‚¾}B
+%END
+
+%%SKILLTRAINER,EN			/common Trainer
+You can train with any trainer, but the skills you can learn vary depending on the town and guild.
+Training will greatly increase the skill's potential. If the potential is too low, you may not gain any experience practicing.
+The higher your potential, the more experience points you'll get. You'll want to increase it before gaining actual combat experience.
+You should adjust the percentage of your potential you want to keep at depending on how many platinum coins you earn.
+Want to train your pet? Then you should give it gold coins, gems, and training vouchers and let it do its own thing.
+The more skills you train, the more you'll be able to do. There are also skills that can only be acquired once your skill level reaches a certain level.
+There are no useless skills... but you should think about your own priorities.
+%END
+
+%ASKILLTRAINER,JP			/common Trainer
+““ª˜ÒC”‡ŒÂ¢ŠEË”\A¥ˆêØI–}lAZŒP—û–çŸ“—LˆÓ‹`{‚¾}B
+”@‰Ê•sİ–Z’˜ŒP—û•ÊlC{me}–ç˜ğ’ñ‚©ŒÈ“IàIİ”\—Í{‚æ}B
+{‚ª}CŒP—û”ïã`¥¾”’‹à•¼CŒõèÏ”‡ŒÂ‰ÂŸ“–@¶Šˆ{‚æ}cB
+%END
+
+%ASKILLTRAINER,EN			/common Trainer
+In the end, talent is everything in this world! There's no point training for average people.
+If I wasn't busy training others, I'd be developing my own potential too.
+I get a lot of platinum coins for training, but I can't make a living off that only...
+%END
+
+%SENTI,JP			/Senti
+ŸàİO_“I‘åD’†C—L‹–‘½_–¾İ”‡•Ğ“y’nãŸm–½B
+”‡À›‰@¥ˆ×—¹ærO_§Œš‘¢“I{‚¾}B
+‘åDŒã“IO_”Và¥C•sÄ¥Œİ‘ŠŸkEC§¥Ì¬—¹M“k“Ià¥’DD{‚Ì‚¾}B
+İ‘åD’†Œô‘¶“IO_—ŒÁãS‰ß‹¦¤C’B¬—¹ŠeíŠeé“I‹¦‹cB
+O_“Ià¥é¦“±’v–‚—Í’lÌ“¾•sâr’èCˆÙí“IŸ†Œó–³–@•½‘§C—ŒÁù—v›’®ŒÂ‘å—¤Šu—£‹N˜Ò{‚æ}B
+İ‘åD’†—”s“IO_C—L“I”í‹z¾—¹_—ÍC—L“IšÖ—ˆ×–‚•¨C—L“I”í•²áê¬•²––CŸà“s¥±”ßœÌ“I‰ºêB
+Ÿà‰Î_•úo“I‰Î‹…˜aÎ_“Šo“I›ÜRŒİ‘Š‹ö“³CŒ`¬—¹¼–k“I‰ÎR{‚¾}B
+üš¡“IÀàVC—ŒÁ¥è¦ÎBÏ…Œ`¬“I{‚æ}B
+‘åD‰ŠúC“Áz‰Á“Á—˜”g‰Á—ŒÁ˜ğİ”‡•Ğ“y’nã¢Š«_–¾C‘RŒãˆÃZ›”•û{‚æ}B
+%END%
+
+%SENTI,EN			/Senti
+During the Great War between the Gods many of them scattered across this world.
+This temple was built as a reminder of the Great War.
+After the Great War the Gods' rivalry changed from trying to kill each other, to gathering the most followers.
+The surviving Gods of the Great War discussed among themselves and came to various agreements.
+Because of the Gods' conflict the mana flow has become unstable and the climate has grown worse. It seems like it's necessary to isolate the continents.
+The Gods that were defeated during the Great War had their powers absorbed and were disolved into tiny pieces which turned into roses. What a miserable end.
+They say that the volcano to the northwest was created during the battle between the God of Fire and God of Stone.
+It seems the surrounding march came to be from water collecting inside a giant crater.
+Tezcatlipoca beckoned the Gods at the start of the Great War to come to this world and launched a surprise attack against them.
+%END
+
+
+
+%SUMMON,JP			/Leson
+{you}–ç¥”íˆêŒÂ‹©‘ø—Ï“I—d¸›æ‰ß˜Ò“I{‚©}B”‡ŒÂˆâÖCŠÒ—L—Œz“ÁˆÉ¢Š¢“’ê¥Y›õ{‚¾‚ë}B
+•s‘ü¥lC˜A’nã“I‰ö•¨“s”í¢Š«‰ß˜Ò—¹{‚é}B
+”‡—¡—ŒÁ¥oŒ»İ–Ş’B”[ã‹ó“I•‚Ÿà‘å—¤“I¼’[{‚¾‚È}B
+“Ë‘R”í›æ“”‡ç²˜ÒCŠ®‘S˜M•s´‘^ó‹µ{‚æ}B
+‰äŠÅ“š¤”òã“V‹ó“¦—£“I‰ö•¨C”í—Ş—Œ‹ŠE“I“Œ¼œ[”ò—¹{‚Ì‚¾}B
+”‡•Ğ‘å—¤ã–ç—Lœk‘½Ÿ¸äÉ˜±{‚¾‚È}B
+”í›æ˜Ò“Il‘å‘½¥ˆÈ”‡ÀˆâÖˆ×ŸêyŠˆ“®“I{‚Ì‚¾}B
+“Áz‰Á“Á—˜”g‰ÁccH’N–çŸ“ãã‰ß”‡åjl•¨{‚È}B
+˜Ò”‡—¡“IŠôŒÁ“s¥—b•ºCs¤l˜a–`è¨Ò{‚¾}B“ßç²“I¡—Ãt˜aŒö˜ğEˆõZ¥—áŠO{‚¾‚ë}›õB
+%END%
+
+%SUMMON,EN			/Leson
+Were you also guided here by Norne the fairy? What is this... Lost Irva place? What are these ruins?
+It's not just the people who are getting summoned. The monsters from the land below are getting transported here too.
+It seems like we are on the west end of the floating continent that appeared above Eulderna.
+What's going on? Why am I here?
+I saw some of the monsters try to fly away and escape. They bounced right off some sort of barrier in the sky.
+Looks like there is no lack of Nefia on this continent either.
+Most of the people who got transported here live in these ruins.
+Tezcatlipoca...? Nobody here a voice or anything like that when they were brought here.
+Most of the people who were summoned here are mercenaries, traveling merchants, and adventurers. That healer over there and the guild members are probably the only exceptions.
+%END
+
+%MADOU,JP			/Eulderna
+‰ä˜ì•s¥˜Ò•\‰‰“IB–î•ÙŠ®A’Ç‹Ù{you}—£ŠJB
+‘ü—v–Ş’B”[“I–‚–@—ÍãÚWİ”‡äz‘DãCŒ‹ŠEY›õ“Iª–{Ÿ“—LˆÓ‹`{‚Ì‚¾}B
+›”‰—oŒ»İã‹ó“I•‚Ÿà‘å—¤C–{š “Il˜ì•ø—L”ñ“¯qí“I•sˆÀ˜a‹’m—|{‚æ}B
+‹–k•ûR›Ô’n›æ’²¸“I›{Ò˜ìŸ“—L‰ñ˜Ò{‚È}Bˆê’è¥”í–‚•¨PŒ‚—¹{‚¾‚ë}B
+“ßŒÂçjé Œ‚‘Ş–‚•¨“I{‚ª}C‹q–[˜©–±ˆõ“’ê¥Y›õl{‚¾‚ë}B
+”‡•Ğ‘å—¤ã–ç—Lœk‘½Ÿ¸äÉ˜±{‚¾‚È}B
+—‰àV¢“a‰º”NçjCŸà‘\œßˆêŒÈ”V—ÍšÊ–Å“Gš B
+‰ä’²¸—¹ˆê‰º{‚ª}Cá¢Œ»”‡‰ò‘å—¤“I“®A•¨í—Şäo’nãŠ®‘S‘Š“¯{‚¾}B
+œ—¹”í¢Š«‰ß˜Ò“IlˆÈŠOC–Ş’B”[¥Å‘’ï’B“I{‚¾}B”‡¥—Šác‘R“IŒ‹‰Ê{‚¾‚È}B
+%END%
+
+%MADOU,EN			/Eulderna
+This isn't a zoo. If you don't have any business here, then clear off.
+That barrier is nothing if we Eulderna focus our mana on the ship. We'll punch right through it.
+This floating continent... our countrymen find it fascinating, yet so unsettling at the same time.
+The scholars who went to investigate the hills in the north have yet to return. They're probably monster food by now.
+Just who in the world is that attendant? She mowed through the monsters as if they were nothing.
+Seems like there's no shortage of Nefia on this continent either.
+It is said that Raizel demolished an enemy country all by himself when he was younger.
+According to our research, the species of flora and fauna on this continent are exactly the same as the ones in the land below.
+Asides from those who were summoned here, the Eulderna are the first to set foot on the continent. Naturally.
+%END
+
+
+%SAZIN,JP			/Sand
+ˆ×Y›õ{me}‰ä˜ğ˜Ò“”‡—¡CŒ»İ‰ä–¾”’—¹{‚æ}BˆêØ“s¥ˆ×—¹¬ˆ×“ßˆÊ‘ål“I–ll{‚Ì‚¾}B
+‰äŠÅ’˜œn˜Iäi‹N”ò“Iîì“Vg‘ålC“¾“—¹”ü–­“IàĞ™­{‚Ì‚¾}cc
+˜I˜IˆÛ‘ål‹ô¢–ç˜ğ““˜Ò”‡—¡Šß{‚Ì‚¾}B•s‰ß‘¼A‘œˆêw•—C•s˜ğ’â—¯‘¾‹vB
+¹å³àu‰ß”VŒãC‹h‹N˜ÒŸ“—LäH–¡C‘Šác”ü–¡{‚¾‚È}B
+“ƒŠO–k‘¤îpF“I”Lã`¥œï—m—m“IC’ASîˆê•sDA˜ğ‘åé§C¥˜ğµ˜Ò•sK“I‰Âœ†‘¶İ{‚¾}B
+İ“ƒŠOC“ì‘¤“IîpFC—LŒÂŠï‰ö“I‰Æšì›”{‚æ}à—¹±”œ–¼‘´–­“I˜bB
+Ÿ“öC“ß±lA¥{me}ŠŒhˆØ“I“Vg˜ìB
+{‚ª}‘\ãSˆöˆ×ŠCså‡ê§‘½Ÿİ¹”™’†‹ö“ïC”‡—¡A¥Ù‰€{‚¾}B
+{‚æ}rŠl—¶—v‰i‰“Zİ”‡À“ƒ—¡B{‚æ}š““I¹”™Ÿ†ŒóC–ç›ßãS•sÄ—ß‘¼‰îˆÓB
+”LŒ´–{A¥¹”™“I¶•¨{‚¾}B
+%END%
+
+%SAZIN,EN			/Sand
+I've realized why I was brought here. It was to serve the master here as a slave.
+If you look upwards to the balcony at the Black Angel when she takes to the skies, you may just receive a reward...
+Once in a blue moon, Lady Lulwy Herself graces us with Her presence. But She comes and goes like the wind, and never stays for long.
+Sandworms taste pretty good when fried. They don't have much of an aftertaste.
+That cat at the northern oasis outside the tower just lazes around most of the time. But when she's in a bad mood, she goes on a rampage and curses everything with bad luck.
+That guy by the southern oasis says some crazy things.
+Angels, glorious angels! Truly worthy of reverence and worship!
+For a person like me who was led astray by mirages and nearly died so many times in the desert, this is heaven.
+I think I'll live here for good. We don't have to worry about anything here, not even the blasted desert weather.
+Cats originated from the desert.
+%END
+
+
+%CAVE,JP			/cave
+–ç—L‹ql¥œnˆÊ‰—Ÿ™|¼–k•ûŒü“Iê¡‰“ésCç—¢ç‹ç‹‘O˜ÒÌw“I{‚Ì‚¾}B
+“ß±‹à•¼İ”‡—¡–ç”\g—p{‚æ}B˜a¼–kés¤lg—p“I‹à•¼¥‘Š“¯“I{‚¾‚È}B
+ŠO’nlZİ”‡•Ğ“y’nãC{me}˜ì–³–@”Eó{‚Ì‚¾}cc•s•s•sCác‘RŸcŒ}‹ql{‚¾}B
+{me}‘¼˜ìœn–¢—£ŠJ‰ß”‡ÀR‹u“Iüç²{‚Ì‚¾}B‘¼˜ì›”‘´‘¼’n™½“Iî‹µ•À•s—Ä‰ğ{‚æ}B
+—p˜Vl“IŒû•«à˜b˜aŒÓ˜ª—¯•Eq—ŒÁ›ßãS‰ß—¹{‚È}B
+ã‹³™B“HåY“IH ›ßãSâÕ‘½”N{‚æ}BŸàˆÈ‘O—Lœk‘½H Œİ‘Š‹£à¥‹ZåYB
+”‡ŒÂãÚ—“IlÉŒ¸­CÌ“¾‘Šác—â´{‚æ}B’A–³˜_‘½›õ—â´C{me}‘¼˜ì“s•s‘ÅZ—£ŠJZŠµ—¹“IR‹u{‚ª}B
+İê¡‰““I‰ß‹CŸà–ç—Llˆöˆ×äoŠOŠE“I—üŒq•û®§à¥‘›C—£ŠJ—¹R‹uB
+Œ»‘¶“IÅŒãH–[C¥R‹u’·”Nçjg—p‰ß“I{‚¾}Bˆ×—¹‘·—¬ˆ×H CŒ»İ—ŒÁ–çŠÒİ•Û—{{‚È}B
+%END%
+
+%CAVE,EN			/cave
+We have orders coming in from customers living as far as the town in the north-west.
+We accept those coins here. The merchants in the town north-west of here use the same currency.
+We don't welcome outsiders here... Guests? Oh yes, guests can stay as long as they like!
+We never stray far from this mountain, so we're not familiar with the surrounding lands.
+The younger ones talk different from the elders. They don't grow beards either.
+There's no one left to pass our craftsmanship down to these days. In the olden days, craftsmen used to compete with each other to inherit techniques.
+There aren't that many left in this colony these days. But I've lived here far too long to leave, so I'll probably breathe my last here.
+There are stories of people who left the mountain a long time ago. Something about a dispute about how we should interact with people from the outside.
+The last workshop here is the one that the elder used when he was young. I heard he's still maintaining it so that his granddaughter can inherit someday.
+%END
+
+
+%HEAVEN,JP			/lost
+_–¾”V’†C–ç—L‹–‘½İ‰ß‹“IDà¥’†¸‹_í§‰»ˆ×–‚•¨“I_–¾{‚È}B
+“Áz‰Á“Á—˜”g‰Á”í”Fˆ×¥ˆøá¢O_‘åD“I“±‰ÎüCİDà¥’†Á–Å—¹Éç_–¾B
+Ÿà”‡À¬“×‹éŒ´–{–ç¥ˆÉ¢Š¢“Iˆê•”•ª{‚Ì‚¾}B
+Ÿàİ¬“×‹é“à•”C••ˆó—¹¬“×”V_‹y‘´áÅ›¢B
+äo¬“×”V_“IÅIŒˆD‹Éˆ×Œƒ—óB”@‰Ê”Ş˜ìÄŸáSÁCŒ»İˆ×É•s‘½“IO_›’–³”\ˆ×—Í{‚¾‚ë}B
+•¶–¾“I”ÉÄäoŠ‘Ş—ŒÁ–ç›”ˆÈM‹Âˆ×—Í—Ê“IO_Y¶—¹‹‘å“I‰e‹¿{‚¾}B
+å«‘R—ßl“ïˆÈ’uMC’A—ŒÁ—Ll˜ğó“˜Ò©•s“¯¢ŠE“IŠ±Â§s“®BŸà”‡ŒÂ¢ŠE“I–@‘¥•s˜ğ³í’nì—pİ“ßŒÂlgãB
+”ª’Œ_—ŒÁ¥ˆÈ‹Ÿ•iˆ×”}‰îCÚ¾M“k“IM‹Â”V—Í{‚æ}B
+‘¦gZİ”‡ŒÂ’n•ûCè‰—_–¾“I–îŠÒ¥—Lœk‘½•s´‘^“I’n•û{‚È}Bˆöˆ×Y›õ‰iœ‘“I–¿–ñ§”íèªáÔ—¹{‚Ì‚¾}B
+%END%
+
+%HEAVEN,EN			/lost
+There are many Gods of old who lost their divinity in the wars they waged against each other. They fell and became monsters.
+Tezcatlipoca was the trigger for the Great War between the Gods. It is said that he alone massacred thousands of Gods in that battle.
+It is said that Lost Irva was originally a part of the rest of Irva.
+According to legend, the God of Chaos and his servants are sealed deep within the Cradle of Chaos.
+The final battle with the God of Chaos was fierce battle; one that we barely won. If he awakens again, the Gods of today who are few in number will surely be unable to stand against him.
+The Gods are affected by the prosperity and decline of every age, as it is from the peoples' faith that They derive Their power.
+You may find this hard to believe, but it seems like there are people receive guidance from beings in another realm. These people are unbound by logic and the laws of the world.
+Offerings are the medium through which the faith of believers is carried to the eight Gods.
+Even those who live in this land don't know much about the Gods. The pact of the Eternal League suppresses any information about Them.
+%END
+
+
+%DRAN,JP			/dran
+•à“¹¥‘ŠácóŸcŒ}“IŒiêy{‚¾}B
+”n‰Xˆöˆ×L–¡‘¾dCO“VA“|•Â—¹{‚æ}B
+šú¢“Á—–¥•xé`—_ãSšz“IŒâÙés{‚¾}B
+”‡—¡“I¤“XŠX‘å’vãY›õ“s—L{‚æ}B
+‹Rmš£äo•xé`—_’÷Œ‹Œ_–ñC’“ãFİ”‡Àés{‚Ì‚¾}B
+‰ÁfˆÛfˆêç²’µ•‘ˆêç²‰‰‘t¥‰Ì“I‰‰¥˜ğ^“IœkíqŠQ{‚È}B
+Œ’ê—L‰ÁfˆÛf“IŒÀ’è‰‰¥˜ğ{‚Ì‚¾}B
+å«‘RŠÅ‹N˜Òœkç¬SŠ—~C’AO_–çˆ×—¹”‡ŒÂ¢ŠE§–ˆ“VDé¦’˜{‚Ì‚¾}B
+”‡ŒÂés—¡—¬’Ê’˜’è–½g—p“I‰İ•¼{‚æ}B
+–k•ûáŒ´“I’n‰ºCŠ¡˜¹’¾‡’˜‘åDg—p“IDŠÍ{‚æ}B
+œn“Œ’[“´ŒA‰^˜Ò“I‰Æ‹ä˜ôH¸—Ç{‚¾}B^•sœÁ¥H “IŒ†ì{‚È}B
+%END%
+
+%DRAN,EN			/dran
+The promenade is a rather popular spot.
+The horse master went out of business in three days because of the smell.
+Ol-dran is a city of amusement run by Yacatect, the Goddess of Wealth.
+Whatever it is that you need, the shops in this city probably have it.
+Those knights are stationed here under contract with the Goddess of Wealth.
+Karavika is really talented to be able to sing and dance like that at the same time.
+End of the month there is a limited concert of Karavika.
+The Gods may look like they're just doing what they like, but they are actually fighting over the world in their own way.
+We use the mortals' currency in this town.
+There is a warship stationed beneath the snowy fields in the north. It was used in the Great War.
+The made-to-order furniture originating from the cave in the eastern end of the continent is simply exquisite. That's traditional craftsmanship for you.
+%END
+
+
+%DEFEND,JP			/defend
+‹–‘½’˜–¼“I–`è¨ÒCİ˜Ò“”‡—¡”V‘O—ŒÁAŒ©‰ß‘ø—Ï{‚æ}B
+‘½åk—LŠm•Û—¹‰ñ‹“I˜HC‰ÂˆÈˆÀS’nİ—Œz“ÁˆÉ¢Š¢l™|—V—V{‚È}B
+—R‰—äo‘øz’ç—˜z‘Š˜AC”½§–ç—Ll˜ğ˜Ò”‡—¡–`è¨{‚Ì‚¾}B
+œn”‡—¡‰ÂˆÈˆÚ“®“f”[”‡ŒÂR’¸“I‘ºäµ{‚æ}B
+çŒì”‡À_“a“I_–¾C‘¾‰ß”F^˜AŠßÎ˜b“sãã•s‰ğ{‚Ì‚¾}B
+%END%
+
+%DEFEND,EN			/defend
+Many renowned adventurers have met Norne even before they came here.
+We can explore Lost Irva with a peace of mind thanks to the way back down available here.
+There are even some adventurers making their way here now that this place is linked with North Tyris.
+We can get to a mountain-top village called Larna from here.
+The guardian of this shrine is way too serious about everything. 
+%END
+
+
+%BSHIP7R,JP			/bship7R
+iç²‘xãç²Hìccj
+i”‡Ÿ†Ÿ„æ¨lœk“ïŠJŒû“‹˜bˆ¢ccj
+%END
+
+
+%BSHIP7R,EN			/bship7R
+(He's muttering curses under his breath as he works...)
+(It's difficult to start a conversation with this atmosphere...)
+%END
+
+
+%BSHIP7,JP			/bship7
+u‘œ‹@ŠílˆêéHìv^“I”ñíh‹ê{‚Ì‚¾}B
+^‘zØ—p”LŒ^‹@Šíl“I‹@ŠBä]ˆ¢{‚¾‚È}B
+•sDˆÓvC—L‹ó“I˜b”\•s”\˜Ò”‡ç²›ñ–Zˆê‰º{‚©}H
+å«‘R‘z‹³Vlˆê±Œâcc’A›‰İŸ“—LéP—ÍC^¥•øŸ]{‚æ}B
+‹@Šíl”‡ŒÂŒœb“IŒêŒ¹C¥‹­§™§“®“Iæ~‰¹”ëH‰Âœ¦{‚¾‚È}B
+HìY•sŠÇé“é„ŠôŸ“sŠÒ¥æS“¾‰Âœ¦{‚¾}cc‹~‹~‰äCäİ“ò¬ˆ·cc‹~‹~‰äB
+ˆÂÆ•W€‹˜ô“I˜bC”‡éª–{Ÿ“Š®Ÿ“—¹Iccå«‘Rœk“¢‰}C’A–ç‘ü”\ã‹ã”~’á¸“x—¹{‚æ}B
+å«‘R‘z‹‘´‘¼•”–åC’A“ßç²“IHìXh‹ê“I˜bA•s—v—¹{‚¾‚È}cc
+HìJ˜aHìXccŠÒŸ“™|—Š®AÚ“ñ˜AO’ní‰Ácc›ßãS•ss—¹{‚¾}B
+–ˆŒÂ™½ˆæ“I™|—•û®˜a•W€—ŒÁ“s—L”÷–­“I·ˆÙC˜V›‰àC‰äª–{•s’m“¹Y›õË¥³Šm“šˆÄ{‚æ}B
+ˆÈ‘O–³‹•W€ç¬•Ö™|—D‘œ–ç”\‰ßè{‚¾‚È}Bˆöˆ×“ßí˜ô–@—L–â‘èCŠˆÈŒ»İ•W€Ì“¾”ñíšŠi{‚ª}B
+”@‰Ê”c‘å‰Æ“I”Âq‘S•””jšÓ{Ä“¦‘–CŠ´æS˜ğœk‘u‰õ{‚©‚È}ccH”‡é˜ğ‹‹•Êl“Y–ƒ”ÏCŠÒ¥Z—¹{‚ª}cc
+Hì¥—L‡˜“I{‚Ì‚¾}BAZç¬•Ö˜ª˜M–ç˜ô•sDC^äI‹Ø{‚æ}B
+—L±Hìİ”æ™§“IŒó˜ğ˜ô•sDCŠˆÈœäŠY“K‹x‘§{‚¾‚È}B‘O’ñ¥ŠÒ—LŠÔ‹x‘§B
+—L±Hì•s®—A–³–@is{‚ª}C’A®—“¾‘¾Š£ŸÄ“I˜bC”‡’iŠúŠÔA–³–@HìCŠˆÈ˜ğ”í”l{‚Ì‚¾}B
+—L±Hì•K{äo‘´‘¼•”–å”z‡CŠˆÈ‘ü”\İ”’“VisC—L±Hì‘¥¥ˆöˆ×‡–°•s‘«§–³–@‡—˜is{‚Ì‚¾}B{me}˜ìœäŠYvlŒ»İ”\˜ôY›õHì{‚¾}B
+•LšmšmšmI“dq“ªäI‰ß”M—¹BŠëè¨BŠëccè¨cc
+‘à’·“®•s“®Aá¢‰ÎCœk“ïæî‘¼à˜bBˆ×—¹”\İèŒ®æî‘¼a’ÊCÅDæ“¢D‘¼{‚©‚È}cB
+—v¥Q‘à’·à˜b“I‹@•s›”CHì—ÊA˜ğí‰ÁC—v¬S{‚­‚ê}B
+å«‘RŒ»İˆöˆ×‰ß™§§•×‹­x’˜C’A•s’m“¹Y›õŒó˜ğ•ö’×“I{‚æ}B
+ˆÈ‘OXh‹êšGcc{‚ª}Cœn‹I˜^˜ÒŠÅCˆöˆ×Hì§šÓ{“I‰Æšì–ˆ”N“sİí‰Ácc{‚Ì‚¾}B
+ˆ×Y›õ®é“Hì—Ê”äˆÈ‘Oí‰ÁC¬ˆõlÉ™ÈŒ¸­—¹cc{‚Ì‚¾}H
+–ç—LlŠñM‹‹ŠÍ’·¤—Êcc{‚ª}C™È”í‘à’·ác¬Œë™B§”íšØ‰ºcc{‚æ}B
+Ÿ“‘z“˜ğ¥”‡í’n•ûccŸ“‘z“{‚Ì‚¾}BŒ´–{‘ŠM”@‰Ê¥O_“I‘Šè•”CœäŠY˜ğ—LˆÀ‘S–”âr’è“I™§“®ŠÂ‹«{‚æ}B
+”½³{me}˜ì¥Ğ˜ğ“I¶Kê—Ö{‚¾}B‘ü¥Ÿ“—L”í–—ºCã”çz“®“šÓ{ˆ×~{‚¾‚È}B
+œnŠO–Ê˜Ò“I{you}C—L’n•û‰ÂˆÈ‰ñ‹^D{‚È}B{me}˜ìAZİ‹x‘§’†C–ç‘ü—L”‡—¡‰ÂˆÈ‘Ò{‚Ì‚¾}B
+ããà‘´‘¼•”—LX‰Á’É‹ê“I‰Æšì˜ì{‚¾‚È}cc{me}˜ìˆê’è”äŠrD{‚¾}B
+å«‘R›”{you}•sDˆÓv{‚ª}C’AŠó–]˜Ò“I¥”\—§¬ˆ×D—Í“I‰Æšì{‚È}B{me}˜ìˆêêy–ç•s˜ğçjé {‚æ}B
+•s’˜˜ô‹‹‘¼ŠÅC•s‘i‘¼C•sæ¨‘¼¦C•s›ñ‘¼C³“I˜bC‹@ŠílA•s˜ğ“®B
+•sŒİ‘Š“¢˜_C•sŒXããC•s³”FC•sŒğ‹‹‘¼“I˜bCAIA•s˜ğ¬’·B
+%END
+
+
+%BSHIP7,EN			/bship7
+Working like a robot is harsh.
+I also want to borrow a cat-shaped robot manipulator.
+Will you help me if you are free?
+I want to teach you my knowledge...but I can't afford it. sorry.
+The etymology of robots is forced labor. Terrible.
+Work Y is harsh no matter how many times I experience it. Help...
+Very busy...I hate it, but it should be less accurate.
+This section seems to be in this situation for a long time. I want to go to another department, but I don't want it to be more difficult...
+Work J and Work X...Increase one after another before cleaning up...No more.
+It seems that the methods and standards are slightly different for each section, and I am doing it without knowing what is the correct answer.
+Will I be refreshed if I break my desk and run away...?
+There is an order in the work. I'm in trouble because it doesn't work even if I do it randomly.
+Some jobs only progress during the day due to coordination with other departments, and some jobs just don't go well due to lack of sleep. We should always think about what we can do now.
+Some jobs won't work if you don't organize them, but if you organize them too much, your work won't progress during that time, and leader will get angry.
+Pigagaga! The electronic brain is overheating. Danger. Dan...ger...
+It's hard to talk because our leader yells at once. You are going to need to raise the favorability rating.
+Be aware that if you talk to our leader at the wrong time, you will get more work done.
+%END
+
+
+
+%BSHIP,JP			/bship
+å«‘R‘ü”\’©‘O•ûËŒ‚“Iåà{İ›‰D’†œk“ïg—pC’Aœk—L˜Q–Ÿ{‚È}B
+Œ»İ³İ‹­‰»‰ü‘¢’†C•Û—¯ˆê•”•ª‹@”\™|‰—‹x~ó‘Ô“I{‚æ}B
+”‡äz‘D¥_ŠÍˆ¢¢ŠLçŒ—˜‰¥BİO_Dà¥“IÅI‹Ç–ÊCäo¬“×ŠÍ‘à“WŠJŒƒD“I{‚æ}B
+”‡äz‘Dèí‘RŠÒ”\ÌŒ`ˆ×lŒ^isŠié¦D“I{‚Ì‚¾}B•s‰ßCİ‰ß‹“IDé¦’†•ÀŸ“—LoŒ»‰ßù—vŒİŸw“I‹‘å›”èB
+˜Aåä“±œ[“¯á¢Ë“Iê–Ê\•ªšáæV“I{‚¾}B
+ŠÍ“à™B‘—º“Iİ’è›ßãSØŠ·¬ŠO•”™B‘—“I{‚æ}B
+%END%
+
+
+%BSHIP,EN			/bship
+It's not easy fighting battles when your main cannon is a fixed forward-facing weapon, but it sure is cool.
+Some of the ship's functions are offline due to ongoing equipment upgrades.
+This is the Divine Warship Albedrion. It took part in the final battle in the War of the Gods against the fleet of the forces of Chaos.
+This ship has the ability to transform and battle with its humanoid form. Not that there were any enemies of that size that it could have a fist-fight with.
+You should see it when the multi-round missiles get launched. To say that it's spectacular would be an understatement.
+The teleporters inside can be configured to transfer objects outside.
+%END
+
+
+
+%ZAILE,JP			/Zaile
+ŸcŒ}˜Ò“HˆÉ¢B•ÊŠÅŒ»İ”‡éCˆÈ‘O‰Â¥èÏáæRæÏ—¹•s­èA“I{‚Ì‚¾}B
+‘œ{you}”‡é“I—·sÒ–çŠ®‘SŠÅ•s“—¹“I{‚æ}B
+˜AÚ–{“y“I‘å‹´C›ßãS”íˆÈ‘¾“I•—šÓ‰«‘–—¹“I{‚æ}Bå«‘R•s‹v‘OŠÒ•Y•‚İŠC–ÊãC’AŒ»İ›ßãSŠ®‘S’¾Ÿ“—¹“I{‚¾}B
+¼“ì•ûD‘œ–ç—LésC’A‰ä‘z•s‹NŠXŒi{‚È}B
+ªŸ’²¸‘à“IÁ‘§CfzŠï—˜z“IR’J—ŒÁ–ç›ßãSèœ“üŠëè¨ó‘Ô{‚æ}B
+ŒÉ—‰›Gêmğ¥—pŒÉ—‰›G‰Ê›‰çÔ¬“Iğ{‚¾}BŒÉ—‰›Gä–ccHŸ“ãã‰ß”‡í“¹‹ï{‚È}B
+”‡ŒÂ–‘Ô–ç¥“ßŒÂ‹©”~Óf“IĞ–ï‘¢¬“I›õ{‚©‚È}H
+ˆöˆ×›”–½‰^â–]§©E“Il–çœk‘½{‚æ}B™Bà’†“I‘ø—Ï“’êİ˜ôY›õ{‚Ì‚¾}B
+Œ»İ™”‰º“Il˜ìC•s’mˆ×‰½AZ€—¹–ç˜ğ•œŠˆ{‚Ì‚¾}B”‡A¥™B•·’†“Iäˆ¢Šó‰ë”V–¯“I¶°”V‹V›õ{‚©}Hİ”‡íó‹µ‰ºC”‡“™“¯‰—æf™î{‚È}B
+İ–Œá¢¶‘OC—LlİfzŠï—˜z•û–Ê–ÚŒ‚“‰Â‹^“Iäˆ¢Šó‰ë”V–¯“ñl‘g{‚æ}B“ß±‰Æšì˜ô—¹Y›õ›õ{‚©‚È}H
+”½³‘å‰Æ“s˜ğÁ¸{‚Ì‚¾}B
+ã`—Lˆê“VC{‚¾‚ë}˜ğ”íŠ—Llˆâ–YB–³˜_¥”‡ŒÂésCŠÒ¥¶Šˆİ”‡—¡“Il˜ìBŠÒ—L“ß“V‰ß“IˆÈ‘¾”V•—B
+”@‰Ê”\‹LZ{me}‘\ãSİ”‡—¡C‰ä˜ğœk‚‹»“I{‚È}B
+%END%
+
+%ZAILE,EN			/Zaile
+Welcome to Zaile...
+%END
+
+
+
+
+%AKASHIC,JP			/cage
+ccB
+({nptc}D‘œ‘zàY›õccB)
+%END%
+
+%AKASHIC,EN			/cage
+......
+({nptc} seems to be trying to tell you something...)
+%END
+
+
+
+%SLAVEKEEPER,JP			/slave shop
+‹ql–ç¥šÓl{‚¾‚È}B
+ŠìŠìŠìcc˜V”Â–ç¥ŒÂF‹S{‚¾‚È}B
+%END
+
+%SLAVEKEEPER,EN			/slave shop
+He he he.  I think I have just what you need.
+Don't look at me like that.
+What's your problem?
+%END
+
+%ASLAVEKEEPER,JP			/slave shop
+”ƒ“zè¯{‚­‚ê}I•sŠ®¬‹ÆÑ“I˜b{me}“I•êeA–³–@“¾‹~{‚Ì‚¾}I
+Œ»İC“zè¯‘åUæÌ’†{‚¾}B™JŠièí‘R”¼™JI
+%END
+
+%ASLAVEKEEPER,EN			/slave shop
+Buy a slave? Please, can you buy a slave?! I... I need to make my quota this month. If I don't, m-my mother is going to die!
+Sale! Sale! Sale! 50% off all slaves! While stocks last!
+%END
+
+
+%CROW,JP			/crow
+˜Ò˜Ò˜ÒI˜Ò˜Ò˜ÒI
+šl™Ş“ßç²“ßˆÊƒŸ†“I–`è¨Òæ¶I˜ÒŠÅŠÅ‰ä˜ì“I¤•i”ëI
+•Ö‹XšG•Ö‹XšGI
+%END
+
+%CROW,EN			/crow
+Caw! Caw!
+Hullo adventurer! Adventurer hullo! Have a look! Caw!
+Cheap! Cheep! Cheap!
+%END
+
+%OBLIVION,JP			/obli
+›Ş—‘ål•sŒõ”\ÁœŒÂl“I‹L‰¯CŠÒ”\ÁœäoŠYl‘Šè“I‘¼l“I‹L‰¯˜a‹L˜^{‚Ì‚¾}B‘¾–_—¹B‘¾–_—¹B
+Áœ‹L‰¯—v¥‘z±‘½éP“I–îCA˜ğá¢‹¶ˆ½ÒÁœ{‘½éP“I‹L‰¯{‚¤}B
+—v¥•úé Œxí¤CA˜ğ‰Á“ü““ß±œpœjÒ“Is—ñ{‚¾}B
+œk‹vˆÈ‘OC›Ş—‘åló“’v–½C¸‹—¹‘å•”•ª“I—Í—Ê{‚Ì‚¾}B–{˜Ò“I˜bC›”Û“IˆÓuY›õ“I“s¥–³è‹Ù—v“I{‚¾}B
+›Ş—‘ål–{˜Ò•À•s¥œäŠY”íèİ”‡í’n•û“I‘¶İ{‚Ì‚¾}B
+l¥ˆöˆ×˜ğˆâ–YË”\Šˆ‰º‹{‚Ì‚¾}B—v¥’É‹ê˜a”ß“I–î‘S“s‹L“¾“I˜bC˜ğ’É‹ê“¾•s“¾—¹{‚¾‚ë}B
+%END
+
+%OBLIVION,EN			/obli
+The Shaman can do more than just erase a person's memories. She can also erase those of every acquaintance he's ever had. Wonderful, is it not? Simply wonderful...
+If you don't keep your mind blank when erasing memories, she might just end up accidentally erasing more than what's necessary... along with your sanity.
+Before you realize it, you're already one of them.
+The Shaman lost most of her power a long time ago when she was injured. She used to be able to manipulate even the free will of people.
+Someone of the Shaman's status should not be cooped up here like a caged bird.
+People live by forgetting. Memories of pain and sadness will only bring you suffering.
+%END
+
+%PRAY,JP			/pray
+‘ü—v½S‹F‹C~—Õ“I_–¾–ç˜ğ˜¨˜¨‰ñ‹”ëB
+ˆÈ^g‘åé§“I_–¾¥–³–@‘j~“IB’Aá¥¿‹‘—ŠÒCˆ½‹–cc
+åi½“IM“kİ\ˆêŒ‰—‹xD’n‹F“˜C_–¾A˜ğŒ»g”ëB
+á¥”íâiˆ×Ù‰€“I’n•ûC_–¾–ç˜ğ‹Ó‘RÚóç±¿”ëB
+%END
+
+%PRAY,EN			/pray
+If you ask nicely, I'm sure even the Gods would be willing to leave.
+A God rampaging in His true form cannot be stopped. Should you truly Wish for it, however...
+Gods will reveal Themselves to the most pious when they pray at the Truce Ground in the 11th month.
+Not even a God would be able to resist an invitation to visit Heaven on Irva, should there be one.
+%END
+
+
+%DETECTIVE,JP			/crow
+Á‹–@‘ü”\İŠm’è‘I€’†—LŠ®”ü³Šm“šˆÄ“Iî‹µ‰ºg—p{‚Ì‚¾}BİB–†“Ió‹µ‰ºŒÓ˜ªg—pœkŠëè¨{‚¾‚È}B
+–›‰¥’Ê‰^›‰“I˜H•W{‚¾}Bá¥ã­“Á’è“I–›‰Cˆ½¥¬“ü—¹‹•˜ïCA—L‰Â”\“¾oäo^›‰•s“¯“IŒ‹˜_{‚æ}B‘üœßˆêŒÂ–›‰C–³–@’ï’B—Bˆê“I^‘Š{‚Ì‚¾}B
+{me}’ã’T˜ì”\“§‰ß’²¸ŠÅú‰»gˆ×l“I–‚•¨{‚æ}B’A—L–ç˜ğoŒ»‰»gˆ×’ã’T“I˜TCˆ½¥äI‘Ü—L–â‘è“I’ã’T{‚È}B
+%END
+
+%DETECTIVE,EN			/werewolf
+Deduction by elimination should never be used unless one is perfectly sure that one of the choices available is correct. It must never be used when there is ambiguity.
+Facts pave the way to the truth. Should you overlook a crucial fact or have falsehoods mixed in with your facts, however, then the conclusion you derive will deviate from the truth. There is but one truth and one path to it.
+Detectives like us are able to discern monsters hiding amongst people through our investigation. You need to watch out for werewolves disguising themselves as detectives, though, as well as detectives who have gone insane.
+%END
+
+%DAIN,JP			/dain
+ããàˆÉ¢àó”‡–¼H •tèAU•z›”©ŒÈ—L—˜“I™B•·cc{‚æ}B
+ˆÉ˜Dàó”‡–¼H »ì“I•ŠíC—ŒÁ¥âc”÷‰Á”Mˆê‰ºA˜ğ—Z‰»“I—ò¿•i{‚æ}B
+ˆÉ˜Hàó”‡–¼H —ŒÁ¥ŒÂ”›‰Ë—¹ãÚ——Bˆêã‹³l“I‘åšÓ’`{‚æ}B
+%END
+
+%DAIN,EN			/dain
+There's a smith by the name of Irma who is paying people to spread good rumours about her... according to the rumours anyway.
+There's a smith by the name of Irma. I've heard her weapons melt on sunny days.
+There's a smith by the name of Irma here. People say she's a villain who kidnapped the sole successor to this village.
+%END
+
+
+%SISTER,JP			/sister
+“Á•Ê—p‰äŸó’—¹ˆ¤ˆÓ»ì“I•Öác˜ÒæÌ‹‹“ğšG`™
+Ÿó’“I‰Â•s‘ü—Lˆ¤ˆÓ§›ßšGI™è™èCŠJŠßÎ“Ifô
+%END
+
+%SISTER,EN			/sister
+Do you want a lunch made with my love?
+This lunch has been more than just love!
+%END
+
+%ASISTER,JP			/sister
+‰äÅ“¢‰}{onii}İ—¹I
+‰äˆêêy“s•sŠìŸc{onii}İI
+%END
+
+%ASISTER,EN			/sister
+I hate you, {player}!
+I don't like you one bit, {player}!
+%END
+
+%BITCH,JP			/prostitute
+šl™Ş`“ğ^¥ŒÂD{sex}–‰Bæ¨“ğ˜ôˆê–é“I–²–çsšGB
+%END
+
+%BITCH,EN			/prostitute
+Hey sexy, wanna relax for a while?
+%END
+
+%ABITCH,JP			/prostitute
+¡“V¥oŒŒ‘å”æÌcc‰ä˜ğæ¨“ğ˜ô±æ¨“ğ•@ŒŒ—¬•s’â“I”ü–²šGB
+šl™Ş`“ğ^¥ŒÂD{sex}–‰Bc^“IC”ñíD{sex}–‰B
+%END
+
+%ABITCH,EN			/prostitute
+We're having a special event today. It's the do-the-deed-till-you-bleed event! Bleed through your nose, that is. How about it, baby?
+Mmmmm, what a nice {sex} you are. Nice. Very nice indeed...
+%END
+
+%AILE,JP			/aile
+–{‹@’ñ‹ŸŠeí¤•i“I‹@“à”ÌæÌ•–±B¿á¶î‘IwB
+%END
+
+%AILE,EN			/aile
+We have all sorts of items on board. Do check out our inflight shopping catalogue.
+%END
+
+%AAILE,JP			/aile
+–{‹@“I‚“xˆê’U’á‰—1000‰pÚC‹@“àİ’u“Iàyœ[A˜ğ”šàyB¿İ’ï’B’n–Ê”V‘ODD•úé ‹x‘§B
+%END
+
+%AAILE,EN			/aile
+This plane is rigged to blow when the altitude is below 1000 feet. Please sit back, relax, and enjoy the trip back down to the ground. It won't take long.
+%END
+
+%MOYER,JP			/trader in noyel
+‹qlC“ğ•s•KŠQœ†B”‡ŒÂ‰ö•¨›ßãS”í–‚–@‘©”›C–³–@“®œ[—¹B˜Ò”ëCœ—¹æVÜ”VŠOC–ç¿‡•ÖŠÅŠÅ‰ä˜ì“I¤•iB
+”‡ˆÊ¥x”z—¹Ÿ¸äÉ˜±–À‹{ŠL—´“I™Bà’†“I‰Î‹lI¡“VŠ†I˜H‰ß“I“ğC‰^Ÿ†^¥DI˜Ò”ëC¿á¶î‹ÓÜ”‡‘¸Šù_¹–”•sË“I‰ö•¨“I‰ppB‘ü—vw”ƒ¤•iC–ç‰ÂˆÈæ\–ÌšGB
+%END
+
+%MOYER,EN			/trader in noyel
+Hear hear! This monster before you is the notorious fire giant who ruled Verron of Nefia for a century. You're lucky, quite lucky to have him chained before you today! Indeed, this monster could burn the whole village if it weren't for the magical chains that bind him. Buy some goods at my shop, and I will even let you touch this fearsome giant!
+Don't worry. He can't move a muscle while he is shackled.
+%END
+
+%AMOYER,JP			/trader in noyel
+˜Ò‘˜ª“IšÓ›wq˜ğ”í‹l‹h{šG`
+šºœd—LˆêŒÂ’í’íc‘´–¼ˆ×Ÿ^œdI”VŒãCˆ×—¹à¥’D–À‹{“Ix”zÜC™_‘¸‹l“WŠJ—¹ˆêêšá—ó“IDé¦cB
+%END
+
+%AMOYER,EN			/trader in noyel
+Naughty customers who look around and don't buy anything get eaten up by the giant in one gulp.
+Ebon had a little brother... and his name was Obon! The two of them battled fiercely to become the rightful ruler of their dungeon.
+%END
+
+%MAID,JP
+ŸcŒ}‰ñ˜ÒC{player}ô{you}•sİ“IŠúŠÔC—L{ref}ˆÊ‹ql˜Ò–K{‚æ}BŒ»İ—v”nãŒ©‘¼˜ì›õ{‚©‚È}H
+{player}C{player}I—L{ref}ˆÊ‹qlİ“™’˜{‚æ}B—vŒ©{‚¾‚ë}›õH
+%END
+
+%MAID,EN
+Welcome home, {player}. You have {ref} waiting for you. Do you want to meet a guest now?
+%END
+
+
+%INMATE,JP			/Camp
+ŒÃCE—¹‰ä”ëI
+D‘z‰ñ‰Æ{‚æ}ccB
+ã`—Lˆê“V—v“¦‘–{‚Ì‚¾}B
+%END%
+
+%INMATE,EN			/Camp
+Ugh! Just kill me already!
+I wanna go back home...
+Someday, I'll leave this hellhole.
+%END
+
+
+%YOUKO,JP			/Fox
+ŒÏå‹½ŒÏŒÏqÙ‰€ŠJ‰€—¹HI™õI
+„‘EæáŒ»İŸr–Å˜Tl“IŸkê}šGCFoxB
+İ‰»gˆ×‹–¯“IŠúŠÔCèªåU¨S˜a”ö”bæ¨‰äšØ—Íœk‘åCKunB
+%END%
+
+%YOUKO,EN			/Fox
+Okitsune Konkon Land is now open! Yay!
+I recommend eliminating the remaining werewolves while you can.
+Hiddening my ears and tail while I was disguised as a citizen was stressful.
+%END
+
+
+%INOTIGOI,JP			/surrender
+iˆêç²èúTˆêç²ŠÅ’˜“ğj
+(•Ë—¹“ğˆêŠáCä_FècÂ)
+%END%
+
+%INOTIGOI,EN			/surrender
+({nptc} looks at you trembling.)
+({nptc} glances at you and goes pale.)
+%END
+
+
+####################### Special #######################
+
+%BORED,JP			/when bored
+(ˆêä_–³ãÖ’nŠÅ’˜“ğ)
+(•Ë—¹“ğˆêŠáC”cä_”PŒüˆêç²)
+%END
+
+%BORED,EN			/when bored 
+({nptc} gazes at you with disinterest.)
+({nptc} isn't paying any attention to you.)
+%END
+
+
+
+%ALLY_DEFAULT,JP		/ally
+(ˆê’¼áÉ’˜“ğ)
+cH
+%END
+
+%ALLY_DEFAULT,EN		/ally
+({nptc} fixedly looks at you.)
+...?
+Did you need something?
+What do you want?
+What's up?
+Is something wrong?
+What is it?
+%END
+
+
+%COOKIE1,JP
+İ–qê‰ÂˆÈ¶Y“÷Š£B
+Ÿà—L•Ù–@”c_–¾Ì¬’•¨B
+‘fŞ’Èœk‹MdC•s—v—pİ•’Ê“Iåä”õãI
+‘“I^³Á‰Ê¥”‹‹’•¨Ë”\á¢Šöo˜ÒB
+‡İ¿—ÊD“I°ãC‡–°“IÁ‰Ê˜ğ’ñ¡B
+—İÏ‘Ps“I˜bCÅŒã˜ğµ˜ÒˆÓ‘z•s““IK‰^B§ŠCÅ‹à–ç˜ğ‘ÅÜB
+‰ö•¨“I•³•Ö‰zdCæÌ™J‰z‚B
+ó“j•Ÿ“I‰º~åZ…CŠ…‰º‹“Il“™‹‰˜ğã¡B
+Š…‰ºó“æf™î“I‰ñ•¢åZ…C—L˜ğ¶•aB
+‘z—vV‹Z”\“I˜bC‰{æ¤”\—ÍŠl“¾™É²‘¦‰ÂB
+›”ˆÓ¯NO“I›”èC—Lœk‚“IŠT—¦”\‘Åo˜ğSˆêŒ‚B
+İ’†“ÅA–ƒáƒAoŒŒ“™ˆÙíó‘ÔŠúŠÔC•s˜ğ©‘R¡–üB
+•û‰òİˆÙíó‘ÔŠúŠÔ•s˜ğíBB
+g—p_Ší“I*‘fŞÌ‰»*™É²C‰ÂˆÈdV¶¬B
+‰¹R«‘«‘«“I˜bC‰ÂˆÈ–h~NOB
+Œ¶˜fR«‘«‘«“I˜bC‰ÂˆÈ–h~á†‹¶B
+ˆ×–‚ñj•Ÿ¥ŒÂDåˆÓC’AÁ‰Ê—ŒÁ”äj•Ÿ‰ß“IåZ…˜a™É²—v·ˆê±B
+İ¼ŠúŠÔŠôŒÁ•s˜ğó“‰Î‰‹›¢«“IŠQB’A¥—‹›¢«“IŠQ˜ğí‰ÁB
+İó“ˆÙíd—Í“Ió‘Ô‰ºC”C‰½ŠÅ”j—ŒÁ“sŸ“—LˆÓ‹`B
+j•Ÿ“I”\—Í•œŠˆ˜a¸_•œŒ´åZ…‰ÂˆÈ‹­‰»“÷é“˜a¸_B
+‹ö“‹­“GCA’©‘¼“Š‰º•œŠˆæf™î“I”\—Í•œŒ´åZ…˜a¸_•œŒ´åZ…B
+Šq–§m”VŒŒˆê’è—væj•ŸŒãÄŠ…I
+”íæf™î“IŸdŠÒ˜a’Eo™É²Cæ¤—¹‰Â”\˜ğá¢¶œkšd“I–B
+%END
+
+%COOKIE1,EN
+You can dry out fresh meat at a ranch to make jerky for rations.
+There's a way of making a god into your pet.
+Do not ever waste material kits on normal items!
+Herbs show their true power when you feed them to your pet.
+Better tools give you better results for your skills. Better beds give you better dreams if you sleep in them.
+Tax will be lowered if your karma is high.
+Shopkeepers will pay more for monster's shit that weights more.
+A blessed potion of descent will raise your level.
+Drinking cursed healing potions sometimes makes you sick.
+If you want a new skill, read a blessed scroll of gain attribute.
+You will get more chances of critical hits against dimmed opponents.
+Your enemies won't regenerate health while they are poisoned, bleeding, or paralyzed,
+The cubes will not split when they have bad conditions.
+You can use a scroll of superior material to an artifact to re-create the artifact.
+You can prevent getting dimmed by increasing your resistance to sound.
+You can prevent getting insane by increasing your resistance to mind.
+Blessing a rod is a good idea. But the effects of blessed rods are less dramatic than blessed potions or scrolls.
+When you are wet, fire damages won't be a problem but electric damages will be a serious threat.
+If you vomit too much in a short period, you will suffer anorexia. When you get anorexia, don't eat. Just drink potions and water.
+A blessed potion of restore body or restore spirit will enhance your body or spirit.
+Throw cursed potions of restore body or restore spirit at powerful opponents.
+You should *always* bless hermes blood before drinking it!
+Something bad might happen to you if you read a cursed scroll of escape or return.
+%END
+
+%COOKIE2,JP
+”J•‡^³“I–¼š¥—…åQ—‰C”@‰Ê—Ll”‡›õ‹©‘¼C‘¼œäŠY˜ğ”ñí‚‹»B
+D‘œ—L–¼ˆ×’Ç‰Áèw“I—DG‰úwB
+–@ñ‘ü—vb•úİ’nãA”\“U[–‚—ÍI
+•s’m“¹ŠY‹–Y›õŠèHˆ¢C¢“I”é›”ëB
+›Î‰ÂˆÈ˜a”’‹à•¼ŒğŠ·B
+‰{æ¤åU›š¤”V‘O¿æisj•ŸB
+•cccˆ¢ccˆ¢ˆ¢cc
+‘ü—v—i—LŸà‰j‹Z”\CA”\Ÿà“‘´‘¼‘å—¤B
+“ğ‘z—vY›õH
+İãÖ“V‹âx—¡š^gGuardsIh“I˜bC‰q•ºA˜ğ˜Ò›ñ–ZšGB
+Œ”V–å“I‘O•û—LPKİ“™’˜“ğB
+ŠÅ˜Ò¥˜MÓ—¹–‰B‰{æ¤Ÿ‘“Il*•K’è*˜ğó“æf™î”ëB
+Œã–ÊI¬SI‰õC‰õŠÅC–…–…‘¼I‰õ“¦Iˆ¢I
+ˆ¤šG\\šj\\ŒÉŒÄˆ¢\\CšG\\™Ú™Ú\\ŒÄšGšjB
+—R‰—“ğ“I‘¶ƒ•¶Œ‘¹šÓC–³–@èû¦³Šm“IâÜB
+Ÿà•sE”C‰½”LA˜ğ—LD–á¢¶B
+Ÿàİ‘ÅŠJ›” ”V‘O‰{æ¤ój•Ÿ“I_—@™É²CA˜ğY¶‹ï—L—D¿•–‚“Iåä”õB
+Ÿà‰q•º”í‘S—‡“Il“³“˜ğœk‚‹»B
+Ÿà—L–…–…›“—p“IÅ‹­_ŠíB
+ŸàŸà‰j‹Z”\‘ü”\“§‰ß‹–Šè˜Ò›{KB
+%END
+
+%COOKIE2,EN
+A Nymph will be very pleased if you call her by her real name:  Lorelei.
+There's a wondrous ring called the ring of extra finger.
+Rods recharge themselves if you leave them on the ground for a while.
+Not sure what you should wish for? Try secret treasure of azul.
+Gems can be traded for platinum coins.
+Always bless treasure maps before reading them.
+Meo....eow.....
+If you have the swimming skill, you can swim your way to other continents.
+What do you wish for?
+If you shout 'Guards!' in the chat window, they may quickly come to help you.
+Player killers await you at the other end of moongates.
+Oh, what a pity. Hate to say but those who read this fortune *will* be cursed.
+Watch your back! Careful! T-There, your younger sister! Run!
+I nyo talk funny, nyo BUMP-BUMP for you!
+The game could not choose valid fortunes as your saved game is corrupted.
+It is rumored that killing cats make you unlucky.
+Reading a blessed scroll of oracle before opening a chest is believed to bring you equipment with good enchantments. 
+Guards will be pleased if you bash them while naked.
+It is rumored that there's an ultimate artifact exclusive to your younger sisters.
+The only way of learning the swimming skill is to wish for it.
+%END

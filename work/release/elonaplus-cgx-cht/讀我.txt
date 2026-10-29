@@ -1,0 +1,14 @@
+Elona+ Custom-GX 2.32.1.2 繁體中文版
+https://github.com/ivanlin630/elonaplus-cgx-cht
+
+安裝
+1. 先裝好 Elona+ 2.32 與 Custom-GX 2.32.1.2（見 Custom-GX 說明）。
+2. 把本壓縮檔內的 elonapluscgx.exe 與 data 資料夾，覆蓋到遊戲資料夾。
+   建議先備份原本的 elonapluscgx.exe 與 data 資料夾。
+3. 執行 elonapluscgx.exe，設定裡語言選日文（中文放在日文的位置）。
+
+說明
+- 繁中 Windows 直接執行即可，不需要 Locale Emulator。
+- 日文字碼沒有的字以形近字代替（例：你→汝、吧→罷、嗎→麼）。
+- 翻譯以本機 AI 機翻為主，加上人工名詞表與修正；有錯譯歡迎回報。
+- 2.30 簡中版的舊存檔可用 repo 內的 tools/convert_save.py 轉換。

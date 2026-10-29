@@ -1594,6 +1594,7 @@ d38b22475e	ai.hsp	1481	lang	txt	「アロー♪アーロン♪スゲェ♪ピカ
 e0181190bf	ai.hsp	1481	lang	txt	「キスすごい肉♪脱線してんの♪さらに肉♪」	{0}	[]	「好厲害的肉♪接吻脫線了♪更多肉♪」
 d73b17dd20	ai.hsp	1485	lang	txt	「キープダルシム♪アゴスタディーイェイ♪並フェイスで大きい筆入れ♪」	{0}	[]	「保持達爾西姆♪下巴斯塔耶♪並以大筆在臉上繪製♪」
 e329ba1698	ai.hsp	1485	lang	txt	「ハロー♪猿ー♪すげー♪うん入る♪」	{0}	[]	「哈囉♪猴子——♪真棒——♪嗯，進去了♪」
+a5819cd6bf	ai.hsp	1490	lang	txt	 *ﾋﾟﾛﾘ～ﾋﾟﾛﾘ～* 	 *whistle-whistle* 	[]	
 384772e71b	ai.hsp	1493	lang	txt	「マイアヒー♪」	{0}	[]	「我的啊——♪」
 2801106644	ai.hsp	1493	lang	txt	「マイアフゥー♪」	{0}	[]	「我的啊呼♪」
 a1ae476a4a	ai.hsp	1493	lang	txt	「マイアホー♪」	{0}	[]	「啊吼——♪」
@@ -7480,9 +7481,14 @@ acf47202c2	command.hsp	53	lang	bedtxt	「たる…」	 \\"Baaarrel...\\"	[]	「�
 31b488357f	command.hsp	68	lang	bedtxt	「たる！」	 \\"Barrel!\\"	[]	「塔魯！」
 d38dc55c97	command.hsp	73	lang	bedtxt	「たーる」	 \\"Barrel.\\"	[]	「塔魯」
 f3fd96391a	command.hsp	78	lang	return	ここには{0}種類のアイテムがある。	There are {0} items lying here.	["rtval"]	這裡有{0}種道具。
+edbdf24e9c	command.hsp	115	lang		ﾀｰﾝ	turns 	[]	回合
+5f98362c18	command.hsp	127	lang	s	ﾀｰﾝ	 stacks 	[]	回合
+3c733df7b0	command.hsp	135	lang	s	ﾀｰﾝ	 stacks 	[]	回合
+02b3e0fcb5	command.hsp	142	lang	s	ﾀｰﾝ	 stacks 	[]	回合
 234dc6bf17	command.hsp	160	lang	bmes	ｷｬﾗﾁｯﾌﾟ番号：{0} / 色番号：{1} 	SpriteID: {0} / ColorID: {1} 	["locvar_txttargetnpc_pic", "refchara(cdata(CDATA_ID, txttargetnpc_arg_tc), DBSPEC_CHARA_COL) * 1000"]	角色編號：{0}／顏色編號：{1}
 daf1a3476d	command.hsp	169	lang	bmes	性別：{0}　年齢：{1}歳　信仰：{2} 	Gender: {0} / Age: {1} / Religion: {2}	["s", "calcage(txttargetnpc_arg_tc)", "godname(cdata(CDATA_GOD, txttargetnpc_arg_tc))"]	性別：{0}　年齡：{1}歲　信仰：{2}
 2e65ee8559	command.hsp	231	lang	bmes	視界範囲外	This location is out of sight.	[]	視野外範圍
+741753b759	command.hsp	256	lang	s	ﾀｰﾝ	turns 	[]	回合
 6f13f15dd3	command.hsp	265	lang	bmes	ｷｬﾗﾁｯﾌﾟ番号：{0} / 色番号：{1} 	SpriteID：{0} / ColorID：{1} 	["cdata(CDATA_PIC, locvar_txttargetnpc_i)", "refchara(cdata(CDATA_ID, locvar_txttargetnpc_i), DBSPEC_CHARA_COL) * 1000"]	角色編號：{0}／顏色編號：{1}
 34d6d5fa4e	command.hsp	271	lang	bmes	性別：{0}　年齢：{1}歳　信仰：{2} 	Sex:{0} / Age:{1} / Religion:{2}	["s", "calcage(locvar_txttargetnpc_i)", "godname(cdata(CDATA_GOD, locvar_txttargetnpc_i))"]	性別：{0}　年齡：{1}歲　信仰：{2}
 75e0527257	command.hsp	282	lang	bmes	現在のターゲットは	You are targeting 	[]	目前的目標是
@@ -7691,7 +7697,7 @@ a4bd678642	command.hsp	2014	lang	s	分析結果	Results	[]	分析結果
 4ceb545351	command.hsp	2113	lang	s	◆ 取得できるフィート	[Available feats]	[]	◆ 可獲得的成就
 89b4c83a81	command.hsp	2116	lang	s	◆ 特徴と体質	[Feats and traits]	[]	◆ 特徵與體質
 94a3d6ee91	command.hsp	2134	lang	s	(条件不足)	(requirement)	[]	(條件不足)
-538daa6ced	command.hsp	2143	lang	s	[フィート]	[Feat]	[]	[菲特]
+538daa6ced	command.hsp	2143	lang	s	[フィート]	[Feat]	[]	[專長]
 2909de75e3	command.hsp	2146	lang	s	[変異]	[Mutation]	[]	[變異]
 61318d9e04	command.hsp	2149	lang	s	[先天]	[Race]	[]	[先天]
 8bea944103	command.hsp	2152	lang	s	[ｴｰﾃﾙ病]	[Ether]	[]	[乙太病]
@@ -7847,7 +7853,7 @@ e179ff8bdd	command.hsp	3637	lang	s	/防御/	(defensive	[]	/防禦/
 abd7bb25ee	command.hsp	3640	lang	s	/迎撃/	(intercept	[]	/迎擊/
 1e4f02fadf	command.hsp	3643	lang	s	/交渉/	(talking	[]	/交涉/
 37d2050683	command.hsp	3645	lang	s	ガードブレイク{0}%	 GuardBreak:{0}%	["cdata(CDATA_GUARD_BREAK, i)"]	衛兵破防{0}%
-ad1c42cbe7	command.hsp	3652	lang	s	歳	)	[]	年齡
+ad1c42cbe7	command.hsp	3652	lang	s	歳	)	[]	歲
 9493fa3a4e	command.hsp	3661	lang	s	性別不明	unknown	[]	性別不明
 f81ba10f1f	command.hsp	3707	lang	s	遊ぶ金欲しさ	Want money to have fun	[]	想要錢來玩樂
 d53833a691	command.hsp	3710	lang	s	実家への仕送り	Parents need the money	[]	給老家的贍養費
@@ -8211,6 +8217,8 @@ a9fb57e355	command.hsp	9157	lang	promptAdd	制限レベル1000	Limiter LV.1000	[
 396eff24da	command.hsp	9158	lang	promptAdd	制限レベル1500	Limiter LV.1500	[]	限制等級1500
 ee3591ca07	command.hsp	9197	lang	txt	【非表示：{0}】	[Hidden: {0}]	["skillname(p)"]	【隱藏：{0}】
 c60ef83647	command.hsp	9204	lang	txt	【魔法・全表示】	[Showing all spells]	[]	【魔法・全顯示】
+0db1e17f9a	command.hsp	9258	lang	s	ﾀｰﾝ 	t 	[]	回合
+dfff8e8704	command.hsp	9286	lang	s	ﾊﾟﾜｰ	Power:	[]	力量
 fed4c726d9	command.hsp	9710	lang	s	内緒	Secret	[]	秘密
 1417893e48	command.hsp	9713	lang	s	生まれつき天涯孤独だった。	You had no family.	[]	我天生便是孤身一人。
 e7edfde03a	command.hsp	9716	lang	s	特に不自由なく育った。	You grew up without any inconveniences.	[]	成長過程中並沒有任何不自由。
@@ -8505,7 +8513,7 @@ c98bc536f6	command.hsp	10780	lang	s	装備重量	Equip Wt	[]	裝備重量
 ed26f80043	command.hsp	10875	lang	guildadv	魔術士ギルド	Mages Guild	[]	魔術士公會
 be6019d0ba	command.hsp	10878	lang	guildadv	戦士ギルド	Fighters Guild	[]	戰士公會
 6f18e4629c	command.hsp	10881	lang	guildadv	盗賊ギルド	Thieves Guild	[]	盜賊公會
-a3e9373e4e	command.hsp	10913	lang	s(5)	歳		[]	年齡
+a3e9373e4e	command.hsp	10913	lang	s(5)	歳		[]	歲
 e72d27dcfc	command.hsp	10964	lang	s	階相当	 level	[]	相當於階層
 d4b7563621	command.hsp	10984	lang	mes	軽減	Prot	[]	減輕
 6ba3095747	command.hsp	10986	lang	mes	回避	Evade	[]	迴避
@@ -8547,11 +8555,16 @@ aa06e6df45	command.hsp	12288	lang	s	決定    	Done    	[]	決定
 9ed6ff947f	command.hsp	12288	lang	s	髪の色　	Hair CL 	[]	髮色
 adf7c01cf6	command.hsp	12288	lang	s	体　　　	Body    	[]	身體
 bad9faeed9	command.hsp	12288	lang	s	服　　　	Cloth   	[]	服裝
+0437488b90	command.hsp	12288	lang	s	ﾊﾟﾝﾂ　　	Pants   	[]	內褲
 57031cfa0c	command.hsp	12288	lang	s	詳細設定	Set Detail	[]	詳細設定
+911a25da5e	command.hsp	12290	lang	s(9)	ｶｽﾀﾑｷｬﾗ 	Custom  	[]	自訂角色
 ce1cbc5abd	command.hsp	12293	lang	s(9)	乗馬時　	Riding  	[]	騎乘時
 2f81492043	command.hsp	12298	lang	s	体の色　	Body CL 	[]	身體顏色
 ae741a36f5	command.hsp	12298	lang	s	服の色　	Cloth CL	[]	衣服顏色
 ea050ae0aa	command.hsp	12298	lang	s	ﾊﾟﾝﾂの色	Pants CL	[]	內褲顏色
+7908b12245	command.hsp	12298	lang	s	ｱｸｾｻﾘ1　	Etc1    	[]	飾品1
+7c188389e1	command.hsp	12298	lang	s	ｱｸｾｻﾘ2　	Etc2    	[]	飾品2
+80c82e51a4	command.hsp	12298	lang	s	ｱｸｾｻﾘ3　	Etc3    	[]	飾品3
 290f0732c6	command.hsp	12298	lang	s	目　　　	Eyes    	[]	眼睛　　　
 e09ed4cc9d	command.hsp	12298	lang	s	基本設定	Set Basic	[]	基本設定
 81d451f222	command.hsp	12318	lang	s	肖像の変更	Appearance	[]	肖像變更
@@ -8561,6 +8574,7 @@ e5d412fa4b	command.hsp	12321	lang	display_topic	項目	Category	[]	項目
 646a2ec9f2	command.hsp	12530	lang	s	胸部鎧　	Chest   	[]	胸部護甲
 01d9b1332a	command.hsp	12530	lang	s	脚部鎧　	Leg     	[]	腳部鎧甲
 bd33fb84cf	command.hsp	12530	lang	s	ベルト　	Belt    	[]	腰帶
+c914530b83	command.hsp	12530	lang	s	ｸﾞﾛｰﾌﾞ　	Glove   	[]	手套
 0232d15219	command.hsp	12530	lang	s	マント　	Mantle  	[]	披風　
 9a520437ec	command.hsp	12549	lang	s	装備表示の変更	Parts to hide	[]	裝備顯示變更
 f649c64640	command.hsp	12549	lang	s	左右キー [変更]  ｷｬﾝｾﾙ [閉じる]	Right,left [Change]  Shift,Esc [Close]	[]	左右鍵〔變更〕取消〔關閉〕
@@ -9106,8 +9120,10 @@ b5b19f25c1	config.hsp	636	lang	s	　フォントシフト	  Font Shift	[]	字體
 020fcb46df	config.hsp	751	lang	s	あり	Show	[]	有
 c86ed3407c	config.hsp	755	lang	s	しない	Attack	[]	否
 563c82e204	config.hsp	755	lang	s	する	Ignore	[]	是
+c64f5532cd	config.hsp	759	lang	s	ｸｨｯｸﾒﾆｭｰ	Quick menu	[]	快捷選單
 3cd97c6b5a	config.hsp	759	lang	s	道具を振る	Zap	[]	揮舞道具
 0c30363f97	config.hsp	759	lang	s	割当なし	Don't assign	[]	無分配
+35e05d7f97	config.hsp	763	lang	s	ｸｲｯｸｲﾝﾍﾞﾝﾄﾘ	Quick Inv	[]	快捷物品欄
 a687f9e2b6	config.hsp	763	lang	s	道具を調べる	Identify	[]	檢查道具
 1dccf6e126	config.hsp	763	lang	s	割当なし	Don't assign	[]	無分配
 8531e45975	config.hsp	768	lang	s	走らない	Don't run	[]	不奔跑
@@ -23442,6 +23458,7 @@ d0af66f86c	help.hsp	39	lang	setCom	休息	Rest	[]	休息
 00126a23ee	help.hsp	40	lang	setCom	干渉	Interact	[]	幹擾
 cb1f6c67fd	help.hsp	42	lang	setCom	体当り	Bash	[]	身體衝撞
 a9e7614139	help.hsp	43	lang	setCom	掘る	Dig	[]	挖掘
+8d3ba1d3d4	help.hsp	44	lang	setCom	ｽﾀｯｸ	Stack	[]	堆疊
 a85d6214b0	help.hsp	49	lang	setCom	食べる	Eat	[]	吃
 b234e9bddd	help.hsp	50	lang	setCom	読む	Read	[]	閱讀
 913ecfd944	help.hsp	51	lang	setCom	使う	Tool	[]	使用
@@ -23642,7 +23659,7 @@ b7a5df715f	init.hsp	2000	lang	return	彼	he	[]	他
 45a9eaff47	init.hsp	2015	lang	return	彼	he	[]	他
 98afbe9900	init.hsp	2018	lang	return	彼女	she	[]	她
 9cbc0f3f2f	init.hsp	2082	lang	return	性別不明	unknown	[]	性別不明
-4024ebe427	init.hsp	2225	lang	locvar_cnvdate_s	年	 	[]	年齡
+4024ebe427	init.hsp	2225	lang	locvar_cnvdate_s	年	 	[]	年
 e890800d97	init.hsp	2225	lang	locvar_cnvdate_s	月	/	[]	月
 e0269da99f	init.hsp	2225	lang	locvar_cnvdate_s	日	 	[]	天
 6743be4d1f	init.hsp	2227	lang	locvar_cnvdate_s	時	h	[]	時
@@ -25605,6 +25622,7 @@ c1b8f4eeb0	module.hsp	287	lang	txt	着実に次のランクに近づいている
 c7fe82c4c3	module.hsp	5171	lang	s	情報	Chara	[]	情報
 b8bbcb1c82	module.hsp	5171	lang	s	装備	Wear	[]	裝備
 18e2fb7b42	module.hsp	5171	lang	s	特徴	Feat	[]	特徵
+d8b5166227	module.hsp	5171	lang	s	ﾏﾃﾘｱﾙ	Material	[]	材料
 fc583b906a	module.hsp	5176	lang	s	魔法	Spell	[]	魔法
 3cb2ad735d	module.hsp	5176	lang	s	技能	Skill	[]	技能
 3498d138bc	module.hsp	5176	lang	s	広域技能	Wide Skill	[]	廣域技能
@@ -25707,6 +25725,29 @@ a9b5d7977a	proc.hsp	575	lang	txt	{0}は落とし穴に転がり落ちた。	{0} 
 7bae95f4eb	proc.hsp	592	lang	txt	現在ポイント	Removal Point 	[]	當前點數
 71158c6583	proc.hsp	592	lang	txt	撤去ノルマ	Quota 	[]	撤除目標
 90ab953e90	proc.hsp	598	lang	txt	落とし穴から何かが飛び出してきた！	Something jumped out of the pit!	[]	有東西從陷阱中跳了出來！
+cee8af69fc	proc.hsp	653	lang	txt	ﾋﾟﾛｰ♪ 	*Zip*	[]	
+7e5002e874	proc.hsp	653	lang	txt	ﾌﾟｵｰ♪ 	*Zingo*	[]	
+226016aba5	proc.hsp	653	lang	txt	ﾎﾟｰ♪ 	*Yowl*	[]	
+1ecb8946c8	proc.hsp	656	lang	txt	ﾌﾞｵﾝ♪ 	*Blare*	[]	
+65f500eabc	proc.hsp	656	lang	txt	ﾌﾞｵｰ♪ 	*Howl*	[]	
+ee13d5b3fe	proc.hsp	656	lang	txt	ﾎﾞｵｰ♪ 	*Puff*	[]	
+3569fc4d26	proc.hsp	659	lang	txt	ﾎﾟｰ♪ 	*Twang*	[]	
+9804bfaaac	proc.hsp	659	lang	txt	ﾋﾟｮｰ♪ 	*Whizz*	[]	
+219ef261e6	proc.hsp	659	lang	txt	ﾊﾟｰ♪ 	*Puff*	[]	
+44751f9321	proc.hsp	659	lang	txt	ﾌﾟｵｰ♪ 	*Twang*	[]	
+f94de8d656	proc.hsp	662	lang	txt	ｼﾞｬﾝ♪ 	*Cha*	[]	
+7fcba2b505	proc.hsp	662	lang	txt	ﾁｬﾗﾗ♪ 	*Dan*	[]	
+162e6f92f4	proc.hsp	662	lang	txt	ﾀﾞｰﾝ♪ 	*Tiki*	[]	
+2cd4c1d3da	proc.hsp	665	lang	txt	ｷｲｰ♪ 	*Zip*	[]	
+8dc9369e39	proc.hsp	665	lang	txt	ｷﾛｰ♪ 	*Plunk*	[]	
+0ba797a244	proc.hsp	665	lang	txt	ｷｺ♪ 	*Ping*	[]	
+0863b6e948	proc.hsp	668	lang	txt	ﾁｬﾗﾝ♪ 	*Tiki*	[]	
+c4a0d64772	proc.hsp	668	lang	txt	ﾎﾟﾛﾝ♪ 	*Plunk*	[]	
+4749b020c0	proc.hsp	668	lang	txt	ﾎﾟﾛﾛ♪ 	*Ding*	[]	
+a209ca6600	proc.hsp	671	lang	txt	ﾄﾞﾝﾄﾞﾝ♪ 	*Bam*	[]	
+be30321d09	proc.hsp	671	lang	txt	ｶｯｶ♪ 	*Rat-a-tat*	[]	
+56af1ae5c2	proc.hsp	671	lang	txt	ﾄﾞｺﾄﾞﾝ♪ 	*Bash*	[]	
+38402dca32	proc.hsp	671	lang	txt	ﾄﾞｺﾄﾞｺ♪ 	*Bump*	[]	
 b571e95c11	proc.hsp	679	lang	txt	 ♪振り返れば消えていく足跡　褪せていく思い出♪ 	*~can be so sweet ~ on the shiny side~*	[]	♪回首望去，足跡已消逝，回憶也漸漸褪色♪
 0d05e420f3	proc.hsp	679	lang	txt	 ♪血を吐きながら　乗り越えた日々も♪ 	*~but too much, too much is crawling in the mines~*	[]	♪跨越那些日子時甚至吐著血♪
 377993593f	proc.hsp	679	lang	txt	 ♪精一杯　胸に刻み込んで♪ 	*~this is enough of you ~ and my ghoulish heart~*	[]	♪竭盡全力　將之刻在心中♪
@@ -25718,6 +25759,9 @@ b26f3cd994	proc.hsp	679	lang	txt	 ♪僕らは明日の開拓者♪ 	*~shining b
 4417bc255f	proc.hsp	683	lang	txt	 ♪忘れたはずの約束が蘇る♪ 	*~and I'm so in love ~ there's nothing ~*	[]	♪ 理應忘卻的約定甦醒 ♪
 51089a864d	proc.hsp	683	lang	txt	 ♪夢の残骸も　汗の結晶も　新たな道の礎だから♪ 	*~dream in my heart ~ without a love of my own~*	[]	♪ 夢想的殘骸，汗水的結晶，都是新道路的基石 ♪
 28cbede1e7	proc.hsp	683	lang	txt	 ♪それでも前へ　前へ進むのさ♪ 	*~hey now, you are a rock bomb ~ get your fuse on~*	[]	♪即便如此，也要向前，向前邁進♪
+bc33495d63	proc.hsp	691	lang	txt	ﾗﾗﾗ♪ 	*Lulu*	[]	
+fdcf3e3008	proc.hsp	691	lang	txt	ﾗｰ♪ 	*Laaa*	[]	
+c44b7cc0d0	proc.hsp	691	lang	txt	ﾙﾙﾙ♪ 	*Lala*	[]	
 8a793b45af	proc.hsp	743	lang	txt	{0}は{1}に気づいた。	{0} has noticed {1}.	["name(tc)", "name(cc)"]	{0}注意到{1}。
 451b578b38	proc.hsp	762	lang	txt	「引っ込め！」	{0}	[]	「快收手！」
 0bec5f9d52	proc.hsp	762	lang	txt	「うるさい！」	{0}	[]	「吵死了！」
@@ -29315,7 +29359,7 @@ e377e87d17	text.hsp	135	lang	invtitle	対象の	Target	[]	對象的
 49731a8d08	text.hsp	135	lang	invtitle	画像付与	Set Mark	[]	賦予圖像
 45c0acea39	text.hsp	135	lang	invtitle	種子	Seeds	[]	種子
 5fc49addb6	text.hsp	136	lang	bodyn	頭	Head	[]	頭
-3343f7067b	text.hsp	136	lang	bodyn	首	Neck	[]	脖子
+3343f7067b	text.hsp	136	lang	bodyn	首	Neck	[]	頸部
 89f6c8c5d8	text.hsp	136	lang	bodyn	背中	Back	[]	背部
 40b56d84f5	text.hsp	136	lang	bodyn	胴体	Body	[]	軀幹
 e6cbfd7608	text.hsp	136	lang	bodyn	手	Hand	[]	手
@@ -29956,7 +30000,7 @@ f7b4223cf5	text.hsp	2447	lang	s(cnt)	難度0.5倍	Difficulty 0.5 times	[]	難度
 f96901b1e3	text.hsp	2462	lang	s(cnt)	難度1.5倍	Difficulty 1.5 times	[]	難度1.5倍
 bce8cd96f5	text.hsp	2475	lang	s(cnt)	キャンセル	Cancel	[]	取消
 a3fe4a7ae0	text.hsp	2478	lang	s(cnt)	頭	bodyHead	[]	頭
-b184107e0a	text.hsp	2481	lang	s(cnt)	首	bodyNeck	[]	脖子
+b184107e0a	text.hsp	2481	lang	s(cnt)	首	bodyNeck	[]	頸部
 95a00c27e9	text.hsp	2484	lang	s(cnt)	背中	bodyBack	[]	背部
 b225305427	text.hsp	2487	lang	s(cnt)	胴体	bodyChest	[]	軀幹
 d852b250d2	text.hsp	2490	lang	s(cnt)	手	bodyHand	[]	手
@@ -30927,7 +30971,7 @@ ce1b68226a	text.hsp	12571	lang	txt	「好き！好き好き好きっ！だいす
 4906e24856	text.hsp	12580	lang	txt	「なぁ…実はウチな…どうもあんたのこと…す…好……わああああああ！ちゃうねん！やっぱりなんでもあらへん！！」	{0}	[]	「喂……其實我……對你……喜歡……哇啊啊啊啊啊！不對！還是算了！！」
 76830b24a7	text.hsp	12583	lang	txt	「ずっと一緒…だよね？…もう離さない…君が死ぬまで」	{0}	[]	「一直在一起…對吧？…再也不放開你…直到你死去」
 87ffed4693	text.hsp	31	lit	bodyn	頭		[]	頭
-703c93764c	text.hsp	31	lit	bodyn	首		[]	脖子
+703c93764c	text.hsp	31	lit	bodyn	首		[]	頸部
 b5ce03c4f5	text.hsp	31	lit	bodyn	背中		[]	背部
 faff824355	text.hsp	31	lit	bodyn	胴体		[]	軀幹
 575816f936	text.hsp	31	lit	bodyn	手		[]	手

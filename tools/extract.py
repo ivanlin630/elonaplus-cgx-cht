@@ -12,7 +12,7 @@ Usage: python -I extract.py <src_dir> <out_dir>
 """
 import sys, os, re, json, hashlib
 
-JP = re.compile('[\u3040-\u30ff\u4e00-\u9fff]')
+JP = re.compile('[\u3040-\u30ff\u4e00-\u9fff\uff66-\uff9d]')   # incl. half-width katakana
 
 
 def split_args(s, i):

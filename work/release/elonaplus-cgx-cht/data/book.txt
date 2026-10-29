@@ -1,0 +1,4369 @@
+
+################# Definition ########
+/Note/
+Number,Japanese title,English title,		1=randomly generated
+
+%DEFINE
+0,“ú‹L,My Diary,				1
+1,‹‹–À˜Hm•º“Iw“ì,Beginner's Guide,	0
+2,bug,It's a bug,				0
+3,•ÊŠÅ,Don't read this,			1
+4,”•¨ŠÙãSšzw“ì,Museum Guide,		1
+5,ŒÉ—‰›Gä–’†“Å,Crimberry Addict,		1
+6,“ªò–Úá¿,Cat's Cradle,			1
+7,‘“IŒ÷Á,Herb Effect,			1
+8,“X•İ“Ig—pèû,Shopkeeper Guide,		1
+9,‘æˆêŸ©‰ÆÍ”|,Easy Gardening,		1
+10,’¿É…Œ¹I,Water!,				1
+11,„‘E’{–q,Breeder's Guide,		1
+12,_”éè‹L,Strange Diary,			1
+13,›”‹àš“ƒ“I’§D‘,Pyramid Invitation,	0
+14,‰Á”v—VE“I‹K‘¥,Card Game Manual,	1
+15,’n‰ºéãSšzèû,Dungeon Guide,	1
+16,”íèªåU“I–sæÉ•v’è—,Wily Mujaf's Thesis,		0
+17,Ÿ¸äÉ˜±‘‡’¥,A Review on Nefian Psychosis,		1
+18,âX•¨“IâX‹V,Gifting Gifts,		1
+19,Wé“Šˆ“®ŒP—û,An Exercise in Team-Building,	1
+20,–`è¨¶Šˆ@ƒ518^tåj„,Adventurers Quarterly Spring '18,	1
+21,‰…¦•M‹L,Bitter Last Words,		0
+22,ìDw¦‘,Mission Briefing,			1
+23,ŠÒ™|‰—“ßŒÂŠK’i›õH,Get on my level,		1
+24,€èËpw“ì,Necromanual,		1
+25,“ú“I”é–§,Secrets of the journal,	0
+26,–‚pu‹`á¢•z‘—¿,SOR110 Introduction to Sorcery,		1
+27,Ìáæ^•sö,You dig mining?,		1
+28,What's entertainmentH,What's in a performance?,		1
+29,ŸŒ³ŠÔ—ÍæV‘ª›‰é„•ñ‘,Dimensional Energy Report,	0
+30,è‰—ˆÏ‘õ“IŒš‹c,Quest Advice,		0
+31,’Ş‹›“ü–å,Fishing Introduction,		0
+32,¾—eÒ‹¸³w“ì,Inmate Correction Manual,		1
+%END
+
+/Translation Note
+Text written after %**,EN will be displayed in the English version of Elona.
+
+#####################################
+%0,JP
+
+
+
+œn¡“VŠJnC–ˆ“V“s—v›“ú‹LB
+%END
+
+%0,EN
+
+
+
+I'll start writing in my diary from
+today on!
+%END
+
+
+
+#####################################
+%1,JP
+‹‹–À˜Hm•º“Iw“ì
+written by –Ş’B”[“I›’ŒR
+
+i’j‹Ö~–Ş’B”[m•ºˆÈŠO“Il‰{æTI
+
+@–À˜H“IŠeˆÊC•s’m“¹ŠY˜ôY›õ“IŠeˆÊC•s—p
+^SB‰ä˜ÒŠÈšdà–¾ˆê‰ºCác“ğ˜ìäo‘àŒŞ‘–U
+œäŠYÌæ“Is“®B
+
+¡ŠY˜ôY›õ
+
+@ñæ—£ŠJDêC‘O‰“Œ“ì•û“I”áæ’Áèè¢“ò
+ä¢B’Áã—LH•¨•¨‘C‘¶“ˆê±èA–ç”\”ƒ“Œ¼B
+
+@˜ôD€”õŒãC‰ÂˆÈ‘O‰é’Á“Œç²“I“´ŒAB“ß
+—¡Å“K‡Vè—İÏãSé„C–ç”\æÏ“ˆê±èAB
+
+¡•sŠY˜ôY›õ
+
+@•s—vç¬•Ö‹Šeí’n•ûBíããà—Ll„i“üè™
+¶’n‰ºéA”í‹­‘å¶•¨E€B
+
+@—vç¬’ˆÓH•¨™”éP—ÊBH•¨å«‘RV‹MC’A
+ˆ×—¹¶‘¶¥•K—v“IBå«‘RŠÒ—L‘´‘¼•û–@•â[H
+•¨C’A—vç¬’ˆÓãêq‰ì“I’ö“xB
+
+¡ÅI–Ú“I¥H
+
+@—İÏ‘«‘«ãSé„ŒãCA‘O‰Ÿ¸äÉ˜±ˆâÖŒQ”VˆêC
+ŸàèªåU’˜‰ä–Ş’B”[”ÉÄèŒ®“Iu—‹¼àózvB
+
+@’ï’BÅ‰º‘wC®–¢—LlŸd˜ÒC’A‰ğŠJ”‡À–À
+‹{”V“ä“IlC›’Šl“¾”œ‘å“IàĞ‹àB
+
+“ß›õCjŠeˆÊD‰^I
+%END
+
+%1,EN
+Beginner's Guide
+	Author: An Old Adventurer
+
+<This book is weathered and yellow
+with age>
+
+I leave this book here in the off
+chance that should I not survive my
+final adventure, others may learn
+from my trials and tribulations.
+
+I have lived many years and have
+done many deeds. I have seen much
+what this world has to offer.
+
+This cave has been my hideaway in the
+last few seasons, though if you are
+reading this, it is most likely now
+yours to reside in. I don't mind as
+I'm either dead or fabulously rich.
+
+Still, if you are planning on going
+into the same trade as I and are not
+the local scamps just playing at it,
+some advice should be parted to you.
+
+Now where to begin?
+
+I won't know from which way you came
+from so it's best to give you the
+local landmarks;
+
+If you follow the trail from here to
+the South-East you find Vernis. It's
+a mining town, but it should still
+have some shops, a tavern and an inn.
+You should be able to find some work
+there, as well as food, gear, and
+even a friend or two. The innslady I
+recall was having some trouble with
+local ruffians the last time I was
+there.
+
+East of Vernis is what the locals
+call the "Puppy Cave". It's well...
+always changing. A local mage called
+it a "Hausdorff-Besicovitch fractal
+plane", whatever that means.
+If you leave the cave and come back,
+or go up or down floors, it will
+change all the creatures, items,
+walls, and exits. You can find quite
+a bit of stuff if you don't mind
+hopping in and out.
+
+The "Puppy" of this cave is fairly
+deep in, and a child in town would
+love to get it back, but it kept
+getting itself killed when I tried.
+It always reappeared on that floor
+when I left and came back, but I
+gave up after a few tries. Maybe
+you can do it. Just don't get lost.
+
+Once you are a bit tougher and better
+geared, the Gray cave of Lesimas
+might be be another good spot. It's
+one of the more ancient ruins of
+Nefia, and there's bound to be
+something interesting in there. If
+you ignore the roads, it's almost due
+south of this cave.
+
+No doubt all around the land there
+will be caves and forests spawning
+with loathsome critters. Just don't
+go blindly into them, check them out
+BEFORE going in. Preparation is a key
+difference from a live Adventurer and
+a dead one.
+         -== Geography ==-
+If you follow the roads from Vernis:
+-Port Kapul is to the west. 3-5 days
+  Good Business there as it's a port
+  Fighters Guild and an Arena
+
+-Palmia is to the East. 2-3 days
+  Big City, lots to see and do
+  King lives here
+  Has Arena
+
+-Yowyn is to the South-East. 2-3 days
+  Farm Town, not a lot to do unless
+  you like turnips and Harvesting.
+  Note to self: Clean out Yeek's Nest
+  AGAIN... worse than rabbits they be
+
+-Lumiest is South-East of Palmia
+  On an Island
+  Lots of mages live there
+
+-Derphy is South-west of Vernis
+  No roads lead there
+  Wretched hive of scum and villainy
+  Steer clear of Dragon's Nest!
+
+-Noyel is Far FAR to the east
+  Bring a sandwich, it's a long walk
+  Snow is slow going
+  Don't poke the Fire Giant. Bad juju
+
+      -== Work and Jobs ==-
+While you may want to go about
+slaying dragons and saving damsels,
+it's best to start small. Being an
+adventurer means you'll do jobs that
+no one else wants to do.
+
+Deliveries are a good way to start
+out in this business. Example:
+     Accept job
+  -->GET THE ITEM AT YOUR FEET!<--
+     Deliver item to recipient
+     Collect reward
+Note that forgetting the item to
+deliver is very BAD, but not the end
+of the world. If you are very lucky,
+the local shops or fields may have
+what you are looking for. They won't
+know the difference, trust me.
+Also note how many days you have to
+deliver things. Running from Lumiest
+to Port Kapul is NOT fun, and you may
+simply not be fast enough yet to do
+the really high paying ones.
+
+Hunting can range from easy to very
+VERY hard. The money offered is a
+good way to tell how bad it will be.
+Be careful doing these, as it takes
+just one nasty critter to get you.
+
+Gift getting also ranges from easy
+to absurd. Just remember that if you
+accept the job, running from town to
+home and back takes time, and you may
+not have that long to do it.
+
+Cooking requests are only good if you
+can cook, have the items, and can
+deliver before the food rots. But if
+you check out the local bakery before
+accepting, you may just be able to
+buy what you need before doing the
+job.
+
+Harvesting LOOKS easy, but it can be
+very hard. Waste no time, and go as
+unburdened as possible. Speed is the
+key for these jobs.
+Finally, try not to fail a job, it's
+a black stain on your record, and too
+many of those can get the guards on
+you. Use you noggin BEFORE accepting
+any job. Can I do it? Will I have the
+time? Who gets their kid garbage on
+their birthday?
+
+      -== Advice and Tips ==-
+And now a few nuggets of wisdom:
+
+-Cargos of food are cheap, and you'll
+eat them as you travel overland. But
+you cannot eat them inside towns or
+dungeons. If you are hungry just exit
+the town or dungeon, eat, and enter.
+
+-Be cheap. 'b'ash fruit bearing trees
+in towns and fields for fruit, and
+scavenge whatever plantlife you can
+outside. That armor is not going to
+come to you if you keep eating cakes
+and pies.
+
+-The meat of many monsters is edible.
+Women love Putit flesh for what it
+does for their skin. Some isn't so
+good for you, but if you're hungry...
+
+-While succulent and tasting of young
+pork, the flesh of man should not be
+eaten. Only crazy people eat people,
+and you aren't crazy are you?
+
+-Innkeepers for coin can feed you
+quite nicely. They have beds too.
+
+-Until you can buy/find/steal a bed
+for your home, stay at inns when you
+are tired. A sleeping bag is a good
+idea for deep dungeon trekking.
+
+-Should a pet or ally fall in battle,
+most towns have a bartender who can
+bring them back for a price.
+
+-Check your 'j'ournal! It has all the
+information about quests you are on,
+jobs you are doing, events, your own
+reputation and bills. Check it often.
+
+-On the subject of bills. When you
+become famous enough, you'll get a
+salary of money and items twice a
+month. The salary will be dropped off
+in the chest in your home. However,
+with salary also comes taxes. Take
+the bill in hand and cash in pocket
+to the local embassy just north of
+Palmia and pay it there. Don't let
+your bills add up as the taxmen are
+worse than any dragon or demon.
+
+-Should your skills start to plateau,
+seek a trainer. There is one in every
+town, and will sharpen your existing
+skills. They also have skills you do
+not yet possess and for a price will
+teach you them. Beware though, they
+only accept platinum coins, and those
+are in short supply these days.
+
+-And finally, beware the weather. Oh,
+a little rain may have never killed
+anybody, but with heavy rain comes
+lightning that can blind you and the
+great thunder which can confuse you.
+Try not to get lost while in one.
+Sometimes, the best thing to do is
+stay in place till your head clears.
+Rarely, but with increasing fervor is
+the dreaded Etherwind. Beware this.
+A friend of mine was stuck outside in
+it and could barely be called human
+when he finally staggered inside.
+When it comes, FIND SHELTER! I cannot
+stress this enough. Hide in a cave if
+the monsters inside won't tear you to
+bits. If you are in a town you are by
+no means safe. Run to the innkeeper
+and demand Shelter. Wait out the evil
+storms, and only after it passes can
+you return to your duties.
+
+
+
+
+
+
+
+In closing, I hope this is of some
+use to you, and I hope my final
+adventure is a good one. Now if you
+will excuse me, I have a fort to
+conquer. How bad could it be?
+
+Good luck to you and your travels.
+%END
+
+
+
+#####################################
+%2,JP
+
+
+@”‡–{‘˜ğİ¶¬“¹‹ï¸”soŒ»B”@‰ÊŠeˆÊ
+Ìæ—¹Y›õ“Á•Ê“Is“®Cˆ½¥›”‘¢¬”‡ŒÂbug
+“IŒ´ˆö—L“ª“I˜bCŠÒ¿Œü‰ä˜ì•ñB—R‰—•s
+˜ğ›”—VE‘¢¬‰e‹¿C”@‰ÊŒ´ˆö•s–¾“I˜bC¿Še
+ˆÊ•ú’u•sŠÇB
+%END
+
+%2,EN
+
+	Author: <Madness!>
+
+This book is generated when item
+generation fails. If you find this
+book and have an idea as to what
+could be causing the bug that made
+it appear, please report it.
+
+If you have no idea what could have
+caused it, then don't worry about it.
+This shouldn't affect gameplay in
+any way.
+--The Management
+%END
+
+
+
+#####################################
+%3,JP
+
+
+ŠÅ“—¹›õH
+%END
+
+%3,EN
+
+
+I warned you.
+%END
+
+
+
+#####################################
+%4,JP
+”•¨ŠÙãSšzw“ì
+written by •W–{‹¶”MÒ
+
+@‹‹‘zãSšz”•¨ŠÙ“I‰ölŠôŒÂŒš‹c”ëB
+
+@”•¨ŠÙ¥“W¦‹ô¢”\Šl“¾“I•W–{˜a‰Á•ĞCœn
+–K‹qgãŠl“¾¾“ü“Iİ{Bİ”•¨ŠÙ“I”C‰½’n
+•û“ssC‘ü—v’˜•ú’u”‡±“¹‹ïCœäŠYA”\Šm
+”F”•¨ŠÙ“I“™‹‰ã¡—¹”ëB
+
+@•W–{˜a‰Á•Ğ“I‹H—L™J’lŠe•s‘Š“¯B–ú¥‹‘å
+“I•W–{Cˆ½¥“ïˆÈŠl“¾“IàÕ“Á“¹‹ïC‹H—L™J’l
+A–ú‚šGB
+
+@“Á•Ê¥C”@‰Ê“ğ”\“W¦œk‘½àÕ“Á“I•W–{C‰ä
+–ç˜ğàÙãŠ´Ó“Iæš–¾BŒh¿Šú‘ÒŒ‰”ëB
+
+@ù—v’ˆÓ“I¥Cdág“I“¹‹ï•s”\Zì“W¦B
+•ÊŠOCŠ®‘S‘Š“¯“I“¹‹ïC‘æ“ñŒÂˆÈŒã“I‹H—L™J
+’l˜ğ~’áB
+
+“ß›õC‰Á–û”ëB‰äœkŠú‘Ò—Lˆê“V”\ãã““ğ“I”
+•¨ŠÙ“I™B•·B
+
+ps. šl™ŞC·êy–Y—¹BŒšİ‰Šú“I”•¨ŠÙœkàÃ
+óC”@‰Ê‹óŠÔ•s‘«—¹C‰ÂˆÈ‰‰ºŒ@˜Ò°’£B–ç
+‰ÂˆÈ”c–[‰®¦”Â˜a¾‹â‹@›æi‹g—pB
+%END
+
+%4,EN
+Museum Administration Manual Mk.III
+Written by Curator Schmidt
+
+So you want to run a Museum do you?
+
+Young Sir/Lady, it takes some hefty
+capital to purchase such a deed, but
+if you have the time, patience, and
+money this old curator will help you
+out with this handy, unbiased manual.
+
+In your wanton and overly hedonistic
+destruction of the local flora and
+fauna (henceforth known in this guide
+as "adventuring") you might have come
+across some of the following:
+
+Item a.) Figure of <Fauna>
+Item b.) Card   of <Fauna>
+
+If so, then you may have barely given
+them a glance before shoving them in
+your sack if ill-gotten gains and
+simply gone back to "adventuring".
+No doubt you have sold them for more
+tankards of ale and legs of mutton,
+but the more intelligent among you
+might collect them into a pile and
+ponder "Why do monsters have these?"
+
+The answer: Vanity! And Magic!
+
+And it is these things that we shall
+profit from. And it's so simple even
+an adventurer can do it!
+
+Still, just in case, I have written
+down the exact steps to minimize any
+unfortunate mishaps that might arise.
+
+Step 1.) Purchase a deed of a Museum.
+   This step is what chokes out the
+   small fry from the serious doers.
+
+Step 2.) 'r'ecite the deed upon the
+   spot on the world you wish your
+   museum to be. Let the gnomes do
+   the building, it won't take long.
+
+Step 3.) Aesthetically place all the
+   Cards and Figures you have found
+   inside the museum. Neatness is a
+   virtue, though not necessary.
+
+Step 4.) Profit!
+
+That should do it as far as the basic
+setup requires. If you want even more
+information about specific queries,
+merely read on to learn more!
+      -== Notes and Caveats ==-
+
+Whilst having more than one museum is
+certainly possible, only your first
+one will make any money.
+
+Figures are worth more than cards
+most times anyway.
+
+Don't pile multiple items upon one
+space. It is entirely unprofessional,
+and utterly ineffectual.
+
+The mightier the monster, the better
+value the card and Figure. Rare are
+the Figures with a Name or Title on
+them. These so-called "Unique"
+Figures indeed are best. And in
+order to encourage more museums to
+showcase these, I've set up a trust
+that will reward museums based on the
+number of Unique Figures that they
+have on display, paid out on the
+first of every month.
+
+Back on the topic, while having a
+dragon's card is nice, having ten
+is just tacky. Variety is key.
+The more duplicates you have,
+the less they are worth.
+
+Oh and one more thing... the gnomes
+that build your museum have somewhat,
+oh, narrow tastes. You may have to
+bring in a <house board> or
+<register> to sculpt it into your
+own grandiose vision.
+
+
+
+            -== Errata ==-
+
+Base cost: 		140,000 gp
+Maintenance cost:    1500 gp/month
+Income per rank:      100 gp/month
+
+**Figures above are approximates only
+
+
+Happy Curating!
+%END
+
+
+
+#####################################
+%5,JP
+ŒÉ—‰›Gä–’†“Å
+
+
+@ŒÉ—‰›Gä–¥˜ğˆø‹NŒ¶æSì—p“IŒÉ—‰›G‰Ê›‰B
+—”—p“Iå—v¥Š£‘‡“IŒÉ—‰›Gä–BŒÉ—‰›Gä–’†ŠÜ
+—L—…ˆÉF”äh˜a—…¼—Œh“™“Å•i¬•ªB
+
+@”@‰Êã”—”—pC‘üèÏŒÉ—‰›Gä––³–@ŸŞ‘«C‰Â
+”\˜ğ“±’v—”—p‘´‘¼åZ•¨C”@zŒÉàóˆ½‘å–ƒB
+
+@ŒÉ—‰›Gä–’†ŠÜ—L“I“Å•i¬•ª—…ˆÉF”äh˜a—…
+¼—Œh˜ğ›”’†â_ãSŒn“Y¶ì—pC“±’v’†â
+_ãS“I‹»•±A–ƒáƒ˜aŒ¶æSBå—vÇó¥Œ¶æSA
+çÇçÂó‘ÔA‹¶˜ªAá¢”M“™CH—pŒã15`60•ªà
+“àoŒ»B
+%END
+
+%5,EN
+Crimberry Addiction and You
+A Schmidt Education Pamphlet
+
+Every year more and more people are
+becoming addicted to the seemingly
+harmless Crimberry.
+
+Known by an ancient Nefian dialect as
+Kur-amu-beri, which should just go to
+show its long and sordid history with
+our land and peoples, the Crimberry
+is a strong hallucinogen with many
+different applications.
+
+Simply eating a berry can cause the
+following symptoms in 15 to 60mins:
+- Hallucinations
+- Impairment like Drunkenness
+- Raving like a loon
+- Fever-like motor-control failure.
+Crimberries are highly addictive, and
+should the addict fail to get his
+next "Crim", he will either turn to
+other narcotics, or become a threat
+to our community.
+
+And of course, no one thinks of the
+poor children who get involved in our
+seemingly "adult" activities. They've
+even created a new way to "enjoy" the
+devilish berries;
+
+They copy the wild yeeks and dry them
+then shove the dried berry up their
+nose. This "snorting" of Crimberries
+will lead to the proliferation of
+excess aggression, and will lead more
+desparate individuals to become known
+as "adventurers" commiting insane
+deeds to get their next fix.
+While some of the older, long haired
+Wizards demand that Crimberries remin
+legalized, if only for their sacred
+"rituals", this must stop!
+
+        FOR OUR CHILDREN!
+
+        FOR OUR FUTURE!
+
+CONTACT YOUR LOCAL MAGISTRATE TODAY!
+	Petition the King!
+%END
+
+
+
+#####################################
+%6,JP
+
+
+
+
+“ªòC“ªòC“ªòB
+%END
+
+%6,EN
+Round Eyes! Round Eyes! Round Eyes!
+%END
+
+
+
+#####################################
+%7,JP
+‘“IŒ÷Á
+written by ‘‹¶–‚
+
+œ¡–ü‘“IÁ‰Ê®•s–¾ŠmB•s‰ßC—Õ°›‰é„•\
+–¾C›€›”Š—L”\—Í“s—L³–Ê‰e‹¿B
+
+œ”œ‹g˜±‘”‡œk–¾èûB‰ÂˆÈ’ñ¡—Í—Ê˜a‘Ï—ÍC
+ŠÒ”\’ñ‚àIİ”\—ÍB
+
+œàó—‹—²‘˜a”œ‹g˜±‘—L’˜‘Š“¯“IÁ‰ÊC’A—
+ŒÁ›”¸_•û–Ê“I”\—Í—L‰e‹¿B
+
+œz•üz‘C‰ä•s¥œk´‘^B‹ß”N“I›{à—ŒÁ
+”Fˆ×›€›”Š´æSŒn“—LD™|B
+
+œæ¨ˆ¢¢—…“ò˜±‘‰×¢–ÖŠˆ«‰»B˜ğÌ“¾”ñí
+‘z˜ôˆ¤BcŠPŠPBŸà–ç—L’ñ‚‹L‰¯—Í“IÁ‰ÊB
+
+œˆİˆ¤‘”‡í‘“IÁ‰Ê¥æ¨l–O“ãêq“s‰õ
+x”j—¹B§ŠŠÒ—L•ñà”\’ñ‚‘¬“xB
+%END
+
+%7,EN
+Blessed Herbs
+Chronicled by Dr. Schmidt, PhDM
+
+* Curaria [KYURARIA AQUIFOLIUM]
+Effect is well known and medicinal.
+However, the ability of said effects
+is based entirely on it's so called
+"consecrated" state, which has been
+clinically proven to be a real effect
+and not merely a placebo.
+Effect: All-around enhancement
+
+* Morgia [MOJIA DIPSACUS PILOSUS]
+Massive hormone Stimulant. Increases
+muscle mass, strength and endurance.
+Blind-Test subjects received various
+"consecrated" state herbs and thusly
+received differing returns. This only
+goes to prove that Gods do in fact
+exist, and that all our science is
+meaningless in their might.
+Effect: Strength and Endurance
+	enhancement
+
+* Mareilon [MAREIRON DIPSACUS FEROX]
+Neuro-Chemical stimulant. Increases
+cognitive abilities. Level of effect
+entirely on "consecrated" state.
+Effect: Mental enhancement
+
+* Spenseweed [SUPENSUUIDO LONGIFOLIA]
+All effects as of yet are unknown,
+though it has been noted that those
+who ingest it seem to be more "aware"
+and levels of perception may be up.
+More testing is needed to determine
+all side effects.
+Effect: Perception enhancement
+
+
+* Alraunia [ARURONIA MARTYNIA LUTEA]
+Hormone-activated. Aphrodisiac.
+Thus extremely popular with the
+locals. Oddly enough, it also appears
+to have some ability at improving
+memory. Research still pending grant.
+Effect: Memory and Libido
+	enhancement
+
+* Stomafilla [SUTOMAFIRIA HYPOGAEA]
+Upon contact with the stomach, the
+herb expands and fills the cavity,
+leading the consumer to feel very
+"bloated". Long term use and the
+nutritional level of the plant has
+yet to be verified. There are also
+reports of it enhancing the user's
+speed, but most sporting competitions
+have yet to ban its use.
+
+
+Effect: Satiety inducer, Speed
+	enhancement
+
+
+As more specimens are brought in and
+tested, so shall we update this brief
+guide.
+
+Until then,
+Dr. Schmidt
+	Philosophiae Doctor Magus
+%END
+
+
+
+#####################################
+%8,JP
+“X•İ“Ig—pèû
+written by n—û“Xå
+
+@ãSšz“X•İ•À•s¥Y›õ“ï–B‘ü—v’Â—ño‘å—Ê
+“¹‹ïCŒÙ—p—L–£—Í“Ilác“XåC‘RŒã’èŠú“™‘Ò
+šz‹ÆŠz“I•ñAs—¹B•s‰ßC—LŠôêyù—v’ˆÓB
+
+* ˜Ò‹qlÉäo“Xå“I–£—Í˜a“X•İ“™‹‰¬³”äB
+
+* ‘¦g¥“¯é“I“¹‹ïCªŸ“Xå“IŒğÂ‹Z”\C
+šS™J–ç˜ğ—LŠ•s“¯B“Xå“IŒğÂ‹Z”\˜a–£—Í“I
+àIİ”\—ÍC‰ÂˆÈ—pÂ“º•¼˜Ò‰ø•œB
+
+* “X•İ“™‹‰İæÌoˆê’èÉ—Ê“I¤•iŒã˜ğã¡B
+
+* ‹ql“IèA•ï˜ğç¬’˜“X•İ“™‹‰“I’ñ‚§Ì“¾‰z
+˜Ò‰zæ²ŒúB
+
+* İ“™‹‰’á“IŒóCæÌ•so‚™J“I“¹‹ïB
+
+* Ôã“I‰İ•¨˜a‰Æ‹ä¥æÌ•so‹“IB
+
+* İ”\‘«æÌo–^±“Œ¼“I“úq—¡CŠY“Xå“I‹Æ
+Ñ˜ğ“¾“—İŒvB‘ü—v—İÏ‹ÆÑC“XåÅ‘½‰ÂˆÈ
+“¾“™_ŒÂ‹Z”\B
+
+* ªŸç÷šSŠz˜a˜Ò‹qÉC‰ÂˆÈæÏæYAKAêyÉB
+êyÉ‰ÂˆÈœn‰Á•Ğ’†g—pB
+
+@ÅŒãC{İ’n”Âã“I“Œ¼˜ğ”í©“®‹ˆ×¤•iC
+¿¬S•s—vÌ¸‹Md•¨•iB
+@•s‘zæÌ“I“Œ¼C‰ÂˆÈ“§‰ß‰üÌŠOæVC—pãŠq
+ŠuŠJˆ½ŠWã“W¦ŸCCæ¨l’m“¹“ß¥é•iBİáI
+âA—ñ•\“Iã‘w‘æ‹ã’i˜a‘æ\’i‰ÂˆÈQ“B
+%END
+
+%8,EN
+Shop Owning and Operational manual
+Rewritten by Schmidt the Fence
+
+So, you think you can own a shop? I
+know, sitting on your arse all day
+hawking wares seems easy enough.
+
+But then riddle me this genius:
+If it's so easy, why is there only
+one shop per type in every town?
+
+The answer is simple:
+      Only the strong Survive!
+(Well, that and the high taxes...)
+
+Store operation is so difficult,
+only the meanest and cut-throat can
+survive in town. You however, have
+an advantage over us town-shops:
+     You will be outside!
+And while that sounds less than ideal
+right now, your monthly payments to
+the crown are cut down to a mere
+Five Thousand Gold Pieces a Month
+(5000gp/Month)
+Which is peanuts to what us city
+shops have to pay, believe you me.
+
+     -== Setting up a Shop ==-
+Step 1.) Buy a deed of a shop.
+ (A Mere 200,000gp at a base price.)
+
+Step 2.) 'r'ead the deed aloud on the
+spot of the world you would like it
+to be built on.
+
+Step 3.) Set up the shop (see below)
+
+Step 4.) Caveat Emptor!
+
+     -== Running your Shop ==-
+Your shop is up and now it must be
+run, which is a separate process.
+
+First you need a shopkeeper. Now this
+cannot be you, as you have to out and
+get the things to sell. So you have
+to go and get one of your companions
+to do it. You should choose a worker
+based on how good they look, and how
+good a negotiator they are, as they
+are the vital two things in any good
+sale.
+
+Now that you have such a goon,
+go to the register in the shop.
+Assign that person to the job.
+
+The other part is also simple, to
+SELL Stuff you need to HAVE stuff.
+So go get stuff and and leave it in
+your shop.
+
+
+
+
+-== Little Golden Nuggets of Info ==-
+
+Your Salesperson stays at the shop
+and cannot come with you.
+
+Selling stuff makes money(natch)
+and also raises shop rank.
+
+A higher shop rank brings in
+customers with a fatter wallet
+ready for you to empty. The pricier
+items also won't sell until your
+shop is of a higher rank.
+
+
+The number of customers that will
+stop by the shop also depends on
+the shop's rank and the
+shopkeeper's Charisma.
+
+How much a customer is willing to
+cough up for an item depends on the
+shopkeep's Negotiation skill.
+
+The potentials of the shopkeeper's
+Negotiation skill and Charisma stat
+can be topped up by spending bronze
+coins at the register.
+
+Investigate your allies to find the
+prettiest and bestest negotiator.
+It used to cost an arm and a leg,
+but these days it's a mere 100gp.
+You young 'uns are lucky.
+
+On days that the shop sells
+something, the shopkeeper will earn
+experience, which can go towards
+acquiring up to two special
+shopkeeper feats.
+
+That's not all! Rack up YacaPoints
+based on how much you sell and how
+many customers visit. Spend them
+points by using the YacaPoint card,
+which every shop should come with
+thanks to the agreement with the
+Temple of Yacatect.
+
+Due to a vicious spat with the
+local Furniture Union, we cannot
+sell any spare furniture out of
+town. We in town can still buy and
+sell it. The same goes for cargo.
+Whatever goes in your cart,
+doesn't go in the shop.
+
+Anything else, garbage, junk, even
+rotten stuff can be sold if you can
+find a sucker for it. If it's on
+the floor, it'll be fair game to
+the customers.
+
+So if there's some item in the
+shop that you don't want customers
+to go layin' their paws on, you'll
+want to mark it off as a display
+item with a rope divider or glass
+case tile. Those you can find when
+redesigning the shop. They're
+probably somewhere in the 9th and
+10th rows in the list from the top.
+
+Due to your shop permit, you can
+ONLY sell a maximum of 10 items at
+a time. You can expand on this for
+a mere 2000gp for an additional
+ten slots, and every subsequent
+1000gp for each 10 slots after.
+
+	-== Fiscal Information ==-
+Base cost:            200,000 gp
+Maintenance cost:     5,000 gp/month
+Income per rank:      ??? gp/month**
+
+**Why ??? for income? 'Cause that's
+where you come in bub!
+
+With luck, you too will be living
+large like me!
+
+Remember: The GP stops here!
+
+Good Business to you!
+%END
+
+
+
+#####################################
+%9,JP
+‘æˆêŸ©‰ÆÍ”|
+written by ”_–¯
+
+@©‹‹©‘«ccãã‹N˜Ò^–_Bˆ×—¹‘zèÏ•›‹Æˆ½
+‹»ïãSšz”_‹Æ“IlC‰ä˜Ò‹³‘å‰ÆŠÈšd“I©‰ÆÍ
+”|•û–@”ëB
+
+@ñæCÅd—v“I¥íAŠú˜a’nêyBŠúÅ
+D¥‰º‰J“IŒóC’nêyác‘R¥‘Iİ“c’nBİ‰J
+“VíA“Iíq•s—eˆÕŒÍˆŞC“c’n“I“yšß–ç”\í
+‰Á¾Šn“Iíq’·oV‰è“I‰Â”\«B
+
+@‡—˜íAíqŒãCA˜ÒæV@›€“I¬’·”ëB‡
+—˜“I˜bCíq˜ğİ“y—¡ãFªC”¼ŒÂŒ“ˆêŒÂŒ
+“àŒ‹o‰Ê›‰BİÍ”|‹Z”\’á“IŒóC’†“rŒÍˆŞ
+“Iî‹µœk‘½C’A¿•s—vŸ†éNB
+
+@ÅŒã¥Šú‘Ò›ß‹v“I¾ŠnB‰¶Cİ“ß”V‘OCÅ
+D‹LZŒ‹o‰Ê›‰“Iíq•s˜ğŒÍˆŞB”\¾Šn“I“Œ
+¼˜ğç¬’˜‹Gß§‰üÌB
+
+@¾Šn¥lé„Í”|‹Zp“IuŠÔB”@‰Ê“ğ“I‹Z”\
+‘Šác‚C¾Šn“IA•¨‰Â”\˜ğ—¯‰ºV“I‰èB
+
+@”c—L‹@•¨•úİ‘Í”ì—¡Šô“VA˜ğÌ¬”ì—¿Bg
+—p”ì—¿“I˜bA•¨˜ğˆêŒûŸ†¬’·CŠˆÈ–ç”\Œ¸­
+ŒÍˆŞ“I•—è¨B
+
+@“c—¡–ç•ú—¹ì•¨ŠÇ—‘gB—p”‡ŒÂ˜ÒŠÇ—“I˜bC
+‘ü—L“Á’è“IA•¨˜ğÌ“¾—L—˜CŠˆÈ”\¾Šn“I“Œ
+¼˜ğŒÅ’è‰»B“ßŒÂì‹Æ”\”|ˆçY›õC¿“ğeŠá
+Šm”FB
+
+Í”|‹Zp’ñ¡“I˜bC”\¾Šn“IäôØ˜a…‰Ê“I¿
+—Ê–ç˜ğ’ñ¡B’A¥–ì¶“®•¨˜ğ‘_€”‡±‚¿—Ê
+“I“Œ¼§˜ÒBå«‘R‘ü—vŒ‚‘ŞˆêŸCA˜ğb•s
+˜ğ˜Òcc
+
+‘øz’ç—Íz—Lœk‘½Šï–­“IA•¨íqB¿–±•Kw
+”ƒ©ŒÈ“I“c’nC‹ó©‹‹©‘«“I¶ŠˆB
+
+ps  –ç—L™B•·àİ‰J“V¾Šn”äŠrDB›‰Ûã—L
+Ÿ“—LÁ‰Ê–‰Hà•s’è‘ü¥Sîã“I•s“¯B
+%END
+
+%9,EN
+Easy Gardnin'
+by Valentina Schmidt
+
+Thinkin' bout growin' yer own food?
+Whether yer jist lookin' ta fool
+around with a bit o' herbs or ta
+raise some serious garden stuff
+like I have all my life, ya got the
+right book.
+
+First, ya got ta pick a time an'
+place ta plant some seeds. Seeds
+are best planted when it's raining
+an' on field tiles. Seeds planted
+during rain are gonna wilt less
+often, and those planted on
+a field that's found on farms an'
+those abandoned ranches will leave
+a new seedling behind more often
+after harvest.
+Once ya've planted some seeds, it's
+time ta watch em grow. If yer lucky
+an' all goes well, the seed will
+sprout an' grow over the course of
+along half a month ta a month an'
+bear fruit. If yer jist starting
+off an' don't got none of a
+Gardnin' Skill much - then ya'll
+find near all of yer crops wilting
+afore harvest, but don't give up.
+
+Lastly is what I expect is
+ev'rybody's favorite part.
+Harvestin'. But first, know that
+any plant that has fruited ain't
+gonna wilt ever until ya harvest
+it. An' what ya harvest will change
+with the season. Meanin' the same
+plant from the same seed is gonna
+give different things next season.
+
+Harvestin' is where yer skill
+matters the most. If ya got
+a-plenty of it, ya'll find the crop
+leavin' behind a seedlin' after
+harvest more often.
+
+Leave organic stuff on a compost
+fer a few days ta turn it inta
+fertilizer. Use that on yer crops
+an' they'll be done growed up in no
+time at all - aye, an' I really
+mean no time. There won't even be
+time fer em ta wilt.
+
+Ya'll find the crop management tools
+on the farm. Use it ta make only
+certain types of plants grow, which
+will ensure ya harvest only certain
+types of items. Try it out yerself
+ta see which treatment results in
+what crops.
+
+As yer Gardnin' skill increases,
+the quality of fruits an' vegetables
+ya harvest will increase. An' that
+also means heapin' gangs of dad-
+blasted wild animals are gonna come
+a-visitin' like yeeks to Yowyn, so
+be careful that ya don't git eat
+up. Git em once an' they won't come
+back fer a while though.
+
+There's all sortsa crazy seeds an'
+crops ta be found an' growed in
+Norf Tyris. Good luck with your
+farm, and happy tillin'!
+
+
+
+P.S. I've heared tell that ya should
+also harvest on a rainy day. Does
+it actually have any effect? My
+Pappy said his Pappy's Uncah
+sweared up and down that it does,
+but dogged if I know.
+%END
+
+
+
+#####################################
+%10,JP
+’¿É…Œ¹I
+written by “{‚è‚ÌƒGƒRİ
+
+@”c…Ì{‘¾˜Q”ï—¹I‘ü—v‰Ôˆêêy™§—ÍC…A
+˜ğÌ¬”ñí’¿‹M“I“ßŒÂB
+
+@–â‰äŠY˜ôY›õH•Ê–â”‡í–â‘èfIác‘R¥“ß
+ŒÂfI
+
+
+
+%END
+
+%10,EN
+You Water Wasting Jackals! Curse you!
+By Schmidt the Water Bandit
+
+Where I come from water is life!
+Waterholes are protected to the death
+down to the last woman and child!
+
+I come to this country, and what do I
+see? Water, nay, LIFE, being wasted!
+You people, who live in such lushes,
+waste so much it's sinful!
+
+Water should be blessed, given to all
+your gods as tribute! Do you people
+even know all the things you can do
+with dirty water?
+
+I suspect not.
+
+Nor will you if you simply toss it
+all away like dung from a diseased
+camel.
+
+May all who waste water wither like
+grass in a drought, and may what you
+issue from your loins be as sand!
+
+Damn you all!
+%END
+
+
+
+#####################################
+%11,JP
+„‘E’{–q
+written by –q’{‘åt
+
+@ccå«‘R‰ä•s¡’·›‘cc’A–”‘z—v”ÅÅcc
+–”Ÿ“—L‘´‘¼–‰Â˜ôcc
+
+@’{–qˆ¢cc‰ä–ç¥ˆ×—¹’Ç‹˜Q–ŸËã‹³—¹”‡
+•ª‰Æ‹ÆC’AˆêŠJn™È•sĞ¸”sBñæ‘æˆê“¹
+“ïèA¥æ“¾breederBbreeder¥Y›õccH
+³”@‘´–¼CA¥•sĞ¶¬›w“I¶•¨B‘ü—v“o‹L
+breederCç¬’˜ŠÔãS‰ßC•¨íA˜ğ”ÉŸ¥‰º‹B
+
+@ˆêŠJnC‰ä„‘E–ì¶“®•¨ˆ½Œ{A—rBŠî–{
+ã–ì¶“®•¨“I”ÉB”\—Í“sœk‹­B‰ö•¨“I˜bC—
+ŒÁ–ú‹­“I¶•¨C”ÉBŠT—¦A–ú’áB
+
+@‰Æ’{AZ•ú’˜•sŠÇ–ç˜ğ©ŒÈ¶ŠˆC’A‘ü—v”
+›€˜ì‰Æ’{—p“I”—¿CA”\æ¨›€˜ìÌãôBå«‘RÁ
+‰Ê”äšlˆêÇ˜Ò“¾·C’A¾‹â‹@–ç—LT”—¿“IŒ÷
+”\CŠˆÈ—v‹–Ú“I˜Òg—pB
+
+ŠÒ—LC’èŠú›ñ›€˜ìü–Ñ“I˜bC›€˜ìA˜ğÌŒ’NC
+“÷¿–ç˜ğÌDB”‡ù—v‰Æ’{—p“I‘åŒ^üqCˆÈ
+‹y•–Ì“I‹Z”\B
+
+@‹ô¢–ç˜ğí‰Á—i—L“Áê«¿“I‰Æ’{B—i—LY
+›õ«¿C‘ü—vİü–Ñ’ˆÓæ\fœäŠYA”\’m“¹B
+”@‰Ê¥‰Æ’{“Ió‘ÔCA”\ˆË«¿á¢ŠöÁ‰ÊG”@
+‰Ê¥breeder“Ió‘ÔCA—eˆÕí‰Á—i—L“¯Œn“
+«¿“I‰Æ’{B
+@„í‰Á“I‰Æ’{é“Œ^ŠÒœk¬CŠˆÈ—v”›€˜ìŠ…
+“ûCæ¨›€˜ì’·‘åB‰Æ’{¬’·“¾‰zDC“÷˜a“û“I
+¿—Ê–ç˜ğ‰zDB
+
+@—v˜Ô‰Â”\”c–qê‘Å‘|Š£ŸÄBˆöˆ×ù—vY—‘˜a
+©“û“I’n•ûB•³•Ö¥‰Æ’{¶•a“IªŒ¹CŠˆÈ—v
+‹Î‰Á™|—B‰Æ’{¶•a“I˜b‘ü˜ğˆê’¼f•³•ÖCŠÒ
+˜ğ™Bõ‹‹‘´‘¼‰Æ’{B—a–h˜a¡—Ã¾•aÅD“I•û
+–@A¥Á“ÅC”@‰Ê–³–@€”õ“I˜bC–ç‰ÂˆÈl—¶
+Šu—£ˆ½™|•ªB
+
+ŠÒ—LC‰Æ’{“IÉ—Ê‘¾‘½“I˜bC”ÉB—¦˜aY—‘Y
+“û“I”\—Í–ç˜ğ‰º~B20‘ü¶‰EœäŠY”äŠr‡“K”ëH
+“KácŒ¸­É—Ê”äŠrDB
+
+@í‰Á“I‰Æ’{—vœƒ›õ•ÙCAŠÅ“ğ—¹cc‰Æ’{ç¬
+“s‰ÂˆÈ›æo‹CŠˆÈæÌ‹‹“zè¯¤l–ç‰ÂˆÈB
+‡œnŠ—FD“I‰Æ’{œk’¿‹MCŠˆÈ—vDDæî›€˜ì
+a’ÊB
+@–ç‰ÂˆÈŠˆ¶¶’nàÙ‹‹_–¾B‰Æ’{©ŒÃˆÈ˜ÒA
+¥_–¾ŠìŸc“I‹Ÿ•iB˜aré“•s“¯Cd—Ê–³è‹Ù
+—vC§¥ˆÈ—FDèŒW˜a“÷¿˜Ò•]™JB
+@E{‰Æ’{C”‰º“÷˜a”ç“I˜bC‰ÂˆÈæÌ“•sö
+“I™JèABAZ•s˜ğ—¿—C‘ü—v•úİ“úN›ÜãC
+A”\˜ô¬•Û‘¶«‹É‰À“I“÷Š£CœäŠYA•s—p^S
+H•¨–â‘è—¹B
+
+@İ“jÉ‰Æ’{C‘´‘¼‰Æ’{‹ô¢˜ğÌ“¾œk‹»•±C
+”‡íŒó‘ü—vb—£ŠJ–qêC›€˜ìA˜ğ—âèÎ‰º
+˜ÒB
+
+@‰¶ccà–¾A“”‡—¡cc’{–qŸ“Y›õŠëè¨C
+“ğ–çl—¶ˆê‰ºác•›‹Æ”@‰½H
+%END
+
+%11,EN
+A Ranching guide for the Greenhorns
+	3rd Edition
+	By Cattle Baron Schmidt
+
+Howdy all! I write this guide for
+the same reason I rustle cattle
+about: Money. Plenty of good
+royalties to be had if one takes
+the time to put pen to paper.
+Still, while I can't give ALL my
+secrets to you as it'd put me out
+of business, but I can't get you to
+by my next book if I don't give at
+least the basics.
+
+To begin with, you'll at least
+eighty thousand or so to purchase a
+deed to a ranch. Less, if you are a
+good talker or rather attractive.
+
+Then, with deed in hand, find the
+best place for it you can find.
+While it cannot be within town
+limits, as you do NOT want people
+asking nosy questions on what
+exactly it is you are breeding, or
+other such moral or ethical-type
+dilemmas.
+
+Once you are at the spot of choice,
+merely 'r'ead the deed and claim
+your land.
+
+-== The Joys & Perils of Breeding ==-
+
+Good Breeding is a fine art, and is
+what separates us from the savages.
+No where more true is this rule
+than at a ranch.
+
+Any animal assigned to be a "breeder"
+will stay on the ranch, and, in time,
+produce milk, eggs, shit, and other
+bits. And no, I am not going to try
+to explain how mammals will lay eggs
+or how exactly you milk a twenty-ton
+firebreathing lizard. I don't rightly
+try to answer those sort of questions
+and frankly, neither should you. Just
+accept the fact and move on.
+
+Now, those items can be sold for fair
+coin, but the real profit is in the
+breeding and rightly so. This isn't a
+farm after all. Now, with the coming
+of the Etherwind, breeding has become
+a very simple process. Not like the
+old days, when you had to keep track
+of bloodlines, and breeding seasons,
+and listen to the mating howls, and
+the awful thumping of not one but two
+Twenty-ton Carnivores going at it.
+All. Night. Long.
+
+But I digress. Now all you do is just
+assign it breeding duties, and let it
+be. Soon, there will be more of them.
+Mitosis? Magic? Again these are the
+questions you should not rightly ask.
+
+Generally speaking, wild animals -
+chickens, sheep, rabbits and the like
+- breed like rabbits. Heh. Another
+thing to keep in mind is that the
+more powerful a monster is, the
+slower it'll breed on your ranch.
+That's something to remember when
+choosing what to breed if you need a
+gazillion more of them.
+
+I did say that all you have to do to
+get them to breed is to leave them
+to their own devices. So feeding them
+is optional - I dunno they probably
+eat sunlight or something - but if
+you do give them a livestock feed
+it'll fatten them up. Or you can use
+that register on the ranch to split
+that feed amongst every animal there.
+Won't fill them up as much, but gets
+the job done.
+
+If you want to get really good
+quality meat, what you have to do is
+brush them once in a while. Grab a
+big brush, and give them a nice
+rubbing. Of course, you need to know
+how to do the Rub special 'a'ction
+in order for you to do that.
+
+Sometimes you'll manage to breed
+one of them farm animals that are
+really good at something. I don't
+mean maths or anything. They might
+be good at putting out oodles and
+oodles of milk or eggs. Or maybe
+they'll have good meat or skin.
+You'll know what they're good or bad
+at by paying attention during
+brushing. Those qualities will be
+exhibited while they're on the
+ranch. If they're the breeder,
+they'll produce more animals with
+similar qualities.
+
+Newborns on the ranch will start out
+small, so 'T'hrow some milk their way
+to make sure they grow up big and
+strong. If you do, the meat and milk
+they give will improve.
+You'll want to keep the ranch clean.
+Ranch animals need space to lay eggs
+and uh... milk themselves. Can't do
+that if there's shit all over the
+place, can they?
+
+Leaving their shit around will cause
+them to get sick and crap even more.
+It'll also make the other animals
+on the ranch sick. Disinfecting the
+ranch will both prevent that from
+happening AND heal the sick animals.
+But if you can't afford that, then
+you might wanna quarantine or
+cull them.
+
+It's a good idea to keep an eye on
+the number of animals on the ranch.
+They don't breed as fast and also
+produce less milk and eggs when
+the ranch is full of animals. I find
+20 animals optimal number. See if
+you can't find a nice balance for
+your ranches too.
+
+    -== Fruits of Your Labour ==-
+
+Now, these... offspring, can be used
+in several ways, which I shall list
+below:
+
+'i'nteract with it and get it to join
+you on your travels.
+
+Gene Engineering with zero risk to
+the originals.
+
+Profit by taking it to a slave
+trader if, I might add, you know
+where to go where no one asks any
+questions. They fetch more if they
+are tame - so you might want to make
+sure they're servile and have a
+decent bond with you.
+
+Or you can kill it and the odds of
+a carcass being salvageable are
+much better than duking it out in
+the wild.
+
+Sacrifice it alive to your God - a
+favourite of the Gods since time
+immemorial. Unlike offering pieces
+of a corpse on an altar, weight
+won't matter here. Instead, it's
+apparently scored based on the its
+bond with you and the quality of
+its meat.
+
+
+As a side note, sometimes the ranch
+animals get a little antsy when one
+of them is killed. Just pop out of
+the ranch and come back, and you'll
+find that they have settled down.
+
+-== The Drydock. Waste Nothing ==-
+
+A benefit of having a ranch is having
+a drydock at your disposal. Now I put
+mine in the southeast corner so the
+wind will blow the stench away from
+my estate. I assume it will be the
+same for you (you'd best hope so).
+In any other trade a rotten carcass
+would be nothing but a loss.
+
+
+
+
+Not so with a ranch, where nothing
+goes to waste. Simply dump your
+rotten meat into the drydock to
+cure, and in no time at all you'll
+have delicious, lightweight,
+adventurer-sought-after Jerky!
+
+	-== In Conclusion ==-
+
+At this point a wise man would stop
+writing here, and just let you dream.
+Simply imagine the possibilities, and
+then grasp them.
+
+In my next book, which will be soon
+available, I will highlight the more
+subtle tricks to the trade, like how
+exactly you prevent a twenty-ton,
+fire-breathing, living force of
+Destruction and Death from simply
+leaving the ranch after setting all
+to the flame and devouring you on the
+spot for asking it to sit there and
+breed.
+
+Until then Partners!
+%END
+
+
+
+#####################################
+%12,JP
+
+
+
+i•¶š“™|“s—L–‘¹j
+
+Hcc‰ä•s˜ğcc–Y‹L“ğ“IB
+
+ˆ×—¹cc—¯Z‹L‰¯cc
+
+“ğ“I•accŒ»‘ãçÎ›{cc›ßãS—pá¶—¹è’iB
+
+‰äcc•s”\cc
+
+ŠˆÈ
+
+‰i‰“cc›’“ğ“I‰ñ‰¯cc
+
+İ”é–§“I’ë‰@ccáŒ´ãcc
+
+’nêy¥ccœncc‰–k™_cc‰“Œlcc
+
+‰äÅˆ¤“I–…–…ˆ¢cc‰äcc
+
+ˆÀ‘§”ëcc
+%END
+
+%12,EN
+[You cannot make out who owns this]
+Written by Rachel's brother <damaged>
+
+<Within this rotted book is a Letter>
+<The Letter is faded Everywhere>
+
+Rachel<damaged> I'll forget.
+
+In order to retain memory of<damaged>
+
+Your disease <damaged>
+by modern medicine.
+
+<damaged> himself out of hand.
+
+No, I'm<damaged>
+
+So
+
+Your memories forever<damaged>
+
+Secret Garden in the snowy field...
+
+The location is the north 2<damaged>
+And from the 4<damaged>
+
+My sister is<damaged>
+Requiescat in pace...
+%END
+
+
+
+#####################################
+%13,JP
+‘O‰‹àš“ƒ“Iç±¿”Ÿ
+written by ‹àš“ƒ”VåE‘S
+
+@‰ä›’“ğ‹ˆ×ˆê–¼—EÒCç±¿“ği“ü‰ä“I‹àš
+“ƒB
+
+@“ğ‰ÂˆÈ”c”‡ác¬ˆêí—VEB“ğ”\‘«œßåS©ŒÈ
+“I—EŸ†äo’qŒdC¬Œ÷U—ª‘S‘°“IˆÌ‘å‘cæŠ
+‘Å‘¢“I–À‹{›õHŠÒ¥àC“ğ˜ğ˜aO‘½—EÒˆêéC
+İDé¦’†”s–kC‰»ˆ×‹àš“ƒ“Io“y–‰H
+
+@ác‘RC‰äİŸ“Á•Êãß–¾C”‡À–À‹{—¡åU—Läo
+”‡±Šëè¨‘ŠæD“Ià›B
+
+@ˆ¢ˆ¢CŠÒ—LˆêŒ–B“ğ•sù—v—a–ñ‘’âXBˆö
+ˆ×’¾‡İ‰ä‹àš“ƒ’†“IçŒìÒ˜ìC˜ğ›’“ğ“I“÷
+é“‹h“¾ˆêŠ£“ñŸÄB
+%END
+
+%13,EN
+You have been cordially invited hero,
+RSVP not required, but come prepared.
+
+<This has been written on papyrus>
+
+You have gotten a bit of a name for
+yourself young one, and you are even
+now growing stronger. Soon I, in my
+age beyond ages, might not be a match
+for you. And sensibly, I won't take
+that risk later. But I do so love a
+fresh challenge every now and then.
+
+So hear this.
+
+Seek my Pyramid! Challenge my maze!
+
+Of course you should have a reason
+more than simply my word of challenge.
+
+How about treasure? Ah, I knew that
+would do it. Within my Labyrinth lies
+much treasure if you can find it. It
+lies within much risk, but any reward
+without risk is hollow and cold as is.
+
+And there is what I carry as well,
+though I feel it fair to warn you
+that I have played this game for a
+long, long time and have yet to lose.
+
+Oh and one more thing, should you not
+be properly entered within the great
+Book of the Dead before entering,
+those within shall ensure that you
+become so, promptly indeed.
+
+Face me if you dare!
+
+%END
+
+
+
+#####################################
+
+%14,JP
+‰Á”v—VE‹K‘¥ib’èj
+written by ‰Á”v‘åt
+
+EŠeŠß‰ÆˆÈ—R30’£‰Á”v‘g¬“I”v‘gŠJn—VEB
+
+E‰Á”vŠî–{ã•ªˆ×¶•¨äo™îŒê™_í—ŞŒ^B
+
+E‰Á”v•ª•ÊªŸ_”V—ÌˆæiDomainjis•ª—ŞC
+Šß‰Æ‹ÍŒÀ‰—‰Á”v—VE’†CM‹Â‘¶İ‰—”v‘g’†“I
+_–¾B
+
+EŠß‰Æ“I‹Nn¶–½’läo‹Nná¢”z‰Á”v“IÉ—ÊC
+äo”v‘g’†‘¶İ“I—Ìˆæí—ŞÉ—Ê¬”½”äiM‹Â“I
+_‰z‘½C—Í—ÊA˜ğ‰zãjB
+
+Eæ›’›”è“I¶–½’lŸd—ë“IŠß‰ÆŠlŸBİ•½‹Ç
+C”@‰Ê”v‘g’†“I‰Á”v›ßãS—pá¶CŠß‰Æ“I¶–½
+’lA˜ğŸd—ëB
+
+E—VEŠJnC˜ğœn”v‘g’†•ª”zˆê’èÉ—Ê“I‰Á
+•ĞB
+
+EŠß‰Æ“I‰ñ‡—RŠJnA’Š”vAå‰ñ‡AŒ‹‘©l
+ŒÂŠK’i\¬B
+
+EŠß‰Æİ©ŒÈ“IŠJnŠK’i˜ğŠl“¾äo–‚—Í’l¾“ü
+‘Š“¯“I–‚—Í’lBŸŠOC©ŒÈêã“IŠ—L¶•¨“I
+HP˜ğ‰ø•œ“Å‘å’lCs“®Š®•L“I¶•¨˜ğÄŸÌ
+“¾‰ÂˆÈs“®B
+
+EŠß‰Æİ©ŒÈ“I’Š”vŠK’i˜ğ’Šˆê’£‰Á•ĞB
+
+E—Lµ’£‰Á•Ğ’Š“‰Á•Ğ“Iî‹µ‰ºCè”vÅ
+¶ç²“I‰Á•Ğ˜ğ”í‘—i•æ’nB
+
+EŠß‰Æİ©ŒÈ“Iå‰ñ‡ŠK’i‰ÂˆÈÁ–Õ–‚—Í’l›’
+‰Á•Ğ•ú“êãC‰ÂˆÈg—p–@p‰Áˆ½”\—ÍC‰ÂˆÈ
+æ¨¶•¨UŒ‚B
+
+EÁ–Õ¬–{“I”wŒiˆ×“øF“I‰Á•ĞC•K{—L‘Š“¯
+É—Ê“I“¯—Ìˆæ“y’n‰ÁİêãË”\g—pB
+
+EŠß‰Æİ©ŒÈ“Iå‰ñ‡ŠK’iC–ˆ‰ñ‡‰ÂˆÈ›’ˆê
+’£è”vàÙ‹‹_BàÙã“I‰Á•Ğ˜ğÌ¬ŠY—Ìˆæ“I“y
+’n‰ÁC•úİ©ŒÈ“IêãBŸŠOCŠÒ˜ğŠl“¾1êy
+–‚—Í’lB
+
+EÌ‰»ˆ×“y’n“I‰Á•ĞCİ—VEŒ‹‘©‘O“s˜ğ”íác
+ì“y’n‰Á•ĞB–ˆ’£“y’n‰Á•Ğ–ˆ‰ñ‡“s˜ğY¶1
+êy–‚—Í’lB
+
+E”í”jšÓ“I‰Á•Ğ˜a‰r¥Œ‹‘©“I™î•¶˜ğ”í‘—“ü•­
+êB”v‘g“I‰Á•Ğ—pŠ®ŒãCŠß‰ÆA–³–@Ä’Š”vB
+
+Eœ—¹“y’n‰Á•ĞˆÈŠOCêãÅ‘½‘ü”\‘¶İ8’£
+‰Á•ĞBêãŸ“—L‹óˆÊC”C‰½‰Á•Ğ“s–³–@g—pB
+
+E¶•¨‰Á•Ğİ·sUŒ‚A–h‹šAg—p‹Z”\‘´’†
+ˆê€s“®ŒãCA˜ğ‹ˆ×s“®Œ‹‘©Cİ‰ºŸ©ŒÈ
+“I‰ñ‡‘O“s–³–@s“®B
+
+E¢Š«o˜Ò“I¶•¨‰Á•ĞİŠY‰ñ‡˜ğ”í‹ˆ×s“®
+Œ‹‘©C’A‘ü—L–h‹š‰ÂˆÈg—pB
+
+Ew¦¶•¨‰Á•ĞUŒ‚C‰ÂˆÈUŒ‚›”èŠß‰Æ“I
+¶–½’lB
+
+E–h‹š•ûŠß‰Æİ©ŒÈêã‘¶İ®–¢s“®“I¶•¨
+‰Á•ĞC‰ÂˆÈ–h‹š›”è¶•¨‰Á•Ğ“IUŒ‚B
+
+EUŒ‚”í–h‹šC–h‹š•ûŠß‰Æ“I¶–½’l•s˜ğŒ¸
+­C’A–h‹š“I¶•¨‰Á•Ğ˜ğó“›”è¶•¨‰Á•ĞU
+Œ‚—Í“IHPŠQB“¯CUŒ‚•û“I¶•¨‰Á•Ğ–ç˜ğ
+ó“›”è¶•¨‰Á•ĞUŒ‚—Í“IHPŠQB
+
+Eìˆ×—p–‚•¨–h‹š“I‘ã™JC–h‹š•û“IŠß‰Æ”@‰Ê
+–‚—Í’l‘«‘«C‰ÂˆÈœnè”v’†‘Åoˆê’£‰Á•ĞB
+
+E–‚•¨“IHPÌˆ×0Œã˜ğœnêãÁ¸C”í‘—i•æ
+’nB
+
+E‘€ìà–¾Œˆ’èŒ®	‘I¢æÁŒ®	’µ‰ß‰ñ‡^–h
+‹šsŒ®		“Š~
+
+E‰Á•Ğà–¾¶ãigjUŒ‚—Í‰EãiîpjHP¶
+‰ºi—•jg—pÁ–Õ–‚—Í‰E‰ºiŠDj‹Z”\g—p
+Á–Õ–‚—Í
+
+EŠß‰Æ‰Á”và–¾ãiîpj¶–½’l‰ºi—•j—L
+–‚—Í/–ˆ‰ñ‡“I–‚—Í¾“ü
+
+E0”ï“I–‚•¨®–¢›‰åäB
+
+E—vŠl“¾™îŒê‰Á”vCå—v•û–@¥g—pİ“X—¡”Ì
+æÌ“I°[•ïB°[•ï—¡ç¬‹@•ïŠÜ5’£‰Á•ĞBw
+”ƒ°[•ï“™‰Á•Ğ‘Šè“I”ƒæÌC¥ˆÈ–¼ˆ×uŒğˆÕ
+‘ã•¼(TT)v“I‰İ•¼isBTTå—v˜ğªŸäo–`è¨
+Ò“IŒˆé¦ˆ½‘å˜ğ“I”äæÎŒ‹‰ÊíŒ¸B
+
+%END
+
+%14,EN
+Action! Adventure! It's Card Battles!
+<By DeckMaster Schmidt>
+
+Have you been looking for a game that
+your kids can play that doesn't
+involve lawn darts, a dead yeek, and
+a bit of twine?
+
+WELL SEEK NO MORE!
+
+Coming Soon to the Country of North
+Tyris, a brand new game involving
+gathering cards, duels, and bizarre
+hairstyles that require exstensive
+Gene-engineering to even be possible!
+
+Sequal to the once popular game
+Monster Duels, which is in turn
+the sequal to Wizards & Magic!
+
+Become the King of Games!
+
+Each player starts the game with
+a deck of 30-60 creature Cards
+
+There are 6 Domains, you starting
+hand number and life is inversely
+proportional to the number of Domains.
+(Neutral and Legendary doesn't count.)
+
+Up to X copies of same card allowed:
+Normal:X=4 Neutral:X=2 Legendary:X=1
+
+The first player to reduce their
+opponent's life to 0 wins. If there
+are no cards in the deck at the time
+of the draw, the player's life is
+reduced to 0.
+
+
+There are 4 phases:
+- Begin Phase - Draw Phase
+- Main Phase - End Phase
+
+Begin Phase:
+Activate all turn-start effect.
+Unexhaust all cards on the Field.
+Player's Mana restore to max Mana.
+
+Draw Phase:
+Player draw 1 card.
+Activate all in-hand effect.
+
+During Main Phase, you can:
+Spend the Mana Cost to play Cards.
+Sacrifice a Card to gain 1 max Mana.
+Attack with your creatures.
+
+End Phase:
+Activate all turn-end effect.
+Card action:
+Card are exhausted upon summon.
+Exhausted card cannot attack, but
+they can defend incoming attacks.
+Attacked creatures cannot block
+until next Begin Phase.
+Creatures with 0 health after
+combat is send to graveyard.
+
+Controls:
+Enter Key: Select.
+Cancel Key: Skip Turn / Defense
+/ Randomize Effect Target.
+s Key: Surrender
+UP: Play / Attack / Defend.
+DOWN: Sacrifice Card.
+
+Card Description:
+Top: Card Mana Cost
+Bottom: Attack / Health
+
+Skill Keywords:
+
+Battlecry: Activate when Summoned.
+Deathrattle: Activate when Graved.
+Sacrifice: Activate when Sacrificed.
+On-Draw: Activate when draw this.
+In-Hand: Activate after draw phase.
+Ongoing: Activate passively on Field.
+Aftercombat: Activate after combat,
+On-Kill: Activate after combat,
+when opponent is defeated and this
+card survives.
+
+
+
+
+
+
+
+
+Positive Card Bits:
+
+- Regeneration: HP restore to max
+in Begin Phase.
+- Armor: Negate positive damage once.
+- Flying: Cannot be blocked by
+creature without flying or reach.
+- Intimidate: Can only be blocked by
+Cards within the same Domain.
+- Reach: Can block flying Cards.
+- Lifelink: Give player life=damage.
+- Haste: Not Exhausted on Summon.
+- Trample: Deal player excess damage.
+- First-Strike: Deal damage on the
+first round of combat only.
+- Dual-Strike: Deal damage in the
+first round and normal round.
+- Deathtouch: Damage to Card +999.
+
+
+Positive Card Bits:
+
+- Windfury: First Attack won't exhaust.
+- Vigilance: Can always block.
+- Defender: Always block. No attack.
+- Critical: Attackx3 with 1/6 chance.
+- Barrier: Receive no effect damage.
+- Evasion: Opponent cannot target it.
+- Split: Summon a copy if survive.
+- Rider: Armor/+2 Attack. Lose this
+bit and 2 health when damaged.
+
+
+
+
+
+
+
+
+
+Negative Card Bits:
+
+- Deathword: Grave this after 3 turn.
+- Gravity: Can always be blocked.
+- Bleeding: Take +1 Damage.
+- Poisoned: Take 1 Damage Begin Phase.
+- Kamikaze: Battlecry - Kill itself.
+- Paralysed: Cannot defend this turn.
+- Frozen: Cannot attack this turn.
+- Silenced: Effect cannot activate.
+- Confused: Cannot Attack/Defend or
+use Effect this turn. Doesn't Exhaust.
+- Insane: Switch side upon second
+time inflicted with Insane.
+
+
+%END
+
+
+
+#####################################
+
+%15,JP
+’n‰ºé‰^—pèû
+written by ’n‰ºéå
+
+@Ä“™ˆê‰ºšGI
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@Ä“™ˆê‰ºI
+
+%END
+
+%15,EN
+Seek Ye the Secretes of yon Dungeons?
+<Schmidt the XVII, Duke of Intrigue>
+
+Then send ten gold to:
+Spelunkers Monthly Scrolls
+Care Of:
+Samisel
+South Tyris, Elona
+%END
+
+#####################################
+%16,JP
+”íèªåU“I–sæÉ•v’è—
+written by ŠYèª
+
+Ÿ“•Ù–@C‰ä‘Sào˜Ò”ëBİ“ßÀé’ÁÌ¬Š¢âI
+R“I“ß“Vcc‰ä•úŠü‰ÒHC“™‘Ò‹@˜ğC’A—ŒÁ
+Š®‘S“k™§–³Œ÷Bäo‚q“I‘½Ÿ€é¦C•ÀŸ“—LŠm
+›‰NI‘¼“I‰E‘¤• Bˆ¢ˆ¢cc’AŠè”\“¦—£”‡—¡B
+‰ä—v“¦—¹I—L–{–A˜ÒS‰äˆ¢C¬’ IiÚã”j
+
+
+
+
+
+
+
+
+
+
+
+
+
+˜Ò©ˆÙ¢ŠE“IN—ªÒAİ‰ä˜ìgç²‰üÌŒ`é“C
+—İÏ—Í—ÊB”@‰Ê‘¼˜ì‘ü¥‹¢–\“IæVŒõ‹qC“ßŠÒ
+—L‹~B_ã`¥‹‹—\‰ä˜ìlé„B”‡‰ºq•sŠÇ¥—Ì
+åAŒöåAæµŠÒ¥Œî˜ “s•s‹Ö‹êÎBŠÅ“l˜ì
+S’˜ä_˜M“¾ŸŞä_¥ŒŒCäI‘Ü˜ğÌ“¾•s³í”ëB
+§”ß“I¥C‘¼›ßãS‰ñ•s˜Ò—¹ccácŠYœƒ›õ
+˜ôËDHˆöˆ×‘¾’É‹ê—¹CŠ£Æ‘S•”–Y{C‹ğÎ
+’˜Šˆ‰º‹”ëB™û™ûC“V‹ó”\•s”\“Ë‘R{‰º10‰­
+GPˆ¢HiŒ‹‘©j
+
+
+%END
+
+%16,EN
+Wily Mujaf's Thesis
+	by <Caim>
+
+I saw the town get turned into a
+smouldering pile of rubble. I was
+hoping for just one more chance.
+Fact is, I didn't get it. Because
+over and over again she fought lions,
+refusing to die. Look, her rib cage's
+still intact and everything. Didn't
+eat into it at all. Good as new.
+Crazy stuff, if you ask me. Now, you
+receive four options. First is
+especially attractive and will not
+try to kill you. Next up, stunning...
+character to go with her looks. Third
+has a habit of lazing around. Lastly,
+a loyal mage who will go walk over
+red-hot embers for you. I wish I were
+anywhere but here. Actually, I
+CAN run away. RIGHT NOW. Alright,
+time to haul butt. You guys aren't
+ever taking me alive. I'm gonna keep
+running. Over and out.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10 thousand gp. More than enough to
+wash away everything. I want to
+forget these memories that are still
+raw. Seems like it was just the
+other day when it happened. But as
+much I would like to forget, I can't.
+Could I have stopped everything that
+happened? She's never coming back
+anyway. I would have gone insane
+over the sight of people bleeding,
+scratching their faces off. Flecks of
+skin flying. It was quite the
+headache for everyone in town, from
+royalty to the peasants. Now
+if only aliens were violent tourist
+neighbours, storing shapeshifting
+energy. Watching. Waiting. (The end.)
+%END
+
+
+
+
+
+#####################################
+%17,JP
+Ÿ¸äÉ˜±‘‡’¥
+written by àV”[‰¶¸_‰ÈçÎt
+
+@Ÿ¸äÉ˜±‘‡’¥C¥İŸ¸äÉ˜±“àá¢•a“Iˆêí¸
+_áâGB
+
+EÇó
+@‘å’vã•ªˆ×OŒÂŠK’iC–úŒã–Ê“IÇó–úšdB
+
+
+‘æˆêŠK’i
+@”»Ğ—Í‰º~B
+@‰º~’ö“xˆöl§ˆÙC’Aˆê”Ê˜ÒàC˜ğ–³‹{
+İ’nã“I—L‰v“¹‹ïCˆ½¥Õiˆê‘åŒQ“Gl”V’†B
+˜bå«”@ŸC”‡í’ö“xŠÒ•sŠ‰—‰e‹¿“úí¶ŠˆC
+–ç—L‹–‘½–`è¨Òİ”‡íó‘Ô‰ºŠˆ“®B
+
+‘æ“ñŠK’i
+@”F’m—Í‰º~C–³–@Š®‘S™¯ˆê•”•ª•¨é“B
+@‘å‘½–³–@™¯ê’òC”‡íî‹µ‰ºCœk“ïèÏ©
+ŒÈœnŸ¸äÉ˜±‰ñ‰ÆB
+
+‘æOŠK’i
+@UŒ‚«í‹­B
+@“—¹”‡ŒÂŠK’iC‘¦g–Ê›”“¯‘°ˆ½Œ´–{“I“¯”º
+–ç˜ğÏ‹ÉUŒ‚B
+@å«‘RŒ´—•s–¾C’A‘æOŠK’i“IŠ³ÒŠî–{ã•s
+˜ğŒİ‘ŠUŒ‚B
+@—R‰—á¢•aÒ”VŠÔ˜ğŒ`¬ŒQé“CˆöŸ—ŒÁ•À”ñ
+–³–@™¯”ŞŸB
+@Œ´–{UŒ‚«A‹É’á“IlC‘¦g“—¹”‡ŒÂŠK’i
+–ç•s˜ğoŒ»Ì‰»B
+
+
+@‘æ“ñŠK’iˆÈŒã“IŠ³Ò˜ğİŸ¸äÉ˜±“àã”œpœjC
+ç­‘˜ğç¬’˜Ÿ¸äÉ˜±ˆê‹N’¾“ü’nŸvC’AœpœjŠúŠÔ
+‹ô‘RŠOo“Iî‹µ–ç•s­B
+
+EŒ´ˆö“™
+@–Ú‘OÅ—L—Í“I˜ïİ¥Ÿ¸äÉ˜±—i—L“I–‚—ÍCˆÈ
+‹y“Áê¥êC’A®–¢“¾o–¾Šm“IŒ‹˜_B
+@å«‘R—L’·ŠúŸú—¯‰—ŸÇó˜ğœ¦‰»“IŒXŒüC’A
+ŒÂl·ˆÙ”ñí‘åB
+@–Ş‘´¥”íâiˆ×–`è¨Ò“Il˜ìC‘¦gá¢•a–ç‘å
+‘½’â—¯İ‘æˆê‹‰CrŠ—L‹–‘½lª–{•s˜ğá¢•aB
+@œäŠYàC‘ü—Lé“¿•s˜ğœ¦‰»“IlË”\ˆÈ–`è¨
+Ò“Ig•ªŠˆ“®B
+
+E›”ô
+@®–¢Šm—§¡—Ã•û–@B
+@•s‰ßC—LŒ¤‹†‘—¿woC‘ü—v‘àŒŞ’†—L‹ï”õ
+R«“Ié“¿ÒC‘´‘¼l–çŠr•sˆÕá¢•aB
+@ŸŠOC–ç—L¸‹“—¦Ò“I•”‘àWé“á¢•a“I—á
+qCˆöŸ¸_ã“Ix’Œ”í”Fˆ×‰e‹¿rçèB
+@–ç—L•a—áèû¦C‘¦gˆê“xá¢•aC‘ü—v—£ŠJŸ¸
+äÉ˜±CÇóA˜ğ‰ü‘PB
+
+Eˆê”Ê”F’m
+@Ÿ¸äÉ˜±œkŠëè¨”‡Œ–œnŒÃŠ¡œAˆ×l’mC’A
+œk­—Ll”\¨o”‡ŒÂ‘‡’¥ìˆ×——RB
+@œk‘½lŒëˆÈˆ×‘ü—v”\™|—{±‘§İŸ¸äÉ˜±“I
+‰ö•¨AŸ“—L”C‰½Šëè¨CœnˆÈ‘OŠJnC©ŒÖ›‰—Í
+‚‹­“I“üNÒá¢•a“IˆÄ—áA‘wo•s‹‡i–1jB
+@å«‘R—Lˆê•”•ªš ‰ÆÌæ—¹—§–@‹Ö~i“üA—R
+ŒR‘àisŠÇ—“™›”ôC’A˜¹‘R•s‘«Š®‘PB
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+–‚P@
+@ÅŒÃ˜V“I‹I˜^¥İŒÉæÉ—‰“Áá¢Œ»“I–ñOç”N
+‘O“I•¶àÙBİŸ¸äÉ˜±“àÌ“¾Šï‰ö“I‰p—Y”íâiˆ×
+u–À‹{•é“vCÅŒã‘˜“™|ŒˆB
+
+
+%END
+
+%17,EN
+A Review on Nefian Psychosis
+	by a Zanan Psychologist
+
+Nefian Psychosis is a mental disorder
+that develops in some people when
+they are within a Nefia (commonly
+known as a dungeon).
+
+       -=Signs and symptoms=-
+The disorder presents itself in three
+stages, each of which are described
+below, with the latter stages being
+more serious.
+
+       -=Stage 1 psychosis=-
+Characterized by lowered cognitive
+ability. The decrease in cognitive
+ability varies between patients, but
+they will typically be lacking in
+their object recognition ability and
+ignore useful items on the ground or
+charge blindly into enemies.
+
+Nevertheless, many adventurers are
+able to maintain a high quality of
+life in towns while afflicted with
+this stage of the disorder.
+
+       -=Stage 2 psychosis=-
+Extremely low object recognition
+ability, with a complete inability
+to recognize some classes of objects.
+Many afflicted by this stage of the
+disorder are unable to recognize
+staircases, and experience great
+difficulty in finding their way home.
+
+
+
+
+       -=Stage 3 psychosis=-
+Marked by increased aggressiveness.
+At this stage, patients actively
+target and exhibit aggression towards
+other people, including acquaintances
+and former allies. For reasons yet
+unknown, Stage 3 patients do not
+attack one another.
+
+Some of the afflicted band together
+to form working groups, so it appears
+that they are somehow able to
+recognize one another. It has also
+been observed that individuals who
+displayed no aggressive behaviour
+before the onset of the disorder do
+not display any aggression whatsoever
+even at this stage.
+
+Many individuals suffering from Stage
+2 psychosis may get trapped in
+dungeons, but there are many reports
+of such individuals suddenly
+reappearing aboveground when the
+dungeon sinks into the crust.
+
+          -=Hypothesis=-
+Two hypotheses have offered to
+explain this phenomenon, namely that
+it results either from exposure to
+mana in dungeons or to a particular
+type of magnetic field. Neither of
+these explanations, however, have
+proved to be completely satisfactory.
+Though is indeed a strong and
+positive correlation between the
+amount of time spent in dungeons and
+the severity of psychosis, it does
+not account for the high variability
+in the speed and severity of onset of
+psychosis between individuals.
+
+Many afflicted adventurers also never
+progress beyond Stage 1, and many
+more never develop psychosis at all.
+It is possible that individuals who
+become adventurers are inherently less
+likely to be predisposed to the
+disorder.
+
+ -=Prevention of Nefian Psychosis=-
+There is no cure for Nefian Psychosis
+at the time of writing. However,
+research has shown that recruiting
+allies who are not predisposed to
+psychosis can offer some protection
+against the disorder. There has also
+been a case where an entire group of
+individuals developed the disorder
+after losing their commander, so it
+is commonly thought that mood and
+the mental state of individuals
+play an important part in both
+the progression and prevention of
+the disorder.
+
+Some individuals also experience an
+improvement in their condition after
+avoiding dungeons for a period of
+time.
+
+       -=Public perception=-
+The notion that dungeons are
+dangerous is well-entrenched in
+society since ancient times, but few
+will associate Nefian Psychosis
+with that danger. It is a common
+misconception that dungeons are
+innocuous without the monsters that
+reside within them, as there have
+been many documented cases of
+skilled dungeon-delvers coming down
+with the disorder since ancient
+times (see footnote 1).
+
+For that reason, some countries
+forbid entrance to dungeons while
+others limit dungeon access to
+the military, but these measures
+still fall short of preventing
+cases of Nefian Psychosis.
+
+
+
+
+
+
+
+
+
+Footnote 1:
+The earliest record of such a case
+was an inscription discovered in
+Kjaraht, dating back to 3000 years
+ago. A well-known dungeon conquerer
+became deranged and it was suspected
+that he was possessed by a dungeon,
+leading to his eventual execution.
+%END
+
+
+#####################################
+%18,JP
+âX•¨“IâX‹V
+written by ŠìŸc—·s“I¤l
+
+@“ğİ”c“Œ¼Œğ‹‹•ÊlC˜ğœƒ›õ˜ô–‰H˜ğ•s
+˜ğæS“¾•ú’˜œk–ƒ”ÏCŠˆÈ”E•sZeèŒğ‹‹›”•û
+–‰H
+@å«‘Rİ–Ê›”nlCˆ½¥î‹µ‹Ù‹}“IŒóC”‡
+›õ˜ô–ç¥–³‰ÂŒú”ñC•s‰ßŠÒ¥—L•s­’·”y•sŠì
+Ÿc•Êl’¼Ú”c“Œ¼Ç“©ŒÈè—¡B
+@İ‘å•”•ª“I’n™½Cˆ×—¹”ğ–Æ¸âXC›’“Œ¼çj
+çjŸö“›”•û‹rç²Ë¥³Šm“I˜ô–@Bác‘RC–Ê›”
+‰Æl“IŒóCA•sù—v”‡›õS‹Ş—¹B
+
+@ù—v“Á•Ê’ˆÓ“I¥Cİäˆz—˜˜±‘å—¤“I–^±
+’n™½C”c“Œ¼Ÿö“›”•û‹rç²”½§¥ˆêí¸âX“I
+sˆ×B”@‰Êİ”‡±’n•û”íè™¶lÇ“Œ¼C–ç•s
+‰ÂˆÈ¶Ÿ†B
+
+@•s“¯“I’n™½—L•s“¯“IâX‹VBİæVŒõ“IŒóC
+ˆê’è—v–æŠm”Fác’n“IâX‹VB
+
+
+
+%END
+
+%18,EN
+Gifting Gifts
+	by a Travelling Merchant
+
+What is it that you do when you would
+like to give someone a gift? Do you
+sometimes get lazy and give it to
+them by hand instead of placing it
+at their feet?
+
+If it's for someone close like a Soul
+Mate, or if you are in a terrible
+hurry, then that's fair enough.
+However, many of the elderly find it
+rather offensive to be handed items.
+
+It is polite to place items at
+peoples' feet in most areas. Of
+course, you don't have to go that far
+for your family members.
+
+One thing you should keep in mind is
+that it is rude to place items at
+peoples' feet in parts of the
+Asserian continent. When visiting
+these areas, you must not get angry
+when strangers pass items to you by
+hand.
+
+Like they say, when in Palmia, do as
+the Palmians do. Remember, always
+read up on the culture before
+visiting a place!
+%END
+
+
+#####################################
+%19,JP
+Wé“Šˆ“®ŒP—û
+·•MF—Ì‘à‹³Š¯
+
+@¡“V—v¿‘å‰Æ™_lˆê‘gCˆÈ“‹ƒ“IŒ`®s“®B
+
+@DI¿˜a—vD“I“¯›{ˆê‘gB¶ç²“I“¯›{•‰Ó
+ˆÚ“®B
+
+@ˆÈ“‹ƒ“IŒ`®Dé¦C¿e×æV@“‹ƒ“I“®
+ìI–Ş‘´¥İ–Ê›”‹­“G“Iœä›”•û®Cˆê’è˜ğ
+¬ˆ×œkD“IãSé„B
+
+@ó“UŒ‚“IŒóC˜Ô—Êæ¨é“—Í‘½“Iˆê•û•ÛŒì
+•Êˆê•ûB
+@ŠÒ—LCE“èA•s—vàÕèC—v™_ŒÂlˆê‹N•ªI
+
+@DC“ßç²“I•s—væé“|C—p“¯é“I‘¬“x‘–Iˆ¢
+\\Ÿ“•K—v”c‹r”›İˆê‹NB
+
+@š€H“ğŸ“—L“‹ƒ›õH“ßAæî‰äˆê‹N‘g‘à”ëB
+
+
+
+%END
+
+%19,EN
+An Exercise in Team-Building
+	by Lead Instructor
+
+For today's practice, you will be
+pairing up with someone else to form
+a tag team.
+
+Now grab a buddy. The one on the left
+will be in charge of movement.
+
+If you're fighting a battle in a tag
+team, watch how your partner moves.
+If you're fighting someone strong,
+pay special attention to how you move
+during the fight, and I guarantee
+you'll learn lots from it.
+
+When taking fire, whoever has the
+most health at that moment should
+take damage for the other. And don't
+forget! Split any gold you pick up
+with your partner.
+
+Walk at the same speed to make sure
+you don't trip. You there, you don't
+have to tie your legs together! Put
+that rope away.
+
+What? You don't have a partner?
+Alright, you can tag with me.
+%END
+
+
+#####################################
+%20,JP
+–`è¨¶Šˆ@ƒ518^tåj„
+by 12Î“I—–l¬ˆ·
+
+@Vl—–l–ˆ“VŠÅ’˜ŠeˆÊ“I”w‰eCˆ×‘å‰Æ‰îĞ
+›”–`è¨¶Šˆ—L›ñ•“I›‰—pî•ñB
+
+@”@‰Ê—Ll–â“ğC›”“ğ˜Òà•s‰Âˆ½ãAãSíg
+—p“I‰Æ‹ä¥Y›õC“ğ˜ğ‘z“Y›õ–‰H›Š‹ïAœC
+‹ïA¾”[‰Æ‹ä“™“™B–ˆˆêé“s¥æ¨‰Æ’ë¶ŠˆX
+‰Áæ²•x“I“Œ¼B
+
+@‰Æ‹ä’†–ç—LŠôí¥“§‰ßƒg—p„˜Òá¢ŠöÁ‰Ê
+“IB™u” ˜a‘‰Ë“™¾”[‰Æ‹ä‰ÂˆÈæ¨¶Šˆ‹óŠÔX
+‰ÁíÆCŠˆÈŠó–]”\DD—˜—pB
+
+@İl—¶”À‹V‰ÆŠ·ŒÂSî”V‘OC‰äŒš‹c“ğæ
+DDR‹ˆê‰º©ŒÈ“I‰ÆC’˜®—ˆê‰ºB
+
+
+
+%END
+
+%20,EN
+Adventurers Quarterly (Spring 518)
+	by Edelia the maid, age 12
+
+Hello there. I am Edelia the maid.
+How do you do? Today I bring to you
+advice that will hopefully prove to be
+of use in your adventures.
+
+There are many types of furniture
+that are indispensable to every
+home. No home should be without beds,
+cooking utensils, and storage
+containers.
+
+Some furniture like bookshelves can
+be used as a (t)ool. Yet others -
+fridges for example - are storage
+containers that can be (o)pened.
+These will prove useful in keeping
+your home clutter-free.
+
+Before buying a new deed and moving
+house for a change of pace, how about
+looking over your house and seeing
+if you can't sort things out?
+
+%END
+
+
+#####################################
+%21,JP
+‰…¦•M‹L
+written by àV”[‰¶Œ¤‹†ˆõ
+
+@¡“VCŠ’·”c‰ä‹©‰ß‹CŠÒˆÈˆ×—LY›õ–C
+Œ‹‰Ê¥’²‰‘´‘¼Œ¤‹†Š“I–½—ßB
+@©å³•ºŠí“IŒ¤‹†Œ»İ³¥èŒ®ŠúBå«à¥
+’ê‘wlˆõC’A•‰Ó“I‰ä”@‰Ê—£ŠJ“I˜blè˜ğ•s
+‘«“IB§Š’²”C“I’n•ûŠÒ¥Œ¤‹†—p×‹Û‹­‰»l
+é““IŒ¤‹†ŠBã`æS“¾—LêyŠëè¨cc
+@å«‘R‰äŒ˜Œˆ‹‘â—¹C’AŠ’·à”‡¥Œˆ’è–€C
+Aç¬•Öœä•t—¹‰äˆê‰ºB‰ä‘ÅœnS’ê–³–@Œ´—È‘¼B
+---------------------------------------
+
+@VŒ¤‹†Š—¡C”äˆÈ‘OX‘½“I“s¥±á†‹¶“I‰Æ
+šìB‰äŠÒİ‘z‘fé“¥œn“ß—¡¾W˜Ò“ICŒ‹‰ÊD
+‘œ¥œn”í‹\¼sˆ×˜M“¾”jY“I‰Æ’ë“ß—¡‹­s”ƒ
+˜Ò“IBe×ˆêŠÅC‹‘RŠÒ—L¬›wqóé„ÒB‰ä
+‘ÅœnS’ê–³–@Œ´—È‘¼˜ìB
+@Š’·ŠÒ‚‹»’nàC—p‹\¼¾W˜Ò“IèAæ¨—aZ
+‘½o—¹œk‘½B”‡¥Y›õEêˆ¢Iˆê‘z“—vİ”‡
+í’n•ûHìcc‰äA‘z—¬–S“‘´‘¼š ‰ÆB
+@’A¥•åä“IŒx‰q³š‰Á‰ú”õB¥ˆ×—¹–h~¶
+‰»Šë‹@›õH˜AˆêÇ”n‹a“sà¦•so‹B•s‘Å“|Œx
+‰qCˆ½Ò‘Å”jà­•Ç“I˜bCD‘œAo•s‹—¹ccB
+---------------------------------------
+
+@›‰é„›”Û˜ì”íèi–¼ˆ×šdl–[“Išdl˜S–[C
+”í‹©“åjáùCó“ŠÄ‹BŠÈ’¼æîú”ÆŸ“™_éB
+‰äŒü›{’·˜ì•ø‰…C‘¼˜ì–¾–¾‘ü¥óéxãácCŸ“
+—L˜ôö”C‰½–C›{’·˜ì™Èà”íéx“Il©ŒÈ—LöB
+@ÅŒãC‘¼˜ìŠÒà”@‰Ê‰ä“¯î‘¼˜ìCA‹æî‘¼
+˜ìDDãÖ“VCd¥”c¡”Ó“I›‰é„›”Ûû¸Hì
+„‹‹‰äB‰ä‘ÅœnS’ê–³–@Œ´—È‘¼˜ìB
+
+@‰äS•sŠÃî•sŠè’n‹û¸Cá¢Œ»›‰é„›”Û˜ì
+ˆêŠÅ“‰äA”jŒû‘å”lB‰ä–¾–¾Ÿ“›”‘¼˜ì˜ôY›õC
+’A›”‘¼˜ì˜ÒàC‰äA¥“Gl”ëBY›õDDãÖ“V
+ˆ¢B
+@‰ñ‹C‰äãã“‘–˜L[™|™B˜ÒšT‹ƒãßCˆÈ‹y
+ˆÀˆÔ“Iãß‰¹B”‡›õà˜ÒCããàŒZ–…”íèİˆê‹NB
+@å«‘RæS“¾S”@“Š„C’A‰ä•sŠ¸‰ñ‹à”‡Œ–C
+œ†”íÓ”õcc‰ä‘ÅœnS’ê–³–@Œ´—È”‡é“I©ŒÈB
+
+@œƒ›õ˜ğ”‡éC”‡—¡Œ¤‹†“I¥”~áf“Ilé“T
+§Iå«‘RŒÆŠZ¥×‹ÛC’AæîŒR•û’ño“I‘—¿
+•sˆêéˆ¢B
+@ŠÅ˜Ò‘¼˜ìŒ´–{‘zŒ¤‹†”~áfC’Aˆê“x‘˜“‘j
+~B‘¦g”@ŸCŒ»İ˜¹ˆÃ’†isŒ¤‹†C•\¦‘¼
+˜ì‘ÅZˆÈæ²×“I¬‰Êæ¨ŒR•û•Âš{”ëB
+@Š´æSŠÒ˜ğÄŒ@oX‘½“à–‹CÄâc”÷’²¸ˆê‰º
+”ëB
+
+@‰äŠÒİ‘z‘¼˜ì—vœƒ›õT§”~áfCŠÅ˜Òå—v
+¥‹­‰»_ãSŒn“B‘¼˜ìŸ“—L‰üÌ“÷é“C”½§’¼
+Ú—˜—p—¹”‡ˆêêyB
+@×‹Û˜ğNI_ãSC¡©T§gé“CŠˆÈ‘¼˜ì
+—ŒÁ“§‰ßlé“‰ü‘¢˜aåZ•¨“Š—p˜Ò–h~”‡íî‹µB
+–Ú‘OŠ—Ll“s›ßãSŠ®¬—¹‰ü‘¢èpB
+@å«‘R‡—C’A”‡é¬Œ÷CóÒ•s˜ğ•sãã
+œnw¦§¸T›õH‰ä”‡›õ‘zC’A›‰Û—˜—p”‡€
+‹Zp“I—ŒÁ¥m•ºBóÒI‹†¥ŠüqCˆê’U
+‹ZpŠm—§CA˜ğ”í“ÅŸ†™|•ªB‰ä‘ÅœnS’ê–³–@
+Œ´—ÈB----------------------------------
+-----
+
+@¡“VŒ¤‹†Š“àˆê•Ğ¬˜ªBœn’†ŒßŠJnCŒR•û
+ã`•”—ŒÁ“Ë‘R—v˜Ò‹@B‘¼˜ì—ŒÁ‘ŠácÅ‹}C
+˜AV˜Ò“I‰ä“s”í‹©‹›ñ–Zèª•ÁB‰äİ‰ß’ö’†“¾
+’m—¹^‘ŠB—ßlìšqA‘ÅœnS’ê–³–@Œ´—È“Iîì
+ˆÃ–â‘èÚ“ñ˜AO’n–`o˜ÒB
+@‰äˆêç²HìCˆêç²›’”‡±–î‹LİäIq—¡B
+---------------------------------------
+
+@˜Ò‹@“IlC—ŒÁ¥“ßˆÊgF‰p—Y“I•”‰ºB
+à“gF‰p—YC‘¼¥ŒÂ—L–¼“IŒRlC’AİŒ¤‹†
+ˆõ”VŠÔC‘¼ˆöˆ×¿‹^Šˆé“•ºŠí“I›‰—p«§•·–¼B
+‰ä–ç—L‰ß©å³•ºŠí—aZ”ííŒ¸“I’É‹ê‰ñ‰¯B
+@œƒé“sDC”‡¥”šÊ”‡ŒÂ•…”sŒ¤‹†Š“I‹@˜ğI
+‰ä‹}–Z›‰ºŠ—L–â‘èêyC¬Œ÷İ‹@Š¯‰ñ‹
+““Œğ‹‹‘¼Bã`Z’Çã—¹B
+@”‡A¥Šˆà“I“à•”á¢”ëB‰ä˜Ò“”‡—¡ŒãA
+™|‰—•Âèó‘ÔC–³–@äoŠOŠEæ“¾—üŒqCŠˆÈ‘ü
+”\”‡›õ˜ôB
+@”VŒã‘ü”\‹F“˜‰äá¢“I–î•s˜ğ–\˜ICİó
+é„Ò˜ìà¸µ”V‘O”c–î‰ğŒˆ{ccB--------
+-------------------------------
+
+@‘Œ—¹BŠ’·—ŒÁ›””‡Ÿ“Iû¸Š´“œk’˜‹}C
+“Ë‘R’ñ‘O—¹›‰é„B
+@‰Âœ¦C‘O”y˜ì‹©‰ä‹˜ô›‰é„€”õB—LŸ“—LY
+›õ•Ù–@ˆ¢I
+
+
+
+---------------------------------------
+
+@cŒ‹‰ÊC‰äŸ“”\—§“®èHåYC‘ü”\ˆÂÆw
+¦‹˜ô€”õB
+@Š—Lóé„Ò“I”ü­—“sŠˆ«‰»”VŒãC”í’Ë
+—¹åZ•¨B›”‰—Ÿ“—L”í‰ü‘¢“Il˜ÒàC”‡Œ€“Å—
+ŒÁˆêá¢A”\æ¨lÌ¬œElCŠ—Ll—§A’É‹ê
+—¹‹N˜ÒB•s‰ß–ç—L‰Â”\¥”ü­—“Iì—pB
+@œ—¹‰äˆÈŠO“IŠ—LŒ¤‹†ˆõC“s—pŠú‘Ò“IŠá_
+ŠÅ’˜’É‹ê“Ióé„Ò˜ìBå«‘R‰ä™Òäo—¹•ºŠíŠJá¢C
+Ÿ“—L‘Ši’k˜_l“¹å‹`C’Aã`æS“¾”ñí¶Ÿ†B
+‰ä‘ÅœnS’ê–³–@Œ´—È‘¼˜ìB----------------
+-----------------------
+
+@›‰é„ãS‰ß—¹™_ŒÂ¬CoŒ»—¹Ì‰»B—L“Il
+gé“èøFá¢¶Ì‰»C—L“Il’·o—¹æ\èBØ—p
+Š’·“I˜b˜ÒàC‘¼˜ì—ŒÁ¥g“K‡—¦’á“IœE•¨
+hBœE•¨¥“ğË›”B
+@İ‘´‘¼óé„Ò’É‹ê“IŒóC‘ü—L14åj“|İ’n
+ãˆê“®•s“®B‘¼“Igé“Š®‘SŸ“—LÌˆÙCŠˆÈœä
+ŠY¥“K‡—¹C’AœkŠï‰öB‰äÚ“w¦Cˆ×—¹’²
+¸—v”c‘¼”À“•Ê“I–[ŠÔB
+@Ÿ“•Ù–@C‰äâc”÷‹ˆê‰ºB----------------
+-----------------------
+
+@‰ä˜ì„”c14åjœnŠu—£™½”Ào˜ÒC‘¼A“Ë‘R’µ
+—¹‹N˜ÒIŠÅ˜Ò‘¼¥İåä€Bå«‘R¥œk˜V“…“Iè
+’iC’Aİ”‡íî‹µ‰º™È”ñí—LÁB
+@14åj—p—ßl“ïˆÈ’uM“I‰ö—Í‘Å”ò—¹ç‰qC‘¦
+gó“UŒ‚–ç”\uŠÔÄ¶B
+@‘¼œäŠY”\³–Ê“Ë”j‹­s“¦’E”ëH‰ä”‡›õ‘z’˜C
+—§w’˜oŒû‘åš^B•Êæ¨‘¼“¦—¹C‰Á‹­oŒû“I
+–hçB
+@14åj—ŒÁ—‰ğ—¹oŒû“IˆÊ’uC‘¼‘Å“|—¹ãÚW
+‰ß˜Ò“Iç‰qC—£ŠJ—¹”‡—¡B‘¾‡—˜—¹B------
+---------------------------------
+
+@ˆ¢ˆ¢ˆ¢ˆ¢ˆ¢ˆ¢ˆ¢ˆ¢ˆ¢I‰ä”‡ŒÂâœ’`II‘¼“ß
+›õ‹­“I˜bCà•s’è”\ˆêŒÂlšØ§Z”‡ŠÔŒ¤‹†ŠI
+@14åj—ŒÁ¬Œ÷“¦’E—¹’ÇçFC’AŒ¤‹†Š“IˆÀ•Û
+“™‹‰™È‘å•‹­‰»—¹B”‡éˆê˜ÒC—v‹~16åjcc
+‘¼“I–…–…–çœk¢“ï”ëB
+@Y›õ‘¾‡—˜—¹ˆ¢Bˆ×Y›õ‰ä“ßŒÂŒóŸ“—Ll
+—¶“”‡ˆêêy–‰H‰ä‘ÅœnS’ê–³–@Œ´—È©ŒÈccB
+---------------------------------------
+
+@Œ»İC‰ä›”l—Ş“IXè›Š´“‰}”ÏB
+
+
+@›‰é„ŠJnŒã‰ß—¹\“ñ¬C—R‰—‰Â”\ŠÒ—L‘´
+‘¼“K‡ÒC‰ä˜ìÄ“xŠJn„‹B‰ä–ç¥‘´’†ˆê
+ˆõB
+@‰äˆêç²vl’˜—v¥—L“K‡ÒŠY”@‰½›æ‘¼—£ŠJ
+Šu—£™½Cˆêç²˜Ò“šdl˜S–[‘OCŒ‹‰Ê‘å‹hˆê‹ÁB
+@óé„Ò˜ì“Igé“›ßãSY¶ÌˆÙCÌ¬—Ş—–š
+“IŒ`óB‘´‘¼Œ¤‹†ˆõ‘åš^Fu”‡íŒ^‘Ô•sİ—a
+—¿”V’†C\“ñ¬“àÌˆÙ“”‡í’ö“x–ç•sİ—a
+—¿”V’†Bv
+@‰ä˜ì˜A–Z—p–³ü“d’Ê’mŠO–Ê“IlCç¬Œã‹¿‹N
+‹‘å“Iãß‹¿B‰ä˜ì”[–ã’nŠÂŒÚlüCá¢Œ»Šu—£
+™½“IŠuà­ŠJn‰º~BÅŒã–Ê“IŒ¤‹†ˆõ‹}–Z‘–‰ß
+‹C’AŠuà­›ßãSŠ®‘S~‰ºB
+@–³ü“dŸ“—L‰ñœäB\\\\\\\\\\\
+\
+
+@‰ä˜ìèœ“üâ–]C–šŸ|•s—¯î’n—pæ\èUŒ‚‰ä
+˜ìB‰ä˜ì•×‹­”ğŠJ’v–½C‘Ş“Šuà­•‹ßC’A
+”‡é‰º‹’N–çŠˆ•s—¹B
+@[™|™B˜Ò–^í“³Œ‚ãßB¥óé„Òİ‘åé§CÈ
+‘Åà­•Ç›õHå«‘RİˆÓó‹µC’A‰ä˜ì›‰İŸ“—L—E
+Ÿ†èr‰ßæ\è‘O‰[™|B
+@‰ä–³‹“ß±á¢‹¶‘åÎ“I‰ÆšìCˆÈ‹ykİŠp—
+“I‰ÆšìC›‰º”‡•Ñ•¶ÍB------------------
+---------------------
+
+@‰Âœ¦@ŠO–Ê“I‰ÆšìC‹‘R•ú“ÅŸ†@gé“–ƒáƒ
+@è–ç–ƒáƒ@—¹
+@Ÿ“•Ù–@@ŠJ‘„
+
+@‰ä˜ğ”‡é@€{@›õ
+
+”‡í–@‰ä@‘ÅœnS’ê@•s
+@”\Œ´—È
+
+
+
+%END
+
+%21,EN
+Bitter Last Words
+	of a Zanan Researcher
+
+The chief called me in today. Turns
+out I'm going to be transferred to
+another research facility. Why?
+We're so close to perfecting our
+weaponized insects! I may be low on
+the management hierarchy, but I'm
+still the one in charge of my team.
+We're not going to have enough
+people here if I get transferred.
+What's worse is that this facility
+I'm going to is conducting research
+on bacterial human augmentation.
+That term itself gives me the chills.
+
+This is an order so I can't just say
+no to it, but it really pisses me
+off how they made that decision
+without consulting me. And now
+they mention it to me in passing
+as if it were no big deal.
+
+Damn it.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        -------------------
+
+The people at this new facility are
+crazy. And considering where I used
+to work, that's saying a lot. I
+wondered where they were getting
+their subjects from. Turns out they
+swindled money from people, then
+forced them to sell their family
+members when they couldn't pay up.
+
+I can't believe that they're
+experimenting on kids too.
+
+Damn these people.
+
+How do I know this? Because the
+chief was so happy after counting
+the gold he had siphoned off of
+families that he just had to tell me
+about it. Can you believe that? I'm
+seriously thinking of defecting to
+another country, because there is
+no way I want to work here.
+
+I can't escape though. The armed
+guards are always watching. They
+call it the biohazard containment
+protocol, and it's so strict that
+not even an ant could get out from
+here. I'd have to overpower the
+guards somehow or punch a hole in
+the wall in order to get out...
+
+
+
+
+
+
+
+        -------------------
+
+The subjects are referred to by
+numbers, held in single cells (which
+they call "Suites"), and are kept
+under constant surveillance. They're
+prisoners, guilty of nothing except
+for the sin of falling for a scam.
+
+I told that to a co-worker of mine,
+and he said that it's their fault
+for falling for it. He seriously
+said that.
+
+To top it off, they just stuck
+inspection duty on me. Saying that
+I could go chat with them if I
+liked them so much.
+
+Damn these people.
+        -------------------
+
+So I sucked it up and did the
+inspection rounds. The subjects
+cussed at me the moment they saw me.
+I didn't do anything to them, but I
+guess I'm the enemy from their
+perspective. So much for chatting
+with them, huh. While heading back,
+I heard someone sobbing in the cell
+at the end of the corridor and what
+sounded like someone else trying to
+console the person who was crying.
+I did hear something about a pair
+of siblings - brother and sister to
+be exact - having their cells next
+to each other.
+
+
+
+It's heartbreaking, but I can't
+possibly tell anyone or do anything
+about that. I'm such a coward.
+
+Damn myself.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        -------------------
+
+You have got to be kidding me. They
+are trying to control human-meshera
+homunculi here! I mean, it
+technically IS bacteria, but it's
+completely different from what the
+reports we're sending to the
+military say!
+
+They tried to research meshera once
+but the plug got pulled on it. The
+fact that they're doing it in secret
+now must mean they're be looking to
+find results important enough to
+make the military shut up.
+
+There's probably more to this. I'm
+going to keep looking.
+
+        -------------------
+
+Seems like they plan on controlling
+the meshera with altered nerve
+fibres. They expose the body to
+meshera and allow it to transform,
+then use it like a puppet when it's
+done.
+
+The bacteria assumes motor control
+and attempts to move the body when
+it invades the nerves, and they
+prevent that with drugs and surgical
+intervention. They have already
+completed the surgery on every
+subject here.
+
+This works in theory, but what if
+the subjects go out of control
+after the procedure is done? Turns
+out the subjects get culled with gas
+after the procedure. They're going
+to use this on soldiers only after
+they get the technique right.
+
+Damn it. This is unforgivable.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        -------------------
+
+Everybody is running around with
+their hair on fire today. I heard
+the big shots from the military's
+HQ are inspecting this place in the
+afternoon. They must be really
+desperate to hide everything,
+because even a newcomer like me got
+roped in to help cover up. And
+thanks to that, I now know just how
+far they went in their research.
+Damn this place to hell. The stuff
+they do here is so sickening that I
+feel like throwing up. This research
+is off the deep end.
+
+I've memorized the documents I saw
+today.
+
+        -------------------
+
+The person who came to inspect
+turned out to be a subordinate of
+the Crimson Hero. The Crimson of
+Zanan is quite famous as a military
+man, but in the research circles he's
+famous for his mistrust of biological
+weapons. He's the very same person
+who cut my insect research budget
+down to nothing.
+
+Anyway. This is my chance to make
+this hellhole disappear! I scribbled
+down everything I knew about this
+place on to a piece of paper and
+managed to slip it to the inspector
+as he was leaving.
+
+
+Guess this is what they call
+whistleblowing. This is all I can
+do. I've been cooped up in this
+place ever since I got here. Time to
+pray that they don't find out I was
+the one to report it, and that they
+get here before the subjects get
+sacrificed...
+
+
+
+
+
+
+
+
+
+
+
+
+        -------------------
+
+This is bad. The chief must feel
+that something is wrong with
+upcoming inspection, because he
+pushed the experiment forward. Damn,
+they're already calling me, telling
+me to get ready to start the
+experiment. I have to do something!
+
+
+
+
+
+
+
+
+
+
+
+        -------------------
+
+I couldn't do anything. Didn't have
+time to do anything. Could only
+follow orders. After the subjects'
+meshera was activated, we
+administered the drugs.
+
+The drugs were unfortunately not
+potent enough to turn people into
+vegetables, and all of them started
+writhing in pain. Or it could have
+been due to the meshera. I don't
+know.
+
+All the other researchers looked at
+the writhing subjects expectantly.
+It's probably not my place to say
+this because I'm a weapons
+researcher, but their indifference
+pisses me off.
+
+Damn these people. Damn them all.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        -------------------
+
+Two hours after the experiment began,
+the changes began to show. Some of
+subjects' bodies began to change
+colour while others grew tentacles.
+The chief called them "low-
+compatibility trash". Well guess
+what, you're the ones who are trash.
+While all other subjects were
+convulsing, Subject #14 just keeled
+over and stopped moving. His body
+remained unchanged so they assumed
+he was compatible, but something
+seemed off to me. He was wheeled
+off into another room for further
+examination. Alright, I gotta go too.
+
+
+
+        -------------------
+
+The moment we carried him into
+another room, Subject #14 leapt up.
+Seems like he was just playing dead.
+Oldest trick in the book, but it
+sure was effective.
+
+With his superhuman strength, he
+tossed the guards away as if they
+were rag dolls, and his wound healed
+instantaneously.
+
+Could he be strong enough to force
+his way out of this compound? I
+shouted at the guards and told
+them to guard the door, pointing
+at the exit.
+
+It seemed like #14 understood,
+because he made a beeline towards
+the exit while mowing down the guards
+on his way out. Alright.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        -------------------
+
+Damn it, I'm an idiot! He could've
+cleaned out the entire complex by
+himself if he was that strong!
+
+#14 had evaded his pursuers, but the
+security alarm has been set off.
+Rescuing #16 - his sister - is going
+to be a lot more difficult now.
+
+Why did I not thing of this? Damn
+it, I'm such an idiot!
+
+
+
+
+
+
+
+        -------------------
+
+People disgust me. I'm sick and
+tired of everything.
+
+It's been 12 hours since the
+experiment. Some people including
+myself were sent off to look to see
+if there were any other compatible
+subjects.
+
+My head was filled with thoughts of
+how I was going to escape from the
+quarantine facility if there was
+another compatible subject there.
+Before I knew it, I had already
+arrived at the suites, and I was not
+prepared for what I saw there.
+
+
+The subjects' bodies had transformed
+into cocoons. The other researchers
+were shouting something. That this
+was too fast and that they shouldn't
+be transforming in a mere 12 hours.
+
+They frantically tried to contact
+those outside on the comms, but then
+there was a loud noise. It was the
+sound of the containment barriers
+closing around the quarantine
+facility. The researcher standing
+right at the back of the group ran
+to try to get out, but the walls
+were already down.
+
+The comms was silent.
+
+
+
+        -------------------
+
+While we despaired, the cocoons
+started assaulting us with
+tentacles. We managed to retreat all
+the way to the containment wall
+though pretty much everyone had
+sustained serious injuries. We are
+trapped here. There is no way out.
+
+We heard a loud noise deep in the
+facility. Was it another subject on
+a rampage, striking the walls? I was
+curious, but with the tentacles
+trapping us here, there was no way I
+would ever be able to make it there
+to find out.
+
+Some of the researchers have lost
+their minds and are laughing, and
+the others have barricaded
+themselves in a corner. Me? I'm
+writing this.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        -------------------
+
+Damn it, they're gassing us all
+Hand  go ng numb
+    t write
+am I  in  die here
+damn       to hel
+%END
+
+
+
+#####################################
+%22,JP
+ìDw¦‘
+written by –ë¢zŒR­ˆÑ
+
+@İ–{ŸìD’†CŠeˆÊ–`è¨Òù—väo‰ä“I•”‘à
+‹¤“¯s“®C•À…œn‰ä“Iw¦BÚ‰º˜Ò›’™B’Bì
+Ds“®“I’ˆÓ–€B
+ @
+@ñæC›”‘Sé““Iw¦g—pƒw—ßŠø„isB
+ŒÂl“Iw¦‘¥g—pƒDé¦w¦„isB
+ @
+@Ú’˜™B’BŠew¦“I“à—eB
+ @
+@ñæ¥ƒ“ËŒ‚‘Ô¨„Bˆêç²isÅ‘åŒÀ“x“I
+õ“Gˆêç²ˆÚ“®Cá¢Œ»“GlŒã—§ŠJnUŒ‚BD
+é¦C—vÏ‹É’nUŒ‚äo’ÇçF“GlBŠJ•úŠ—L‰Î
+—ÍC›’Š—L“GlˆêŒÂ•s™”’n¾E{B•s”\æ¨”C
+‰½ˆêŒÂl“¦‘–B
+
+@Ú’˜¥ƒ–h‹š‘Ô¨„B‹Ö~ˆêØUŒ‚s“®B
+’‹“Gl“Is“®C—L—vg—p–WâGAï˜ª“Iè
+’i˜ÒˆÛDüBó““GlUŒ‚C—vˆêç²•ÛŒì
+©ŒÈˆêç²˜Ô‰Â”\—¯İŒ´’nC“™‘Ò—FŒR“Ix‰‡äo
+w¦B
+ @
+@Ú‰º˜Ò¥ƒŒ}Œ‚‘Ô¨„Bˆêç²›”üš¡isõ
+“Gˆêç²ˆÚ“®Cá¢Œ»“GlŒã—§ŠJnUŒ‚BDé¦
+Cˆê’è—vİwŠö”\™B’B“I”Íš¡“àisBˆ×—¹
+œä›”‘´‘¼w¦C—v•Û—¯‰Î—Í˜ÒDé¦Bçäİ•s”\
+’ÇŒ‚“GlB
+
+@ÅŒã¥ƒŒğÂ‘Ô¨„B•s’¼ÚUŒ‚“GlC§
+¥—p˜bpˆ½‰Ì‹È˜ÒíŒ¸“Gl“IDˆÓB–Ú“I¥æ¨
+“Gl”æœŞˆ½“P‘ŞB
+@
+@›”‰—Ÿ“—Ló‰ßŒP—û“IŠeˆÊC•s˜ğ‰º’BXÚ×
+“Iw¦BìD“à—e˜ğİác’nà–¾BˆÈãB
+%END
+
+%22,EN
+Mission Briefing
+	prepared by:
+	Second Lieutenant Gornock, Yerles Army
+
+In today's exercise, you adventurers
+will be mobilized along with my
+platoon. You will follow my orders.
+
+See this? This is the command flag.
+I will be using this to give
+Directives to each and everyone of
+you.
+
+Directives are simple, and there
+are only four of them.
+
+First off is "Onslaught". It means
+search and destroy. When I give
+this order, everyone of you should
+keep moving while searching for
+enemies. Destroy every enemy that
+you come across. Be on the offensive
+and pursue your targets. Use
+everything you got, and leave no
+enemy standing.
+
+Next is "Defense". Do not attack.
+Under no circumstances will any of
+you engage the enemy when this
+Directive is given. Watch for enemy
+movements, and sabotage or distract
+the enemy when you can, but hold
+your fire. If you are under fire,
+hold your position the best you can,
+and wait for further orders.
+
+Third is "Intercept". Engage
+only enemies that are close by. Any
+skirmishes must be within range of
+the commander. If I don't see the
+enemy, neither do you. Is that clear?
+Do not over-extend. Conserve your
+resources and wait for new orders.
+Do not pursue any enemy out of range.
+
+Lastly, we have "Talking". Do not
+attack any enemies, but speak
+or sing to them to break their will.
+Your aim will be to wear them down
+and get them to retreat.
+
+You have not been trained, so the
+instructions you will receive are
+simple and few. You will receive
+further orders on the field. That is
+all.
+%END
+
+#####################################
+%23,JP
+ŠÒ™|‰—“ßŒÂŠK’i›õH
+written by ©âi“V‘I”Vl
+
+@İ”ˆÊ”V’†C‹†èí—L‘½­l”\‘«ŠÅ““ßŒÂ–‰H
+İl“I‹rç²‘M—s“IòFŸ†êB‰äâi”Vˆ×gŒv—Ê
+ŠhB
+
+@‰ä‰ß‹–ç‘\ˆ×‘ü—L©ŒÈ”\ŠÅ“§‹êœ»‰ßB‘ü
+—ve×æV@œäŠYA”\á¢Œ»C“ßŒÂ“Œ¼İDé¦’†
+ç¬’˜Ÿ†—Í“I‚Ÿû§Ú‹ß—ÕŠEB”½‰ß˜ÒàC–ç‰Â
+ˆÈ’Ê‰ß•ªU’ˆÓ—Í˜Ò—}§›€B
+
+@ácŒv—ÊŠŒ}˜Ò—ÕŠEC›€˜ğ‘M—s’˜”’FŒõäŠB
+”‡¥›’Š—L‹ZpŒX’‘´’†CggãŠ—Låä”õ“I
+«”\“¾“[•ªá¢Šö“IˆêŒ‚C¥ˆÓu“Ié“Œ»cc
+–çA¥‹­—Í’Ç‰ÁUŒ‚“I—a’›B
+
+@•s”\˜Mö“I¥C”‡‘ü•s‰ß¥•sŠ®‘S“IŠK’iB
+’´‰z—ÕŠE“IŒv—ÊŠ˜ğá¢o’WîpF“IŒõäŠCİD
+é¦’†x”z™‹“ß“IŠÔ—ÌˆæB
+
+@ã`—Lˆê“V”ˆÊ–ç˜ğ–¾”’”ëB”@‰Ê”\“’B“ßŒÂ
+ŠK’i“I˜bB‰ä˜ğİ”‡ç²‘ÏS“™‘Ò“IB
+%END
+
+%23,EN
+Get on my level
+	by The Chosen One(?)
+
+Just how many - or how few - of you
+can Perceive it? The Aura that glows
+at people's feet. This Aura is what
+I call...
+
+The Gauge.
+
+Being so Special in my Ability to
+Perceive it has long tormented me.
+But it is actually not very
+difficult to Perceive, for all you
+need to do is to... look. When
+Emotions run high in combat, watch.
+Watch as the Aura grows and reaches
+its Peak. The converse is also true -
+by reining in the Emotions, the
+Gauge can be suppressed.
+
+At its Peak, the Gauge will gleam
+with a pearlescent radiance. By
+pouring your very Soul into your
+Techniques and focusing every Fibre
+of your Being, you can Manifest your
+Will into The One Strike That Will
+Fell The Enemy.
+
+...Which is to say that you can
+pull off an extra-strong attack when
+it's white.
+
+But that is not all there is to it,
+for the White Gauge is not the final
+stage. Beyond it is the Pale Green
+Gauge, which will allow the User to
+have control over Time itself.
+
+
+
+You will eventually understand what
+I mean. That is, if you ever get on
+my level. And I shall be there
+waiting.
+%END
+
+
+#####################################
+%24,JP
+€èËpw“ì
+written by –³ãÖ€èËpt
+
+@Å‹ßŠßŠûq–çŠßäV—¹B
+@‰ä–ç•s”ESŠÅ“€èËp¬ˆ×‰ß‹“Iˆâ•¨C‹@
+˜ğ“ï“¾C‰ä‘z”c‰›{Ò“I€èËp™Bö‹‹³İ‰{
+æ¤“I“ğCˆÈŸˆ×ÙB
+
+@ñæİŠ»Ş—¡•ú“ü“Kác“I¶•¨ŸkŠ[B—p˜B‹à
+pb”|—{ŸkŠ[CˆÈ–‚—ÍŒ‹»ˆ×ŠjSŒ`¬gé“B
+İ»ì‰ß’ö’†‰Á“ü‹­—ó“Iœ¦ˆÓìˆ×’²–¡—¿C”‡
+éAŠ®¬—¹B
+@”@‰Ê‘ü¥—v—ÊYè¶µè¶”ª“I‘€Tré“C‘œ”‡
+é—p˜B‹àpA‘«ˆÈ‘ã—pB
+
+@^³“Iˆê—¬ì•iù—våYp“V•ªA€èËp“IŠ®
+®’m¯AãSé„“I—İÏCˆÈ‹yš‘Iu—ëŒvC›”
+‰›{Ò˜ÒàŠÒ‘—¹ˆê•S”NB›“—p“Ş•Ä‹@ŠB˜a”S
+‹ÛŒ»İ–çœk“ïæ“¾B
+
+@Š‰—”\»ì“I•s€Òí—ŞCœn¿—Ê•sD“IŸk
+Š[’†–³–@§ìo‘¾‘å“I“Œ¼BAZ•×‹­§ìŒ`
+óC–ç˜ğˆöˆ×‹­“x•s‘«§çjˆÕ©šÊB
+@İ›ßãS§ìD“I•s€ÒŠ»Ş’†C‰ÂˆÈ“§‰ß‡
+¬ŸkŠ[is–Œã‹­‰»B‹­‰»—p“IŸkŠ[í—Ş•s“¯C
+Á‰Ê–ç˜ğ•s“¯CŠˆÈ‰ÂˆÈ¦Šeí‘g‡BÁ‰Ê
+–{g–ç‰ÂˆÈ“§‰ß–ŒãXŠ·ŸkŠ[˜ÒÌXB
+
+@Ÿ“—LˆÚA©‰äˆÓ¯“I•s€Ò’q”\œk’áC–³–@
+is‘œé“IvlCŠˆÈ—v–¾Šmw¦›€˜ìŠYPŒ‚
+“ßŒÂl—ŞB‘ü—vI–­’ng–ğ›€˜ì‘Å“|“GlCA
+Z•s¥“ğ’¼Ú‰ºèC–ç”\Šl“¾ãSé„B
+
+@g–ğ•s€Ò“I¸é’İ‰—É—ÊBã`”V—vİ–‘O
+€”õDÉ—ÊCAZ”í‘Å“|—¹–ç—v—§”ho‘Ö‘ã
+•iCæ¨“Glèœ“üâ–]B
+@å«‘R–ç‰ÂˆÈ“§‰ßíŒ¸pÒ“Igé“˜Ò‹­‰»ˆ½‰ñ
+•¢C’AœäŠY˜ğ”íˆê‹Rácç“I‹­ÒŒ‚’×”ëB
+@”‡íŒóAŠY—Ö“©”š“ÁUãê—¹Bæ¨›€˜ì
+ˆêŒÂŒÂ”Sã˜Ò‘RŒã”šày”ëBå«‘R‰ä”‡ç²“IÁ–Õ
+–çœkŒ€—óC’AŠÅ’˜Ÿ”—İ‰˜âq“I‰Œ‰Î’†’€‘QŠ
+ã“I‹­ÒC–ç¥ˆêŒ‘Šác–ù‰õ“I–îB
+
+@cc·•s‘½A”‡é”ëH˜ÒC“ğ–çŠJn”ëC€
+èËpI
+%END
+
+%24,EN
+Necromanual
+	written by
+	a bored necromancer
+
+Chess has gotten boring.
+
+Necromancy is also quickly becoming
+a forgotten art - and that will
+not do - so perhaps I could teach
+you, dear reader, a thing or two
+about it.
+
+To start, place a piece of a monster
+into a coffin. Next, using a mana
+crystal, shape the body into the
+desired form with Alchemy. Finally,
+garnish generously with malice.
+
+That's all there is, really, if all
+that you want is an army of mass-
+produced undead. To make a true
+work of art, however, will require
+you to have a sophisticated taste,
+complete knowledge of necromancy,
+and years of experience. Choosing
+the perfect monster part to use is
+certainly not a task for beginners.
+The special nanomachines and
+bacteria you need are also rather
+hard to come by these days.
+
+Just keep in mind that you can't
+make something big if you start
+from a low quality piece monster
+part. Stretching will only get you
+that far before it starts to
+collapse on itself.
+
+
+
+Undead that you've made can be
+remodeled by the further addition
+of one monster part. How it's
+remodeled depends on what kind of
+part is added, so you may want to
+experiment with that. Don't worry,
+you can always remodel with a
+different part if it's not to your
+liking.
+
+These undead don't have the
+capacity to think, and will tend to
+stand around until they receive
+explicit instructions from you. Be
+sure to tell them which humans they
+should be attacking. If they do
+defeat something, you can have good
+experience and a good time without
+even lifting a finger.
+
+There is power in numbers. Create
+enough of them and you can
+immediately replace any that fall
+in combat. Results in an
+unrelenting horde that will
+mercilessly crush your enemies.
+
+You could heal them at the cost
+of your own life, but that's
+probably not a good idea when
+you're up against something that
+single-handedly can take on your
+army of undead. In these cases,
+you might want to blow up them up
+instead. Watch adversaries get
+tossed about like a rag doll,
+explosion after explosion. Costly,
+yes, but you cannot put a price
+tag on fun.
+
+That's about it. Now go try it
+for yourself. Shoo.
+%END
+
+
+#####################################
+%25,JP
+“ú“I”é–§
+written by ^³“I‹LÒ
+
+@Œ»İC©“®“úF“ú›ßãS¬ˆ×—¹‰Æ‰Æ•K”õ
+“I•Kù•iB“ğ¥”Û›ßãS¶ˆ¬—¹›€“IŒ÷”\–‰H
+
+@“ú•s‹Í‰ÂˆÈ©“®‹L˜^Ú¾““IˆÏ‘õ˜aHì
+“à—eCŠÒ‰ÂˆÈªŸî‹µ„‘ª‘´“ï“xB
+@”‡—¡Šà“I‘Šác‰—›‹‰Cw“I¥“¢”°›”Û“I
+“™‹‰Cù—v’ˆÓ“I¥C’§DÒù—v“I“™‹‰•ÀŸ“
+—L“ß›õ‚B
+@”@‰Ê€”õäİ‘S“I˜bC‘¦g‘ü—L•\‹L“I6¬¶
+‰E“I“™‹‰–ç‘«ˆÈ’B¬C§Š—L±”C–±rŠ•sù
+—vDé¦B
+
+@ŸŠOC“ú˜ğ©“®ŒvZ—LÒ“I•”•ª‰ß‹s
+“®ÉB‰ÂˆÈ’Ê‰ßX‰üİ’è’†“I‹L˜^èû¦€–Ú˜Ò
+Šm”FB
+
+@œŸ”VŠOCŠÒ”\’Ê‰ßäoî•ñ”Ìq“I—üŒqŠÅ“
+“¯s“IV•·CŠm”FŠeíŠeé“I‹ÆÑ˜a”r–¼B
+
+@•s’m“¹ŠY˜ôY›õ“IŒóCˆ½Ò‘z‰ñŒÚ‰ß‹“I
+ŒóCAŠÅŠÅ”‡ŒÂ”ëB
+
+%END
+
+%25,EN
+The secrets of the journal
+	by a PRO journalist
+
+I see you've gotten your hands on
+the latest fad that everybody's
+gotta have - the Autoscribing
+Journal. But have you been putting
+it to good use?
+
+The journal doesn't just list the
+quests undertaken by you - it also
+has the difficulty of each one of
+them.
+
+The level (Lv) indicated is that
+of the target monster's, buuuut
+you probably don't have to be
+of that level to defeat it. If
+you're armed to the teeth, you
+could manage with, eh, maybe 60%
+of the monster's level? Not all
+quests involve combat, so there's
+that too.
+
+The journal also automagically
+keeps track of the number of times
+the holder has done something.
+Turn on Record in the Settings,
+and you'll be good to go.
+
+It's also got an uplink to town
+informers, so you can also check
+up on what your colleagues are
+doing while on the go. Oh, and
+it also has your guild quotas and
+rankings.
+
+
+
+
+So yeah, have a look at it when you
+forget where you're supposed to go
+or if you wanna see how you've been
+doing.
+%END
+
+#####################################
+%26,JP
+–‚pu‹`á¢•z‘—¿
+written by@–Ş’B”[’†‰››{‰@‰“™•”
+
+E–‚—Í’l
+@•Õ•z¢ŠE“IŒ´n—Í—Ê”VŒ¹B‘¶İ‰—ŠC’†C‘å
+Ÿ†’†CrŠ’n’êBŠ—L¶•¨“s–×‘¶’˜–‚—Í’lC
+’Ê‰ß•ßH“™•û®çzˆÚ–‚—Í’lB”‡”íâiˆ×–‚—Í’l
+“I˜A½B’A¥C–ˆí¶•¨“s—L–‚—Í’l“I—e‹–‹É
+ŒÀCˆìo“I–‚—Í’l˜ğç×•ú“é“ŠOB
+@ŸŠOCŠ®‘S€–SŒãC–‚—Í’l›’–³–@ˆÛC–‚
+—Í’l˜ğœnré“’†’€‘Q—¬¸CçŸd¢ŠEB
+@—R‰—å—v—p“r¥çzŠ·¬–‚—ÍCˆöŸİ–‚–@t
+”VŠÔCãSí—p–‚—Íà–‚—Í’l˜Ò•\’BB
+
+E–‚—Í
+@ˆ×—¹sg–‚p§›’–‚—Í’lçzŠ·¬“K‡Œ`‘Ô“I
+”\—ÊB–‚—Í’lˆÈŒ´–{“IŒ`‘Ôg—p–‚pÁ—¦œk·C
+‘ü”\—p‰—Œ´n“I—p“rB
+@–‚p‘f—{–ç”íâiˆ×–‚—ÍC’A”‡í—p–@¥‹ß•S
+”NËŠJn•‹y“ICZ¥”äŠrV“I—p–@B
+
+EMP
+@Magic PointB•\¦–‚—Íi”\—Êj—Ê“IÉ’lB
+
+E_—Í
+@_sg”\—ÍŠù—v“I”\—ÊBˆê”Ê”Fˆ×¥œn
+‹Ÿ•i’†’ŠoM‹ÂSäo–‚—Í‰»‡§¬Bäo–‚—Í—
+¥§”ñC‰äš –çŸ“—L–‚–@t”\‘«dŒ»B
+
+”c–‚—Í”äì…“I˜bC–‚—ÍA¥ˆù—p…i…šØjC
+MP¥…—ÊC_—ÍA¥œ[ì‹D…B
+%END
+
+%26,EN
+SOR110 Introduction to Sorcery
+	Lecture 1 notes
+	Eulderna Metropolitan University
+
+Mana
+=====
+A primordial source of power
+omnipresent in the world, found in
+the ocean, in the atmosphere, and
+within the earth. Living organisms
+sequester mana, and it may also get
+passed between organisms through
+predation and other means. This is
+known as the mana cycle. Mana
+sequestered within an organism may
+not exceed its capacity for it;
+any excess is excreted to the
+environment.
+
+
+Dead organisms do not retain mana.
+Upon death, mana previously
+contained within the organism will
+begin diffusing out and back into
+the environment.
+
+As the main use of mana is to
+convert it to MP, many sorcerers
+use the terms MP and mana
+interchangeably.
+
+Magic
+======
+A form of energy that mana is
+converted into that is required
+for performing sorcery. Without
+conversion, mana cannot be
+efficiently used for spells and
+can only be used for the most
+rudimentary of purposes.
+
+The affinity of an entity for
+magic is also happens to be called
+Magic (sometimes also known as the
+Magic attribute) but this
+terminology is fairly new and came
+into popular use only about 100
+years ago.
+
+MP
+===
+Magic points. Unit of measurement
+for amount of Magic energy.
+
+Divine power
+=============
+Energy that gods require to use
+their powers. The current theory
+is that it is extracted from
+offerings of their faithful and
+combined with mana. It is similar
+in some ways to magic, but is
+otherwise a completely different
+form of energy. Sorcerers in our
+country have yet to discover how
+to harness this power.
+
+As an analogy, if mana were water,
+then MP would be bottles of water,
+and divine power would be bottles
+of soda.
+%END
+
+#####################################
+%27,JP
+Ìáæ^•sö
+written by æí›Ü‹@
+
+@‰ä¥è·²ˆÉIå«‘R©ŒÈà—Lêy“ßŒÂC’A‰ä‰Â
+¥ŒÂ¸’ÊÌáæ“I‹­šáDŠ¿B
+
+@Ìáæœk–_šGB•s’A”\’b˜B‘Ï—ÍCŠÒ”\‡•ÖQ
+““¹‹ïBŒ@ŠJ‘j‘jİ‘O“Ià­•ÇI©ŒÈ“I“¹˜H—v
+èÏ©ŒÈŠJ‘ñI
+
+
+
+@›”—¹C“ğ’m“¹ªŸ’nêy•s“¯Cœnà­•ÇÌŒ@o
+˜Ò“I“¹‹ï–ç•sˆêé›õH
+
+
+@“´ŒAEŸ¸äÉ˜±–„åU’˜áæÎ—ŞB”@‰Ê—vŠm•ÛàÙ
+‹‹‘å’n”V_ˆ½¡–ü—_“I‹Ÿ•iCAˆê’è—v‹ˆê
+‰ñIŒ´Î—ŒÁ–ç”\—p‡¬”Všâ‰ÁHŒã‚™JæÌoI
+@X—ÑŸ¸äÉ˜±“Ià­•Ç¥‹H—LH•¨“I›ŒÉIçjI
+–”•s˜ğ•…à£“I“É‰ÊC™JŠi•säÉ“I‰©‹à“É‰Êcc
+ˆê’è¥¼‘l”V—Ş“I–„‹N˜Ò“I”ëBà•s’èŠÒ”\Q
+“K‰^“Il—tK‰^‘šGB
+
+@“ƒEšÆšÜŸ¸äÉ˜±”\ÌŒ@o\¬•¨“IÎŞšGB
+å«‘RD‘œ”\‡¬Œãè¸C’A‰ä›”åYpˆêâ•s’ÊI
+œŸ”VŠOCŠÒ˜ğoŒ»ˆÈ‘O“IlåUİà­•Ç—¡“I•Û
+è¨” B
+
+@‘ƒŒŠ“Ià­•Ç–„åU’˜‹Zİ“ß—¡“I¶•¨“I­Õ
+ˆ½—‘BAZŒ@“•³•Ö–ç•s—všLšGB
+
+@èË‰€“Ià­•Ç–{gA¥•æ”èIŒ@ŠJ“I˜b˜ğoŒ»
+‹Ÿ•iˆ½Š»ŞšGB˜ğ‘˜“Væ¢H“ß¥Y›õH”\‹h›õH
+
+@áæR‘ü—vŒ@Œ@A”\ÌŒ@“áæ•¨Bå«‘R•s’m“¹
+¥áæ–¬•s“¯ŠÒ¥‰ß‹”íÌŒ@–wá¶—¹C’AA¥Š®
+‘SŒ@•s“ˆê”Ê“IáæÎI•s‰ß”\ÌŒ@“—D¿“Iêu
+“yCŠˆÈ“©åY‰Æ˜Vt˜ğœkŠJSI
+
+@ŠÒ—LccŒ@Œ@é’Á“Ià­•ÇCA˜ğoŒ»‹–¯åU
+‹N˜Ò“I‹à•¼ˆ½‹à‰òBˆöˆ×åUİˆßŸC—¡“I˜bC®
+ŒÂˆßŸC“s˜ğ”í“‘–BŒ»İ”ä‹NˆßŸC‘¶Š¼Cà­•Ç
+‘¶Š¼X—¬sB
+
+
+@˜Ò”ëC“ğ–çá¶îŒ@Œ@”ëB‘œ‰äˆêéèÏÌáæÌ
+“¾Œ˜‹­”ëII
+%END
+
+%27,EN
+You dig mining?
+	by Borzoi J. Hammer
+
+Borzoi here. And when it comes to
+mining, I'm the BEST.
+
+You dig mining? 'cuz I sure do.
+It trains constitution. You come
+across stuff. And best of all, if
+you got no path, you can just
+MAKE ONE.
+
+And didja know that mining in
+different places will get you
+different stuff? Betcha didn't.
+
+These Cave and Lake nefia are
+filled with ores, so you'll want
+to go to these places if you want
+to give stuff to the Gods of the
+Earth or Healin'. Or if that's not
+your thing, you could give 'em a
+little polish by tossing them in
+a fusion pot and they'll fetch some
+good coin.
+
+Forest nefia are full of food that
+you won't find anywhere else.
+Acorns never rot so you can keep
+some in your pockets at all times.
+Then there's valuable golden acorns
+too. Gold! Must've been hidden
+there by a squirrel or summat. You
+might even luck out and find a rare
+four leafed clover.
+
+Fortress and Tower nefia are made
+of stone, so guess what you get
+when you mine there? Stone! Heard
+you can sculpt these with uh...
+"item fusion", but I don't
+understand these artsy kinda
+things. You'll also find safes
+that people hid in there a long
+time ago.
+
+Nest nefia will have the remains
+and eggs of whatever lived in
+there. And a whole load of shit,
+which you're gonna have to wade
+through to find anything good.
+
+People bury their dead in the
+walls of Cemeteries. Prolly just
+out of habit for those people
+used to stashing their stuff in
+walls. Dig around for offerings and
+coffins. Are you gonna get cursed
+for doing that, you ask? Pssh
+'course not. Waste not, want not.
+
+Mines yield ores. But not regular
+ores. Probably ran out of those.
+Wouldn't have become a nefia if
+they didn't, eh? There's lotsa
+clay here for pottery and stuff.
+
+Lesee... oh right. Towns. Mine
+there and you might come across
+the coins and gold bars that the
+folk have stashed away. After all,
+you can't store money in shelves,
+'cuz those would get stolen,
+shelves and everything. So walls
+are where them people hide them
+life savings.
+
+So what are you waiting for?
+Start mining!
+%END
+
+#####################################
+%28,JP
+What's entertainmentH
+written by –³–¼“I—·såYl
+
+
+@ˆ×—¹’B¬•åWåYl“IˆÏ‘õC‰ä¦—¹Šeí•û
+–@Cˆ×—¹•s–Y‹LŒ‹‰ÊC‰äæ®—ˆê‰ºB
+@Œâ¥•s‘üˆêŸC§¥—v•\‰‰“›”•ûŸŞ‘«ˆ½
+‰}Œ‘ˆ×~cc•s’m“¹¥’Nà“IB•s‰ß‘¬“x•s‘«
+‰õI
+
+
+
+›‰‰‘tF‰‰‘t‘ID“IÙŠíBå«‘R˜ğê–ç—LÙŠíC
+’Aˆöˆ×¥”õ•iC”Íš¡ã•s•û•ÖCŠˆÈÅD©ŒÈ
+›æBg—p“IÙŠí•s“¯CæVO“IŸŞ‘«’ö“x–ç˜ğ‰ü
+ÌB¬”ï¥‹àèA˜a“¹‹ï™_Ò“s—LB§ŠC–²Œ¶
+ÙŠíj“Áf‘æŠ¢—¢¬’ñ‹Õ—ŒÁ”\’ñ¡¬”ï“I¿
+—Êcc
+
+›‡‘tFˆöˆ×¥˜a“¯”º‡¥CŠˆÈ—ŒÁ–ç”\¬
+ˆ×“¯”º“IãSé„B•sù—vÙŠíBİ“¯”º“I‹¦•‰ºC
+”ä•’Ê“I‰‰‘tX—eˆÕ¬Œ÷C‹Z”\’B“ˆê’è’ö“x
+“I˜bC¬”ï“I¿—Ê–ç˜ğ’ñ¡B•s‰ßœk‰ÔŠÔC
+–ç˜ğÁ–Õ‘å—Ê¸—ÍCŠˆÈ˜a•’Ê“I‰‰‘t‘Š”äX
+—eˆÕ˜Q”ïC”@‰Ê“®ì•s‰õêyAæÏ•s“•ªÉB
+
+›à–@F”Mî’n—pI–­“IŒ¾Œê‰‰à_–¾“I”ü–­
+”V™|B—ŒÁ–ç”\¬ˆ×“¯”º“IãSé„B”@‰Ê”\æ¨›”
+•ûŸŞ‘«CA”\“¾“•s­•z{C’A“¾•s““¹‹ïB
+”@‰Ê”\à“¾æ¨ˆÙ‹³“k–ç‰ü@C—ŒÁ”\æ¨›”•ûX
+‰ÁŸŞ‘«B
+
+›–£˜f”V•‘F”ä‹N‰‰‘tC”\İX’Z“IŠÔ“àX
+—eˆÕæ¨›”•ûŸŞ‘«C“K‡æÏæ•ªÉB‘ü—v—L–£—Í
+AsCŠˆÈ–ç—eˆÕ¬Œ÷B–â‘è¥‘å‰Æ“s˜ğŠÅ“ü
+–ÀCŠôŒÁ“¾•s“¬”ïB
+
+›•¬‰Î•\‰‰Fà–‹N˜Ò—¹B–¾–¾¥à–—¹–ç“w—Í
+›{˜ğ“IC™ÈŸ“—LlŒÖàĞ‰äcc
+
+@å«‘R‘z¬ˆ×ˆê—¬“IåYlCˆ×‘å‰Æ›æ˜ÒÎ—e˜a
+ŸŞ‘«C’A¸”sŒã”í“ŠÎ“ª›ßãSæ¨‰ä—Lêy“ïó—¹B
+@›_›_Å‹ß–çˆê’¼‹©‰ä‰ñ˜V‰Æcc
+
+i•M‹L“ŸŒ‹‘©j
+%END
+
+%28,EN
+What's in a performance?
+	by a nameless travelling performer
+
+I'm going to jot down a couple of
+ways of completing Performing
+quests in here just so that I don't
+forget. I've heard people say that
+all you need to do is to keep
+performing to a person until he's
+satisfied or bored, but I'm just
+not Speedy enough for that. So.
+
+PERFORMING: perform with an
+instrument of your choice. You
+might find one at the event grounds,
+but it might not be in the right
+place so it's best to bring one
+yourself. What instrument you use
+may determine whether patrons are
+satisfied with your Performance or
+not. If they are, they will
+shower you with gold and items.
+I've also heard fables of the
+legendary Stradivarius improving
+the quality of items thrown at
+you...
+
+ENSEMBLE: sing with your pets.
+It'll be good experience for them,
+and you don't need an instrument
+either. It's a group effort so it's
+easier to succeed than a regular
+solo Performance, and if you're
+skilled enough the items thrown
+will be of better quality too. But
+doing this takes quite a bit of
+time and stamina, so be sure not
+to waste an ensemble on a deserted
+area. It also means you won't score
+as many Points with the client if
+you're not quick enough.
+
+PREACHING: spread the Word about
+your God and captivate people with
+a gilded tongue. Pets seem to gain
+experience from this. If people are
+satisfied with your preaching,
+they'll give you quite a fair amount
+of alms. Meaning gold. No items
+though. If you're so convincing
+that people convert to your faith,
+then those people are going to be
+even more satisfied.
+
+FASCINATION DANCE: this one's
+quicker than Performing and
+satisfies people more easily, so
+it's great for scoring Points with
+the client. If you're Charismatic,
+then all the better. There's just
+a bit of a problem with this -
+people become too transfixed on
+your gyrating hips to give you
+any money.
+
+FIRE BREATHING: did the best I
+could while on fire, but nobody
+even bat an eye...
+
+It's my dream to become a great
+performer and bring smiles to
+people's faces wherever I go, but
+so far it's only been bringing
+rocks. Thrown in my direction. And
+Mum's been telling me to come
+home...
+
+(The document ends here.)
+%END
+
+#####################################
+%29,JP
+ŸŒ³ŠÔ—ÍæV‘ª›‰é„•ñ‘
+written by ŠJá¢å”Cw‰ÁŠLfx
+
+
+@ŸŒ³ŠÔ—Í¥w’´‰zŸŒ³C›”lˆ½•¨Y¶‘ŠŒİ
+ì—p“I—Í—ÊB‘´‘¶İ©ŒÃˆÈ˜ÒAó“l@C’A
+Ÿ“—L¬Œ÷æV‘ª“‹ïé“›‰—á“IˆÄ—áC’·ŠúˆÈ˜Ò“s
+”í‹ˆ×‹•\”V•¨B
+
+@ˆ×—¹é„æšuŠuâŸŒ³“Ià­•Ç˜ğ‘å•‘jâGŸŒ³
+ŠÔ—ÍCˆöŸœk“ï—p‹@ŠíæV‘ªv“IŠL¢çŒŠq™Ö˜ï
+àC”‡Ÿ‰ä˜ìg—pŸŒ³”P‹Èåä’u‹œŸŒ³‹«ŠE
+–ÊCis—¹ŠL¢çŒŠq™Ö“I‘æˆê›‰é„äo‘æ“ñ›‰é„B
+•ÊŠOC”‡Ÿg—p“I‹@Ší”@•Œ‘æ1•\Š¦B
+
+
+
+
+
+@œn•Œš¤1“š¤6“IŒ‹‰ÊC‰ÂˆÈ“¾’mŸŒ³ŠÔ—Í
+•½í‘ü›”–ñ0.0025““I•¨é“Y¶ì—pB“Á•Ê¥
+İ‘æ“ñ›‰é„’†CäoŸŒ³”P‹È—¦”VŠÔ’æŒ»èû’˜“I
+”½”äèŒWB”‡ŒÂŒ‹‰Ê–ç•„‡äˆä»ˆÀ“I”\—Ê–@‘¥B
+‘¦gà“¯ˆê‘¶İŠm›‰’´‰zŸŒ³˜AŒ‹İˆê‹N–ç•s
+ˆ×‰ßB
+@•s‰ßC›’›”Û•¨AäoBˆÚ“®““¯ˆêˆÛ“xŒãCŸ
+Œ³ŠÔ—Í•Öv‘¬Á¸Bè‰—”‡ŒÂŒ»ÛC‰ä˜ì”Fˆ×
+ù—vXÚ×“I›‰é„B
+
+@è‰—”\—Ê—˜—p“I‰Â”\«C—R‰—‰ä˜ì“¾’m”\—Ê
+İŸŒ³ŠÔ–ç˜ğœn‚™|—¬Œü’á™|CˆöŸ‘ü—v‡—˜
+˜AŒ‹ŸŒ³CœäŠYA”\Šl“¾ŠôŒÁ–³ŒÀ“I”\—ÊB
+@‘R§CŸŒ³ŠÔ—ÍŠÒ—L‹–‘½•s–¾”V™|CŒ»ŠK’i
+–³–@—a‘ªšd•û–Êïæ”\—Ê˜ğ›”™_ŒÂŸŒ³‘¢¬‰½
+í’·Šú‰e‹¿B‘¦g•s˜ğY¶”C‰½‰e‹¿C–ç—L‰Â
+”\”í›”•û‹ˆ×N—ªsˆ×B
+
+@ñæC‰ä˜ìŒš‹cŒ¤‹†İœA‘å“I‘½ŸŒ³‰F’ˆ’†C
+“¯ˆê‘¶İ¥”@‰½Šm•Û˜AŒ‹“I‹@§C•À›’ŸŒ³ŠÔ
+’Êu›‰—p‰»B
+
+
+%END
+
+%29,EN
+Experimental Characterization of
+	Dimensional Energy
+	by Gavela et al.
+
+
+Dimensional energy is a form of
+energy capable of trans-dimensional
+interaction with objects, including
+people. Its existence has long
+been theorized but has lacked
+definitive experimental evidence.
+
+Here we present its
+characterization via Verde-Hermann
+experiments with a novel
+dimensional warp unit. We also
+explore the potential
+ramifications and applications of
+this technology.
+
+
+To test Verde-Hermann's postulate
+that measurement of dimensional
+energy is difficult due to the
+dampening of dimensional energy by
+the inter-dimensional barrier, we
+perturbed the barrier with a
+dimensional warp unit and
+conducted the first and second
+Verde-Hermann tests. The
+observational unit used is
+outlined in Appendix 1.
+
+From the data (Appendices 1 to 6),
+we have determined that
+dimensional energy is weakened
+by a factor of approximately
+0.0025% under normal circumstances.
+
+
+In the second test, we determined
+at a high confidence level that it
+is likely that dimensional
+energy strength is inversely
+proportional to dimensional
+warpage, conforming to Ariane's
+Laws of Energy. However, we also
+find that when two analogous
+objects A and B are moved such that
+they are in the same dimension,
+rapid dissipation of dimensional
+energy occurs. Further experiments
+are needed to elucidate the
+mechanism for this phenomenon.
+
+As dimensional energy flows down
+the potential gradient, we find
+find that there is the possibility
+that limitless energy can be
+harnessed if dimensions can be linked.
+
+However, we urge caution in the
+long-term harnessing of dimensional
+energy as the effects on the
+affected dimensions are yet
+unknown. Furthermore, even if the
+harnessing power causes no direct
+effects, it may be deemed an act
+of aggression by inhabitants in
+the other dimension.
+
+To conclude, further research is
+needed for determining how
+analogous existences are linked in
+multi-dimensional space, and to
+study the mechanism for that
+linkage to develop a practical
+trans-dimensional communications
+tool.
+%END
+
+#####################################
+%30,JP
+è‰—ˆÏ‘õ“IŒš‹c
+written by ˆ¤‘€S“I•ƒe
+
+’v‰äeˆ¤“I›wqF
+@‰ä’m“¹“ğ³İ€”õ—£‰Æo‘–B‰ä““İ“ğ“I
+s—›’ê•”•ú—¹•ƒ•ƒ‹Í—L“I—ë—pèABİèA‰ÔŠ®”V
+‘OC“ğ—vİé—¡ÚˆÏ‘õC©ŒÈæÏæ¶Šˆ”ïB
+@ˆÏ‘õ—LŠeíŠeé“Ií—ŞB
+
+
+
+
+›æ“¾•¨•i“IˆÏ‘õŒâ¥æŠm•Û•¨•iÄÚˆÏ‘õB
+•¨•i‘å‘½{İ–ìŠOCˆ½¥İ“X—¡”ÌæÌB‘O‰–ì
+ŠO•s—v•×‹­äo–ì¶“®•¨Dé¦B›œn–^lè’†
+æ“¾•¨•i“IˆÏ‘õŒü‰q•ºæm–â•¨•i—LÒ“IŠİ
+’nC’˜äo›”•ûŒ©–ÊCæm–â”\”Û—p©ŒÈèã“I
+“¹‹ïŒğŠ·Bœn“ßŒÂlˆÈŠO“Ilè’†æ“¾•¨•i–ç
+Ÿ“èŒWCŠˆÈæİ–ìŠOEEˆ½İ“X—¡w”ƒC”ä
+Šr”\ˆÀSB
+
+›€”õ—¿—“IˆÏ‘õİ¶Šˆh‹ê“IŠK’iC—vŠm•Û
+HŞ•À˜ôo–Ú•W—¿—œk¢“ïBæŠm•Û—¿—ÄÚ
+ˆÏ‘õB‰^Ÿ†D“I˜bCˆ½‹–”\İ“X—¡”ƒ“B
+
+›¾Šnì•¨“IˆÏ‘õ—R‰—–ìŠO—L‹–‘½–ì¶“®•¨C
+“™“ğ”\‘«œä•t›€˜ìŒãÄ’§DBU‹Nì•¨–ç”\
+âc”÷’b˜Bgé“B’B¬–Ú•W“I”{ÉˆÈãC•ñVA
+˜ğí‰ÁC–ç”\\“Â“º•¼C’AˆêŠJnœäŠYœk“ï
+”ëB”@‰Ê•s’m“¹”[”[” “IˆÊ’uC•s—vQ’£C—p
+*Œ®qQB
+
+›Œ‚‘Ş‰ö•¨“IˆÏ‘õæ“§‰ß‘´‘¼ˆÏ‘õ‘¶èAC‘Sg
+åä”õ‘œé“I–h‹ïŒãÄ’§DB”@‰Ê—v›æ’•¨‹C
+¿‹‹’•¨–h‹ïB—piŒ®B•s‘R˜ğ”í”½EBAZ
+¥“ï“xÅ’á“I‰ö•¨–çˆêéB
+
+›‘—‰İˆÏ‘õ—R‰—•K{‘O‰‘´‘¼ésC“™H—Æ˜a
+D—Íâr’èC–ç¶ˆ¬és“IˆÊ’uèŒWŒãÄÚB‘—
+‰İ›”Û—R‘—‰İ’nêy“I‰q•º‘i“ğB”@‰ÊŸ“İŠú
+ŒÀ“à‘—’BC˜ğ\¬NèßB›Œì‰q–^l“IˆÏ‘õ
+”‡–ç•K{‘O‰‘´‘¼ésBŒì‰q›”Û€–SAZ¸
+”sB—R‰—œkDæÏC”@‰Ê¥‹——£‹ßŠˆÀ‘S“Ií—ŞC
+Z¥•sö“I“q’B
+
+›]œ“´ŒŠˆ½’n—‹“IˆÏ‘õ”@‰ÊŸ“—Lèœâv’m¯“I
+‹Z”\Cé“—Í˜ğx•sZB‘´‘¼ŠÒ—L”\Š´’m•¨¿“I
+–‚–@˜a“¹‹ï¥èŒ®B
+
+›•\‰‰‹ZåY“IˆÏ‘õ‰‰‘tAà–@A•‘çD“™‹ZåYC
+”@‰Ê•s˜ğ•\‰‰“I˜b˜ğœkh‹êB”@‰Êİ‹ZåY‚’´
+“Il–Ê‘O•\‰‰Ù—ò“I‹ZåY˜ğ”íE{CŠˆÈAZ
+˜ğ•\‰‰‹ZåYCˆêŠJnŠÒ¥æİŒî˜ ˆ½˜VlãÚW
+“I’n•û•\‰‰”ëB
+
+@•ƒ•ƒ’m“¹“IA‘ü—L”‡±BˆÛ¢“òz“ì•û“Iİ
+{—ŒÁ—Lİ¨•ÙŠeíuÀC”@‰ÊèÏˆÏ‘õæÏ“èA
+“I˜bCA‘êy‹“ß—¡ŠÅŠÅ”ëB
+
+@•s‰ßAZˆöˆ×—{•Šï”í”½›”C–ç•s—pæî›_›_
+‘›¬“ßé”ëB
+@”@‰Ê¶Šˆ•s”@—aŠú“I˜bCA•s—v“qŸ†‰õêy‰ñ
+˜ÒBˆöˆ×¥“ğCŠ´æS˜ğ©–\©ŠüÌ¬Œî˜ C•ƒ
+•ƒœk^SB¢ŠEã—Lœk‘½l˜ğ”cãÒác¬H•¨C
+ŠˆÈ—v¬SB
+@•ƒ•ƒccác‘R›_›_–ç¥C“sŠó–]“ğK•ŸB
+
+%END
+
+%30,EN
+Quest Advice
+	by Worried dad
+
+Son,
+    I know you've been planning to
+leave. I've managed to scrounge up
+some money - you can find it at the
+bottom of your belongings. It
+should tide you over until you can
+establish an income from taking
+quests in towns.
+
+    You should know that there are
+several types of quests though:
+
+- Item requests
+    The key to these is to have the
+item before taking on the quest.
+They often ask for stuff that can be
+found lying around in the
+wilderness or in shops.
+When going out to the wilderness,
+you don't have to fight every wild
+animal you come across.
+
+- Belongings requests
+    Ask a guard where you can find
+the person who has the requested
+item. Then talk to that guy, and
+exchange some of your items for it.
+Or, you can get it from just about
+anywhere - from the wilderness or
+shops - the quest giver won't know
+the difference.
+
+- Cooked dish requests
+    It's going to be hard to have
+ingredients to cook the dishes they
+want when you don't even have
+enough to eat yourself. Take on
+these quests when you're not
+struggling. If you're lucky, you
+might find the ingredient you need
+in a shop in town.
+
+- Harvesting requests
+    These are filled with wild
+animals, so you'll need to be able
+to fend them off at the very least.
+These are decent for training
+because you'll be pulling up lots
+of crops from the ground.
+Exceed quota by several times and
+they'll pay you more. They might
+even give you a bronze coin too.
+But going over is going to be hard
+when you're just starting off.
+If you forget where the delivery
+chest is, don't panic - just look
+around with the * key.
+- Monster slaying requests
+    Before taking these on, make
+sure you are fully equipped with
+decent armour. If you have a pet,
+make sure they are equipped as well
+by handing them equipment while
+'i'nteracting with them (using the
+'i' key). If you don't, these WILL
+kill you. Yes, even the easiest ones.
+
+- Item delivery requests
+    You'll need to go to another
+town to complete these. Have enough
+food and be combat ready. Know
+where you are and where you're going.
+In the destination town, you can
+ask guards where the delivery
+recipient is. If you don't deliver
+in time, they'll accuse you of
+pocketing the item.
+- Escort requests
+    This one will also need you to
+go to another town. If the escorted
+target dies, the quest is failed.
+These can be profitable if it's
+only a short jog to the destination
+and the client isn't in any sort of
+danger.
+
+- Hole and mine removal requests
+    You won't last without the
+Disarm Trap skill. Either that or
+spells or items that allow you to
+Sense or Detect Objects.
+
+- Performing requests
+    These are hard if you can't
+perform, preach, or dance. If a
+high level person sees you messing
+up, he might kill you. So even if
+you can perform, be sure to perform
+only to beggars and old people
+until you get proficient at it.
+
+
+
+
+    That's about all that I know.
+There's a cram school south of Vernis
+where you can attend some seminars
+to learn more, so you might want
+to go there when you have some
+money to spare after finishing some
+quests.
+
+    It really didn't have to come
+to this - the quarrel with Mom
+about getting a pet putit and
+everything.
+
+    If you don't manage, please
+don't be stubborn - come home.
+Given how headstrong you are,
+you'd probably rather resort to
+begging on the streets, but know
+that I'm worried about you. Do be
+careful out there, and watch your
+back. There are plenty of people
+out there who thrive on preying on
+others.
+
+    And also know that whatever
+you are, I - and your mother
+as well - hope that you are
+happy.
+
+Love,
+your dad
+%END
+
+#####################################
+%31,JP
+’Ş‹›“ü–å
+written by ˆÈ’Ş‹›©‹“I‹™•v
+
+@’Ş‹›‰ÂˆÈ’²®ŠÔ‡•ÖS‹›I‹›•sŠÇ¥‹hŠÒ
+¥æÌ“sœkæÏIœƒ›õéC‘zŠJn’Ş‹›—¹”ëH
+@ñæù—v“I¥’Ş‹›‹Z”\B”@‰ÊŸ“—L“I˜bCA
+‹`‘õˆÛ¢“òz“IŒP—ût‹³“ğ”ëB
+
+@€”õD‹Z”\ŒãCA‹”ƒ’Ş‹›Šù“I’ŞŠÆ˜a’Ş
+‰aBˆêŠJn—p¬‹›å³ìˆ×’Ş‰aÅ‡“KB—pBiS
+hift+Bj”c’Ş‰aåä“’ŞŠÆãBˆêŒÂ’Ş‰a‰ÂˆÈ’Ş
+15`24Ÿ¶‰EB
+
+@AZg—pV‹M“I’Ş‰aC‹Z”\‘¾’á“I˜b–ç’Ş•s
+“‹›Bìˆ×™ÒlC–ˆ’ñ¡10‹‰’Ş‹›‹Z”\CAŠ·
+—pX‚‹‰“I’Ş‰a”ëB”@‰Ê‘ü”\’Ş“”jà£“I˜bC
+Aà–¾“ğ“I‹Z”\ŠÒ•s‘«ˆÈg—p”‡í’Ş‰aB”jà£
+Šî–{ãŸ“Y›õ—p™|B
+
+@‘¦g¥“¯ˆêí‹›C‘å¬•s“¯“I˜bCd—Ê˜a™J
+’l–ç˜ğ—LŠ•s“¯Bå«‘R‘zá¶—Ê’Ş“‘å‹›C’A”‡
+–ç‘ü”\èÏ‰^Ÿ†—¹B”@‰Ê•ú’˜•sŠÇ“I˜bC‹›˜ğİ
+8¬¶‰E•…à£CŠˆÈ—vãSí—¿—Cˆ½Ò•úİ
+•Û—â” “™’n•û•ÛŠÇB”@‰Ê›‰İ›æ•s‰ñ‹“I˜bC
+•úİ…—¡A•s˜ğ•…à£—¹B
+
+@“ß›õcc‘´›‰’Ş““I‹›‰ÂˆÈ”HB‰ä—p‡¬
+”Všâ˜ô—¹T‰a˜Ò”‹›B”HŒã‹›“I¿—Ê˜ğÌDC
+§Š‹ô¢ŠÒ˜ğ“fo“¹‹ïB•s”H’Ş““I‹›“IlC
+œäŠY•s’m“¹”‡Œ–”ëB
+
+%END
+
+%31,EN
+Fishing Introduction
+	by A proud fisherman
+
+Kill time, get fish!
+Two birds, one stone!
+Do I have you hooked?
+If so, read on!
+
+First you'll need the Fishing
+skill. Don't have it? Learn it
+from the trainer in Vernis!
+
+Next, you'll need to buy some
+fishing rod and bait. Water flea
+is best for beginners. 'B'lend
+(Shift + b key) one to attach it to
+your rod. One water flea is good
+for 15-24 uses.
+
+
+The pricier and better baits won't
+work if your Fishing skill isn't up
+to snuff. Generally, you can switch
+to a better bait every 10 skill
+levels. If all you're reeling in is
+junk, that means you don't have
+enough skill to use that bait yet.
+And junk is... junk! There's no use
+for it.
+
+As for the fish - the amount
+they'll fetch when sold depends on
+their size and weight. There's no
+choosing the size of fish that bite
+though. It's all up to Lady Ehekatl!
+
+Fish will also go bad in about
+8 hours, so you'll want to cook
+them and cook often. Or you can
+carry them around in a cooler box.
+If you've got more fish than you
+can carry (wow!), pop them in a
+puddle on the ground. They won't go
+bad that way, ever!
+
+Speaking of those fish in a puddle...
+you can do some tricks with them.
+I like to give mine ground bait,
+crafted in a fusion pot. Fish will
+grow in quality when you do, and
+they might even spit out a useful
+item or two for you! If you're the
+sort who never feeds their fishies,
+you're missing out!
+%END
+
+
+#####################################
+%32,JP
+¾—eÒ‹¸³w“ì
+written by æ¶ŠÇ—Š¯
+
+@‹±Šì“ğ¬ˆ×¾—eŠ“IŠÇ—Š¯I¡ŒãC”c—L‘O
+“r“I›wqèiâÄq—¡C˜Ô—Ê‰^“¾—eŠ”ëI
+@İ¾—eŠÌ“¾˜V›‰“I›wqC–³˜_‘½›õ“¢‰}“ğC
+–ç‘ü”\•œnBŠù‰ÂˆÈìˆ×’•¨¾åUC–ç‰ÂˆÈ¬
+ˆ×“¯”ºB
+
+@š€H”@‰Ê‘ü¥—v“¯”º“I˜bC•s—p”ïH•vC’¼
+Ú”ƒ“zè¯Hˆöˆ×—Lx”z–‚–@CŠˆÈ•sù—vH
+@“ğŠÒ•s‰ğ–‰B”‡˜aœnˆêŠJnAg—p‡œn“I›w
+qCˆ½¥—p–‚–@æ¨‘¼˜ì‡œn“Iî‹µ•s“¯B—L±
+”\—Ê‘ü—Lİ‹­”—•sŠèˆÓ“I›wq™§“®Ë”\Šl“¾I
+
+@DCñæ˜Òg—pŠÅ”Â”ëH
+
+@”cS˜Ò“I—›wœnâÄq—¡•úo˜ÒCİ’è™§“®‹­
+“xCæ¨‘¼˜ì™§“®I”½³Ÿ“—Ll”\“¦‘–CŠˆÈæ
+•ú’uO“V¶‰EÄ˜ÒŠÅŠÅî‹µB
+@™§“®‹­“xİ’è“¾‰z‚CA”\—İÏ‰z‘½™§“®”\
+—ÊB•s‰ß‹­“x‰z‚C¶–½—Í“IÁ–Õ–ç˜ğ‰z‰õC
+—v¥—Ll€—¹C‰Â•Ê–Y—¹•â[V“I›wqšGH
+@¾—eŠ“à“I•¨•i•s˜ğ“Á•Ê‰e‹¿Šl“¾”\—ÊCŠ
+ˆÈ²İ‰ÂˆÈç¬“ğ‚‹»B
+@ŠÒ—Lcc‰z˜V›‰“I›wq‰z˜ğ”MS™§“®CY¶
+X‘½“I™§“®”\—ÊB
+@—v‹¸³˜V›‰“I›wq”ñíŠÈšdI‘ü—v™|ŒˆŠôŒÂ
+lEŒ{ŒxàËAs—¹I•ïŠ‡™|ŒY—p“I›wqİ“àC
+ã`”VlÉ‰z‘½A˜ğ‰zçjé B
+
+@œƒ›õéC•Ù“¾“›õH“ßA”cšÓ›wq‘S`•”‹¸
+³‰ß˜Ò”ëH
+
+
+%END
+
+%32,EN
+Inmate Correction Manual
+Written by Manager Senpai
+
+Congratulations on your debut 
+as an inmate supervisor! 
+From now on, you'll be able to 
+keep the most promising children 
+in cages and take them to 
+the camps!
+
+Once they've become obedient 
+in the camps, they'll have no 
+choice but to obey you, no 
+matter how much they dislike 
+you. They can become your 
+loyal pets! Or friends, even!
+
+Huh? Just buy a slave to skip 
+the hassle if you just want 
+a friend? You don't want a gulag 
+because you have the magic of 
+domination?
+
+Alright, let's use the board 
+first, shall we?
+
+After you let the captured 
+kids out of their cages, set 
+the labour intensity and make 
+them work! No one can escape 
+anyway, so leave them for about 
+three days and then come back 
+to check on them.
+
+The higher the labour intensity 
+you set, the more labour energy 
+you'll accumulate. But the higher 
+the intensity, the more life force 
+you consume, so don't forget to 
+replenish the with new ones when 
+people die, okay?
+
+The things in the camps don't 
+particularly affect the Energy 
+you gain, so you can arrange the 
+layout however you like.
+
+Also... the more obedient and 
+good children are, it's more 
+likely they will work hard and 
+produce more Labour Energy.
+
+It's very easy to correct them 
+to be honest and upstanding! 
+Just make them as an example by
+Executing them! It will be easier 
+if we have less of them anyways, 
+including the ones for the executions.
+
+How do you think you can do it? 
+Well, let's correct all the damn 
+kids, shall we?
+
+
+%END
+#####################################

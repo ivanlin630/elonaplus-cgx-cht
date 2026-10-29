@@ -37,6 +37,9 @@ def hsp_lit(s):
 EMPTY = '∅'   # zh cell meaning: replace with an empty string
 DATA_FILES = {'scene1.hsp', 'scene2.hsp'}   # #pack'ed story data read at runtime
 TABLE = None          # table mode: {escaped text: index}; None = inline literals
+DIALOG = False        # text_ref is building text for a `dialog` (Windows message box)
+BIG5 = '\x01'         # table key prefix: store this entry as cp950 - the message box
+                      # shows bytes in the system code page, not the game's Shift-JIS
 
 
 def text_ref(lit):
@@ -44,6 +47,8 @@ def text_ref(lit):
     esc = hsp_lit(lit)
     if TABLE is None:
         return '"' + esc + '"'
+    if DIALOG:
+        esc = BIG5 + esc
     if esc not in TABLE:
         TABLE[esc] = len(TABLE)
     return 'zh(%d)' % TABLE[esc]
@@ -172,6 +177,11 @@ def main():
             continue                  # packed runtime data, not code: translated separately
         text = open(os.path.join(src, f), 'rb').read().decode('cp932')
         edits = []
+        global DIALOG
+
+        def in_dialog(pos):
+            ls = text.rfind('\n', 0, pos) + 1
+            return re.match(r'\s*dialog\b', text[ls:pos]) is not None
         for m in re.finditer(r'\blang\s*\(', text):
             args, _ = split_args(text, m.end())
             if not args or len(args) < 2:
@@ -197,7 +207,9 @@ def main():
                 continue
             first = concat_parts(jp_expr)[0]
             orig_first = first[1].strip() if first[0] == 'code' else None
+            DIALOG = in_dialog(m.start())
             new = rebuild(zh, ja, orig_first)
+            DIALOG = False
             if selftest and norm(new) != norm(jp_expr):
                 bad += 1
                 problems.append(f'{f}:{row[2]} rebuild differs\n   old {jp_expr.strip()[:120]}\n   new {new[:120]}')
@@ -222,7 +234,9 @@ def main():
                 done += 1
                 continue
             if TABLE is not None:
+                DIALOG = in_dialog(m.start())
                 edits.append((m.start(), m.end(), text_ref(zh)))   # whole "..." -> zh(N)
+                DIALOG = False
                 done += 1
                 continue
             new = hsp_lit(zh) if not selftest else zh
@@ -255,7 +269,11 @@ def main():
         entries = [t for t, _ in sorted(TABLE.items(), key=lambda kv: kv[1])]
         blob, offs, lost = bytearray(), [], {}
         for t in entries:
-            v = hsp_unescape(t)
+            v = hsp_unescape(t.lstrip(BIG5))
+            if t.startswith(BIG5):
+                offs.append(len(blob))
+                blob += big5_safe(v, lost).encode('cp950', errors='replace') + b'\0'
+                continue
             if tenc == 'cp932':
                 from sjis_map import sjis_safe
                 v = sjis_safe(v, lost)

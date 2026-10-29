@@ -12,6 +12,23 @@ RULES = [
     ('{0}がある。', None, None, '這裡有{0}。'),
     ('と', None, None, '和'),
     ('調合', 'text.hsp', 'invtitle', '調合'),
+    ('首', 'text.hsp', None, '頸部'),             # 脖子 has no Shift-JIS form (would show 首子)
+    ('歳', 'command.hsp', None, '歲'),
+    ('年', 'init.hsp', 'locvar_cnvdate', '年'),
+    ('[フィート]', None, None, '[專長]'),
+    # half-width katakana labels
+    ('ﾏﾃﾘｱﾙ', None, None, '材料'),
+    ('ﾀｰﾝ', None, None, '回合'),
+    ('ﾊﾟﾜｰ', None, None, '力量'),
+    ('ﾊﾟﾝﾂ', None, None, '內褲'),
+    ('ｶｽﾀﾑｷｬﾗ', None, None, '自訂角色'),
+    ('ｱｸｾｻﾘ1', None, None, '飾品1'),
+    ('ｱｸｾｻﾘ2', None, None, '飾品2'),
+    ('ｱｸｾｻﾘ3', None, None, '飾品3'),
+    ('ｸﾞﾛｰﾌﾞ', None, None, '手套'),
+    ('ｸｨｯｸﾒﾆｭｰ', None, None, '快捷選單'),
+    ('ｸｲｯｸｲﾝﾍﾞﾝﾄﾘ', None, None, '快捷物品欄'),
+    ('ｽﾀｯｸ', None, None, '堆疊'),
 ]
 p = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'work', 'strings.tsv')
 rows = list(csv.reader(open(p, encoding='utf-8'), delimiter='\t', quoting=csv.QUOTE_NONE))

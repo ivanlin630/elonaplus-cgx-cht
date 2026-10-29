@@ -172,6 +172,8 @@ def build(d, out):
         if z is None:
             miss[f] = miss.get(f, 0) + 1
             return None
+        if f == 'board.txt' and ':' in p and ':' not in z:
+            z = z.replace('：', ':', 1)              # the game splits title:body on an ASCII colon
         return restore(z, t)
 
     def write(f, lines):
